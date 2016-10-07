@@ -1,0 +1,200 @@
+
+90
+
+C
+
+D
+
+63
+
+138
+23
+86
+14
+12
+3
+26
+
+Mean  SD
+
+(median)
+
+39  11 (38)
+52  16 (54)
+53  16 (55)
+54  18 (54)
+52  19 (50)
+
+44  10 (45)
+57  13 (57)
+56  15 (56)
+58  13 (59)
+52  9 (52)
+55  14 (57)
+45  14 (50)
+53  16 (51)
+
+50 yr, %
+
+Serous Mucinous
+
+Endometrioid
+
+Clear cell
+
+Others
+
+20.5
+57.9
+59.5
+50.0
+53.8
+
+34.9
+74.6
+60.9
+80.2
+64.3
+75.0
+66.7
+55.5
+
+18
+14
+1
+3
+
+75
+6
+50
+10
+7
+2
+
+24
+14
+
+10
+
+18
+3
+10
+
+4
+1
+
+11
+10
+1
+
+13
+5
+7
+1
+
+4
+4
+
+9
+4
+4
+1
+
+23
+5
+15
+2
+1
+
+Abbreviation: FIGO, Federation Internationale des Gynaecologistes et Obstetristes.
+* Origin of samples: (A) Groningen University Hospital (Groningen, the Netherlands), (B) Duke University Medical Center (Durham, NC), (C) Royal Hospital for Women (Sydney,
+
+Australia), and (D) M. D. Anderson Cancer Center (Houston, TX).
+
+ Age: Three samples with missing age data, one healthy control in biomarker discovery set and two patients with benign pelvic masses in independent validation set.
+ Others: In the independent validation set, stage I/II invasive cancers included one carcinosarcoma and four mixed epithelial tumor; stage III/IV invasive cancers included four
+carcinosarcoma, six mixed epithelial tumor, and five unspecified adenocarcinoma; recurrent cancers included one mixed epithelial tumor and one unspecified adenocarcinoma; and stage
+I/II borderline tumors included one carcinosarcoma.
+
+48 h before freezing at 70C. CA125II assay was performed using a two-
+site immunoenzymometric assay on the Tosoh AIA-600 II analyzer (Tosoh
+Medics).
+
+Proteomic Expression Profiling. The ProteinChip Biomarker System (Ci-
+phergen Biosystems), a platform for surface-enhanced laser desorption/ioni-
+zation time-of-flight mass spectrometry, was used for protein expression
+profiling (14, 15). Samples from all of the centers were processed identically.
+To increase the total number of detectable peaks, serum samples (20 l) were
+first fractionated via anion exchange chromatography by stepwise pH gradient
+elution (taken at pH 9/flow through, 7, 5, 4, 3, and organic solvent) using a
+Biomek 2000 equipped with the ProteinChip Biomarker Integration Package
+(Ciphergen Biosystems). A control sample of pooled human serum specimen
+(Intergen) was used for data calibration between experiments. Aliquots of each
+fraction were bound in triplicate with a randomized chip/spot allocation
+scheme to IMAC3-Cu, SAX2, H50, and WCX2 ProteinChip arrays. The
+energy absorbing molecule (crystallization matrix) for surface-enhanced laser
+desorption/ionization time-of-flight mass spectrometry, saturated sinapinic
+acid dissolved in 50% acetonitrile/0.5% trifluoracetic acid, was applied
+promptly. The spotted arrays were read on PBS II ProteinChip readers.
+Instruments were monitored weekly for performance using insulin and immu-
+noglobulin standards.
+
+Spectra were externally calibrated, baseline subtracted, and normalized to
+total ion current within m/z (mass/charge) range of 1.5150 kDa. Qualified
+mass peaks (signal/noise 5; cluster mass window at 0.3%) within the m/z
+range of 250 kDa were selected automatically. Logarithmic transformation
+was applied to the peak intensity before analysis for biomarker discovery.
+After biomarker discovery, the quality and intensity readings of the selected
+peaks were manually reconfirmed from raw spectra.
+
+Multicenter Study Design. The diagram in Fig. 1 describes the design of
+this multicenter study and usage of samples for biomarker discovery, predic-
+tive model construction, and independent validation. To minimize the possi-
+bility of false discovery because of site-specific systematic biases from pre-
+analytical variables, a key feature of the design is that for biomarker discovery,
+the stage I/II ovarian cancer samples and healthy controls from Duke Univer-
+sity Medical Center and Groningen University Hospital were analyzed sepa-
+rately according to sites. Only those potential biomarkers that were deemed
+statistically informative and shared the same up or down dysregulation patterns
+in analyses of data from both sites were additionally validated using the
+remaining samples at these two sites and all of the samples at the Royal
+Hospital for Women and M. D. Anderson Cancer Center. Samples from Johns
+Hopkins Medical Institutions were used only for additional independent con-
+firmation by immunoassays. Because of insufficient specimen volume, the
+immunoassays were not tested on the samples from the first four institutions.
+Bioinformatics Analysis. The unified maximum separability analysis al-
+gorithm implemented in the software ProPeak (3Z Informatics) was used to
+
+analyze the peak intensity data and to select a subset of informative peaks. The
+unified maximum separability analysis incorporates information from the
+traditional multivariate statistical classification methods into the support vector
+machine algorithm (16) to provide a robust approach to analyzing high-
+dimensional expression data (12, 1719). Bootstrap was also applied to help to
+identify peaks with a consistently high discriminatory power over multiple
+resampled subpopulations.
+
+Protein Identification. The discovered biomarkers were purified accord-
+ing to individual biochemical properties using a series of protein separation
+procedures including anion exchange, size exclusion, and reverse-phase chro-
+matography followed by SDS-PAGE separation. To monitor the purification
+process, healthy control samples were processed in parallel with the ovarian
+cancer samples. During each of the iterations, the new fractions were profiled
+on the same type of ProteinChip arrays used for discovery to monitor the
+presence or absence of the biomarkers of interest. The purified biomarkers
+were excised and digested with trypsin before being spotted onto NP20
+ProteinChip arrays and read in a PBSII ProteinChip reader. The masses of the
+proteolytic fragments were used for database searching with the ProFound
+algorithm. For confirmation, the NP20 arrays containing the proteolytic frag-
+ments were analyzed by collision-induced dissociation using a Q-STAR
+MS/MS instrument (Applied Biosystems/MDS Sciex) equipped with a PCI
+1000 ProteinChip Interface (Ciphergen Biosystems).
+
+Multivariate Predictive Models. The profiling data from the two sites
+used for biomarker discovery were combined and then divided randomly into
+a training set and a test set for the derivation and testing of nonlinear
+multivariate predictive models using nonlinear unified maximum separability
+analysis. The derived models were then additionally evaluated, in the same
+way as the individual biomarkers, on the independent validation data that were
+not involved in biomarker discovery or model construction.
+
+Statistical Analysis. The performance of the identified biomarkers in de-

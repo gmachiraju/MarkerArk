@@ -1,0 +1,200 @@
+2.29e-29
+
+3.83e-35
+
+2.56e-17
+
+6.49e-19
+
+2.06e-16
+
+5.94e-18
+
+4.06e-21
+
+9.34e-13
+
+2.65e-20
+
+2.54e-18
+
+6.71e-16
+
+3.82e-08
+
+2.54e-18
+
+2.66e-19
+
+2.61e-20
+
+2.45e-17
+
+1.34e-20
+
+1.66e-11
+
+1.08e-11
+
+9.12e-5
+
+6.01e-17
+
+1.15e-19
+
+1.59e-13
+
+1.11e-17
+
+7.81e-12
+
+1.38e-09
+
+9.6e-3
+
+2.20e-5
+
+2.86e-13
+
+2.36e-15
+
+6.40e-8
+
+1.60e-9
+
+1.21e-12
+
+2.0e-3
+
+5.40e-6
+
+1.05e-12
+
+3.74e-08
+
+2.35 e-14
+
+4.35e-9
+
+5.61e-12
+
+3.13e-4
+
+4.65e-10
+
+0.013
+
+4.02e-6
+
+2.23e-10
+
+7.65e-12
+
+5.13e-12
+
+1.57e-5
+
+9.55e-5
+
+2.06e-4
+
+*T/F: expression in tumor . expression in cancer-free mucosa; A/F: expression in adjacent normal mucosa . expression in cancer-free mucosa.
+The association for all genes are significant after Bonferroni correction, but p-values shown are unadjusted for multiple comparisons.
+doi:10.1371/journal.pone.0106748.t002
+
+Figure 2. Heatmap of threshold cycle values from technical (A) and biological validation (B). Samples are color-coded on top of the
+heatmaps based on the tissue type (i.e., cancer-free mucosa = green, adjacent normal tissue from colon cancer patients = blue, tumor tissue = red).
+doi:10.1371/journal.pone.0106748.g002
+
+PLOS ONE | www.plosone.org
+
+7
+
+September 2014 | Volume 9 |
+
+Issue 9 | e106748
+
+Biomarkers for Early Diagnosis of Colon Cancer
+
+Figure 3. ELISA serum concentrations of each selected protein in cancer-free controls, patients with adenoma and colon cancer
+cases.
+doi:10.1371/journal.pone.0106748.g003
+
+set of samples but with a different technique) showed a remarkable
+reproducibility of the expression level differences measured by
+RT-qPCR and microarrays for all tested genes, thus confirming
+that the expression dataset obtained with Affymetrix HG-U219
+microarrays was of outstanding quality and reliably identified
+expression differences between the different tissue types. There-
+fore, we expect that the number of false positives in the remaining
+list
+(not validated) of significant differentially expressed genes
+between tissue types to be low. Moreover, the confirmation of the
+previously identified differences in a biologically independent
+dataset also highlights the validity of the results obtained with
+microarrays.
+
+The next
+
+step in our
+
+sequential validation process was
+attempting to identify in serum the corresponding proteins for
+our candidate genes and assess their potential use for early
+diagnosis. We also included a subgroup of patients with adenoma,
+since this is also an important target for CRC screening. Using
+commercial ELISA kits we could assess the protein levels of all the
+genes prioritized. Remarkably, COL10A1 showed relevant
+enough differences between controls and colon cancer patients
+(p = 3.261026) to be proposed as a potential diagnostic candidate.
+MMP7 also showed some differences for adenomas (p = 0.0092),
+but showed an opposite direction to the expected one.
+
+PLOS ONE | www.plosone.org
+
+8
+
+September 2014 | Volume 9 |
+
+Issue 9 | e106748
+
+Biomarkers for Early Diagnosis of Colon Cancer
+
+Figure 4. COL10A1 performance as a diagnostic biomarker. A. Receiver operating characteristic curves for both adenomas and colon cancer
+together (purple) and colon cancer cases only (red). B. Different marker cutpoints against the sensitivity and specificity curves.
+doi:10.1371/journal.pone.0106748.g004
+
+We have identified the protein COL10A1 which, when detected
+at high concentrations in blood, may be indicative of the presence
+of a neoplastic lesion in the colon. This protein was selected after a
+sequential procedure in which we started exploring whole genome
+expression data in colon tissue. Elevated serum levels of COL10A1
+were observed both for adenoma and colon cancer patients. The
+area under the ROC curve was 0.76, which makes COL10A1 as a
+promising diagnostic biomarker. The cutpoint of 280 ng/ml
+attained 0.63 sensitivity and 0.85 specificity for colon cancer or
+adenoma (Figure 4). Similar values were obtained for cancer only.
+A few cancer-free subjects showed high levels of COL10A1 in
+serum, higher than the average for adenoma, indicating that other
+processes not related to colorectal lesions can increase COL10A1
+levels.
+
+COL10A1 is a short chain collagen mainly expressed by
+chondrocytes during ossification. Defects in this protein have been
+related to Schmid-type metaphyseal chondrodysplasia [35].
+COL10A1 is not expressed in normal colon epithelium, but is a
+direct transcriptional target of RUNX2 [36], a transcription factor
+that is expressed in cancer cells, and has been related to multiple
+cancers. The elevated expression of COL10A1 observed in tumors
+might be an indirect effect of higher-level regulatory alterations
+occurring in the tumor. In fact, we have observed a high
+correlation between RUNX2 and COL10A1 expression in tumors
+(Pearson R = 0.5, results not shown). Our expression data also
+identifies high correlation between COL10A1 and other genes:
+SFRP4, INHBA, TNFSF4 that are involved in cytokine and Wnt
+signaling [3740]. Recently COL10A1 has been found to be
+overexpressed in diverse tumors
+related to the vasculature
+component [41]. However, the expression in other tissues other
+that cartilage is low, which contributes to the specificity observed
+in our study. Moreover, a recent study suggests that COL10A1

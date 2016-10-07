@@ -1,0 +1,884 @@
+NIH Public Access
+Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Head Neck. 2013 August ; 35(8): 1083–1090. doi:10.1002/hed.23087.
+
+The Prevalence and Predictive Role of p16 and EGFR in
+Surgically Treated Oropharyngeal and Oral Cavity Cancer
+Shamir P. Chandarana, MD, MSc1, Julia S. Lee, MS, MPH2, Eric J.P. Chanowski, MD, MPH3,
+Assuntina G. Sacco, MD4, Carol R. Bradford, MD, MS3, Gregory T. Wolf, MD3, Mark E.
+Prince, MD3, Jeffrey S. Moyer, MD3, Avraham Eisbruch, MD5, Francis P. Worden, MD6,
+Thomas J. Giordano, MD, PhD7, Bhavna Kumar, MS8, Katrina G. Cordell, DDS, MS9,
+Thomas E. Carey, PhD3, and Douglas B. Chepeha, MD, MSPH3,*
+1Division
+
+of Otolaryngology-Head and Neck Surgery, University of Calgary, Foothills Medical
+Centre, Calgary, Alberta, Canada
+2Institute
+
+for Social Research, University of Michigan, Ann Arbor, MI, USA
+
+NIH-PA Author Manuscript
+
+3Department
+
+of Otolaryngology-Head and Neck Surgery, University of Michigan Health System,
+Ann Arbor, MI, USA
+
+4Department
+
+of Internal Medicine, Loyola University Medical Center, Maywood, IL, USA
+
+5Department
+
+of Radiation Oncology, University of Michigan Health System, Ann Arbor, MI, USA
+
+6Department
+
+of Internal Medicine – Hematology/Oncology, University of Michigan Health System,
+Ann Arbor, MI, USA
+
+7Departments
+
+of Pathology and Internal Medicine, University of Michigan Health System, Ann
+Arbor, MI, USA
+
+8Department
+
+of Otolaryngology – Head and Neck Surgery, The Ohio State University, Columbus,
+
+OH, USA
+9Department
+
+of Oral and Maxillofacial Pathology, Louisiana State University Health Sciences
+Center, New Orleans, LA, USA
+
+NIH-PA Author Manuscript
+
+Abstract
+Background—To describe the relationship of p16 and EGFR expression with survival in
+surgically treated patients who had oropharyngeal and oral cavity squamous cell carcinoma
+(OPSCC and OCSCC).
+Methods—Tissue from 36 OPSCC and 49 OCSCC patients treated between 1997 and 2001 was
+imbedded and immunostained using a tissue microarray.
+Results—p16 was positive in 57% and 13% of OPSCC and OCSCC patients, respectively.
+EGFR was positive in 60% and 63% of OPSCC and OCSCC patients, respectively. In OPSCC
+patients, p16 expression was associated with improved disease specific survival (DSS), overall
+
+*
+
+Corresponding Author and Address for Reprints: Douglas B. Chepeha, M.D., MSPH., Department of Otolaryngology-Head and Neck
+Surgery, University of Michigan Health System, 1904 Taubman Center, 1500 E. Medical Center Drive, Ann Arbor, MI 48109-0312,
+dchepeha@umich.edu, Telephone: (734) 936-3172, Fax: (734) 936-9625.
+
+Chandarana et al.
+
+Page 2
+
+NIH-PA Author Manuscript
+
+survival (OS), and time to recurrence (TTR) (p <0.01, <0.01, <0.01). EGFR expression was
+associated with poorer DSS, OS, and TTR (p <0.01, =0.01, <0.01). For OPSCC, when examining
+both p16 and EGFR expression as combined biomarkers, high p16 expression coupled with low
+EGFR expression was associated with improved disease-specific survival (pp16 = 0.01; pEGFR=
+0.01). OCSCC patients showed no association between biomarker and outcome.
+Conclusions—For patients with OPSCC, high p16 and low EGFR were associated with
+improved outcome, suggesting a predictive role in surgically treated patients.
+Keywords
+oropharyngeal neoplasm; oral cavity neoplasm; p16(INK4A); EGFR protein; human papilloma
+virus
+
+Introduction
+
+NIH-PA Author Manuscript
+
+Optimal treatment of oropharyngeal squamous cell carcinoma (OPSCC) and oral cavity
+squamous cell carcinoma (OCSCC) should be guided by both patient characteristics and
+tumor biology. Conventional treatment of locally advanced OPSCC/OCSCC involves
+multimodality therapy, which includes a combination of surgery, radiotherapy and cisplatinbased chemotherapy. Primarily, clinical factors guide decisions on the type of treatment
+prescribed to the patient. More recently, however, prognostic biological markers, in addition
+to clinical parameters, have improved the ability to predict outcome, particularly in patients
+with OPSCC. Among them, expression of p16 and epidermal growth factor receptor
+(EGFR), assessed through immunohistochemistry, have been shown to help further
+characterize the behavior of tumors, and ultimately may aid in the design of clinical trials
+that will select for patients requiring treatment escalation or de-escalation.
+
+NIH-PA Author Manuscript
+
+p16 is an excellent surrogate marker for high-risk human papillomavirus (HPV) in patients
+with OPSCC, reflecting the inactivation of the retinoblastoma tumor suppressor protein by
+the oncoprotein E7.(1) Many studies have demonstrated the correlation between p16
+expression and improved survival, particularly in patients with OPSCC and particularly in
+those treated with nonsurgical therapies.(1–3) EGFR plays an important role in the regulation
+of cellular proliferation and survival in epithelial tumors. Alterations in EGFR signaling
+pathways lead to decreased apoptosis of tumor cells, enhanced invasiveness, cell migration,
+angiogenesis, and metastasis.(4) Many studies have demonstrated an association between
+elevated expression of EGFR and poorer survival, though the majority of these studies focus
+on non-surgical treatment of patients with OPSCC.(2, 3, 5, 6)
+At the University of Michigan, standard treatment for patients with locally advanced
+OPSCC includes a combination of chemotherapy and radiotherapy. A recent trial
+(UMCC-9921) demonstrated the efficacy of both p16 and EGFR in predicting survival in
+patients with OPSCC treated with non-surgical modalities.(2) Patients with increased
+expression of p16 had improved survival, while those with elevated expression of EGFR had
+poorer survival. Less is known about the ability of these biomarkers to predict outcome in
+patients with OPSCC who are treated surgically. Further, the ability of these biomarkers to
+predict survival in patients with OCSCC has yet to be investigated. The objective of this
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 3
+
+study was to evaluate and contrast biomarker expression in surgically treated patients with
+OPSCC and OCSCC.
+
+NIH-PA Author Manuscript
+
+Materials and Methods
+Study Design
+This was a prospective cohort study.
+Study Population
+
+NIH-PA Author Manuscript
+
+Eligibility criteria for the study included patients with previously untreated squamous cell
+carcinoma of the oropharynx (OPSCC) or oral cavity (OCSCC) who were treated with
+primary surgical extirpation. Patients were excluded if they presented with a synchronous
+primary neoplasm of the head and neck, a history of previous head and neck cancer, a
+history of previous surgery or radiation therapy to the upper aerodigestive tract, or distant
+metastatic disease. 85 patients were enrolled from 1997–2001 and followed prospectively
+for outcome (disease status and survival). These 85 patients were separated into two cohorts:
+36 patients with OPSCC and 49 with OCSCC. These cohorts were each analyzed separately.
+The cohort sizes were small because of the stringent inclusion criteria. The inclusion criteria
+of no prior treatment limited the cohort size the most.. Table 1 demonstrates baseline
+demographics, staging, and treatment modality of the OPSCC and OCSCC patient cohorts.
+Patients continue to undergo regular follow-up, and have currently been followed for 9
+years. With respect to the 36 patients who comprised the OPSCC cohort, the five-year
+disease-specific and overall survival were 59% and 38%, respectively. At 5 years of followup, 42% (15/36) of patients were alive and free of disease, 3% (1/36) were alive with
+disease, 36% (13/36) were dead from disease, 6% (2/36) were dead of second primary
+neoplasm, and 14% (5/36) were dead of intercurrent illness.
+The five-year disease-specific and overall survival estimates for the 49 patients with
+OCSCC were 60% and 54%, respectively. At 5 years of follow-up, 59% (29/49) of patients
+were alive and free of disease, 29% (14/49) were dead of disease, 2% (1/49) were dead of a
+second primary tumor, 8% (4/49) were dead of intercurrent illness, and 2% (1/49) were lost
+to follow-up.
+
+NIH-PA Author Manuscript
+
+Variables Under Study
+Patients were evaluated at baseline for clinical covariates (age, gender, tobacco exposure,
+alcohol history, tumor site, and stage). Tobacco history and alcohol status were classified as
+‘never’, ‘past’ (quit 6 months ago), or ‘current’. Staging was based on the 2002 American
+Joint Committee on Cancer staging system. Pre-treatment biopsies of the primary tumor
+were used to construct a tissue microarray (TMA) to evaluate the expression of biomarkers
+(p16 and EGFR). After surgical extirpation, pathology specimens were evaluated for
+perineural/perivascular invasion, histologic grade, and nodal characteristics.
+Immunostaining and Scoring—Tumor specimens used to construct the TMA were
+deparaffinized, rehydrated, and peroxidase-quenched (Dako Cytomation, Glostrup,
+Denmark). For antigen retrieval, slides were incubated with citrate buffer (p16; 30 minutes
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 4
+
+NIH-PA Author Manuscript
+
+at 92°C) or with pepsin (EGFR; 10 minutes at 37°C) and were blocked with horse serum (30
+minutes at 25°C). Primary antibody, p16/16P04, (Lab-Vision, Fremont CA) and EGFR/
+31G7 (Zymed Laboratories, South San Francisco, CA), were added for 1 hour and were
+probed with avidin/biotin peroxidase (ABC Kit; Vector Laboratories, Burlingame, CA).(2)
+Antibody binding was scored by a pathologist (K.G.C) who was blinded to the clinical
+outcome. Based on previous experience from our institution(2, 7), p16 expression was scored
+based on the proportion of tumor staining positive using an ordinal scale from 1 to 4: 1 was
+less than 5%; 2, (5% to 20%); 3 (21% to 50%); and 4 (51% to 100%). Patients with a score
+greater than 1 were considered positive for p16. EGFR expression was scored based on level
+of intensity using a scale from 1 to 4; 1 equal to no staining; 2, low intensity; 3, moderate;
+and 4, high intensity. Patients with a score greater than 2 were considered positive for
+EGFR. Scores for three cores of tumor from each patient were averaged. Of the 36 patients
+with OPSCC eligible for the study, 35 had sufficient specimens for immunostaining. Of the
+49 patients with OCSCC eligible for the study, 46 had sufficient specimens for
+immunostaining.
+Response Variables
+
+NIH-PA Author Manuscript
+
+Patients were evaluated for the following outcomes: disease-specific survival (DSS), as
+defined by the time from primary surgery to death from OCSCC or OPSCC, overall
+survival(OS), as defined by the time from primary surgery to all-cause mortality and time to
+recurrence, as defined by the time from primary surgery to the first recurrence.
+Statistical Analysis
+
+NIH-PA Author Manuscript
+
+Baseline patient and tumor characteristics were tabulated. Patient-level averages for
+proportion of p16 expression and intensity of EGFR expression were used in the analysis.
+For the assessment of bivariate associations between markers and covariates, rank-based
+statistical methods were employed. The Kaplan-Meier method and the log-rank test were
+used to compare the homogeneity of survival rates within and between categories of discrete
+variables. Only patients who had sufficient specimen for immunostaining were considered
+for the association between markers and survival. Cox proportional hazards models were
+used to assess the markers’ effects beyond the effects of the clinical covariates. Likelihood
+ratio statistics were used to determine statistically significant differences between the
+models. All statistical analyses were done with SAS version 9.0 (SAS Institute, Carey, NC).
+A two-tailed P value of .05 or less was considered statistically significant.
+The Institutional Review Board at the University of Michigan granted approval for this
+study.
+
+Results
+Prevalence of p16 and EGFR
+The prevalence of p16-positivity in patients with OPSCC and OCSCC were 57% (20/35)
+and 13% (6/46), respectively. The mean proportion of cells staining positive for p16 was
+higher in the oropharynx (Figure 1a, p<0.01). Of the 20 patients who were positive for p16
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 5
+
+in the oropharynx, 95% (19/20) had a p16 score of 4. In contrast, of the 6 patients who were
+positive for p16 in the oral cavity, only 50% (3/6) had a score of 4.
+
+NIH-PA Author Manuscript
+
+The prevalence of EGFR-positivity in the oropharynx and oral cavity were 60% (21/35) and
+63% (29/46), respectively. In addition, there was no statistically significant difference in
+mean intensity of EGFR staining between oropharyngeal and oral cavity tumors (Figure 1b,
+p=0.57).
+Biomarker and Survival Analysis
+p16 Survival Analysis—For OPSCC, patients with a higher p16 expression experienced
+significantly improved DSS (p<0.01) and OS (p<0.01) compared to those with a low p16
+expression at nine years of follow-up (Figure 2). In addition, patients with a higher p16
+expression had a significantly longer time to recurrence (p<0.01). At 5 years, those with the
+highest p16 staining proportion (51–100%, score = 4) had a DSS of 75% versus those with a
+staining proportion of less than 5% (score = 1), who had a DSS of 23%. Similarly, those
+with the highest p16 staining proportion (51–100%, score = 4) had an OS of 57% versus
+those with a staining proportion of less than 5% (score = 1), who had an OS of 20%.
+
+NIH-PA Author Manuscript
+
+43% (15/35) of the patients with OPSCC were negative for p16 expression and this finding
+was associated with a poorer DSS and OS. Of these 15 patients, 9 were dead of disease at 5
+years of follow-up. The pattern of recurrence included 1/9 local, 1/9 regional, 4/9 distant,
+2/9 local/regional, and 1/9 local/regional/distant. In summary, distant disease was seen in 5/9
+patients with OPSCC who were negative for p16 expression.
+57% (20/35) of the OPSCC patients were positive for p16 expression and this was
+associated with improved survival. Of these 20 patients, 4 were dead of disease at 5 years of
+follow-up. Interestingly, in this group of p16-positive patients, all 4 died of distant disease.
+In OCSCC, due to the low prevalence of p16 (13%), the ability to stratify patients by this
+biomarker was not feasible when performing survival analysis.
+
+NIH-PA Author Manuscript
+
+EGFR Survival Analysis—For OPSCC, patients with none or low EGFR expression
+(score = 1,2) experienced significantly improved disease-specific survival (p<0.01) and
+overall survival (p=0.01) compared to those with a moderate or high level of expression
+(score = 3, 4) at nine years of follow-up (Figure 3). In addition, patients with a lower EGFR
+expression had a significantly increased time to recurrence (p<0.01). At 5 years, those with
+none or low expression had a disease-specific survival of 95% versus those with a moderate
+or high expression, who had a disease-specific survival of 38%. Similarly, those with none
+or low expression had an overall survival of 68% versus those with a moderate or high
+expression, who had an overall survival of 25%.
+60% (21/35) of the OPSCC patients were positive for EGFR expression and this was
+associated with poorer DSS and OS. Of these 21 patients, 12 were dead of disease at five
+years of follow-up. Most patients died of distant disease. The pattern of recurrence was 9/12
+distant, 2/12 local/regional, and 1/12 local recurrence.
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 6
+
+NIH-PA Author Manuscript
+
+40% (14/35) of the OPSCC patients were negative for EGFR expression and this was
+associated with improved DSS and OS. Of these 14 patients, only 1 died of disease at five
+years of follow-up, and this was from a regional recurrence.
+Combined Marker Survival Analysis
+For OPSCC, when examining both p16 and EGFR expression as combined markers in a
+multivariable model, high p16 expression coupled with low EGFR expression were
+associated with improved disease-specific survival (pp16 = 0.01; pEGFR = 0.01) (Figure 5).
+At five years, the disease-specific survival for the 10 patients with high p16 proportion and
+low EGFR intensity was 100%. In contrast, the disease-specific survival for the 12 patients
+with low p16 proportion and high EGFR intensity was 17%.
+Clinical Covariates and Outcome
+
+NIH-PA Author Manuscript
+
+In patients with OPSCC, 58% (21/36) had evidence of extracapsular spread in the lymph
+nodes and 22% (8/36) had evidence of perivascular invasion in the primary tumor. In
+univariate analysis, extracapsular spread and perivascular invasion were each associated
+with poorer DSS (p = 0.026 and 0.014, respectively). However, multivariable regression
+changed these findings. When a multivariable regression was performed on ECS,
+perivascular invasion, and EGFR, only EGFR remained a significant predictor of disease
+specific survival (p = 0.002). For patients with OPSCC, higher levels of EGFR expression
+were associated with a positive smoking history, either past or current (r = 0.385, p = 0.025)
+(Figure 4). This finding must be tempered by the fact that of the 35 patients, the majority
+(29/35) were past smokers, while only 2 were never smokers and 4 were current smokers. In
+patients with OCSCC, there was a similar lack of never smokers (3/45). Most patients had a
+past smoking history (36/45), but were not current smokers (6/45).
+
+NIH-PA Author Manuscript
+
+For patients with OCSCC, several clinical covariates were found to be associated with
+survival. On bivariate analysis, the presence of perineural invasion in the primary tumor
+(10/49 patients), nodal disease (27/49 patients), and extracapsular spread (found in 12/27
+patients with nodal disease) were all associated with poorer disease-specific survival (p =
+0.001, 0.047, and 0.004, respectively) and overall survival (p = 0.001, 0.005, and 0.005,
+respectively). No statistically significant difference was seen between those who were
+positive versus those who were negative for EGFR expression. However, patients with a
+score of 4 had a trend toward both earlier disease-related events and poorer 5-year DSS
+(Figure 6). After multivariable regression with perineural invasion, nodal disease,
+extracapsular spread, and the biomarkers, the clinical covariates remained statistically
+significant predictors of survival.
+
+Discussion
+The objective of this study was to characterize the expression of two biomarkers, p16 and
+EGFR, in two separate cohorts of surgically treated patients: the first, patients with OPSCC
+and, the second, patients with OCSCC. For patients with OPSCC, the results of this study
+demonstrate a distinct survival advantage for those with high levels of p16 expression and a
+survival disadvantage for those with high levels of EFGR expression. As combined markers,
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 7
+
+NIH-PA Author Manuscript
+
+p16 and EGFR identified, with more accuracy, those patients with the best and worst
+survival. Several studies in the literature have demonstrated the importance of both p16 and
+EGFR in predicting survival of patients with OPSCC, however most are based on treatment
+with primary radiotherapy and cisplatin-based chemotherapy.(2, 3, 6–13) This study is unique
+in that it evaluates the predictive power of these two biomarkers in a two surgically treated
+cohorts of patients with OPSCC, and shows that p16 and EGFR are predictive in surgically
+treated patients. Further, the OPSCC patients included in this study were treated at a time
+when surgery was the standard treatment for OPSCC at the University of Michigan.
+p16 expression assessed through immunohistochemistry has now been accepted as a reliable
+biomarker for the HPV E7 oncoprotein(12), thus acting as a surrogate marker for high risk
+HPV infection in OPSCC.(1, 2, 11, 14, 15) A previous study at the University of Michigan has
+demonstrated a very strong association between p16 and HPV copy number (p <0.001).(2)
+Further, the importance of p16 expression may extend beyond that of being a surrogate
+marker of HPV infection. Lassen et al argue that p16 positivity may identify HPV infections
+in OPSCC that are transcriptionally active and thus may predict patient outcome more
+accurately than HPV detection.(11)
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+A few studies have explored the role of HPV in surgically treated patients with OPSCC.(16)
+Licitra et al performed a retrospective review of 90 consecutive patients with OPSCC, all
+treated with surgery +/− radiotherapy. Patients were evaluated for HPV DNA type 16 and
+18, in association with a second biomarker, TP53. Multivariable regression analysis
+demonstrated that those tumors that were both HPV-positive and contained wild type TP53
+had significantly improved survival.(17) Ukpo et al performed a retrospective review of 102
+patients with OPSCC, treated with surgery +/− radiotherapy. This study did not demonstrate
+any association between HPV status and survival.(18) Conversely, Rich et al performed a
+retrospective analysis of patients treated with transoral laser microsurgery +/− adjuvant
+therapy. Increased expression of p16, assessed in tumors from 73 patients, was associated
+with improved survival. Interestingly however, patients with positive HPV DNA
+(determined by in-situ hybridization techniques) did not have significantly improved
+survival.(15) Similar to our study, the majority of patients in this study (93%) received
+adjuvant radiotherapy. In our study, those patients with OPSCC who had high levels of p16
+expression had over 50% improved disease-specific survival in comparison to those with
+low levels of p16 expression at 5 years of follow-up. While the biologic basis for the
+survival advantage conferred by p16 up-regulation is unknown, a plausible explanation that
+prevails in the literature is that tumors expressing p16 are less hypoxic and therefore respond
+with less accelerated repopulation when irradiated, thus making them more susceptible to
+radiation.(11) The prevalence of p16 positivity in large series evaluating patients with
+OPSCC treated with conventional chemoradiation ranges from 19–
+95%.(3, 7, 9–11, 14–16, 18, 19) Although this range is quite large, studies that evaluate the
+prevalence more recently tend to have a higher rate, suggesting an increase in the prevalence
+over time. The prevalence in our study (57%) is consistent with the studies that have
+assembled patient cohorts from a similar time period.
+The prevalence of HPV in OCSCC is not well established, but a few studies quote a range
+from 3% – 12%.(9, 20) Our study demonstrated a p16 prevalence of 13%, in keeping with
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 8
+
+NIH-PA Author Manuscript
+
+studies in the literature. p16 is much less likely to be a surrogate marker for HPV status in
+the oral cavity and, due to the low prevalence of p16 in our OCSCC cohort, a survival
+analysis stratifying patients by p16 status was not feasible.
+The role of EGFR expression in predicting outcome for surgically treated patients with
+OPSCC has yet to be elucidated. Preuss et al conducted a retrospective case series of
+patients with OPSCC treated with surgery +/− radiotherapy and found no relation between
+EGFR expression and survival.(4) Many studies, however, have demonstrated the
+relationship between EGFR expression and poorer survival in patients treated with primary
+chemoradiotherapy.(3, 5, 6, 8, 13, 21) Further, the majority of patients in these studies
+demonstrate locoregional treatment failure, suggesting that tumors with high EGFR intensity
+may be radioresistant. In this surgical cohort, patients with high levels of EGFR expression
+also experienced poorer survival but the pattern of recurrence was different. The majority of
+patients treated surgically failed distantly, suggesting that surgery may result in better local/
+regional control but still requires an additional modality to address distant disease.
+
+NIH-PA Author Manuscript
+
+Most studies evaluating the role of EGFR expression in OCSCC combine OCSCC with
+other subsites of the head and neck.(6, 8, 13, 21) One study that looked solely at OCSCC found
+no association between EGFR expression and survival.(22) Our study suggests that patients
+with the highest score of EGFR intensity were associated with worsened survival and shorter
+time to recurrence when compared to those with lower EGFR intensity scores. This is
+consistent with our findings in the OPSCC cohort. A study with a larger sample size may be
+able to demonstrate a statistically significant difference in survival in the OCSCC cohort.
+Further, using a higher cut-point for the score that establishes EGFR positivity may also
+strengthen the ability to detect a difference with respect to survival.
+
+NIH-PA Author Manuscript
+
+Consistent with a small number of studies in the literature, EGFR expression was associated
+with smoking status in patients with OPSCC.(2, 23, 24) However, smoking status was not an
+independent risk factor for worsened survival in this study. The analysis was hampered by a
+low frequency of patients with no smoking history. This study also suggested that both
+extracapsular spread and perivascular invasion, when considered alone, were negative
+prognosticators for those with OPSCC. One of the mechanisms in which EGFR expression
+translates into advanced local/regional disease is through angiolymphatic invasion.(25) In
+this study, the addition of EGFR status to the survival model showed that EGFR expression
+was more predictive of survival than extracapsular extension and perivascular invasion,
+perhaps suggesting that EGFR may represent a range of invasive behaviors that encompass
+nodal metastasis, ECS and perivascular invasion.
+This study found that high p16/low EGFR expression was associated with improved survival
+in an OPSCC surgical cohort whereas these markers were not useful for prediction in
+patients with OCSCC. The use of a combination of p16 and EGFR expression to predict
+survival in OPSCC has only been reported in patients treated with primary
+chemoradiotherapy.(2, 3) Based on the results of this study, we recommend that the patient
+with OPSCC should have the primary tumor stained for both EGFR and p16 regardless of
+treatment modality.
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 9
+
+Conclusion
+NIH-PA Author Manuscript
+
+This study suggests that in a surgically treated cohort of patients with OPSCC, increased p16
+expression predicts improved survival whereas increased EGFR expression predicts poorer
+survival. Used in combination, the two biomarkers may identify those who are likely to do
+well with treatment versus those who will do poorly. In addition, the prevalence of p16
+differs significantly between the oral cavity and oropharynx subsites, whereas the
+prevalence of EGFR is similar between the two sites. For OCSCC, clinical nodal status,
+ECS, and perineural invasion remain more important markers of prognosis than p16 or
+EGFR.
+
+Acknowledgments
+The authors thank Tamara Miller, RN, BSN for assistance with prospectively following the patients in this cohort
+and Christopher Postma, BBA for assistance with manuscript preparation.
+
+References
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+1. Chung CH, Gillison ML. Human papillomavirus in head and neck cancer: its role in pathogenesis
+and clinical implications. Clin Cancer Res. 2009; 15(22):6758–62. [PubMed: 19861444]
+2. Kumar B, Cordell KG, Lee JS, et al. EGFR, p16, HPV Titer, Bcl-xL and p53, sex, and smoking as
+indicators of response to therapy and survival in oropharyngeal cancer. J Clin Oncol. 2008; 26(19):
+3128–37. [PubMed: 18474878]
+3. Reimers N, Kasper HU, Weissenborn SJ, et al. Combined analysis of HPV-DNA, p16 and EGFR
+expression to predict prognosis in oropharyngeal cancer. Int J Cancer. 2007; 120(8):1731–8.
+[PubMed: 17236202]
+4. Preuss SF, Weinell A, Molitor M, et al. Survivin and epidermal growth factor receptor expression in
+surgically treated oropharyngeal squamous cell carcinoma. Head Neck. 2008; 30(10):1318–24.
+[PubMed: 18704972]
+5. Numico G, Russi EG, Colantonio I, et al. EGFR status and prognosis of patients with locally
+advanced head and neck cancer treated with chemoradiotherapy. Anticancer Res. 30(2):671–6.
+[PubMed: 20332488]
+6. Ang KK, Berkey BA, Tu X, et al. Impact of epidermal growth factor receptor expression on survival
+and pattern of relapse in patients with advanced head and neck carcinoma. Cancer Res. 2002;
+62(24):7350–6. [PubMed: 12499279]
+7. Worden FP, Kumar B, Lee JS, et al. Chemoselection as a strategy for organ preservation in
+advanced oropharynx cancer: response and survival positively associated with HPV16 copy
+number. J Clin Oncol. 2008; 26(19):3138–46. [PubMed: 18474879]
+8. Kong CS, Narasimhan B, Cao H, et al. The relationship between human papillomavirus status and
+other molecular prognostic markers in head and neck squamous cell carcinomas. Int J Radiat Oncol
+Biol Phys. 2009; 74(2):553–61. [PubMed: 19427557]
+9. Gillison ML, Koch WM, Capone RB, et al. Evidence for a causal association between human
+papillomavirus and a subset of head and neck cancers. J Natl Cancer Inst. 2000; 92(9):709–20.
+[PubMed: 10793107]
+10. Ringstrom E, Peters E, Hasegawa M, Posner M, Liu M, Kelsey KT. Human papillomavirus type 16
+and squamous cell carcinoma of the head and neck. Clin Cancer Res. 2002; 8(10):3187–92.
+[PubMed: 12374687]
+11. Lassen P, Eriksen JG, Hamilton-Dutoit S, Tramm T, Alsner J, Overgaard J. Effect of HPVassociated p16INK4A expression on response to radiotherapy and survival in squamous cell
+carcinoma of the head and neck. J Clin Oncol. 2009; 27(12):1992–8. [PubMed: 19289615]
+12. Ang KK, Harris J, Wheeler R, et al. Human papillomavirus and survival of patients with
+oropharyngeal cancer. N Engl J Med. 363(1):24–35. [PubMed: 20530316]
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 10
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+13. Chung CH, Ely K, McGavran L, et al. Increased epidermal growth factor receptor gene copy
+number is associated with poor prognosis in head and neck squamous cell carcinomas. J Clin
+Oncol. 2006; 24(25):4170–6. [PubMed: 16943533]
+14. Nichols AC, Faquin WC, Westra WH, et al. HPV-16 infection predicts treatment outcome in
+oropharyngeal squamous cell carcinoma. Otolaryngol Head Neck Surg. 2009; 140(2):228–34.
+[PubMed: 19201294]
+15. Rich JT, Milov S, Lewis JS Jr, Thorstad WL, Adkins DR, Haughey BH. Transoral laser
+microsurgery (TLM) +/− adjuvant therapy for advanced stage oropharyngeal cancer: outcomes and
+prognostic factors. Laryngoscope. 2009; 119(9):1709–19. [PubMed: 19572271]
+16. Haughey BH, Hinni ML, Salassa JR, et al. Transoral laser microsurgery as primary treatment for
+advanced-stage oropharyngeal cancer: A united states multicenter study. Head Neck.
+17. Licitra L, Perrone F, Bossi P, et al. High-risk human papillomavirus affects prognosis in patients
+with surgically treated oropharyngeal squamous cell carcinoma. J Clin Oncol. 2006; 24(36):5630–
+6. [PubMed: 17179101]
+18. Ukpo OC, Pritchett CV, Lewis JE, Weaver AL, Smith DI, Moore EJ. Human papillomavirusassociated oropharyngeal squamous cell carcinomas: primary tumor burden and survival in
+surgical patients. Ann Otol Rhinol Laryngol. 2009; 118(5):368–73. [PubMed: 19548387]
+19. Ritchie JM, Smith EM, Summersgill KF, et al. Human papillomavirus infection as a prognostic
+factor in carcinomas of the oral cavity and oropharynx. Int J Cancer. 2003; 104(3):336–44.
+[PubMed: 12569557]
+20. Herrero R, Castellsague X, Pawlita M, et al. Human papillomavirus and oral cancer: the
+International Agency for Research on Cancer multicenter study. J Natl Cancer Inst. 2003; 95(23):
+1772–83. [PubMed: 14652239]
+21. Dassonville O, Formento JL, Francoual M, et al. Expression of epidermal growth factor receptor
+and survival in upper aerodigestive tract cancer. J Clin Oncol. 1993; 11(10):1873–8. [PubMed:
+8410112]
+22. Smid EJ, Stoter TR, Bloemena E, et al. The importance of immunohistochemical expression of
+EGFr in squamous cell carcinoma of the oral cavity treated with surgery and postoperative
+radiotherapy. Int J Radiat Oncol Biol Phys. 2006; 65(5):1323–9. [PubMed: 16750322]
+23. Kalyankrishna S, Grandis JR. Epidermal growth factor receptor biology in head and neck cancer. J
+Clin Oncol. 2006; 24(17):2666–72. [PubMed: 16763281]
+24. Maxwell JH, Kumar B, Feng FY, et al. Tobacco use in human papillomavirus-positive advanced
+oropharynx cancer patients related to increased risk of distant metastases and tumor recurrence.
+Clin Cancer Res. 16(4):1226–35. [PubMed: 20145161]
+25. Bentzen SM, Atasoy BM, Daley FM, et al. Epidermal growth factor receptor expression in
+pretreatment biopsies from head and neck squamous cell carcinoma as a predictive factor for a
+benefit from accelerated radiation therapy in a randomized controlled trial. J Clin Oncol. 2005;
+23(24):5560–7. [PubMed: 16110017]
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 1.
+
+Comparison of mean score of immunostain across subsites. (a) Box plot shows a
+significantly lower mean score of p16 proportion in OCSCC versus OPSCC. (b) A similar
+mean score of EGFR intensity is seen between OCSCC and OPSCC. Dot, mean; box, 25th to
+75th percentile; horizontal bar, median.
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 2.
+
+Survival of OPSCC patients according to p16 proportion. (a) Those with a high p16
+expression have significantly improved DSS (b) Those with a high p16 expression have
+improved OS.
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 13
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 3.
+
+Survival of OPSCC patients according to EGFR intensity. (a) Those with none or low EGFR
+expression have significantly improved DSS (b) Those with none or low EGFR expression
+have significantly improved OS.
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 14
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 4.
+
+Correlation of mean EGFR intensity with smoking status in patients with OPSCC. Higher
+levels of EGFR expression were associated with either past or current smoking status
+(r=0.385, p=0.02) Dot, mean; box, 25th to 75th percentile; horizontal bar, median; corr,
+Spearman’s Correlation Coefficient.
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 15
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 5.
+
+Disease Specific Survival of OPSCC patients according to combined EGFR intensity and
+p16 proportion. Those with low EGFR/high p16 have the best DSS, while those with high
+EGFR/low p16 have the worst DSS.
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 16
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 6.
+
+Survival of OCSCC patients according to EGFR intensity. Those with the highest expression
+of EGFR have a trend toward poorer survival compared to those with none, low or moderate
+staining.
+
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 17
+
+Table 1
+
+NIH-PA Author Manuscript
+
+Patient and Tumor Characteristics for OCSCC and OPSCC. SD, standard deviation.
+Oral Cavity n = 49
+
+Oropharynx n = 36
+
+Patient Characteristic
+Age: mean (SD)
+
+57.2 (17.0)
+
+52.3 (11.0)
+
+Gender
+Male
+
+17 (35%)
+
+53 (14%)
+
+Female
+
+32 (65%)
+
+31 (86%)
+
+3 (6%)
+
+2 (6%)
+
+Past
+
+36 (73%)
+
+29 (81%)
+
+Current
+
+6 (12%)
+
+4 (11%)
+
+Unknown
+
+4 (8%)
+
+1 (3%)
+
+None
+
+15 (30%)
+
+-
+
+Radiotherapy
+
+33 (66%)
+
+31 (86%)
+
+2 (4%)
+
+5 (14%)
+
+Smoking History
+Never
+
+Adjuvant Treatment
+
+NIH-PA Author Manuscript
+
+Chemoradiotherapy
+
+Tumor Characteristic
+T stage (clinical)
+T1
+
+5 (10%)
+
+1 (3%)
+
+T2
+
+15 (31%)
+
+9 (25%)
+
+T3
+
+10 (20%)
+
+12 (33%)
+
+T4
+
+19 (39%)
+
+14 (39%)
+
+N0
+
+22 (45%)
+
+5 (14%)
+
+N1
+
+8 (16%)
+
+4 (11%)
+
+N2
+
+19 (39%)
+
+24 (69%)
+
+N3
+
+-
+
+2 (6%)
+
+I
+
+4 (8%)
+
+-
+
+II
+
+8 (16%)
+
+-
+
+N stage (pathologic)
+
+NIH-PA Author Manuscript
+
+AJCC Stage
+
+III
+
+9 (18%)
+
+6 (17%)
+
+IV
+
+26 (57%)
+
+30 (83%)
+
+Well
+
+9 (20%)
+
+2 (6%)
+
+Moderate
+
+30 (65%)
+
+19 (54%)
+
+Poor
+
+7 (15%)
+
+14 (40%)
+
+Histologic Grade
+
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+Chandarana et al.
+
+Page 18
+
+NIH-PA Author Manuscript
+
+Oral Cavity n = 49
+
+Oropharynx n = 36
+
+Perineural Invasion
+
+10 (20%)
+
+4 (11%)
+
+Perivascular Invasion
+
+7 (14%)
+
+8 (22%)
+
+Nodal ECS
+
+12 (24%)
+
+21 (58%)
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Head Neck. Author manuscript; available in PMC 2014 August 01.
+
+

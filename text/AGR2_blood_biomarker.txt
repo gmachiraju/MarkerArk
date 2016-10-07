@@ -1,0 +1,755 @@
+
+BACKGROUND. Anterior gradient 2 (AGR2) is associated with metastatic progression in
+prostate cancer cells as well as other normal and malignant tissues. We investigated AGR2
+expression in patients with metastatic prostate cancer.
+METHODS. Blood was collected from 44 patients with metastatic prostate cancer separated
+as: castration sensitive prostate cancer (CSPC, n  5); castration resistant prostate cancer
+(CRPC, n  36); and neuroendocrine-predominate CRPC defined by PSA  1 ng/ml in the
+presence of wide-spread metastatic disease (NE-CRPC, n  3). AGR2 mRNA levels were
+measured with RT-PCR in circulating tumor cell (CTC)-enriched peripheral blood. Plasma
+AGR2 levels were determined via ELISA assay. AGR2 expression was modulated in prostate
+cancer cell lines using plasmid and viral vectors.
+RESULTS. AGR2 mRNA levels are elevated in CTCs and strongly correlated with CTC enumeration. Plasma AGR2 levels are elevated in all sub-groups. AGR2 levels vary independently to PSA and change in some patients in response to androgen-directed and other therapies.
+Plasma AGR2 levels are highest in the NE-CRPC sub-group. A correlation between AGR2,
+chromagranin A (CGA), and neuron-specific enolase (NSE) expression is demonstrated in
+prostate cancer cell lines.
+CONCLUSIONS. We conclude that AGR2 expression is elevated at the mRNA and protein
+level in patients with metastatic prostate cancer. In particular, we find that AGR2 expression
+is associated features consistent with neuroendocrine, or anaplastic, prostate cancer, exemplified by an aggressive clinical phenotype without elevation in circulating PSA levels. Further
+studies are warranted to explore the mechanistic and prognostic implications of AGR2
+expression in this patient population. Prostate # 2012 Wiley Periodicals, Inc.
+KEY WORDS:
+
+AGR2; neuroendocrine prostate cancer; metastasis; biomarker
+
+INTRODUCTION
+Prostate cancer is a common disease affecting men
+in the U.S. with a projected incidence of over 200,000
+cases in 2010 [1]. Most patients are diagnosed with
+localized prostate cancer which is effectively treated
+with surgery, radiation, or active surveillance. For
+others, prostate cancer recurs despite primary therapy. The mainstay of therapy for recurrent or metastatic prostate cancer is androgen-deprivation therapy.
+While most patients initially respond to androgen
+withdrawal (castration sensitive prostate cancer,
+CSPC), clinical advancement despite low levels of
+ 2012 Wiley Periodicals,Inc.
+
+Additional supporting information may be found in the online version of this article.
+Abbreviations: AGR2, anterior gradient 2; CSPC, castration sensitive prostate cancer; CRPC, castration resistant prostate cancer; NECRPC, neuroendocrine-predominate CRPC; PSA, prostate specific
+antigen; CGA, chromagranin A; NSE, neuron-specific enolase; CTC,
+circulating tumor cell; ELISA, enzyme-linked immunoassay.
+*Correspondence to: Dr. Mitchell E. Gross, MD, PhD, USC Center
+for Applied Molecular Medicine, 2250 Alcazar St., Suite 240, Los
+Angeles, CA 90033. E-mail: mitchell.gross@usc.edu
+Received 19 April 2012; Accepted 10 July 2012
+DOI 10.1002/pros.22569
+Published online in Wiley Online Library
+(wileyonlinelibrary.com).
+
+2
+
+Kani et al.
+
+circulating androgens signals progression to castration resistant prostate cancer (CRPC) which is associated with the majority of the prostate cancer related
+morbidity and mortality.
+Anterior gradient 2 (AGR2) is a member of the
+protein disulfide isomerase (PDI) family which is
+expressed in a variety of normal and transformed
+epithelial tissues [2,3]. Pre-clinical studies have
+shown that AGR2 expression is associated with increased cell migration and metastatic behavior in a
+variety of tumor models [47]. Other studies show
+that AGR2 expression is modulated by androgens
+through ErbB3 binding protein 1 and Fox A transcription factors and confirm an association with a
+more metastatic phenotype [2,8]. AGR2 expression
+has also been associated with docetaxel-resistance
+in the neuroendocrine-like PC3 prostate cancer cell
+line in vitro [9]. AGR2 is known to be expressed in
+primary prostate cancer tissues, and AGR2 levels
+have been explored as a potential urine-based diagnostic marker for prostate cancer [2,10]. At the tissue level, changes in AGR2 expression in primary
+prostate cancer tissue have been associated with either increased [11] or decreased [12] rates of clinical progression. To our knowledge, no studies have
+examined expression of AGR2 in blood or tissue in
+patients with metastatic prostate cancer.
+Access to metastatic prostate cancer tissue for molecular characterization is very limited. Metastatic
+prostate cancer generally develops over many years,
+and after many therapies from the time diagnostic tissues are usually available. Genetic and other molecular abnormalities present in CRPC may not reflect
+abnormalities present in an initial diagnostic biopsy
+obtained many years or even decades earlier. Even if
+tumor tissue could be directly sampled in the setting
+of metastatic CRPC, autopsy data highlights the tremendous intra-individual variation in biomarker expression across metastatic tumors sites [13].
+Examination of markers in peripheral blood represents a strategy to obtain a more complete representation of all tumors present in an individual.
+Circulating tumor cells (CTCs) have been identified in the peripheral blood of cancer patients using a
+variety of purification and detection techniques
+[14,15]. The CellSearch system is the first system to
+receive marketing approval by the US FDA for CTC
+enumeration as a prognostic marker in patients with
+metastatic breast, colorectal, and prostate cancer. We
+have demonstrated that CTC-enriched blood contains
+androgen receptor mutation profiles similar to those
+found in metastatic prostate cancer deposits [16]. Other studies have also used the CellSearch system to
+study gene and protein level changes from patients
+with metastatic breast and prostate cancer [1722].
+The Prostate
+
+Plasma AGR2 levels have been found to be elevated
+patients with ovarian and pancreatic cancer [23,24].
+Taken together, these studies support our efforts to
+apply blood-based assays to examine AGR2 expression in patients with metastatic prostate cancer.
+MATERIALS ANDMETHODS
+Eligibility and Blood Collection
+Patients with histologically diagnosed adenocarcinoma of the prostate with metastatic disease demonstrated by routine clinical imaging studies were
+approached for participation in a correlative study.
+Blood collection included an ethylenediaminetetraacetic acid (EDTA) tube processed and stored for
+plasma. In most cases, parallel tubes (CellSave and
+CTC profile tubes for CellSearch) were also collected
+and processed for CTC enumeration and RNA isolation, respectively, as previously described [16,21,22].
+All blood was collected with informed consent of subjects under an Institution Review Board approved
+protocol at all participating institutions. Control plasma from normal male subjects (age >50 years old)
+was purchased from Bioreclamation, LLC (Westbury,
+NY).
+Enzyme-Linked Immuno-Assay (ELISA)
+AGR2 protein levels were quantitatively assessed
+by a commercial ELISA kit purchased from Uscn Lifesciences, Wahun, China. All samples were maintained
+at 808C. Plasma was allowed to thaw on ice,
+inverted several times, and centrifuged for 1 min at
+200g prior to immuno-assay. Sample location on the
+96-well plate were randomized in order to eliminate
+plate bias. Each sample was analyzed at multiple
+dilutions. The final AGR2 concentration was obtained
+based on the dilution which corresponded to the linear portion of the standard curve.
+The AGR2 ELISA was performed according to
+manufacturers instructions. Briefly, 100 ml of each
+sample (diluted with standard diluents provided by
+Uscn) was added to each well and incubated overnight at 48C while rocking. Samples were aspirated
+and 100 ml of detection reagent A was added to each
+well and incubated for 1 hr at 378C. Each well was
+aspirated and washed three times with wash buffer
+(Uscn). One hundred microliters of detection reagent
+B was added to each well and incubated for 30 min at
+378C. Samples were aspirated and washed five times.
+Ninety microliters of the substrate solution was
+added to each well and incubated for 20 min at 378C
+in the dark. Fifty microliters of the stop solution was
+added to each well and OD at 450 nm was measured.
+The ELISA kit for CGA was obtained from Abnova
+
+AGR2 is a Biomarker of Metastatic Prostate Cancer
+(Walnut, CA) and performed according to manufacturers instructions. The normal plasma CGA range
+for this assay is <100 ng/ml according to the
+manufacturer.
+CirculatingTumor Cell (CTC) Enumeration
+Seven and a half milliliters of blood for CTC enumeration was drawn into CellSave preservative tubes.
+Samples were processed using the CellSearch Epithelial Cell Kit (Veridex, LLC; Raritan, NJ) and CTC
+counts determined on the CellTracks Analyzer (Veridex, LLC) according to manufacturers instructions.
+mRNAIsolation and AGR2 Expression
+For gene expression studies, 7.5 ml of blood was
+drawn into EDTA tubes and processed for CTCs
+using the CellSearch Profile Kit (Veridex LLC) followed by RNA isolation basically as previously described [16,21,22]. Briefly, RNA isolation was
+performed with the AllPrep DNA/RNA Micro Kit
+(Qiagen; Valencia, CA) according to manufacturers
+instructions. The turnaround time was no more than
+36 hr from the blood draw to CTC enrichment and
+nucleic acid isolation. RNA quality and quantity were
+assessed with the Agilent Bioanalyzer. All samples
+were stored at 808C until further use. First strand
+cDNA was synthesized from equal amounts of template RNA from CTC-enriched peripheral blood using
+a High Capacity cDNA archive kit then amplified
+with the ABI TaqManPreAmp method (Applied Biosystems), which has been shown to reliably and reproducibly amplify mRNA for expression analysis
+from a single cell [21]. Absolute AGR2 mRNA expression levels were quantified based on the CT computed
+on the ABI7900 system (Applied Biosystems, Foster
+City, CA). The probe sets and conditions were provided by the manufacturer for AGR2 (ABI Assay on demand Probe set: Hs00180702_m1), as described
+previously [22]. The minimal detection limit was considered to be 40 cycles.CTC-enriched RNA samples
+from 26 normal individuals were also run as controls.
+Cell Culture and Materials
+22Rv1, DU145, and PC3 cells were obtained from
+the ATCC (Manassas, VA) and were cultured in
+RPMI (22Rv1), DMEM (DU145), and F12K (PC3)
+containing 10% FBS. AGR2 cDNA and GFP cDNA
+were purchased from Origene (Rockville, MD) and
+cloned into the pLVX-cmv-IRES-neo vector purchased
+from Clonetech (Mountain View, CA). Lentiviral
+particles containing sequences targeting 30 UTR of
+AGR2 (CCGGCCTTGAGACTTGAAACCAGAACTCGAGTTCTGGTTTCAAGTCTCAAGGTTTTTTG) and
+
+3
+
+scrambled shRNA were purchased from Sigma
+Aldrich (St. Louis, MO).
+Immunoblotting
+Prostate cancer cell lines were used to study
+effects of altered AGR2 levels in prostate cancer
+models as previously described [25]. Stable cell
+lines were produced via transfection or lentiviral
+infection according to manufacturers instructions,
+and cell population with altered level of AGR2 expression were obtained following G418 selection
+(Gemini Biosciences, West Sacramento, CA). Cells
+were grown in 10 cm plates until 7585% confluent
+and lysed with RIPA buffer, homogenized with a
+28 gauged syringe, centrifuged at 14,000g for
+10 minutes. Equal mass of protein lysates was determined by use of Bradford Assay (ThermoScientific, Rockford, IL). Lysates were loaded on a
+420% acrylamide gel (ThermoScientific) and transferred to nitrocellulose membrane. Antibodies directed to AGR2 (Abnova, Walnut, CA), CGA
+(SigmaAldrich), NSE (Dako USA, Carptenteria,
+CA), and actin (SigmaAldrich, St. Louis, MO)
+were used according to manufacturers directions.
+Statistical Analysis
+AGR2 levels of serum samples were assessed by
+arithmetic average of measurements across dilutions
+in which all values were in the linear calibration range
+and not determined to be outliers. Measurement outliers were detected using either DFFITS >1 in estimating the logarithmic mean value [26] (for n  5
+replicates) or a value deviating by more than a factor
+of two from the average of the other replicates (for
+n < 5 replicates, at most one outlier declared per sample); of 316 measurements, 16 outliers (5%) were
+detected and removed. Parametric testing for significant differences in serum AGR2 between metastatic
+prostate cancer cohorts and normal controls was performed using ANOVA followed by Dunnetts multiple comparison adjustment; a logarithmic variance
+normalizing transform was applied prior to significance testing. To accommodate unequal group variances, parametric testing for significant differences in
+serum CGA was performed using Welchs t-test on
+logarithm-transformed data followed by Bonferroni
+correction for multiple comparisons. Relative longitudinal values of AGR2 and corresponding 95% confidence intervals were estimated by applying a
+categorical fixed effects model for logarithmic AGR2
+level which included the time point (T0, T1, T2) as a
+nested factor within the clinical subject factor. All statistical analyses were performed using R version
+2.14.0 (www.r-project.org).
+The Prostate
+
+4
+
+Kani et al.
+RESULTS
+Demographics
+
+Patients with metastatic prostate cancer generally
+exhibit a predictable natural history marked by initial
+sensitivity to androgen deprivation (castrate sensitive
+prostate cancer, CSPC) followed by eventual progression in a subset of patients to an androgen-independent state (castrate-resistant prostate cancer, CRPC)
+[27]. A particularly aggressive variant of metastatic
+prostate cancer has been described based on the presence of neuroendocrine markers in blood and tissue
+in association with a conventional adenocarcinoma
+pattern. Features associated with neuroendocrineCRPC (NE-CRPC), or anaplastic prostate cancer, include as a usual pattern of early, visceral metastatic
+spread as well as relatively low levels of serum PSA
+[28]. Here we conservatively define NE-CRPC based
+on the presence of wide-spread metastatic deposits
+(bone, visceral, or both) along with a PSA value
+1.0 ng/ml. Therefore, we divide our cohort of metastatic prostate cancer patients into three groups as
+CSPC, CRPC, and NE-CRPC.
+Baseline demographic characteristics of all 44 subjects with metastatic prostate cancer are summarized
+in Table I. In the five subjects with CSPC, the median
+(range) age and serum PSA were 58.1 (51.166.6)
+years and 428.6 (2.47,606) ng/ml, respectively. Four
+of five patients with CSPC had bone metastases (80%)
+while one subject had metastatic disease only in
+lymph nodes (20%). In 36 subjects with CRPC, the median (range) for age, serum PSA, and duration of androgen-deprivation therapy (ADT) was 69.4 (57.5
+87.7) years, 150 (3.62403) ng/ml, and 37.2(5.2174.2)
+months, respectively. For patients with imaging studies evaluable within 2 months of study enrollment,
+the extent of metastatic disease in these patients was
+typical for this population, as 94% (n  33) subjects
+had bone metastases and 29% (n  28) had lymph
+
+node or visceral metastases. Finally, for the three subjects with NE-CRPC, the age, serum PSA, and duration of ADT were 70.7 (68.179.2) years, PSA 0.4
+(0.10.7) ng/ml, and 33.5 (5.2174.2) months, respectively. Consistent with the typical presentation for
+NE-CRPC, the distribution of metastatic involvement
+was distinct from CRPC such that all patients had
+extensive lymph node and visceral metastases in
+addition to extensive bone metastases (Table II).
+AGR2 mRNA is Expressedin CRPC
+Since AGR2 has been found to promote metastatic
+progression in prostate and other cancer models,
+we sought to determine if AGR2 was expressed in
+tissue from patients with metastatic prostate cancer.
+However, as metastatic tissue is often not available in
+patients with CRPC, we evaluated AGR2 mRNA
+expression in CTCs. The feasibility of gene-specific
+expression analysis based on RNA obtained from
+CTC-enriched peripheral blood has been previously
+demonstrated [17,2022,29]. Here we utilized this basic
+approach to examine if AGR2 mRNA was expressed
+in CTCs in patients with metastatic prostate cancer.
+Paired blood samples for CTC enumeration along
+with isolation of CTC-enriched peripheral blood RNA
+was available from a subset of the overall patient cohort. Specifically 49 samples were identified with 1
+CTC/7.5 ml from patients with CRPC (n  30), CSPC
+(n  2), or NE-CRPC (n  2). AGR2 mRNA levels,
+expressed as average CT  SD, were significantly elevated in samples from patients with metastatic prostate cancer (CT  33.5  5.4) versus 26 samples
+representing normal controls (CT  37.6  3.7)
+(P < 0.001 by Students t-test). The absolute difference in CT values of 4.1 cycles equates to 17.1-fold
+absolute increase in AGR2 mRNA in subjects versus
+controls. Further, we explored the correlation between AGR2 mRNA expression and CTC enumeration in the CRPC subgroup. A strong positive
+
+TABLE I. Summaryof Basic Demographic Datain Patients with Metastatic Prostate Cancer
+
+CSPC (n  5)
+Age (years)
+Serum PSA (ng/dl)
+CRPC (n  36)
+Age (years)
+Serum PSA (ng/dl)
+Duration ADT (months)
+NE-CRPC (n  3)
+Age (years)
+Serum PSA (ng/dl)
+Duration ADT (months)
+
+The Prostate
+
+Average (SD)
+
+Median
+
+Range
+
+57.2 (6.4)
+1978 (3235)
+
+58.1
+428.6
+
+(51.166.6)
+(2.47607)
+
+69.8 (7.6)
+436 (599)
+49.9 (38.3)
+
+69.4
+150.0
+37.2
+
+(57.5 87.7)
+(3.62403)
+(5.2174.2)
+
+72.7 (5.8)
+0.4 (0.3)
+43.6 (41.8)
+
+70.7
+0.4
+33.5
+
+(68.179.2)
+(<0.10.7)
+(5.2174.2)
+
+AGR2 is a Biomarker of Metastatic Prostate Cancer
+
+Fig. 1. AGR2 mRNA expression in CTCs. Scatter plot showing
+AGR2 mRNA level expressed as DCT (vertical axis) plotted against
+CTC enumeration determined by the CellSearch Assay (horizontal
+axis).The line representing the least squares curve fit is also shown.
+The coefficientof determination (R2) is 0.74 (P < 0.001).
+
+correlation is observed between CTC enumeration
+and AGR2 mRNA level (R2  0.74, P < 0.001, Fig. 1).
+We conclude that AGR2 mRNA is expressed in CTCs
+from patients with metastatic CRPC.
+Plasma AGR2 Levels are Elevated in Metastatic
+Prostate Cancer
+Having demonstrated CTC-based expression of
+AGR2 mRNA in CTCs, we next expanded our study
+to examine plasma AGR2 levels in patients with metastatic prostate cancer. Since AGR2 is known to be
+an androgen-regulated, secreted protein which is
+elevated in plasma in ovarian and pancreatic cancer
+
+5
+
+[23,24], we reasoned that plasma AGR2 levels may be
+elevated and vary in response to therapies in patients
+with metastatic prostate cancer.
+An ELISA assay was used to explore plasma AGR2
+and CGA levels in patients with metastatic prostate
+cancer compared with normal controls (Fig. 2). Consistent with other reports, we observed a median
+(range) of 25 (6170) ng/ml AGR2 in normal male
+subjects (n  18). However, we found that plasma
+AGR2 values were significantly elevated in each cohort of patients with metastatic prostate cancer. Specifically, we observed AGR2 values of 105 (20285), 75
+(102500), and 945 (501,035) ng/ml for patients in
+the CSPC, CRPC, and NE-CRPC cohorts, respectively
+(P < 0.05 for each comparison). The median (range)
+of CGA levels in normal subjects was 70 (22714)
+ng/ml, which is consistent with the assays normal
+value of <100 ng/ml. We observed CGA values of 68
+(39206), 92 (10551), and 174 (151235) ng/ml for
+patients in the CSPC, CRPC, and NE-CRPC cohorts,
+respectively. Only the NE-CRPC cohort had significantly different CGA levels than normals (P < 0.05).
+We conclude that plasma AGR2 is significantly
+elevated in patients with metastatic prostate cancer
+compared with normal male controls.
+Plasma AGR2 Levels do not CorrelateWith PSA
+Serum PSA levels are almost uniformly elevated in
+patients with metastatic prostate cancer, where it is
+used as a therapeutic biomarker [30]. As both PSA
+and AGR2 levels are androgen regulated secreted
+proteins, we explored whether AGR2 levels correlate
+
+Fig. 2. Plasma AGR2 and CGA values in normal males and metastatic prostate cancer patients. AGR2 (*, panel A) and CGA (~,
+panel B) values were measured in plasma by ELISA for subjects representing control (n  18),CSPC (n  5),CRPC (n  36, and NE-CRPC
+(n  3) sub-groups.Geometric mean value for each cohort is indicated by a solid horizontal line. Significance in panel A is assessed for each
+cohort versus controlusing ANOVA on log-transformed (variance stabilized) AGR2 levels followedby Dunnetts adjustment: CSPCcontrol
+P  0.016 (),CRPCcontrol P  0.0017 (),NE-CRPCcontrol P  0.0001 (). Significance in panel B is assessed for each cohort versus
+control using Welchs unequal variance t-test on log-transformed CGA levels followed by Bonferroni correction: NE-CRPCcontrol
+P  0.005 ().
+The Prostate
+
+6
+
+Kani et al.
+
+with PSA. First, we explored whether plasma AGR2
+relates to PSA on a per sample basis and found a
+weak and non-significant correlation (R2  0.08,
+P  0.07; Supplementary Figure). Next, as changes in
+PSA values are used as a biomarker associated with
+response to multiple therapies in CRPC, we explored
+sequential measurements of AGR2 and PSA. In 10
+subjects (CRPC n  7, CSPC n  2, NE-CRPC n  1),
+sequential samples were available representing baseline and serial measurements at weeks 36 and 1012
+in response to standard therapies (Fig. 3). In this preliminary analysis, we observe no clear trend in comparing changes in PSA or AGR2 values in response to
+standard therapies. In some subjects, a discordant
+pattern is observed such that AGR2 levels changed
+inversely with PSA values (Fig. 3E, H, and I). In other
+subjects AGR2 levels seemed to closely track declining (Fig. 3A, B, and J) or increasing (Fig. 3C) PSA values. A third pattern with stable AGR2 levels despite
+decreasing PSA (Fig. 3D, F, and G) was also observed.
+We conclude that plasma AGR2 and PSA vary independently in relation to treatments used for metastatic
+prostate cancer.
+
+AGR2 Expression is Associated With a
+Neuroendocrine Phenotype
+We noted that the sub-group of patients with the
+highest median AGR2 expression included three subjects with NE-CRPC. As NE-CRPC remains generally
+a poorly defined clinical entity, we sought to more
+precisely describe the clinical and serologic characteristics of these patients (Table II). As expected, patients
+with NE-CRPC exhibit an unusual pattern of metastatic spread which includes sites such as lung, liver,
+bone, eye, and brain in addition to the conventional
+metastatic pattern involving osteoblastic metastases
+to bone. Chromagranin A (CGA) and other blood
+based markers are commonly used to help characterize patients with NE-CRPC [31]. We note that CGA is
+elevated in all subjects with NE-CRPC. Other serum
+markers such as carcinoembryonic antigen (CEA) and
+neuron-specific enolase (NSE) are also elevated along
+with AGR2 in many of these subjects as well. We conclude that plasma AGR2 may be used along with
+CGA, and other serum markers, to help define NECRPC.
+
+Fig. 3. Serial measurements of plasma AGR2 and PSA values in individual patients in response to therapy. Each panel represents relative
+changes in AGR2 and PSAvalues for anindividual patientcompared to a baselinevalue (T0  baseline). Serialmeasurements were obtained at
+3^ 6 weeks (T1) and 9^12 weeks (T2) following starting the indicated therapy.The relative change of each value is plotted compared to baseline
+(100 arbitraryunits).Error barsrepresent 95% confidenceintervals.
+The Prostate
+
+AGR2 is a Biomarker of Metastatic Prostate Cancer
+As NE-CRPC represents an uncommon clinical
+variant of metastatic prostate cancer, we used prostate
+cancer cell lines to further explore a possible association between AGR2 and neuroendocrine marker expression in prostate cancer cells (Fig. 4). PC3 is a
+human prostate cancer cell line which is known to express high levels of AGR2 and exhibit other characteristics associated with neuroendocrine prostate cancer
+[9,10,32]. 22Rv1 is an androgen-responsive human
+prostate cancer cell line which was also found to
+expresses AGR2 and is tumorogenic in immune-compromised mice [33,34]. PC3 and 22Rv1 cells were
+infected with a lentivirus expressing shRNA against
+AGR2 or a scrambled-shRNA as a control. Down-regulation of AGR2 expression in PC3 and 22Rv1 cells
+resulted in concordant decreases in CGA levels compared to cells infected with scramble-shRNA control
+virus (Fig. 4, left and middle panels). DU145 represents and androgen receptor negative human prostate
+cancer cell line which is generally not tumorogenic
+and does exhibit appreciable amounts of AGR2. Stable transfectants of DU145 cells were made with ectopic expression of AGR2 or green fluorescent protein
+(GFP) as a control. In the DU145 cells, we observed
+that increased expression of AGR2 resulted in a significant increase in CGA expression (Fig. 4, right panel). A similar pattern correlating AGR2 and NSE
+expression was observed in PC3 and DU145 cells, but
+was not as pronounced in 22RV1 cells. We conclude
+that AGR2 expression generally correlates with CGA
+and NSE expression in prostate cancer cell lines.
+
+Fig. 4. CGA and NSE levels are modulated by AGR2. Prostate
+cancer cell lines (22Rv1,PC3, and DU145) were transduced with lentiviral particles to knockdown AGR2 (shRNA in 22Rv1and PC3) or
+induce overexpression (cDNA in DU145) as compared to control
+(scrambled) or (GFP) vectors, respectively. AGR2, CGA, NSE, and
+actin expressionin celllysates were determinedbyimmunoblot.
+
+7
+
+DISCUSSION
+AGR2 is widely expressed in normal mucus-producing and endocrine-responsive cells in lung, stomach, colon, pancrease, breast, and prostate [7].
+Microdissection studies show that AGR2 expression
+is elevated in prostate carcinoma compared to adjacent normal tissue, and urine-based detection of
+AGR2 has been proposed as a potential diagnostic
+marker for prostate cancer [10]. Conflicting data exist
+concerning the potential for tissue-based measurements of AGR2 levels to add to standard prognostic
+markers used to risk-stratify patients with newly diagnosed prostate cancer [11,12]. Despite strong data
+supporting a role for AGR2 in promoting a metastatic
+phenotype in pre-clinical models, expression of AGR2
+in metastatic prostate cancer has not been previously
+explored [5].
+Here, we utilized a combination of blood-based
+approaches to evaluate AGR2 expression in patients
+with metastatic prostate cancer. First, we used peripheral-blood RNA enriched for the presence of CTCs towards determining if AGR2 mRNA expression was
+elevated in cancer cells in patients with metastatic
+prostate cancer. We conclude that AGR2 is expressed
+in metastatic prostate cancer as evidenced by finding
+a significant correlation between CTC enumeration
+and AGR2 mRNA expression. However, as CTCs are
+not present in all patients and may not accurately reflect AGR2 expression in all tumor deposits, we utilized an AGR2 ELISA assay to quantify plasma AGR2
+levels in patients with metastatic prostate cancer. We
+find that plasma AGR2 levels are significantly elevated in patients with metastatic prostate cancer versus
+normal male controls. Further, our preliminary results
+show that plasma AGR2 levels can vary in response
+to androgen-directed and other therapies used for
+patients with metastatic prostate cancer. Finally, we
+noted very high plasma AGR2 levels in patients with
+a neuroendocrine or anaplastic variant of metastatic prostate cancer and suggest that AGR2 expression correlates with expression of neuroendocrine
+markers (CGA and NSE) in prostate cancer cells.
+Despite strong data implicating AGR2 expression
+in a metastatic phenotype, a mechanistic connection
+between AGR2 expression and metastatic progression
+remains elusive. Persson et al. [3] have demonstrated
+that AGR2 may be a novel type of the protein disulfide isomerase (PDI). Members of the PDI family have
+roles associated with oxioreduction during protein
+folding in the endoplasmic reticulum [35]. However,
+the possible enzymatic effects or down-stream targets
+of AGR2 expression or activation remains generally
+unexplored. Induction of AGR2 levels in response to
+steroid treatment in breast [36] and prostate [2] cancer
+has been demonstrated. This would suggest that
+The Prostate
+
+8
+
+Kani et al.
+
+TABLE II. Summary of Blood and Imaging Evaluation in Patients With Neuroendocrine Phenotype of Metastatic Prostate
+Cancer
+CRPC-NE
+
+Blood markers (normal range)
+
+Patient #1
+
+PSA: <0.1 (<4) ng/ml; AGR2:
+944.2(<25) ng/ml; CGA: 174(<100) ng/ml;
+NSE: >130 (3.78.9) ug/l; CEA: 242.8
+(<5) ng/ml
+PSA: 0.7 (<4) ng/ml; AGR2: 1033.8 (<25) ng/
+ml; CGA: 151 (<100) ng/ml; NSE: 32.7
+(3.78.9) ug/l; CEA: 142.9 (<5) ng/l; PAP:
+14 (<2.8) ng/ml
+PSA: 0.4 (<4) ng/ml; AGR2: 50.4 (<25) ng/
+ml; CGA: 235 (<100) ng/ml; CEA: 4.5
+(<5) ng/ml
+
+Patient #2
+
+Patient #3
+
+increasing tissue expression of AGR2 should be correlated with PSA concentration. Our results do not support this hypothesis and instead indicate that
+serological AGR2 and PSA are decoupled in prostate
+cancer (Fig. 3). This is further supported by the inverse relationship between AGR2 and PSA levels in
+NE-CRPC patients (Fig. 2).
+NE-CRPC represents an extreme example of the
+clinical situation where PSA levels are neither elevated nor useful as a therapeutic marker in metastatic prostate cancer. Areas of neuroendocrine
+differentiation are commonly found in histologic
+sections representing prostate adenocarcinoma,
+however the clinical significance of these findings
+remain controversial [37]. For patients with metastatic prostate cancer, a neuroendocrine or anaplastic phenotype has more recently started to be
+defined in hopes of identifying patients who may
+benefit from more intensive cytotoxic chemo-hormonal therapy [31,38]. While no clear consensus
+definition has emerged for NE or anaplastic
+CRPC, clinical features used to define this entity
+often include characteristics such as: (i) the presence of extensive visceral metastases; (ii) low PSA
+values (typically <10 ng/ml); (iii) osteolytic bone
+metastases; and (iv) a short duration of response to
+ADT. Conventional plasma or serum markers often
+elevated in NE-CRPC include CGA, NSE, and CEA
+[28,39]. However, not all patients with NE-CRPC
+can be identified, let alone followed with the available blood-based markers. Our data suggests that
+plasma AGR2 levels may be used to help define
+and potentially better direct treatment for NECRPC. A limitation of our study is that the clinical
+association between elevated plasma AGR2 levels
+and NE-CRPC is based on a small sub-sample
+(n  3) of our overall cohort. Additional studies
+The Prostate
+
+Imaging studies
+Extensive pulmonary nodules; multiple liver nodules;
+pelvic mass (prostate bed recurrence); focal
+osteoblastic bone metastasis (femur)
+Multiple pulmonary nodules with mediastinal lymph
+adenopathy; multiple liver metastases; extensive
+osteoblastic bone metastases
+Bilateral adrenal nodules; eye (choroid); brain
+(parafalcine mass); retroperiteoneal lymphadenopathy;
+multiple mixed osteolytic/osteoblastic bone metastases
+
+involving larger numbers of patients would be required to validate any such association.
+Significant effort has been placed on the identification of biomarkers which would enable oncologists to
+better understand prostate cancer progression. This is
+especially important with patients with metastatic
+prostate cancer, as PSA levels do not always correlate
+with disease progression or therapeutic efficacy. In
+fact, patients with anaplastic prostate cancer are characterized by low PSA levels and typically have poor
+prognosis. In summary, we propose that plasma
+AGR2 levels may be useful to help characterize, monitor, and direct therapies for patients with metastatic
+prostate cancer. Additional research is needed to better understand potential mechanistic and prognostic
+implications of AGR2 expression in relation to the underlying tumor biology and disease course in patients
+with prostate cancer.
+ACKNOWLEDGMENTS
+We are grateful for the clinical and research staff at
+the Westside Cancer Center and the Norris Comprehensive Cancer Center. We thank the Wunderkind
+Foundation and the Redstone Family Foundation for
+their generous contribution to this effort.
+REFERENCES
+1. Jemal A, Siegel R, Xu J, Ward E. Cancer statistics, 2010. CA
+Cancer J Clin 2010;60(5):277300.
+2. Zhang JS, Gong A, Cheville JC, Smith DI, Young CY. AGR2, an
+androgen-inducible secretory protein overexpressed in prostate cancer. Genes Chromosomes Cancer 2005;43(3):249259.
+3. Persson S, Rosenquist M, Knoblach B, Khosravi-Far R,
+Sommarin M, Michalak M. Diversity of the protein disulfide
+isomerase family: Identification of breast tumor induced Hag2
+and Hag3 as novel members of the protein family. Mol Phylogenet Evol 2005;36(3):734740.
+
+AGR2 is a Biomarker of Metastatic Prostate Cancer
+4. Liu D, Rudland PS, Sibson DR, Platt-Higgins A, Barraclough R.
+Human homologue of cement gland protein, a novel metastasis
+inducer associated with breast carcinomas. Cancer Res 2005;
+65(9):37963805.
+5. Wang Z, Hao Y, Lowe AW. The adenocarcinoma-associated
+antigen, AGR2, promotes tumor growth, cell migration, and
+cellular transformation. Cancer Res 2008;68(2):492497.
+6. Ramachandran V, Arumugam T, Wang H, Logsdon CD. Anterior gradient 2 is expressed and secreted during the development of pancreatic cancer and promotes cancer cell survival.
+Cancer Res 2008;68(19):78117818.
+7. Brychtova V, Vojtesek B, Hrstka R. Anterior gradient 2: A novel
+player in tumor cell biology. Cancer Lett 2011;304(1):17.
+8. Zhang Y, Ali TZ, Zhou H, DSouza DR, Lu Y, Jaffe J, Liu Z,
+Passaniti A, Hamburger AW. ErbB3 binding protein 1
+represses metastasis-promoting gene anterior gradient protein
+2 in prostate cancer. Cancer Res 2010;70(1):240248.
+9. Zhao L, Lee BY, Brown DA, Molloy MP, Marx GM, Pavlakis N,
+Boyer MJ, Stockler MR, Kaplan W, Breit SN, Sutherland RL,
+Henshall SM, Horvath LG. Identification of candidate biomarkers of therapeutic response to docetaxel by proteomic profiling.
+Cancer Res 2009;69(19):76967703.
+10. Bu H, Bormann S, Schafer G, Horninger W, Massoner P,
+Neeb A, Lakshmanan VK, Maddalo D, Nestl A, Sultmann H,
+Cato AC, Klocker H. The anterior gradient 2 (AGR2) gene is
+overexpressed in prostate cancer and may be useful as a urine
+sediment marker for prostate cancer detection. Prostate 2011;
+71(6):575587.
+11. Zhang Y, Forootan SS, Liu D, Barraclough R, Foster CS, Rudland PS, Ke Y. Increased expression of anterior gradient-2 is
+significantly associated with poor survival of prostate cancer
+patients. Prostate Cancer Prostatic Dis 2007;10(3):293300.
+12. Maresh EL, Mah V, Alavi M, Horvath S, Bagryanova L, Liebeskind ES, Knutzen LA, Zhou Y, Chia D, Liu AY, Goodglick L.
+Differential expression of anterior gradient gene AGR2 in prostate cancer. BMC cancer 2010;10:680.
+13. Shah RB, Mehra R, Chinnaiyan AM, Shen R, Ghosh D, Zhou
+M, Macvicar GR, Varambally S, Harwood J, Bismar TA, Kim R,
+Rubin MA, Pienta KJ. Androgen-independent prostate cancer
+is a heterogeneous group of diseases: Lessons from a rapid
+autopsy program. Cancer Res 2004;64(24):92099216.
+14. Mocellin S, Keilholz U, Rossi CR, Nitti D. Circulating tumor
+cells: The leukemic phase of solid cancers. Trends Mol Med
+2006;12(3):130139.
+15. Pantel K, Brakenhoff RH. Dissecting the metastatic cascade.
+Nat Rev Cancer 2004;4(6):448456.
+16. Jiang Y, Palma JF, Agus DB, Wang Y, Gross ME. Detection
+of androgen receptor mutations in circulating tumor cells in
+castration-resistant prostate cancer. Clin Chem 2010;56(9):
+14921495.
+17. OHara S, Moreno J, Zweitzig D, Gross S, Gomella L, Terstappen L. Multigene reverse transcription-PCR profiling of circulating tumor cells in hormone-refractory prostate cancer. Clin
+Chem 2004;50(5):826835.
+18. Shaffer D, Leversha M, Danila D, Lin O, Gonzalez-Espinoza R,
+Gu B, Anand A, Smith K, Maslak P, Doyle G, Terstappen L,
+Lilja H, Heller G, Fleisher M, Scher H. Circulating tumor
+cell analysis in patients with progressive castration-resistant
+prostate cancer. Clin Cancer Res 2007;13(7):20232029.
+19. Clark J, Attard G, Jhavar S, Flohr P, Reid A, De-Bono J, Eeles R,
+Scardino P, Cuzick J, Fisher G, Parker MD, Foster CS, Berney
+D, Kovacs G, Cooper CS. Complex patterns of ETS gene alteration arise during cancer development in the human prostate.
+Oncogene 2008;27(14):19932003.
+
+9
+
+20. Smirnov DA, Zweitzig DR, Foulk BW, Miller MC, Doyle GV,
+Pienta KJ, Meropol NJ, Weiner LM, Cohen SJ, Moreno JG,
+Connelly MC, Terstappen LW, OHara SM. Global gene
+expression profiling of circulating tumor cells. Cancer Res
+2005;65(12):49934997.
+21. Sieuwerts AM, Kraan J, Bolt-de Vries J, van der Spoel P,
+Mostert B, Martens JW, Gratama JW, Sleijfer S, Foekens JA.
+Molecular characterization of circulating tumor cells in large
+quantities of contaminating leukocytes by a multiplex realtime PCR. Breast Cancer Res Treat 2009;118(3):455468.
+22. Sieuwerts AM, Mostert B, Bolt-de Vries J, Peeters D, de Jongh
+FE, Stouthard JM, Dirix LY, van Dam PA, Van Galen A, de
+Weerd V, Kraan J, van der Spoel P, Ramirez-Moreno R, van
+Deurzen CH, Smid M, Yu JX, Jiang J, Wang Y, Gratama JW,
+Sleijfer S, Foekens JA, Martens JW. mRNA and microRNA expression profiles in circulating tumor cells and primary tumors
+of metastatic breast cancer patients. Clin Cancer Res 2011;
+17(11):36003618.
+23. Edgell TA, Barraclough DL, Rajic A, Dhulia J, Lewis KJ, Armes
+JE, Barraclough R, Rudland PS, Rice GE, Autelitano DJ.
+Increased plasma concentrations of anterior gradient 2 protein
+are positively associated with ovarian cancer. Clin Sci (Lond)
+2010;118(12):717725.
+24. Makawita S, Smith C, Batruch I, Zheng Y, Ruckert F, Grutzmann R, Pilarsky C, Gallinger S, Diamandis EP. Integrated
+proteomic profiling of cell line conditioned media and pancreatic juice for the identification of pancreatic cancer biomarkers.
+Mol Cell Proteomics 2011;10(10):M111 008599.
+25. Kani K, Faca VM, Hughes LD, Zhang W, Fang Q, Shahbaba B,
+Luethy R, Erde J, Schmidt J, Pitteri SJ, Zhang Q, Katz JE, Gross
+ME, Plevritis SK, McIntosh MW, Jain A, Hanash S, Agus DB,
+Mallick P. Quantitative proteomic profiling identifies protein
+correlates to EGFR kinase inhibition. Mol Cancer Ther 2012;
+11(5):10711081.
+26. Belsley DA, Kuh E, Welsch RE. Regression diagnostics: Identifying influential data and sources of collinearity. New York:
+John Wiley & Sons; 2004. 292 p.
+27. Scher HI, Heller G. Clinical states in prostate cancer: Toward a
+dynamic model of disease progression. Urology 2000;55(3):
+323327.
+28. Matei DV, Renne G, Pimentel M, Sandri MT, Zorzino L, Botteri
+E, De Cicco C, Musi G, Brescia A, Mazzoleni F, Valeria T, Detti
+S, de Cobelli O. Neuroendocrine differentiation in castrationresistant prostate cancer: A systematic diagnostic attempt. Clin
+Genitourin Cancer 2012;10(3):164173.
+29. Cohen SJ, Alpaugh RK, Gross S, OHara SM, Smirnov DA,
+Terstappen LWMM, Allard WJ, Bilbee M, Cheng JD, Hoffman
+JP, Lewis NL, Pellegrino A, Rogatko A, Sigurdson E, Wang H,
+Watson JC, Weiner LM, Meropol NJ. Isolation and characterization of circulating tumor cells in patients with metastatic
+colorectal cancer. Clin Colorectal Cancer 2006;6(2):125132.
+30. Balk SP, Ko YJ, Bubley GJ. Biology of prostate-specific antigen.
+J Clin Oncol 2003;21(2):383391.
+31. Flechon A, Pouessel D, Ferlay C, Perol D, Beuzeboc P, Gravis
+G, Joly F, Oudard S, Deplanque G, Zanetta S, Fargeot P, Priou
+F, Droz JP, Culine S. Phase II study of carboplatin and etoposide in patients with anaplastic progressive metastatic castration-resistant prostate cancer (mCRPC) with or without
+neuroendocrine differentiation: Results of the French GenitoUrinary Tumor Group (GETUG) P01 trial. Ann Oncol 2011;
+22(11):24762481.
+32. Sobel RE, Sadar MD. Cell lines used in prostate cancer
+research: A compendium of old and new linespart 1. J Urol
+2005;173(2):342359.
+
+The Prostate
+
+10
+
+Kani et al.
+
+33. Nagabhushan M, Miller CM, Pretlow TP, Giaconia JM,
+Edgehouse NL, Schwartz S, Kung HJ, de Vere White RW,
+Gumerlock PH, Resnick MI, Amini SB, Pretlow TG. CWR22:
+The first human prostate cancer xenograft with strongly androgen-dependent and relapsed strains both in vivo and in soft
+agar. Cancer Res 1996;56(13):30423046.
+34. Sramkoski RM, Pretlow TG II, Giaconia JM, Pretlowv TP,
+Schwartz S, Sy MS, Marengo SR, Rhim JS, Zhang D, Jacobberger JW. A new human prostate carcinoma cell line, 22Rv1.
+In Vitro Cell Dev Biol Anim 1999;35(7):403409.
+35. Kozlov G, Maattanen P, Thomas DY, Gehring K. A structural
+overview of the PDI family of proteins. FEBS J 2010;277(19):
+39243936.
+36. Huber M, Bahr I, Kratzschmar JR, Becker A, Muller EC,
+Donner P, Pohlenz HD, Schneider MR, Sommer A. Comparison of proteomic and genomic analyses of the human breast
+
+The Prostate
+
+cancer cell line T47D and the antiestrogen-resistant derivative
+T47D-r. Mol Cell Proteomics 2004;3(1):4355.
+37. Ather MH, Abbas F. Prognostic significance of neuroendocrine
+differentiation in prostate cancer. Eur Urol 2000;38(5):535
+542.
+38. Aparicio A, Harzstark AL, Lin E, Corn PG, Araujo JC, Tu S,
+Pagliaro LC, Millikan RE, Arap W, Kim J, Ryan CJ, Zurita AJ,
+Tannir NM, Lin AM, Small EJ, Mathew P, Jones DM, Troncoso
+P, Thall PF, Logothetis C. Characterization of the anaplastic
+prostate carcinomas: A prospective two-stage phase II trial of
+frontline carboplatin and docetaxel (CD) andsalvage etoposide
+and cisplatin (EP). J Clin Oncol 2011; (29 Suppl.)abstr. 4666.
+39. Angelsen A, Syversen U, Stridsberg M, Haugen OA, Mjolnerod
+OK, Waldum HL. Use of neuroendocrine serum markers in the
+follow-up of patients with cancer of the prostate. Prostate
+1997;31(2):110117.
+
+

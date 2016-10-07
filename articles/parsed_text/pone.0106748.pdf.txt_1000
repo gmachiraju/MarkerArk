@@ -1,0 +1,200 @@
+precision on sensitivity and specificity estimates for expected values
+of 75%. This required at least 72 subjects per group. For the
+discovery series,
+this number was unbalanced to oversample
+tumors, which have larger variability and a wide range of
+candidates had to be analyzed. The validation series in serum
+was supplemented with a smaller subgroup of adenoma (n = 23) to
+explore the usefulness of the markers to detect this premalignant
+lesion.
+
+Results
+
+Biomarker discovery
+
+In this well-selected homogeneous set of samples, differences in
+mRNA expression measured with Affymetrix HG-U219 array
+plates were so remarkable that an unsupervised technique
+(principal components analysis) using the full set of probesets
+separated almost perfectly the three tissue types (Figure 1a). The
+first principal component clearly divides tumor samples of colon
+cancer cases (T) and non-tumor samples. Remarkably, the second
+principal component also split cancer-free (F)
+from adjacent
+normal samples belonging to patients with cancer (A).
+
+From 33,853 probe sets included in the array with high
+variability, 5,503 were over-expressed in A when compared to F,
+and 11,229 were over-expressed in T when compared to F (p,
+0.05, Bonferroni corrected). We have focused specifically on over-
+expressed genes because these differences are more likely to be
+detected in serum, and therefore more suitable to be used as
+diagnostic biomarkers. Interestingly, a remarkable level of overlap
+(3,101 probe sets, ,56%) was found between these two lists of
+probe sets, suggesting that adjacent normal mucosa in patients
+with cancer had already experienced important alterations in gene
+expression, and rising the importance of using cancer-free mucosa
+as reference tissue. Global results from differential expression
+analysis are shown in Figures 1b and 1c.
+
+To prioritize candidates for diagnostic biomarkers, a set of filters
+were applied to the initial set of differentially expressed probe sets.
+These filters were based primarily on statistical criteria (i.e. large
+fold-change between A/F or T/F, low levels of expression and low
+variability in F samples). These filters yielded a final number of
+242 selected probe sets between A/F and 443 between T/F,
+corresponding to a set of 194 and 352 genes, respectively (Table
+S2).
+
+This first selection provided a list of 505 unique candidate
+biomarkers with highly significant expression differences between
+tumor and cancer-free tissue. Due to the technical difficulties
+derived from the validation of such a large amount of biomarkers,
+
+Biomarkers for Early Diagnosis of Colon Cancer
+
+additional technical and biological criteria were applied to further
+narrow down the list of potential candidates. This second set of
+filters were based on assessing the consistency between the
+different probesets for each gene; confirmation of our results in
+independent and publicly available gene expression datasets; and
+null or low expression levels of these genes in blood samples from
+cancer-free individuals. Moreover, prior knowledge and molecular
+information for each gene was compiled from the literature and
+the most reliable
+online databases to ensure the selection of
+candidates
+tissue specificity, protein
+function, previous evidence as a biomarker, among others). A list
+of the 23 best candidates was finally selected for validation in the
+next step (Table 2, columns 12).
+
+(i.e. protein secretion,
+
+Technical and biological validation
+
+To ensure the reliability of the results obtained from the gene
+expression arrays, the selection of 23 biomarkers was validated
+with an alternative technique (RT-qPCR) both in the same set of
+samples (i.e. technical validation), and also in an independent
+series with equivalent clinical and epidemiological characteristics
+(i.e. biological validation).
+
+Figure 2 displays two-way gene and sample clustering of the
+RT-qPCR expression values both for the results of the technical
+(Figure 2a) and the biological validation (Figure 2b). Horizontal
+axes of the heatmaps (i.e. columns) show a clear separation of
+tumor samples from adjacent normal and cancer-free groups. The
+vertical axis of genes (i.e. rows) showed two clusters of genes, one
+for those differentially expressed between A/F and another for the
+differentially expressed between T/F. These results highly
+replicate the pattern of expression observed in the arrays in the
+discovery phase, reinforcing the potential role of these genes as
+diagnostic biomarkers of colon cancer. A formal comparison of the
+expression differences between sample types for the technical and
+biological validation is shown in Table 2, columns 34. Although
+only p-values are displayed in Table 2, the expression levels of all
+the validated genes behaved consistently throughout the different
+phases, as depicted in Figure S3.
+
+Proof of concept  identification of serum biomarkers
+
+As a pilot proof-of-concept
+
+to demonstrate their potential
+usefulness as colon cancer early diagnostic biomarkers, a selection
+of 9 genes were tested in serum using ELISA tests. The
+prioritization of
+these candidates was based on an extensive
+literature review and availability of commercial ELISA kit.
+
+Results for each protein are shown in Figure 3. Remarkably,
+collagen type X alpha1 (COL10A1) displayed very high concen-
+trations in colon cancer cases and adenomas when compared to
+controls (p = 3.2e-6 and p = 0.0083, respectively). Serum concen-
+trations of COL10A1 in controls, adenomas and colon cancer
+cases by stage are shown in Figure S4. Interestingly, statistically
+significant differences were found when controls were compared to
+each one of the different tumor stages, except Stage I, probably
+due to the small sample size of this group. The area under the
+receiver operating characteristic (ROC) curve was 0.75 for cancer
+and 0.76 when adenoma and colon cancer were considered
+together (Figure 4), showing potential good classification ability.
+Matrix metalloproteinase-7 (MMP7) also showed a significant
+association but was not further considered because it was due to an
+underexpression in adenomas compared to controls, which
+represented the opposite sense of differential expression that we
+were trying to validate. No combination of COL10A1 with any of
+the other proteins significantly increased the area under the ROC
+curve (data not shown).
+
+PLOS ONE | www.plosone.org
+
+5
+
+September 2014 | Volume 9 |
+
+Issue 9 | e106748
+
+Biomarkers for Early Diagnosis of Colon Cancer
+
+Figure 1. Differences in expression between tissue types in the biomarker discovery series. A. Principal component analysis. B.
+Differentially expressed genes between adjacent normal and cancer-free samples. C. Differentially expressed genes between tumor and cancer-free
+samples.
+doi:10.1371/journal.pone.0106748.g001
+
+Discussion
+
+CRC screening with fecal occult blood test has demonstrated
+efficacy in randomized trials. Nonetheless, the low specificity of the
+test suggests the need of more accurate alternative diagnostic tests.
+Sigmoidoscopy, colonoscopy and Computerized Tomography
+scan (i.e. virtual colonoscopy) are strong alternative candidates,
+but all have important limitations, mainly regarding costs, possible
+severe side effects and reduced participation. Participation is an
+important
+is also a
+generalized observation that screening based on fecal occult blood
+test has low participation rates [3133]. Thus, a diagnostic test
+based on a routine blood test would probably be able to reach a
+higher percentage of the population, and public health authorities
+would favor such a test if efficacy and costs were similar to fecal
+occult blood test. With these premises in mind, we started this
+study to search for diagnostic biomarkers that can be detected in
+blood with a simple and affordable ELISA test.
+
+factor for screening effectiveness, and it
+
+Our study of gene expression in colon tissue has confirmed
+previous observations that a large number of genes are deregulated
+in tumor when compared to adjacent normal mucosa. From about
+20,000 genes interrogated in the expression array, and after
+filtering by several restrictive criteria, 505 unique candidate
+biomarkers have been identified (Table S2), with highly significant
+
+results and high capacity to discriminate between paired tumor
+and adjacent normal samples. A strong feature of our study design
+is the inclusion of a set of samples from cancer-free controls
+(n = 50). This has allowed us to identify genes that do not show
+expression differences between adjacent normal and tumor tissue
+from colon cancer patients, as well as
+to confirm that
+overexpressed genes in tumors do not display high expression
+levels in cancer-free colon tissue, which could preclude their
+potential use as biomarkers. We have previously described that
+gene expression of adjacent normal colon mucosa in a patient with
+cancer already has been significantly altered when compared to
+cancer-free colon mucosa [34], which reinforces the need of
+including tissue from cancer-free individuals in projects aiming to
+find diagnosis biomarkers for colon cancer.
+
+The large number of candidates identified in the analysis of
+expression data led us to prioritize which ones were to be selected
+for further validation. We used a combination of criteria, which
+included consistency with other publicly available datasets and
+literature; low or no expression levels in cancer-free mucosa or
+other tissues; expression predominant to colon cancer tissue; and
+selection of secretable proteins. Since the identification of serum
+proteins
+is expensive and time consuming, we undertook a
+technical and biological validation of the best candidates before

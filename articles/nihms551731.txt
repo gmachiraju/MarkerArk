@@ -1,0 +1,1081 @@
+NIH Public Access
+Author Manuscript
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Cancer Res. 2014 January 15; 74(2): 401–411. doi:10.1158/0008-5472.CAN-13-3178.
+
+Urinary Tobacco Smoke Constituent Biomarkers for Assessing
+Risk of Lung Cancer
+Jian-Min Yuan1,2,*, Lesley M. Butler1,2, Irina Stepanov3, and Stephen S. Hecht3
+1Division
+
+of Cancer Control and Population Sciences, University of Pittsburgh Cancer Institute,
+Pittsburgh, PA 15232
+2Department
+
+of Epidemiology, Graduate School of Public Health, University of Pittsburgh,
+Pittsburgh, PA15232
+
+3Masonic
+
+Cancer Center, University of Minnesota, Minneapolis, MN 55455
+
+NIH-PA Author Manuscript
+
+Abstract
+
+NIH-PA Author Manuscript
+
+Tobacco constituent biomarkers are metabolites of specific compounds present in tobacco or
+tobacco smoke. Highly reliable analytical methods, based mainly on mass spectrometry, have been
+developed for quantitation of these biomarkers in both urine and blood specimens. There is
+substantial inter-individual variation in smoking-related lung cancer risk that is determined in part
+by individual variability in the uptake and metabolism of tobacco smoke carcinogens. Thus, by
+incorporating these biomarkers in epidemiological studies we can potentially obtain a more valid
+and precise measure of in vivo carcinogen dose than by using self-reported smoking history,
+ultimately improving the estimation of smoking-related lung cancer risk. Indeed, we have
+demonstrated this by using a prospective study design comparing biomarker levels in urine
+samples collected from smokers many years prior to their development of cancer, versus those in
+their smoking counterparts without a cancer diagnosis. The following urinary metabolites were
+associated with lung cancer risk, independent of smoking intensity and duration: cotinine plus its
+glucuronide, a biomarker of nicotine uptake; 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol and
+its glucuronides (total NNAL), a biomarker of the tobacco carcinogen 4-(methylnitrosamino)-1-(3pyridyl)-1-butanone (NNK); and r-1-,t-2,3,c-4-tetrahydroxy-1,2,3,4-tetrahydrophenanthrene
+(PheT), a biomarker of polycyclic aromatic hydrocarbons (PAH). These results provide several
+possible new directions for using tobacco smoke constituent biomarkers in lung cancer prevention,
+including improved lung cancer risk assessment, intermediate outcome determination in
+prevention trials and regulation of tobacco products.
+
+1. Introduction
+The tobacco epidemic is responsible for 12% of all deaths worldwide among adults over 30
+years of age and is considered the world's leading cause of preventable premature death (1).
+While tobacco consumption has decreased in the U.S. since 2000 (2), worldwide tobacco
+consumption has increased by 75% over the past 30 years to 7.4 million metric tons (3). It is
+
+*
+
+To whom correspondence should be addressed: University of Pittsburgh Cancer Institute, UPMC Cancer Pavilion, Suite 4C, 5150
+Centre Avenue, Pittsburgh, PA 15232, USA; Tel: 412-864-7889; Fax: 412-623-3303; yuanj@upmc.edu.
+
+Yuan et al.
+
+Page 2
+
+NIH-PA Author Manuscript
+
+estimated that there are approximately 1.4 billion smokers worldwide (4). The highly
+addictive nature of nicotine combined with effective exposure of susceptible target tissues to
+carcinogens in tobacco smoke distinguish tobacco products from all other commodities as
+the single greatest cause of cancer-related deaths.
+Lung cancer is one of the most commonly diagnosed cancers, and the leading cause of
+cancer death in the U.S. and worldwide (5, 6). Cigarette smoking is the most important
+causal factor for lung cancer; an estimated 90% of all lung cancer deaths are attributable to
+cigarette smoking (7). An estimated 11% of female smokers and 24% of male smokers may
+die from lung cancer over their lifetime, assuming no competing cause of death (8).
+Cigarette smoke contains 73 established animal carcinogens, 16 of which are rated as
+carcinogenic to humans (9). The inter-individual variation in smoking-related lung cancer
+risk may be determined in part by variability in the uptake and metabolism of tobacco smoke
+carcinogens, such as 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK), N′nitrosonornicotine (NNN) and polycyclic aromatic hydrocarbons (PAH) (10). While there is
+no doubt that exposure to these compounds is a major cause of smoking-related lung cancer,
+we have little ability to predict who among the more than one billion smokers in the world
+will actually get lung cancer.
+
+NIH-PA Author Manuscript
+
+This review will discuss the possible future application of tobacco smoke carcinogen and
+toxicant biomarkers in lung cancer prevention, including improved lung cancer risk
+assessment, intermediate outcome determination in prevention trials and regulation of
+tobacco products.
+
+2. Biomarkers Associated with Tobacco Smoking
+Our group has developed and applied laboratory methods to quantify urinary tobacco
+constituents and their metabolites in humans. The quantified constituents include
+metabolites of nicotine, a highly addictive, non-carcinogenic compound, as well as
+established carcinogens, such as tobacco-specific nitrosamines, PAH, and volatile organic
+compounds (VOC). Below are brief descriptions of the specific biomarkers illustrated in
+Figure 1.
+2.1 Nicotine and its metabolites
+
+NIH-PA Author Manuscript
+
+Nicotine's stimulant effect is a major contributing factor to the dependence-forming
+properties of tobacco smoking. However, nicotine and its major metabolites are noncarcinogenic. Nicotine is extensively metabolized, primarily in the liver, and its major
+proximate metabolite is cotinine: on average, 75% of nicotine is converted to cotinine,
+primarily by the liver enzyme cytochrome P450 2A6 (CYP2A6) (11). Cotinine and cotinineN-glucuronide are metabolites of nicotine; their sum is “total cotinine”. Total cotinine is a
+reliable measure of uptake of nicotine, and widely used as a biomarker of exposure to active
+and passive tobacco smoking. Cotinine is further metabolized to trans-3′-hydroxycotinine
+(3-HC) by the same liver enzyme CYP2A6. The in vivo half-life (t1/2) of cotinine is longer
+(16 hours) than that of nicotine (2 hours) (12). Urinary cotinine concentrations average 4- to
+5-fold higher than those in plasma (13), making urine a more sensitive medium for the
+detection of low-level exposure to tobacco smoke and use of other nicotine-containing
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 3
+
+NIH-PA Author Manuscript
+
+products. Alternatively, urinary total nicotine equivalent, i.e., the sum of total nicotine, total
+cotinine and total 3-HC, represents the uptake and metabolism of total nicotine, and
+presumably a better biomarker for the consumption of cigarettes and other nicotinecontaining products.
+2.2 Tobacco-specific nitrosamines
+The tobacco-specific nitrosamines comprise one of the major groups of carcinogenic
+chemicals in tobacco and cigarette smoke. The formation of tobacco-specific nitrosamines
+occurs primarily during tobacco curing. Among the seven tobacco-specific nitrosamines
+found in tobacco, NNK and NNN are considered the most carcinogenic (10). Both NNK and
+NNN are classified as human carcinogens (Group I) by the International Agency for
+Research on Cancer (IARC) (14).
+
+NIH-PA Author Manuscript
+
+NNK is a strong lung carcinogen capable of inducing lung tumors in rodents independent of
+its route of administration (15). In the rat, the lowest total dose of NNK shown to induce
+lung tumors was 1.8 mg/kg, with a significant dose-response trend (16). This lowest total
+dose in rats is close to the estimated average uptake of 1.1 mg/kg of NNK for a heavy
+smoker with 40 years of smoking (15). NNK itself is not detectable in human urine because
+of its rapid and extensive metabolism to 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+(NNAL) and other products (15, 17).
+NNAL is a major metabolite of NNK. Like NNK, NNAL is an established powerful lung
+carcinogen in rats and mice, although somewhat less carcinogenic than NNK. Urinary total
+NNAL, i.e., the sum of free NNAL and its glucuronides, is a well-established biomarker of
+NNK uptake (10). Thus, NNAL detection in urine signifies exposure to, and uptake of, the
+lung carcinogen NNK. Given that NNK is found only in tobacco products, a major
+advantage of the total NNAL biomarker is its specificity to tobacco smoke exposure.
+Another advantage of urinary total NNAL over other tobacco constituents for epidemiologic
+studies is its relatively long half-life (i.e., 10 days to 3 weeks) (10).
+
+NIH-PA Author Manuscript
+
+Similar to NNK, NNN is produced during curing, aging, and burning of tobacco. Human
+exposure to NNN can be measured via quantitation of unchanged NNN (also called free
+NNN) and its detoxification product NNN-pyridine-N-glucuronide (NNN-N-Gluc) in urine
+(18). The sum of free NNN and NNN-N-Gluc in urine is referred to as total NNN.
+Virtually all unburned commercial tobacco products contain NNN and NNK, and they
+always occur together (14). NNN is also present in smoke from cigars and cigarettes, in the
+saliva of people who chew betel quid with tobacco, and in the saliva of oral-snuff users (19).
+There is great variation in levels of NNN and NNK in mainstream smoke of cigarettes. This
+is mainly due to differences in tobacco types used, agricultural practices, curing methods,
+and manufacturing processes (14). Levels of NNN range from 20 to 58,000 ng per cigarette
+and NNK from 19 to 10,745 ng per cigarette in tobacco from commercial cigarettes sold in
+different parts of the world. In mainstream smoke, the ranges of NNN and NNK were
+reported from 4 to 2830 ng per cigarette and 3 to 1749 ng per cigarette, respectively (14).
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 4
+
+NIH-PA Author Manuscript
+
+A collaborative study between the World Health Organization and the U.S. Centers for
+Disease Control and Prevention found that the levels of NNK plus NNN in the mainstream
+smoke of Marlboro cigarettes purchased in 10 different countries were significantly higher
+than local top-selling brands of cigarettes from the same countries (20). For example, the
+median levels of NNK plus NNN in Marlboro cigarettes in the U.S. were very similar to the
+Marlboro-brand cigarettes sold in China (i.e., 216.3 and 263.1 ng/cigarette, respectively),
+whereas considerably lower median levels were reported in the local popular brands of
+cigarettes in China (Hongtashan: 5.8 ng/cigarette) and India (Gold Flake: 12.4 ng/cigarette)
+(20). These data suggest that differences in cancer risk among smokers, after taking into
+account the number of cigarettes consumed, may be due in part to differences in NNK and
+NNN uptake among smokers consuming different brands of cigarettes.
+2.3 Polycyclic aromatic hydrocarbons (PAH)
+
+NIH-PA Author Manuscript
+
+PAH as a group include hundreds of chemicals that commonly occur as mixtures in the
+environment. PAH are present in cigarette smoke as well as in the general environment
+resulting from incomplete combustion of organic matter. Extensive investigations have
+demonstrated that PAH-enriched cigarette smoke condensate fractions are carcinogenic to
+mouse skin and rat lung (21, 22). Fourteen individual PAH compounds, including the widely
+studied PAH benzo[a]pyrene (BaP), have been rated as having sufficient evidence for
+carcinogenicity in laboratory animals, and BaP is considered carcinogenic to humans (23,
+24).
+We have developed and validated several biomarkers for PAH uptake and metabolism
+(25-27). r-1,t-2,3,c-4-Tetrahydroxy-1,2,3,4-tetrahydrophenanthrene (PheT) is a metabolite
+of phenanthrene, the simplest PAH with a bay region, a feature that is closely associated
+with the carcinogenicity. 1-Hydroxyprene is a metabolite of the noncarcinogenic pyrene that
+is always a component of PAH mixtures. We applied these biomarkers in smokers and
+nonsmokers in epidemiological studies (28-30).
+2.4 Volatile Organic Compounds
+
+NIH-PA Author Manuscript
+
+Besides tobacco-specific nitrosamines and PAH, tobacco smoke contains a myriad of
+volatile organic compounds that are toxic and some may be carcinogenic to humans. Levels
+in mainstream smoke of the routinely quantified volatile organic compounds acrolein,
+benzene, 1,3-butadiene, and crotonaldehyde are 100 to 1000 times greater than those of
+typical PAH and NNK (28). Urinary mercapturic acids are well-established and validated
+biomarkers of uptake of these compounds (shown in Figure 1), and all are found at higher
+levels in the urine of smokers than in non-smokers (28, 31). Benzene, 1,3-butadiene, and
+ethylene oxide are considered carcinogenic to humans by the IARC, based mainly on
+occupational studies and mechanistic data related to hematopoietic malignancies (32, 33).
+Acrolein is a highly toxic but marginally carcinogenic compound while crotonaldehyde is a
+relatively weak hepatocarcinogen (34, 35).
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 5
+
+3. Biomarkers of tobacco smoke constituents in relation to risk of lung
+NIH-PA Author Manuscript
+
+cancer
+Only an estimated 11% to 24% of lifelong smokers may die from lung cancer over their
+lifetimes (8). This variability in susceptibility to lung cancer among smokers is due in part to
+the fact that not all smokers of a given frequency of cigarette use are exposed to the same
+levels of tobacco constituents. Sources of variability of the in vivo dose of tobacco smoke
+carcinogens include preference for certain brands of cigarettes that contain different levels
+of carcinogens, as well as differences in smoking behaviors, such as intensity of smoking,
+number of puffs per cigarette, and depth of inhalation. A biomarker approach would more
+directly and closely measure the internal dose to tobacco smoke constituents, therefore
+potentially providing a better estimate of the risk of developing lung cancer.
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Utilizing the Shanghai Cohort Study, we conducted a series of nested case-control studies to
+examine the association between urinary biomarkers of cigarette smoke constituents and the
+risk of developing lung cancer among current smokers. The Shanghai Cohort Study enrolled
+18,244 men between January 1, 1986 and September 30, 1989 (36, 37). At enrollment all
+subjects were between 45 and 64 years old and lived in one of four geographically defined
+communities in the city of Shanghai, China. In-person interviews were conducted and a
+urine sample was obtained from each subject upon enrollment. Cases of lung cancer were
+identified annually by in-person re-interviews of all surviving cohort members and routine
+review of reports from the Shanghai Cancer Registry and the Shanghai Municipal Vital
+Statistics Office. For the nested case-control study, we included lung cancer patients who
+smoked cigarettes at enrollment (i.e., at the time of urine collection). For each case, we
+randomly selected one control subject from all cohort members who were current smokers at
+enrollment, without a history of cancer, and alive at the time of cancer diagnosis of the index
+case. Controls were matched to the index case by age at enrollment (±2 years), year and
+month of urine collection (±1 month), and the same neighborhood of residence at
+recruitment. Urine samples were retrieved from the biorepository of the cohort study and
+analyzed for the following tobacco smoke carcinogen and toxicant biomarkers: total
+cotinine, total NNAL, total NNN, PheT, and mercapturic acid metabolites of acrolein,
+benzene, 1,3-butadiene, crotonaldehyde, and ethylene oxide. In this paper, we review of
+findings from the Shanghai Cohort Study and other prospective studies for associations
+between urinary metabolites of nicotine, tobacco-specific nitrosamines, PAH and volatile
+organic compounds and lung cancer risk. Table 1 summarizes the main findings on these
+biomarkers in relation to lung cancer from the Shanghai Cohort Study and other selected
+studies with a similar design.
+3.1 Nicotine Metabolites
+Several epidemiologic studies, mainly using a cross-sectional or retrospective study design,
+have been carried out to examine the association between plasma or urinary cotinine, a
+major metabolite of nicotine, and risk of lung cancer. Among the earliest reported findings
+based on prospective epidemiologic data was from a nested case-control study of 92 lung
+cancer cases and 305 controls from over 26,000 women aged 40-64 living in The
+Netherlands (38). The study reported an odds ratio of lung cancer for the highest tertile level
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 6
+
+NIH-PA Author Manuscript
+
+of urinary total nicotine metabolites to be 18.8 (95% CI: 8.2, 42.9), compared with those
+with negative measurement of urinary nicotine and its pyridyl-containing metabolites. A
+trend was observed with increasing lung cancer risk among smokers by level of urinary total
+nicotine metabolites. Similar findings have since been replicated in a few prospective
+epidemiological studies (39, 40).
+
+NIH-PA Author Manuscript
+
+Based on the Shanghai Cohort Study, we conducted a nested case-control study of lung
+cancer among men who were self-reported current smokers and whose urinary cotinine
+levels were 35 ng/ml or higher. Our initial report among 155 lung cancer cases and 152
+controls showed that current smokers with the highest tertile of urinary total cotinine (≥2615
+ng/mg creatinine) had an odds ratio of 3.76 (95% confidence interval = 1.75 – 8.06) relative
+to smokers with the lowest tertile of total cotinine (35 – ≤1196 ng/mg creatinine) after
+adjustment for number of cigarettes per day, number of years of smoking, and urinary total
+NNAL (P for trend = 0.002) (39). We expanded this initial study to include 476 lung cancer
+cases and 476 controls from the same Shanghai Cohort Study and reported a similar
+association between urinary total cotinine and lung cancer risk; odds ratios [95% confidence
+intervals (CI)] for the 2nd and 3rd tertile of total cotinine were 2.18 (1.43-3.32) and 3.52
+(2.30-5.41), respectively, compared to the lowest tertile (P for trend <0.001), also with
+adjustment for smoking intensity (cigarettes per day) and duration (number of years of
+smoking), and urinary total NNAL, in addition to urinary PheT (30).
+In addition to the Shanghai cohort study, two nested case-control studies of lung cancer were
+also conducted among current smokers. Using the Singapore Chinese Health Study dataset,
+Yuan et al. conducted a nested case-control study of lung cancer (91 cases and 93 controls)
+and reported a two-fold increased risk of lung cancer for the highest relative to the lowest
+tertile of urinary total cotinine among current smokers, and the elevated risk diminished
+slightly after adjustment for urinary total NNAL (39). In contrast, a positive association was
+not observed between serum cotinine level and lung cancer risk in a nested case-control
+study of lung cancer among current smokers (100 cases and 100 matched controls) that was
+conducted by Church et al. utilizing the dataset of the Prostate, Lung, Colorectal, and
+Ovarian Cancer Screening Trial (PLCO) conducted and did not find a positive association
+(41).
+
+NIH-PA Author Manuscript
+
+The following two nested case-control studies were conducted among both nonsmokers and
+smokers. Based on the European Prospective Investigation into Cancer and Nutrition (EPIC)
+cohort, an ongoing prospective study of over 520,000 men and women between 1992 and
+2000 from 10 European countries, Timofeeva et al. conducted a nested case-control study of
+lung cancer including current and former smokers as well as never smokers (894 cases and
+1,805 matched controls). Lung cancer risk increased monotonically with increasing serum
+cotinine levels; odds ratio of lung cancer was 12.4 (95% CI: 7.1, 21.9) for subjects in the
+highest decile (serum cotinine >1,800 nmol/L or >316.8 ng/mL) relative to nonsmokers
+(serum cotinine <75 nmol/L or <13.2 ng/mL) after adjustment for number of cigarettes per
+day (42). In a similar analysis involving 1,741 lung cancer cases and the same number of
+matched controls of smokers and nonsmokers in Norway, Boffetta et al. reported a
+statistically significant positive association between serum cotinine levels and lung cancer
+risk in a dose-dependent manner. Compared with nonsmokers (serum cotinine <5 ng/mL or
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 7
+
+NIH-PA Author Manuscript
+
+<29 nmol/L), current smokers in the highest level of serum cotinine (>378.8 ng/mL or
+>2,149 nmol/L) had an odds ratio of 55.1 (95% CI: 35.7, 85.0) of lung cancer (40). Among
+those with smoking information in the analytic sample, there were 16% never, 17% former
+and 67% current smokers. Compared with individuals who had serum cotinine levels ≤5
+ng/mL, which included never smokers, smokers with 24.8-114.7 ng/mL of serum cotinine
+(i.e., the third highest group of cotinine) had an odds ratio of 2.80 (95% CI: 1.55, 5.05) and
+smokers with >378.8 ng/mL of serum cotinine (i.e., the eighth or highest group of cotinine
+levels in the study) had an odds ratio of 55.1 (95% CI: 35.7, 85.0) for lung cancer. These
+results were not adjusted for smoking history (e.g., status, intensity, duration) or other
+biomarkers of tobacco carcinogens. It is worth pointing out that while there is no definitive
+cutpoint for cotinine to separate smokers from nonsmokers (43) the most widely used
+cutpoint is 14 ng/mL in serum and 50 ng/mL in urine (44).
+
+NIH-PA Author Manuscript
+
+A stronger association between cotinine levels and lung cancer risk observed in the studies
+by Timofeeva et al. and Boffetta et al. was due to the inclusion of never smokers and former
+smokers who supposedly had very low or undetectable levels of cotinine in their body fluids
+given a relatively short half-life of cotinine. On the other hand, the studies by Yuan et al.(30,
+39) and Church, et al. (41) included only current smokers with certain elevated levels of
+cotinine in urine or serum, which resulted in a narrow range of cotinine and a flattened doseresponse relationship for cotinine and lung cancer risk. In addition, the adjustment for
+smoking intensity and duration and additional biomarkers of tobacco carcinogens (e.g.,
+NNAL and PheT) could further attenuate the association between cotinine and lung cancer
+risk. Nonetheless, a statistically significant association between urinary total cotinine and
+lung cancer risk even after adjustment for these tobacco carcinogen biomarkers (i.e, NNAL
+and PheT) in the Shanghai Cohort Study (30) suggests that cotinine, while not carcinogenic,
+is acting as a surrogate for other important compounds in cigarette smoke that have yet to be
+characterized in terms of lung cancer risk in humans.
+3.2 Total NNAL and total NNN
+
+NIH-PA Author Manuscript
+
+A limited number of studies have examined levels of total NNAL and risk of lung cancer in
+smokers. Using the nested case-control study of lung cancer within the Shanghai Cohort
+Study described above, we found that smokers who developed lung cancer had statistically
+significantly higher levels of total NNAL in baseline urine samples than smokers who did
+not develop lung cancer (P < 0.001). The risk of lung cancer doubled for smokers with the
+highest tertile of urinary total NNAL relative to the lowest tertile after adjustment for
+smoking intensity and duration and urinary total cotinine (odds ratio = 2.04; 95% CI = 1.02,
+4.05; P for trend = 0.04) (39). In the follow-up study with a larger sample size (476 cases
+and 476 controls) within the same Shanghai Cohort Study, we found a similar relative risk
+for lung cancer associated with elevated levels of urinary total NNAL (odds ratio = 1.93;
+95% CI: 1.28, 2.90) after adjustment for smoking intensity and duration, and urinary total
+cotinine and PheT (30). We also conducted a case-control study nested within the Singapore
+Chinese Health Study and found a similar result; the multivariate-adjusted odds ratio for
+lung cancer was 2.64 (95% CI: 1.10, 6.34) for the highest tertile versus the lowest tertile of
+total NNAL (39).
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 8
+
+NIH-PA Author Manuscript
+
+In a U.S.-based case-control study nested within the PLCO, total NNAL was associated with
+a 1.57 times increase in lung cancer risk per standard deviation, or 40 fmol/mL (P=0.018)
+(41). In this study, total NNAL, PheT and total cotinine were measured in serum collected
+prior to lung cancer diagnosis among 100 cases and 100 matched controls; all of them were
+current smokers consuming 10 or more cigarettes/day. The statistically significant
+association for NNAL remained after adjustment for number of years of smoking, serum
+cotinine and PheT.
+
+NIH-PA Author Manuscript
+
+Like NNK, NNN is produced by the nitrosation of alkaloids specific to tobacco, therefore,
+NNN and NNK always occur together (14). Experimental studies have demonstrated that
+NNN is a potent carcinogen to the oral cavity and esophagus, but a relatively weak
+carcinogen to the lung of rats (15, 45). Utilizing the Shanghai cohort study database, we
+observed no association between urinary total NNN and lung cancer risk; the odds ratios
+(95% CIs) for the 2nd and 3rd tertiles of total NNN were 0.82 (0.36-1.88) and 1.02
+(0.39-2.89), respectively (P for trend = 0.959), after adjustment for smoking intensity and
+duration, and urinary total cotinine (46). In the same cohort, we have previously observed
+and reported a strong, dose-dependent relationship between urinary NNN and esophageal
+cancer risk in current smokers (47). The odds ratios (95% CIs) of esophageal cancer for the
+2nd and 3rd tertiles of urinary total NNN were 3.99 (1.25-12.7) and 17.0 (3.99-72.8),
+respectively, compared to the 1st tertile after adjustment for smoking intensity and duration,
+and urinary total cotinine and total NNAL (P for trend <0.001). These results are strikingly
+coherent with the findings of studies in F-344 rats demonstrating that NNK is a carcinogen
+selective for the lung while NNN affects the esophagus and oral cavity.
+3.3 PheT
+
+NIH-PA Author Manuscript
+
+As described above in the nested case-control study of lung cancer in current smokers within
+the Shanghai Cohort Study, we quantified urinary levels of PheT in 476 lung cancer cases
+and the same number of matched controls to examine if PheT levels are associated with risk
+of lung cancer (30). Compared with the lowest quintile, odds ratios (95% CIs) for lung
+cancer in the 2nd, 3rd, 4th, and 5th quintiles of urinary PheT were 1.70 (1.00-2.88), 1.07
+(0.62-1.84), 1.48 (0.86-2.53) and 2.34 (1.33-4.11), respectively (P for trend = 0.023) after
+adjustment for number of cigarettes smoked per day, number of years of smoking, and
+urinary total cotinine and total NNAL. In the same cohort, we also conducted a nested casecontrol of lung cancer in lifelong nonsmokers and found a statistically significant positive
+association between urinary biomarkers of PAH, including PheT, and lung cancer risk in a
+dose-dependent manner (29). These results also demonstrate a role of PAH in the
+development of lung cancer independent of tobacco carcinogens.
+Results from the case-control study nested within the PLCO, however, do not support the
+role of PAH in the development of lung cancer in smokers (41). Mean serum PheT levels
+were higher in cases than controls, but the difference was not statistically significant
+(P=0.204). Results from the multivariable logistic regression model also indicated a small,
+but statistically non-significant association after adjustment for smoking duration, serum
+total cotinine and total NNAL (odds ratio=1.23; 95% CI: 0.88, 1.72, per one standard
+deviation increase in PheT). The small size of the study (100 case-control pairs), as well as
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 9
+
+NIH-PA Author Manuscript
+
+the general occurrence of PAH in the diet and the environment (as opposed to tobaccospecific compounds such as nicotine, NNK, and NNN), may have contributed to the null
+results (41).
+3.4 Volatile Organic Compounds
+We quantified urinary mercapturic acid metabolites of acrolein, benzene, 1,3-butadiene,
+crotonaldehyde, and ethylene oxide in addition to urinary biomarkers of PAH, NNK, and
+nicotine in 343 lung cancer cases and 392 matched controls within the Shanghai Cohort
+Study described above (48). Compared with the lowest quartiles, highest quartiles of all
+measured mercapturic acids were associated with statistically significantly approximately
+two-fold increased risk for lung cancer (all P's for trend <0.01) after adjustment for smoking
+intensity and duration. These positive associations were completely explained by urinary
+total cotinine in addition to smoking intensity and duration. Therefore, mercapturic acid
+metabolites of these volatile organic compounds are not independent risk predictors of lung
+cancer among male smokers in Shanghai, China.
+3.5 Multivariable Model of Lung Cancer Risk Among Smokers
+
+NIH-PA Author Manuscript
+
+We examined the joint effect of three urinary biomarkers – total cotinine, total NNAL, and
+PheT on risk of lung cancer in current smokers. For example, smokers in the highest tertiles
+of urinary total NNAL and total cotinine exhibited an 8.5-fold (95% CI: 3.7, 19.5) increased
+risk for lung cancer relative to smokers with comparable smoking intensity and duration but
+possessing the lowest tertiles of urinary total NNAL and total cotinine (39). When we
+simultaneously examined the number of cigarettes per day, number of years of smoking,
+urinary total cotinine, PheT, and total NNAL in current smokers, all five variables were
+statistically significantly associated with an increased risk of lung cancer (all P for trend <
+0.05) (30). Odds ratios (95% CIs) for lung cancer were 1.93 (1.27-2.93) for number of packs
+of cigarettes per day (20 cigarettes per pack) and 1.94 (1.52-2.47) for every 10 years of
+smoking (30). Among the three urinary biomarkers, the multivariable-adjusted odds ratios
+(95% CIs) for lung cancer for one unit in natural logarithmic value (an equivalent of 2.7-fold
+increment) of total cotinine, total NNAL, and PheT was 1.64 (1.34-2.01), 1.28 (1.02-1.59),
+and 1.41 (1.02-1.93), respectively (30). In summary, these three biomarkers were positively
+associated with lung cancer risk among current smokers, independent of smoking history.
+
+NIH-PA Author Manuscript
+
+4. Discussion
+The worldwide burden of lung cancer is expected to continue growing given that worldwide
+consumption of tobacco continues to increase and cigarette smoking will remain the single
+most important causal factor for lung cancer. However, only one quarter of deaths among
+male smokers are attributed to lung cancers over their lifetime (8). Interview-based
+assessment of smoking intensity and duration has limitation in capturing inter-individual
+variability in uptake and metabolism of tobacco carcinogens. In this review, we have
+demonstrated that appropriately chosen biomarkers would have potential to improve the
+assessment of lung cancer risk over a model based solely on self-reported history of
+smoking habits for current smokers.
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 10
+
+NIH-PA Author Manuscript
+
+A biomarker approach to evaluate the heterogeneity of lung cancer risk among smokers has
+advantages. The measurement of the biomarker is objective and provides a direct link
+between the parent compound and lung cancer risk. These biomarkers, when validated for
+their direct relation with lung cancer, could be used as intermediate markers to assess the
+effectiveness of cancer prevention strategies among smokers. Important among these could
+be the identification of susceptible smokers at a young age, when preventive interventions
+are more likely to be effective.
+
+NIH-PA Author Manuscript
+
+The strengths and limitations of a specific biomarker are also dependent on their
+characteristics of being tobacco-specific (e.g., without significant non-tobacco exposure
+sources), having a relatively long half-life (e.g., representative of long-term exposure),
+and/or being a carcinogen or a metabolite of an established carcinogen (17). Among the four
+biomarkers for which our data support being independent risk factors for cancer among
+smokers, total cotinine, total NNAL, and total NNN are excellent measures of nicotine,
+NNK, and NNN uptake, respectively. Given their specific source of tobacco, total cotinine
+and total NNAL have been used to evaluate environmental tobacco smoke exposure in
+nonsmokers (43, 49, 50). On the other hand, the PAH biomarker, PheT, could be derived
+from multiple sources. PAH are ubiquitous environmental contaminants formed in all
+processes involving incomplete combustion of organic matter (24, 51). The ubiquity of PAH
+in the environment and their lack of tobacco specificity could contribute to the relatively
+weak association between PheT and lung cancer risk in the PLCO study (41).
+Of the four tobacco constituents, NNAL and its parent compound NNK as well as NNN are
+carcinogenic (15). PheT is a metabolite of the non-carcinogenic PAH phenanthrene, but the
+metabolism of phenanthrene to PheT closely parallels that of BaP, a strong PAH carcinogen
+capable of inducing tumors of the lung and other tissues in rodents, and rated as
+carcinogenic to humans (24). Cotinine is the major metabolite of nicotine, a noncarcinogenic constituent of tobacco smoke. However, each dose of nicotine delivered from a
+cigarette is accompanied by at least 70 established carcinogens. Thus, nicotine and its
+metabolites could be a good surrogate biomarker for the uptake of other carcinogens in
+tobacco smoke for which biomarkers have yet to be developed.
+
+NIH-PA Author Manuscript
+
+A biomarker with a longer half-life has advantages over shorter-lived biomarkers in terms of
+being able to capture exposures that occurred in the more distant past. NNAL has the longest
+half-life (t1/2=10 days to 3 weeks) of the four biomarkers. The positive association between
+total NNAL and lung cancer risk among the three study populations (30, 39, 41) support that
+notion. Although cotinine is a well-established biomarker for nicotine due to its high and
+frequent uptake, a well-known limitation is the inability to distinguish the source of nicotine
+from non-tobacco (e.g., nicotine patch) versus tobacco products. Furthermore, the half-life
+of cotinine is short compared to that of NNAL.
+In summary, no single biomarker of tobacco smoke constituents stands out as the best for
+stratifying smokers by risk of lung cancer. Our finding that urinary cotinine was positively
+associated with lung cancer risk among smokers, after adjustment for urinary NNAL and
+PheT, as well as smoking duration and intensity, supports the hypothesis that other
+compounds in tobacco smoke are also likely to play a role in the development of lung cancer
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+
+in smokers. Additional research is required to develop and validate biomarkers that could be
+used to predict the risk of lung cancer for smokers. An effective set of non-invasive,
+predictive markers of lung cancer risk could allow the identification of the relatively small
+fraction of smokers at very high risk for lung cancer. This would help to target lung cancer
+screening and smoking cessation efforts to smokers at extremely high risk. The current
+recommendations for lung cancer screening are for annual low-dose computed tomography
+among smokers 55 to 79 years of age and with 30 or more pack-years of smoking (52).
+While these screening efforts will play an important role in identifying lung tumors at their
+early stage when effective treatment options are available, the high false-positive detection
+rate hinders the application of this screening method to large populations of smokers (53). A
+metabolite panel in addition to smoking history information may be able to reduce the false
+positive rate associated with the use of CT scanning alone to identify lung tumors among
+asymptomatic smokers.
+
+NIH-PA Author Manuscript
+
+A demonstrated utility of tobacco-constituent biomarkers that has not been fully explored is
+their use as intermediate outcomes in chemoprevention trials among smokers. Our group and
+others have contributed to the body of laboratory evidence that implicates NNK in lung
+carcinogenesis in humans and 2-phenethyl isothiocyanate (PEITC) as a chemopreventive
+agent against NNK-induced lung carcinogenesis (51, 54, 55) . To elucidate the potentially
+causal relationship between dietary isothiocyanates (ITC) and lung cancer protection in
+humans, Hecht et al. assessed the changes in urinary total NNAL in 11 cigarette smokers
+following quantified consumption of watercress, a rich source of PEITC. Similar to results
+in the rodent experiments (54), the consumption of watercress significantly enhanced
+urinary excretion of total NNAL, indicating the activation of a possible NNK detoxification
+pathway (56). Therefore, the identified biomarkers of lung cancer risk could be further
+developed as intermediate markers for the evaluation of cancer prevention strategies that
+involve the detoxification of NNK in smokers.
+
+NIH-PA Author Manuscript
+
+Using a biomarker-based approach to measure metabolites in human urine that reflect the in
+vivo dose to tobacco smoke constituents and evaluate the relationship between metabolite
+levels and lung cancer risk has important implications in public health and in setting policy
+that limits the health and in setting policy that limits the contents and levels of specific
+compounds in cigarettes, including nicotine and tobacco carcinogens (e.g., tobacco-specific
+nitrosamines) (9, 57). The technology is certainly available to reduce these carcinogens in
+tobacco products by selecting certain types of tobacco leaves and by altering the
+agricultural, curing and storage processes. For example, it has been shown that levels of
+NNN and NNK in selected popular brands of smokeless tobacco that were more recently
+introduced into the market is about 6- and 8-fold lower than the popular traditional brands,
+respectively (58). Cigarettes containing lower amounts of nicotine (i.e. 0.05 mg per
+cigarette) are associated with reduced carcinogen exposure and reduced nicotine dependence
+(59). In addition to establishing regulation of cigarettes that set maximum allowable toxicant
+levels, additional studies are warranted to demonstrate the reduction of lung cancer risk in
+smokers who consume cigarettes or other tobacco products with reduced carcinogens and
+toxicants.
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+
+A relatively new product, the electronic cigarette (e-cigarette), is growing in popularity,
+particularly among youths. The National Youth Tobacco Survey by the Centers for Disease
+Control and Prevention found that the prevalence of e-cigarette use in high school students
+in the U.S. doubled in the recent 2 to 3 years from 4.7% in 2011 to 10% in 2012 (P<0.05)
+(60). Currently e-cigarettes are unregulated, although the FDA is being urged to propose
+regulations that will address the advertising, ingredients and sale to minors of e-cigarettes.
+E-cigarettes deliver nicotine to the user in the form of a vapor. Nicotine, although not
+carcinogenic per se, often contains nornicotine as an impurity, and nornicotine is easily
+converted to NNN endogenously by reaction with salivary nitrite. Previous studies have
+shown large increase of urinary total NNN in individuals after they used oral nicotine
+replacement therapy products such as nicotine gum or lozenge (61, 62). The rise of ecigarette use in the U.S., particularly among youths, and the potential for endogenous
+formation of NNN from nicotine present in e-cigarette vapor suggest a need for future
+research in which the values of urinary biomarker of tobacco-specific nitrosamines and
+nicotine metabolites could be used to quantify carcinogen exposure and possibly cancer risk
+associated with e-cigarette use.
+
+NIH-PA Author Manuscript
+
+In summary, the data reviewed here demonstrate that several tobacco smoke toxicant and
+carcinogen biomarkers – total cotinine, total NNAL, PheT, and total NNN – are not only
+biomarkers of exposure but also are biomarkers of cancer risk. Based on comparison of
+smokers who eventually developed lung cancer versus their healthy counterparts, total
+cotinine, total NNAL, and PheT were risk biomarkers for lung cancer while total NNN was
+a risk biomarker for esophageal cancer. These results provide several possible new
+directions by which tobacco smoke biomarkers could be used for lung cancer prevention.
+With future research devoted to identifying additional objective biomarkers of tobacco
+constituents, we hope to improve lung cancer risk assessment. Tobacco constituent
+biomarkers are as intermediate endpoints in lung cancer prevention trials among smokers.
+Given the long latent period for cancer development, using changes in biomarker levels, for
+example, between intervention and control groups could provide results more quickly and at
+less cost than waiting for cancer outcomes. Finally, the use of these and newly discovered
+tobacco smoke constituent biomarkers for the purpose of establishing targets for regulation
+of tobacco products is another direction that deserves emphasis in future research.
+
+NIH-PA Author Manuscript
+
+Acknowledgments
+These studies were supported by U.S. National Institutes of Health grants R01 CA-129534, CA-144034, CA-92025
+and CA-81301.
+
+References
+1. World Health Organization; Geneva, Switzerland: 2012. WHO global report: mortality attributable
+to tobacco. Available at: http://whqlibdoc.who.int/publications/2012/9789241564434_eng.pdf
+2. Centers for Disease Control and Prevention. Consumption of cigarettes and combustible tobacco-United States, 2000-2011. MMWR Morbidity and mortality weekly report. 2012; 61:565–569.
+[PubMed: 22854624]
+3. Food and Agriculture Organization of the United Nations. FAO; Rome, Italy: 2003. Projections of
+Tobacco Production, Consumption and Trade to the Year 2010. Available at: http://www.fao.org/
+docrep/006/y4956e/y4956e00.htm#Contents”
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 13
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+4. Guindon, GE.; Boisclair, D. Past, current and future trends in tobacco use. Economics of Tobacco
+Control Paper No.6. Health, Nutrition and Population (HNP) Discussion Paper. 2003. Available at:
+http://siteresources.worldbank.org/HEALTHNUTRITIONANDPOPULATION/Resources/
+281627-1095698140167/Guindon-PastCurrent-whole.pdf
+5. Siegel R, Naishadham D, Jemal A. Cancer statistics, 2013. CA: a cancer journal for clinicians. 2013;
+63:11–30. [PubMed: 23335087]
+6. Jemal A, Bray F, Center MM, Ferlay J, Ward E, Forman D. Global cancer statistics. CA: a cancer
+journal for clinicians. 2011; 61:69–90. [PubMed: 21296855]
+7. International Agency for Research on Cancer. IARC Monographs on the Evaluation of Carcinogenic
+Risk to Humans. Vol. 83. Lyon, France: IARC Scientific Publications; 2004. Tobacco smoke and
+involuntary smoking; p. 36-40.
+8. Thun MJ, Henley SJ, Calle EE. Tobacco use and cancer: an epidemiologic perspective for
+geneticists. Oncogene. 2002; 21:7307–7325. [PubMed: 12379875]
+9. Hecht SS. Research opportunities related to establishing standards for tobacco products under the
+Family Smoking Prevention and Tobacco Control Act. Nicotine Tob Res. 2012; 14:18–28.
+[PubMed: 21324834]
+10. Hecht SS. Tobacco carcinogens, their biomarkers and tobacco-induced cancer. Nature Reviews
+Cancer. 2003; 3:733–744.
+11. Hukkanen J, Jacob P 3rd, Benowitz NL. Metabolism and disposition kinetics of nicotine.
+Pharmacological Reviews. 2005; 57:79–115. [PubMed: 15734728]
+12. Benowitz NL, Hukkanen J, Jacob P 3rd. Nicotine chemistry, metabolism, kinetics and biomarkers.
+Handbook of experimental pharmacology. 2009:29–60. [PubMed: 19184645]
+13. Benowitz NL, Dains KM, Dempsey D, Herrera B, Yu L, Jacob P 3rd. Urine nicotine metabolite
+concentrations in relation to plasma cotinine during low-level nicotine exposure. Nicotine Tob
+Res. 2009; 11:954–960. [PubMed: 19525206]
+14. International Agency for Research on Cancer. Smokeless tobacco and tobacco-specific
+nitrosamines. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. Vol. 89.
+Lyon, France: IARC Scientific Publications; 2007.
+15. Hecht SS. Biochemistry, biology, and carcinogenicity of tobacco-specific N-nitrosamines.
+Chemical Research in Toxicology. 1998; 11:559–603. [PubMed: 9625726]
+16. Belinsky SA, Foley JF, White CM, Anderson MW, Maronpot RR. Dose-response relationship
+between O6-methylguanine formation in Clara cells and induction of pulmonary neoplasia in the
+rat by 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone. Cancer Research. 1990; 50:3772–3780.
+[PubMed: 2340522]
+17. Hecht SS. Human urinary carcinogen metabolites: biomarkers for investigating tobacco and
+cancer. Carcinogenesis. 2002; 23:907–922. [PubMed: 12082012]
+18. Stepanov I, Hecht SS. Tobacco-specific nitrosamines and their pyridine-N-glucuronides in the
+urine of smokers and smokeless tobacco users. Cancer Epidemiol Biomarker Prev. 2005; 14:885–
+891.
+19. Knezevich A, Muzic J, Hatsukami DK, Hecht SS, Stepanov I. Nornicotine nitrosation in saliva and
+its relation to endogenous synthesis of N′-nitrosonornicotine in humans. Nicotine Tob Res. 2013;
+15:591–595. [PubMed: 22923602]
+20. Wu W, Zhang L, Jain RB, Ashley DL, Watson CH. Determination of carcinogenic tobaccospecific nitrosamines in mainstream smoke from U.S.-brand and non-U.S.-brand cigarettes from
+14 countries. Nicotine Tobacco Res. 2005; 7:443–451.
+21. Stanton MF, Miller E, Wrench C, Blackwell R. Experimental induction of epidermoid carcinoma
+in the lungs of rats by cigarette smoke condensate. J Natl Cancer Inst. 1972; 49:867–877.
+[PubMed: 4647499]
+22. Hoffmann D, Wynder EL. A study of tobacco carcinogenesis. XI. Tumor initiators, tumor
+accelerators, and tumor promoting activity of condensate fractions. Cancer. 1971; 27:848–864.
+[PubMed: 5574075]
+23. Rodgman, A.; Perfetti, TA. The Chemical Components of Tobacco and Tobacco Smoke. Boca
+Raton: CRC Press; 2009.
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 14
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+24. International Agency for Research on Cancer. Some Non-heterocyclic Polycyclic Aromatic
+Hydrocarbons and Some Related Exposures IARC Monographs on the Evaluation of Carcinogenic
+Risks to Humans. Vol. 92. Lyon, France: IARC Scientific Publications; 2010.
+25. Hecht SS, Carmella SG, Le KA, et al. Effects of reduced cigarette smoking on levels of 1hydroxypyrene in urine. Cancer epidemiology, biomarkers & prevention : a publication of the
+American Association for Cancer Research, cosponsored by the American Society of Preventive
+Oncology. 2004; 13:834–842.
+26. Hecht SS, Chen M, Yagi H, Jerina DM, Carmella SG. r-1,t-2,3,c-4-Tetrahydroxy-1,2,3,4tetrahydrophenanthrene in human urine: a potential biomarker for assessing polycyclic aromatic
+hydrocarbon metabolic activation. Cancer Epidemiol Biomarker Prev. 2003; 12:1501–1508.
+27. Carmella SG, Chen M, Yagi H, Jerina DM, Hecht SS. Analysis of phenanthrols in human urine by
+gas chromatography-mass spectrometry: potential use in carcinogen metabolite phenotyping.
+Cancer epidemiology, biomarkers & prevention : a publication of the American Association for
+Cancer Research, cosponsored by the American Society of Preventive Oncology. 2004; 13:2167–
+2174.
+28. Carmella SG, Chen M, Han S, et al. Effects of smoking cessation on eight urinary tobacco
+carcinogen and toxicant biomarkers. Chem Res Tox. 2009; 22:734–741.
+29. Yuan JM, Butler LM, Gao YT, et al. Urinary metabolites of a polycyclic aromatic hydrocarbon and
+volatile organic compounds in relation to lung cancer development in lifelong never smokers in
+the Shanghai Cohort Study. Carcinogenesis. 2013
+30. Yuan JM, Gao YT, Murphy SE, et al. Urinary levels of cigarette smoke constituent metabolites are
+prospectively associated with lung cancer development in smokers. Cancer Res. 2011; 71:6749–
+6757. [PubMed: 22028322]
+31. Hecht SS, Yuan JM, Hatsukami D. Applying tobacco carcinogen and toxicant biomarkers in
+product regulation and cancer prevention. Chemical Research in Toxicology. 2010; 23:1001–1008.
+[PubMed: 20408564]
+32. International Agency for Research on Cancer. 1,3-Butadiene, ethylene oxide and vinyl halides
+(vinyl fluoride, vinyl chloride and vinyl bromide). IARC Monographs on the Evaluation of
+Carcinogenic Risks to Humans. Vol. 97. Lyon, France: IARC Scientific Publications; 2008.
+33. International Agency for Research on Cancer. Some industrial chemicals IARC monographs on the
+evaluation of the carcinogenic risk of chemicals to humans. Vol. 60. Lyon, France: IARC
+Scientific Publications; 1994.
+34. International Agency for Research on Cancer. Acrolein IARC monographs on the evaluation of
+carcinogenic risks to humans. Vol. 63. Lyon, France: IARC Scientific Publications; 1995.
+35. International Agency for Research on Cancer. Dry cleaning, some chlorinated solvents and other
+industrial chemicals. IARCn monographs on the evaluation of carcinogenic risks to humans. Vol.
+63. Lyon, France: IARC Scientific Publications; 1995.
+36. Ross RK, Yuan JM, Yu MC, et al. Urinary aflatoxin biomarkers and risk of hepatocellular
+carcinoma. Lancet. 1992; 339:943–946. [PubMed: 1348796]
+37. Yuan JM, Ross RK, Wang XL, Gao YT, Henderson BE, Yu MC. Morbidity and mortality in
+relation to cigarette smoking in Shanghai, China. A prospective male cohort study. JAMA. 1996;
+275:1646–1650. [PubMed: 8637137]
+38. Ellard GA, de Waard F, Kemmeren JM. Urinary nicotine metabolite excretion and lung cancer risk
+in a female cohort. Br J Cancer. 1995; 72:788–791. [PubMed: 7669596]
+39. Yuan JM, Koh WP, Murphy SE, et al. Urinary levels of tobacco-specific nitrosamine metabolites
+in relation to lung cancer development in two prospective cohorts of cigarette smokers. Cancer
+Res. 2009; 69:2990–2995. [PubMed: 19318550]
+40. Boffetta P, Clark S, Shen M, Gislefoss R, Peto R, Andersen A. Serum cotinine level as predictor of
+lung cancer risk. Cancer Epidemiol Biomarker Prev. 2006; 15:1184–1188.
+41. Church TR, Anderson KE, Caporaso NE, et al. A prospectively measured serum biomarker for a
+tobacco-specific carcinogen and lung cancer in smokers. Cancer Epidemiol Biomarker Prev. 2009;
+18:260–266.
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 15
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+42. Timofeeva MN, McKay JD, Smith GD, et al. Genetic polymorphisms in 15q25 and 19q13 loci,
+cotinine levels, and risk of lung cancer in EPIC. Cancer Epidemiol Biomarker Prev. 2011;
+20:2250–2261.
+43. Avila-Tang E, Al-Delaimy WK, Ashley DL, et al. Assessing secondhand smoke using biological
+markers. Tobacco control. 2013; 22:164–171. [PubMed: 22940677]
+44. Jarvis MJ, Tunstall-Pedoe H, Feyerabend C, Vesey C, Saloojee Y. Comparison of tests used to
+distinguish smokers from nonsmokers. Am J Public Health. 1987; 77:1435–1438. [PubMed:
+3661797]
+45. Balbo S, James-Yi S, Johnson CS, et al. (S)-N′-Nitrosonornicotine, a constituent of smokeless
+tobacco, is a powerful oral cavity carcinogen in rats. Carcinogenesis. 2013; 34:2178–2183.
+[PubMed: 23671129]
+46. Stepanov I, Sebero E, Wang R, Gao YT, Hecht SS, Yuan JM. Tobacco-specific N-nitrosamine
+exposures and cancer risk in the Shanghai cohort study: Remarkable coherence with rat tumor
+sites. Int J Cancer. 2013 Epub ahead of print. [PubMed: 24243522]
+47. Yuan JM, Knezevich AD, Wang R, Gao YT, Hecht SS, Stepanov I. Urinary levels of the tobaccospecific carcinogen N′-nitrosonornicotine and its glucuronide are strongly associated with
+esophageal cancer risk in smokers. Carcinogenesis. 2011; 32:1366–1371. [PubMed: 21734256]
+48. Yuan JM, Gao YT, Wang R, Chen M, Carmella SG, Hecht SS. Urinary levels of volatile organic
+carcinogen and toxicant biomarkers in relation to lung cancer development in smokers.
+Carcinogenesis. 2012; 33:804–809. [PubMed: 22298640]
+49. Hecht SS, Carmella SG, Le KA, et al. 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol and its
+glucuronides in the urine of infants exposed to environmental tobacco smoke. Cancer Epidemiol
+Biomarker Prev. 2006; 15:988–992.
+50. Stepanov I, Hecht SS, Duca G, Mardari I. Uptake of the tobacco-specific lung carcinogen 4(methylnitrosamino)-1-(3-pyridyl)-1-butanone by Moldovan children. Cancer Epidemiol
+Biomarker Prev. 2006; 15:7–11.
+51. Chung FL, Kelloff G, Steele V, et al. Chemopreventive efficacy of arylalkyl isothiocyanates and
+N-acetylcysteine for lung tumorigenesis in Fischer rats. Cancer Res. 1996; 56:772–778. [PubMed:
+8631012]
+52. Humphrey LL, Deffebach M, Pappas M, et al. Screening for Lung Cancer With Low-Dose
+Computed Tomography: A Systematic Review to Update the U.S. Preventive Services Task Force
+Recommendation. Annals of internal medicine. 2013
+53. Aberle DR, Adams AM, et al. National Lung Screening Trial Research Team. Reduced lungcancer mortality with low-dose computed tomographic screening. N Engl J Med. 2011; 365:395–
+409. [PubMed: 21714641]
+54. Hecht SS, Trushin N, Rigotty J, et al. Complete inhibition of 4-(methylnitrosamino)-1-(3pyridyl)-1-butanone-induced rat lung tumorigenesis and favorable modification of biomarkers by
+phenethyl isothiocyanate. Cancer Epidemiol Biomarker Prev. 1996; 5:645–652.
+55. Morse MA, Amin SG, Hecht SS, Chung FL. Effects of aromatic isothiocyanates on tumorigenicity,
+O6-methylguanine formation, and metabolism of the tobacco-specific nitrosamine 4(methylnitrosamino)-1-(3-pyridyl)-1-butanone in A/J mouse lung. Cancer Res. 1989; 49:2894–
+2897. [PubMed: 2720649]
+56. Hecht SS, Chung FL, Richie JP Jr, et al. Effects of watercress consumption on metabolism of a
+tobacco-specific lung carcinogen in smokers. Cancer epidemiology, biomarkers & prevention : a
+publication of the American Association for Cancer Research, cosponsored by the American
+Society of Preventive Oncology. 1995; 4:877–884.
+57. Burns DM, Dybing E, Gray N, et al. Mandated lowering of toxicants in cigarette smoke: a
+description of the World Health Organization Tobacco Regulation Proposal. Tobacco control.
+2008; 17:132–141. [PubMed: 18375736]
+58. Hecht SS, Stepanov I, Hatsukami DK. Major tobacco companies have technology to reduce
+carcinogen levels but do not apply it to popular smokeless tobacco products. Tobacco control.
+2011; 20:443. [PubMed: 20930058]
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 16
+
+NIH-PA Author Manuscript
+
+59. Hatsukami DK, Kotlyar M, Hertsgaard LA, et al. Reduced nicotine content cigarettes: effects on
+toxicant exposure, dependence and cessation. Addiction. 2010; 105:343–355. [PubMed:
+20078491]
+60. Notes from the field: Electronic cigarette use among middle and high school students - United
+States. Morbidity and Mortality Weekly Report (MMWR). 2013; 62:729–730.
+61. Stepanov I, Carmella SG, Briggs A, et al. Presence of the carcinogen N′-nitrosonornicotine in the
+urine of some users of oral nicotine replacement therapy products. Cancer Res. 2009; 69:8236–
+8240. [PubMed: 19843845]
+62. Stepanov I, Carmella SG, Han S, et al. Evidence for endogenous formation of N′nitrosonornicotine in some long-term nicotine patch users. Nicotine Tob Res. 2009; 11:99–105.
+[PubMed: 19246447]
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+Yuan et al.
+
+Page 17
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 1. Overview of tobacco smoke constituents and their metabolites as biomarkers of
+toxicant and carcinogen exposure in smokers
+
+NIH-PA Author Manuscript
+
+Abbreviations: HBMA, 4-hydroxybut-2-yl mercapturic acid; 3-HC, trans-3′hydroxycotinine; HEMA, 2-hydroxyethyl mercapturic acid; HPMA, 3-hydroxypropyl
+mercapturic acid; MHBMA, monohydroxybutyl mercapturic acid; NNAL, 4(methylnitrosamino)-1-(3-pyridyl)-1-butanol; NNK, 4-(methylnitrosamino)-1-(3-pyridyl)-1butanone; NNN, N′-nitrosonornicotine; PAH, polycyclic aromatic hydrocarbons; PheT,
+r-1,t-2,3,c-4-tetrahydroxy-1,2,3,4-tetrahydrophenanthrene; SPMA, S-phenyl mercapturic
+acid; TSNA, tobacco-specific nitrosamines.
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+NIH-PA Author Manuscript
+Table 1
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+HPMA
+
+1.06 (0.62, 1.80)
+
+1.08 (0.66, 1.75)
+0.97 (0.56, 1.66)
+1.12 (0.66, 1.89)
+
+HEMA
+
+1.20 (0.74, 1.96)
+
+MHBMA
+
+Men, Shanghai (343 cases and 392
+controls)*
+
+1.23 (0.88, 1.72)
+
+Men and women, U.S. (100 cases
+and 100 controls)
+
+HBMA
+
+SPMA
+
+VOC
+
+2.34 (1.33, 4.11)
+
+Men, Shanghai (476 cases and 476
+controls)
+
+1.57 (1.08, 2.28)
+
+Men and women, U.S. (100 cases
+and 100 controls)
+PheT
+
+2.64 (1.10, 6.34)
+
+Men and women, Singapore (91
+cases and 93 controls)
+
+PAH
+
+1.93 (1.28, 2.90)
+
+Men, Shanghai (476 cases and 476
+controls)
+
+Total NNAL
+
+1.02 (0.39, 2.89)
+
+0.85 (0.59, 1.23)
+
+Men and women, U.S. (100 cases
+and 100 controls)
+Men, Shanghai (93 cases and 93
+controls)
+
+1.65 (0.69, 3.97)
+
+3.52 (2.30-5.41)
+
+OR (95% CI) for
+highest versus
+lowest biomarker
+level
+
+Men and women, Singapore (91
+cases and 93 controls)
+
+Men, Shanghai (476 cases and 476
+controls)
+
+Study population
+
+Total NNN
+
+Total cotinine
+
+Nicotine
+
+TSNA
+
+Metabolite/Biomarker
+
+Tobacco constituent
+
+Specimen type: urine. OR was adjusted for number of cigarettes
+per day, number of years of smoking, and urinary cotinine*
+
+Specimen type: serum. OR is associated with a unit standard
+deviation increase adjusted for sex, age, number of years of
+smoking, and urinary cotinine and total NNAL
+
+Specimen type: urine. OR was adjusted for number of cigarettes
+per day, number of years of smoking, and urinary total cotinine
+and total NNAL
+
+Specimen type: serum. OR is associated with a unit standard
+deviation increase adjusted for sex, age, number of years of
+smoking, and urinary cotinine and PheT
+
+Specimen type: urine. OR was adjusted for age, sex, date of
+specimen collection, dialect group, number of cigarettes per day,
+number of years of smoking, and urinary total cotinine.
+
+Specimen type: urine. OR was adjusted for number of cigarettes
+per day, number of years of smoking, and urinary total cotinine
+and PheT
+
+Specimen type: urine. OR was adjusted for number of cigarettes
+per day, number of years of smoking, and urinary total cotinine
+and PheT
+
+Specimen type: serum. OR is associated with a unit standard
+deviation increase adjusted for sex, age, number of years of
+smoking, and urinary NNAL and PheT
+
+Specimen type: urine. OR was adjusted for age, sex, date of
+specimen collection, dialect group, number of cigarettes per day,
+number of years of smoking, and urinary total NNAL.
+
+Specimen type: urine. OR was adjusted for age, date of
+specimen collection, neighborhood of residence, number of
+cigarettes per day, number of years of smoking, and urinary total
+NNAL and PheT.
+
+Comments
+
+Yuan, 2012 (48)*
+
+Church, 2009 (41)
+
+Yuan, 2011 (30)
+
+Church, 2009 (41)
+
+Yuan, 2009 (39)
+
+Yuan, 2011 (30)
+
+Stepanov, 2013 (46)
+
+Church, 2009 (41)
+
+Yuan, 2009 (39)
+
+Yuan, 2011 (30)
+
+Reference
+
+Summary of findings from our prospective cohort studies for urinary tobacco constituent biomarkers and lung cancer risk among current
+smokers
+
+Yuan et al.
+Page 18
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+For all volatile organic compound metabolite results presented.
+
+*
+
+Abbreviations: CI, confidence interval; HBMA, 4-hydroxybut-2-yl mercapturic acid; 3-HC, trans-3′-hydroxycotinine; HEMA, 2-hydroxyethyl mercapturic acid; HPMA, 3-hydroxypropyl mercapturic acid;
+MHBMA, monohydroxybutyl mercapturic acid; NNAL, 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol; NNK, 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone; NNN, N′-nitrosonornicotine; OR, odds
+ratio; PAH, polycyclic aromatic hydrocarbons; PheT, r-1,t-2,3,c-4-tetrahydroxy-1,2,3,4-tetrahydrophenanthrene; SPMA, S-phenyl mercapturic acid; TSNA, tobacco-specific nitrosamines; VOC, volatile
+organic compounds.
+
+Yuan et al.
+Page 19
+
+Cancer Res. Author manuscript; available in PMC 2015 January 15.
+
+

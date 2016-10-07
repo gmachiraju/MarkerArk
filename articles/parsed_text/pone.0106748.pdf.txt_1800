@@ -1,0 +1,200 @@
+11. Ahlquist DA (2010) Molecular detection of colorectal neoplasia. Gastroenter-
+
+ology 138: 21272139.
+
+12. Miller S, Steele S (2012) Novel molecular screening approaches in colorectal
+
+cancer. Journal of surgical oncology 105: 459467.
+
+13. Bossuyt PM, Reitsma JB (2003) The STARD initiative. Lancet 361: 71.
+14. Moreno V, Gemignani F, Landi S, Gioia-Patricola L, Chabrier A, et al. (2006)
+Polymorphisms in genes of nucleotide and base excision repair: risk and
+prognosis of colorectal cancer. Clin Cancer Res 12: 21012108.
+Irizarry RA, Hobbs B, Collin F, Beazer-Barclay YD, Antonellis KJ, et al. (2003)
+Exploration, normalization, and summaries of high density oligonucleotide array
+probe level data. Biostatistics 4: 249264.
+
+15.
+
+16. Gautier L, Cope L, Bolstad BM, Irizarry RA (2004) affyanalysis of Affymetrix
+
+GeneChip data at the probe level. Bioinformatics 20: 307315.
+
+17. Gentleman RC, Carey VJ, Bates DM, Bolstad B, Dettling M, et al. (2004)
+for computational biology and
+
+Bioconductor: open software development
+bioinformatics. Genome biology 5: R80.
+
+18. Team RDC (2012) R: A language and environment for statistical computing.
+R Foundation for Statistical Computing, Vienna, Austria ISBN 3-900051-07-0.
+19. Huang RS, Duan S, Bleibel WK, Kistner EO, Zhang W, et al. (2007) A genome-
+wide approach to identify genetic variants that contribute to etoposide-induced
+cytotoxicity. Proceedings of the National Academy of Sciences of the United
+States of America 104: 97589763.
+
+20. Stranger BE, Forrest MS, Dunning M, Ingle CE, Beazley C, et al.
+
+(2007)
+Relative impact of nucleotide and copy number variation on gene expression
+phenotypes. Science 315: 848853.
+
+21. Stranger BE, Nica AC, Forrest MS, Dimas A, Bird CP, et al. (2007) Population
+
+genomics of human gene expression. Nature genetics 39: 12171224.
+
+22. Zhou B, Xu W, Herndon D, Tompkins R, Davis R, et al. (2010) Analysis of
+factorial time-course microarrays with application to a clinical study of burn
+injury. Proceedings of the National Academy of Sciences of the United States of
+America 107: 99239928.
+
+23. Hong Y, Downey T, Eu KW, Koh PK, Cheah PY (2010) A metastasis-prone
+signature for early-stage mismatch-repair proficient sporadic colorectal cancer
+patients and its implications for possible therapeutics. Clinical & experimental
+metastasis 27: 8390.
+
+PLOS ONE | www.plosone.org
+
+10
+
+September 2014 | Volume 9 |
+
+Issue 9 | e106748
+
+24. LaPointe LC, Dunne R, Brown GS, Worthley DL, Molloy PL, et al. (2008) Map
+transcript expression in the normal human large intestine.
+
+of differential
+Physiological genomics 33: 5064.
+
+25. Safran M, Dalah I, Alexander J, Rosen N, Iny Stein T, et al. (2010) GeneCards
+Version 3: the human gene integrator. Database: the journal of biological
+databases and curation 2010: baq020.
+
+26. Edgar R, Domrachev M, Lash AE (2002) Gene Expression Omnibus: NCBI
+gene expression and hybridization array data repository. Nucleic acids research
+30: 207210.
+
+27. Kheirelseid EA, Chang KH, Newell J, Kerin MJ, Miller N (2010) Identification
+of endogenous control genes for normalisation of real-time quantitative PCR
+data in colorectal cancer. BMC molecular biology 11: 12.
+
+28. Dydensborg AB, Herring E, Auclair J, Tremblay E, Beaulieu JF (2006)
+Normalizing genes for quantitative RT-PCR in differentiating human intestinal
+epithelial cells and adenocarcinomas of
+the colon. American journal of
+physiology Gastrointestinal and liver physiology 290: G10671074.
+
+29. Andersen CL, Jensen JL, Orntoft TF (2004) Normalization of real-time
+quantitative reverse transcription-PCR data: a model-based variance estimation
+approach to identify genes suited for normalization, applied to bladder and
+colon cancer data sets. Cancer research 64: 52455250.
+
+30. Dvinge H, Bertone P (2009) HTqPCR: high-throughput analysis and
+visualization of quantitative real-time PCR data in R. Bioinformatics 25:
+33253326.
+
+31. Hewitson P, Glasziou P, Watson E, Towler B, Irwig L (2008) Cochrane
+systematic review of colorectal cancer screening using the fecal occult blood test
+(hemoccult): an update. The American journal of gastroenterology 103: 1541
+1549.
+
+32. Hol L, van Leerdam ME, van Ballegooijen M, van Vuuren AJ, van Dekken H,
+et al. (2010) Screening for colorectal cancer: randomised trial comparing guaiac-
+based and immunochemical faecal occult blood testing and flexible sigmoidos-
+copy. Gut 59: 6268.
+
+33. Peris M, Espinas JA, Munoz L, Navarro M, Binefa G, et al. (2007) Lessons learnt
+from a population-based pilot programme for colorectal cancer screening in
+Catalonia (Spain). Journal of medical screening 14: 8186.
+
+34. Sanz-Pamplona R, Berenguer A, Cordero D, Mollevi DG, Crous-Bou M, et al.
+to tumor reveals a
+
+(2014) Aberrant gene expression in mucosa adjacent
+molecular crosstalk in colon cancer. Mol Cancer 13: 46.
+
+35. Warman ML, Abbott M, Apte SS, Hefferon T, McIntosh I, et al. (1993) A type
+X collagen mutation causes Schmid metaphyseal chondrodysplasia. Nature
+genetics 5: 7982.
+
+36. Zheng Q, Zhou G, Morello R, Chen Y, Garcia-Rojas X, et al. (2003) Type X
+collagen gene regulation by Runx2 contributes directly to its hypertrophic
+chondrocyte-specific expression in vivo. The Journal of cell biology 162: 833
+842.
+
+37. Feng Han Q, Zhao W, Bentel J, Shearwood AM, Zeps N, et al.
+
+(2006)
+Expression of sFRP-4 and beta-catenin in human colorectal carcinoma. Cancer
+letters 231: 129137.
+
+38. Kim H, Watkinson J, Varadan V, Anastassiou D (2010) Multi-cancer
+computational analysis reveals
+invasion-associated variant of desmoplastic
+reaction involving INHBA, THBS2 and COL11A1. BMC medical genomics
+3: 51.
+
+39. Lascorz J, Forsti A, Chen B, Buch S, Steinke V, et al. (2010) Genome-wide
+association study for colorectal cancer identifies risk polymorphisms in German
+familial cases and implicates MAPK signalling pathways in disease susceptibility.
+Carcinogenesis 31: 16121619.
+
+Biomarkers for Early Diagnosis of Colon Cancer
+
+40. Gough MJ, Ruby CE, Redmond WL, Dhungel B, Brown A, et al. (2008) OX40
+agonist therapy enhances CD8 infiltration and decreases immune suppression in
+the tumor. Cancer research 68: 52065215.
+
+41. Chapman KB, Prendes MJ, Sternberg H, Kidd JL, Funk WD, et al. (2012)
+COL10A1 expression is elevated in diverse solid tumor types and is associated
+with tumor vasculature. Future oncology 8: 10311040.
+
+42. Almaawi A, Wang HT, Ciobanu O, Rowas SA, Rampersad S, et al. (2013)
+Effect of acetaminophen and nonsteroidal anti-inflammatory drugs on gene
+expression of mesenchymal stem cells. Tissue engineering Part A 19: 1039
+1046.
+
+43. Grutzmann R, Molnar B, Pilarsky C, Habermann JK, Schlag PM, et al. (2008)
+Sensitive detection of colorectal cancer in peripheral blood by septin 9 DNA
+methylation assay. PLoS One 3: e3759.
+
+44. Lofton-Day C, Model F, Devos T, Tetzner R, Distler J, et al. (2008) DNA
+methylation biomarkers for blood-based colorectal cancer screening. Clin Chem
+54: 414423.
+
+45. deVos T, Tetzner R, Model F, Weiss G, Schuster M, et al. (2009) Circulating
+methylated SEPT9 DNA in plasma is a biomarker for colorectal cancer. Clinical
+chemistry 55: 13371346.
+
+46. Chen WD, Han ZJ, Skoletsky J, Olson J, Sah J, et al. (2005) Detection in fecal
+DNA of colon cancer-specific methylation of the nonexpressed vimentin gene.
+J Natl Cancer Inst 97: 11241132.
+
+47. Korner H, Soreide K, Stokkeland PJ, Soreide JA (2007) Diagnostic accuracy of
+serum-carcinoembryonic antigen in recurrent colorectal cancer: a receiver
+operating characteristic curve analysis. Ann Surg Oncol 14: 417423.
+
+48. Hundt S, Haug U, Brenner H (2007) Blood markers for early detection of
+colorectal cancer: a systematic review. Cancer epidemiology, biomarkers &
+prevention: a publication of the American Association for Cancer Research,
+cosponsored by the American Society of Preventive Oncology 16: 19351953.
+49. Bujanda L, Sarasqueta C, Cosme A, Hijona E, Enriquez-Navascues JM, et al.
+(2013) Evaluation of alpha 1-antitrypsin and the levels of mRNA expression of
+matrix metalloproteinase 7, urokinase type plasminogen activator receptor and
+COX-2 for the diagnosis of colorectal cancer. PLoS One 8: e51810.
+Jung K (2008) Is serum matrix metalloproteinase 9 a useful biomarker in
+detection of colorectal cancer? Considering pre-analytical interference that may
+influence diagnostic accuracy. Br J Cancer 99: 553554; author reply 555.
+
+50.
+
+51. Alvarez-Chaver P, Otero-Estevez O, Paez de la Cadena M, Rodriguez-Berrocal
+for discovery of candidate
+
+FJ, Martinez-Zorzano VS (2014) Proteomics
+colorectal cancer biomarkers. World J Gastroenterol 20: 38043824.
+
+52. Binefa G, Rodriguez-Moranta F, Teule A, Medina-Hayas M (2014) Colorectal
+cancer: From prevention to personalized medicine. World J Gastroenterol 20:
+67866808.

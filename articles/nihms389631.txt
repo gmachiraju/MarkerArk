@@ -1,0 +1,1954 @@
+NIH Public Access
+Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Curr Pharm Des. 2012 ; 18(17): 2439–2451.
+
+Advances in Biomarker Research for Pancreatic Cancer
+Kruttika Bhat1,§, Fengfei Wang1,§,*, Qingyong Ma2, Qinyu Li3, Sanku Mallik1, Tze-chen
+Hsieh4, and Erxi Wu1,*
+1Department of Pharmaceutical Sciences, North Dakota State University, Fargo, ND 58105, USA
+2Department
+
+of Hepatobiliary Surgery, First Affiliated Hospital of Xi’an Jiaotong University, Xi’an
+710061, China
+3Department
+
+of Surgery, Ruijin Hospital, School of Medicine, Shanghai Jiaotong University,
+Shanghai 200025, China
+4Department
+
+of Biochemistry and Molecular Biology, New York Medical College, Valhalla, NY
+
+10595, USA
+
+NIH-PA Author Manuscript
+
+Abstract
+Pancreatic cancer (PC) is a leading cause of cancer related deaths in United States. The lack of
+early symptoms results in late-stage detection and a high mortality rate. Currently, the only
+potentially curative approach for PC is surgical resection, which is often unsuccessful because the
+invasive and metastatic nature of the tumor masses makes their complete removal difficult.
+Consequently, patients suffer relapses from remaining cancer stem cells or drug resistance that
+eventually lead to death. To improve the survival rate, the early detection of PC is critical.
+Current biomarker research in PC indicates that a serum carbohydrate antigen, CA 19-9, is the
+only available biomarker with approximately 90% specificity to PC. However, the efficacy of CA
+19-9 for assessing prognosis and monitoring patients with PC remains contentious. Thus, advances
+in technology and the detection of new biomarkers with high specificity to PC are needed to
+reduce the mortality rate of pancreatic cancer.
+
+Keywords
+Pancreatic cancer; biomarker; tumor progression; risk factor; CA 19-9
+
+NIH-PA Author Manuscript
+
+INTRODUCTION
+With a mortality rate of nearly 100 %, pancreatic cancer (PC) is one of the most lethal
+malignancies [1] and it is the fourth most prominent cause for cancer-related deaths in both
+men and women in the United States [2–3]. Even patients treated with current state-of-theart therapies have an overall 5-year survival rate of only 3% [4]. The main reason is that
+approximately 80% of newly diagnosed patients are already in the metastatic stage of the
+disease, for which no curative therapy is currently available [5–7].
+
+© 2012 Bentham Science Publishers
+*
+
+Address correspondence to these authors at the Department of Pharmaceutical Sciences, North Dakota State University, 203 Sudro
+Hall, NDSU Dept 2665, PO Box 6050, Fargo, ND 58108-6050; Tel: 701- 231-8106; 701-231-7250; Fax: 701-231-8333;
+Fengfei.wang@ndsu.edu; erxi.wu@ndsu.edu.
+§Equal first author.
+
+Bhat et al.
+
+Page 2
+
+NIH-PA Author Manuscript
+
+Most patients with PC have no distinct clinical manifestations in their early stages of the
+disease. Commonly described symptoms include pain in the upper abdominal region,
+significant weight loss, heartburn, altered bowel habits, and obstructive jaundice [8].
+Obstructive jaundice is the only symptom with some specificity for PC [9–12]. The
+diagnosis of PC relies on biopsy and computed tomography (CT) and/or magnetic resonance
+imaging (MRI) [13–14]. The diagnosis could be improved by using endoscopic ultrasound
+(EUS) and positron emission tomography (PET) techniques [15–17]. Advanced technologies
+such as magnetic resonance cholangiopancreatography (MRCP) and endoscopic retrograde
+cholangiopancreatography (ERCP) facilitate better detection of tumors at an early stage by
+allowing a comprehensive and introspective analysis of the morphological changes of the
+gland [18–20]. Other techniques like fine-needle aspiration (FNA) are useful for pinpointing
+and retrieving biopsied specimens [21–22]. However, these techniques are not only costly
+but also require access to highly advanced, specialized facilities (Table 1), and therefore
+may not be readily available for detecting the disease at an early stage.
+
+NIH-PA Author Manuscript
+
+At present, no curative therapies are available for patients with PC; the mainstay of
+treatment with the potential for cure is the complete, eradicative surgical resection of the
+primary carcinoma. Due to the lack of specific early-stage clinical symptoms and the highly
+deleterious, aggressive nature of the evolving disease, patients are usually diagnosed at the
+unresectable stages [23–24]. Consequently, the average survival of the resected patients is
+approximately 12 to 20 months with a high probability of relapse [25–26]. Use of
+gemcitabine (Gemzar®) or the combinations of gemcitabine with other cancer drugs, such as
+oxalipatin, cisplatin or erlotinib has demonstrated efficacy in the treatment of PC [27–30].
+The role of radiotherapy in PC treatment remains controversial [31], although
+radiochemotherapy is increasingly accepted as a treatment modality for unresectable,
+nonmetastatic PC [32–33]. Despite these advances, PC remains one of the most deadly
+malignancies.
+
+TUMOR ORIGIN AND PROGRESSION
+
+NIH-PA Author Manuscript
+
+Although the exocrine pancreas consists of a very small ductal system, 90% of pancreatic
+neoplasms (of which 80% are invasive adenocarcinomas) are ductal in origin, and the
+remaining 10% are islet-cell and cystic tumors [1]. The etiology of PC remains unclear, but
+several risk factors have been identified (Table 2). In general, individuals diagnosed with
+diabetes or with a history of pancreatitis or chronic pancreatitis are at a risk for developing
+PC [1, 34–35]. A history of smoking and/or alcoholism also increases the risk of PC [36–
+38]. Recently, Peutz-Jeghers syndrome, single nucleotide polymorphisms (SNPs), hereditary
+pancreatitis, and a 5–10% family history of PC have also been added as PC risk factors [16,
+35, 39].
+More than 90% of PC patients acquire the disease sporadically; it is unclear how the normal
+tissue is transformed to PC. Fig. (1) illustrates a Genetic Progression Model based on the
+oncogenic markers in tumor tissues [1, 40–41]. In the model, normal pancreatic cells are
+transformed to pre-malignant lesions termed pancreatic intraepithelial neoplasia (PanINs) in
+concomitance with a multitude of genetic changes and morphological dysplasia, named
+PanIN-1a, PanIN-1b, PanIN-2, and PanIN-3 that collectively may be regarded as molecular
+and structural antecedents to the eventual establishment of invasive adenocarcinoma [10,11].
+Some of the most frequently detected genetic changes in the initial stages of PC include the
+activation of mutated K-ras [42–44], the hypermethylation of preproenkephalin (ppENK)
+[45–46], the over-expression of EGF-family ligands and receptors such as ERBB2 and
+EGFR [47–49], the robust increase in the level of carcinoembryonic antigen-related cell
+adhesion molecule 1 (biliary glycoprotein) (CEACAM1) [50], and the hyperphosphorylation
+of Retinoblastoma protein (Rb) [51]. Most notably, some researchers hypothesize that the
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 3
+
+NIH-PA Author Manuscript
+
+activation of K-ras mutation signaling, leading to the overexpression of EGF-family ligands
+and receptors such as ERBB2 and EGFR, plays a pivotal role in the initiation of PC [47–49].
+During disease progression, the loss of tumor suppressor genes (e.g. p16, p53, SMAD4/
+DPC4, BRCA2) has been identified at later stages of PanIN [52–58]. The over-expression of
+a negative regulator of p53 called MDM2 occurs in coordination with the malignant
+proliferation of PC [59–60]. These molecular changes and events as a whole promulgate the
+hyperphosphorylation of Rb protein, which promotes cell cycle phase transition and leads to
+uncontrolled cell division [51]. Along with tumor progression, the expression of CXCR4, a
+chemokine receptor, and miR-155 also increases in PC especially in the PanIN-3 lesions [41,
+61–62]. Further, the level of macrophage stimulating 1 receptor (MST1R), also termed
+RON, is increasingly elevated in premalignant PanIN stages [63]. Additionally progressive
+methylation in the promoter regions of LHX1, a transcriptional regulator and secreted
+apoptosis related protein (SARP2), has also been reported in PanIN lesions [64–66]. The
+aggressive stage of the tumor is also characterized by the appearance of abnormally
+shortened telomere [67] and the abnormal fusion of chromosome ends, concurrent with
+neoplastic progression of pancreatic cells [68].
+
+ADVANCES IN PC BIOMARKER RESEARCH
+
+NIH-PA Author Manuscript
+
+Improving the PC mortality rate necessitates the discovery of new tools for the early
+detection, diagnosis, and monitoring of therapeutic efficacy. To provide a context, we
+provide an overview of technological developments relevant to biomarker research and
+biomarker identification in the early stages of PC.
+
+TECHNOLOGIES FOR BIOMARKER DISCOVERY AND IDENTIFICATION
+
+NIH-PA Author Manuscript
+
+Important technological innovations have been made in the past several decades to facilitate
+biomarker identification. Microarray and quantitative RT-PCR or PCR are frequently used
+to analyze the variations of RNA/microRNA or DNA in the tumor tissues and other types of
+specimens from patients and healthy individuals [69–71]. Methylation-specific PCR (MSP)
+and bisulfite-sequencing PCR (BSP) [72] have been used to analyze DNA from different
+samples [73]. Gene expression profiling and tissue microarray (TMA) have been used to
+identify novel cell-surface targets [36]. New equipment and techniques have been developed
+to systematically search for protein markers in specimens, including differential in-gel
+electrophoresis (DIGE), tandem mass spectrometry (MS/MS), electron transfer dissociation
+mass spectroscopy [74], surface-enhanced laser desorption/ionization (SELDI) [75–76],
+reverse-phase protein array [74], enzyme linked immuno sorbent assay (ELISA), matrix
+assisted laser desorption/ionization time-of-flight mass spectroscopy (MALDI-TOF-MS),
+and quantitative proteomics [77–78]. Advances in these technologies have provided
+significant leads in search of potential biomarkers for PC (Table 3).
+
+SOURCE OF BIOSPECIMENS IN BIOMARKER ANALYSIS
+Sample source is important in the search for biomarkers to detect and diagnose early PC.
+Pancreatic biopsy samples are reliable sources for diagnosis, and pancreatic fluid (known as
+juice) from the pancreatic duct has recently been identified as an alternative source for
+biomarker discovery [72, 79] because the juice contains PC-specific markers (DNA/RNA/
+proteins and cancer cells) that are shed into the ductal lumen [79] (Table 4). Furthermore,
+plasma/serum DNA/RNA/protein, disseminated tumor cells (DTC) and circulating tumor
+cells (CTC) in the blood are also frequently used for biomarker detection. In addition, saliva
+has also been exploited as a source of PC biomarkers and genes have been detected with
+potential for classification of resectable PC [80]. A recent study has suggested that detection
+of genetic markers such as K-ras and p53 in stool samples might enable the detection of
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 4
+
+early PC [81]. Potential biomarkers for PC using various source materials and discovered
+thus far are summarized in Table 4.
+
+NIH-PA Author Manuscript
+
+BIOMARKERS
+With the aid of new technologies and using a variety of sample sources, a wide array of
+potential biomarkers for PC has been identified (Table 5).
+
+GENETIC BIOMARKERS
+
+NIH-PA Author Manuscript
+
+Based on the tumor progression model, multiple genetic alterations are involved in a stepwise manner in the development of PC and in most cases, genetic changes in the four genes
+– K-ras, CDKN2A/p16, TP53, and SMAD4/DPC4 were detected in the PC patients [5, 22,
+82–86]. Among these genetic changes, the K-ras mutation was most frequently detected
+with 45%–100% frequency in the tumor tissue and a 77% frequency in the serum of patients
+with PC or pancreatic adenocarcinoma (PAC) [22, 43, 87–88]. 50–75% patients with PAC
+have mutations in TP53 [43, 89]. In addition to K-ras and TP53 mutations, the loss of p16
+and DPC4 was also frequently detected in tumor tissue of PC patients and correlated with its
+clinical relevance [84, 90–93]. The K-ras mutation was detected in the premalignant stage,
+which suggested that the oncogenic gain of mutation in K-ras could be a potential marker
+used for the early detection of cancer [94–96]. Other genetic alterations described in PC
+occurring at a much lower frequency include BRCA2, TGFBR1, BAX, RB1, STK11,
+hMLH1, hCDC4, MKK4, FancC, and AKT2 [94, 97–99]. Another biomarker Plectin-1 that
+was highly expressed in the PanIN-3 tissues may be used to discriminate the primary from
+metastatic PAC [100]. Studies using a functional genomics approach identified seven genes
+from plasma – TNC, TFP1, TGFBI, SEL-IL, LICAM, WWTR1, and CDC4BPA – as
+belonging to a category that was differentially regulated in PC versus normal samples.
+Studies also suggested that tissue factor pathway inhibitor (TFPI) may have the potential to
+be a candidate plasma PC biomarker [101–102]. It is worth noting that although genetic
+alterations in oncogenes - K-ras, TP53, p16 can be detected in PC [103] and may have
+diagnostic value in PC, they are not specific to PC and hence not suitable for the early
+detection of this deadly malignant disease.
+
+EPIGENETIC BIOMARKERS
+
+NIH-PA Author Manuscript
+
+Epigenetic factors such as aberrations in DNA methylation, histone post-translational
+modification, and chromatin remodeling could also be considered as tumorigenic biomarkers
+[104]. Global methylation profiling on 150 CpG sites across 807 genes revealed that 289
+CpG sites were differentially methylated between normal and PC, raising the possibility that
+they have diagnostic and therapeutic values and implications [105]. Genome-wide profiling
+of methylated promoters in 57 PC and 34 normal pancreatic samples identified excessive
+methylation on the promoters of several genes, including MDF1, hsa-miR-9-1, ZNF415,
+CNTAP2 and ELOVL4 in cancerous tissues [106]. Further, frequent epigenetic changes
+have also been demonstrated in PC in RASSF1A, cyclin D2, ppENK, TFPI2, CDH13 and
+secreted apoptosis related protein 2 (SARP2) [45, 64, 99, 107–115], suggesting that
+epigenetic profiling of selected genes in tissue specimens could be used for PC diagnosis
+and prognosis. A similar approach applied to the analysis of pancreatic juice showed that
+over 1% in the methylation status of cyclin D2, ppENK, tissue factor pathway inhibitor
+2(TFPI2), neuronal pentraxin-2(NPTX2) and forkhead box protein (E1FOXE1) could
+predict PC with 82% sensitivity and 100% specificity [99]. The hypermethylation of NPTX2
+and SARP2 in PC patients was recently confirmed [115–116]; similarly, methylation
+profiling analysis of circulating plasma DNA in PC patients detected cyclin D2 and a few
+other markers in PC patients [117]. Other epigenetic modifications potentially useful as
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 5
+
+NIH-PA Author Manuscript
+
+biomarkers for poor survival in resected PAC patients include low cellular levels of histone
+H3 lysine 4 dimethylation (H3K4me2), histone H3 lysine 9 dimethylation (H3K9me2), and
+histone H3 lysine 18 acetylation (H3K18ac) [118]. Epigenetic silencing of SIP1 and
+hypermethylation and over-expression of miR-200a/200b in association with elevated
+circulating miRs have been reported in PC [119].
+
+MIRNA BIOMARKERS
+
+NIH-PA Author Manuscript
+
+miRNAs are short non-coding RNAs of approximately 22 nucleotides that have been shown
+to regulate the expression of both oncogenes or tumor suppressor genes, as part of the
+posttranscriptional gene silencing (PTGS) mechanism [120–124]. Recently, it was found
+that the levels of certain tissue-specific miR-NAs, such as miR-216 and -217, were markedly
+down-regulated in tumor tissues compared to matched normal controls [125]. Conversely,
+the expression of miR-196 and -196a was significantly elevated in tumor tissues derived
+from PAC patients compared to normal pancreatic specimens [125]. Moreover, miR-196a
+was detected in the serum of PAC, and thus may have predictive potential regarding the
+survival of PAC patients [126]. Other miRNA biomarker candidates include elevation in
+circulating miR-210 for PC [127], miR-21 as an integral link to the precursor lesions of PAC
+[128–130], and upregulation in an eight-miRNA panel (miR196a, miR-190, miR-186,
+miR-221, miR-222, miR-200b, miR-15b, and miR-95) based on an RT-PCR analysis
+involving 5 PC tissues and 3 PC cell lines spanning a total of 95 microRNAs [131].
+
+OTHER BIOMARKERS
+Beyond targeting genetic, epigenetic and miRNA markers in PC using primarily tumor
+specimens, with some less well defined and specific changes detected in the serum and other
+body fluids, several other PC biomarkers have been identified and are listed in Tables 5 & 6.
+Among these, perhaps the one considered to have the most definitive diagnostic, prognostic,
+and predictive value is carbohydrate antigen 19-9 (CA 19-9), which shows an 81%
+sensitivity and 90% specificity [132–137].
+
+CA 19-9
+
+NIH-PA Author Manuscript
+
+Although first described as a tumor-associated carbohydrate antigen in 1979 by Koprowski
+et al., [138–139], CA 19-9 is now known to be a sialylated Lea blood group antigen [140].
+The nomenclature of CA 19-9 was compiled from the mucinous glycoprotein complex (such
+as H-CanAg, L-CanAg, and MUC1) [133, 141] based on recognition of sialylated lacto-Nfucopentaose II epitope by the moloclonal antibody (1116-NS-19-9). The levels of CA 19-9
+in the serum varied according to the patient's secretor status and Lewis genotype [139–140,
+142–143]. Individuals who are Lewis blood type negative (Lea-b-) do not express the CA
+19-9; hence, for those diagnosed with PC in this group (about 5% of the PC population),
+elevation in CA19-9 is not observed because of deficiency of a fucosyltransferase essential
+for the biosynthesis of CA19-9 and the Lewis antigen [144].
+CA 19-9 was initially detected in colorectal cancer cell line SW1116 and colorectal tissues
+[139] but its occurrence was subsequently extended to other organs such as pancreas,
+stomach, and biliary epithelium [145]. Based on reports showing that the sialyl Lewisa
+structure (NeuNAcα2-3Ga1β1-3Glc [4-Fucα1] NAcβl-3Galβl-4Glc) acts as a ligand for Eselectin [140, 146–148], Kannagi proposed that three factors should be taken into
+consideration when predicting the risk of hematogenous metastasis in cancer patients: the
+degree of sialyl Lewis a/x expression on cancer cells, the degree of E-selectin expression on
+vessel walls, and the number of CTC in the bloodstream [147]. The concentration of CA
+19-9 can be quantitatively determined by CA 19-9 ELISA [101]. Elevated levels (>37 U/ml)
+of CA 19-9 have been associated with gastrointestinal carcinomas, particularly in PAC [144,
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 6
+
+NIH-PA Author Manuscript
+
+149–151], and may be considered as a well characterized biomarker for PC (reviewed by
+Duffy et al.) [152], and it is possible to predict the operability of pancreatic tumor in
+patients. For instance, elevated levels of CA 19-9 (1000 U/ml) are correlated with patients
+showing a tumor size >5cm in diameter [153]; only 5% of those patients have resectable
+tumor [134, 153–154]. Other studies have shown that serum CA 19-9 concentrations greater
+than 300 U/ml are indicative of unresectable PC tumors [155–156].
+
+NIH-PA Author Manuscript
+
+An increase in CA 19-9 levels may also be used to predict cancer progression while its
+decrease is suggestive of favorable response to neodjuvant irradiation and chemotherapy
+[157]. Steinberg compared CA 19-9 levels in 24 studies and found that CA 19-9 showed
+81% sensitivity and 90% specificity for PC with a 37 U/ml cut-off [134]. Similar
+conclusions were reached by Goonnetilleke and Siriwardena [158]. Taken together,
+therefore, the immuno quantitation of CA 19-9 antigen is regarded to be the gold standard
+for PC detection [152, 159]. Reservation in using CA 19-9 alone for PC diagnosis has been
+raised by European Group of Tumor Markers (EGTM) [152, 160], and by the National
+academy of Clinical Biochemistry (NACB) [152, 161]. Some noted caveats include:
+elevated CA 19-9 can be similarly detected in non-malignant patients diagnosed with acute
+and chronic pancreatitis, obstructive jaundice, and liver cirrhosis [134, 152, 162], and in
+gastrointestinal carcinomas [134, 158, 162–163]; furthermore, false positive results may
+result based on detection of a low molecular weight antigen, non-CA 19-9 [164]. Thus, the
+European Group of Tumor Markers (EGTM) [152, 160] the National academy of Clinical
+Biochemistry (NACB) recommend that CA 19-9 should not be the only indicator used for
+diagnosing PC.
+Other potential PC biomarkers include (1) elevation in MMP-7 in plasma and pancreatic
+juice to discriminate between benign disease and carcinoma when combined with CA 19-9
+[165], (2) a 2–10 fold increase in AGR2 in pancreatic juice, for the early detection of PC
+[166], (3) changes in S100A6 in pancreatic juice, for early detection of the disease [167], (4)
+elevated telomerase activity in pancreatic juice [168], (5) serine proteinase-2 (PRSS2) preprotein and pancreatic lipase related protein-1 (PLRP1) in pancreatic juice of PC patients
+[72], and perineural invasion in PC [169]. Recently, a few studies have investigated whether
+use of biomarker panels may enhance the specificity and improve the diagnosis of PC [170–
+171]. The results showed that grouped biomarkers are comprised of CA 19-9, MCSF, CEA,
+SAA, Haptoglobin, TSGF, CA 242, and HSP27 only showed comparable sensitivity and
+specificity to single serum markers [170]; in contrast, combined assessment of CA 19-9,
+ICAM-1, and OPG gave 78/94% sensitivity/specificity and represented a significant
+improvement over individual CA 19-9 measurements for differentiating PC patients from
+healthy controls and subjects diagnosed with benign disease [171].
+
+NIH-PA Author Manuscript
+
+CANCER STEM CELLS AND CTC
+The prevention of tumor relapse in PC has not been successful [172–173]. The underlying
+mechanisms are multi-faceted and may be attributed to drug resistance and insensitivity to
+repeated treatments, as well as the presence of pancreatic cancer stem cells (CSC) [174]
+which provide gain-of-function via their ability to undergo self-renewal, differentiation
+[175], and metastasis [172]. Accordingly, several recent studies have confirmed the presence
+of CTC in the blood stream and utilized CTC in the tumor tissue as a novel approach to
+develop biomarkers for PC. Experiments have shown that the presence of CTC might prove
+useful for prognosis in PC patients [176–178]. Although preliminary results from studies of
+CSC and CTC are encouraging, the technologies required for the capture of CSC or CTC are
+still at an early stage for routine application in PC diagnosis.
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 7
+
+NIH-PA Author Manuscript
+
+Likewise, mixed lymphocytes have shown promise for predicting patient’s outcome in PC.
+For instance, an overall survival of 2.4 months was predicted in PC patients based on an
+elevated neutrophil to lymphocyte ratio [179]; the elevated levels of micronuclei in
+peripheral lymphocytes may have an association with PC risk [180]. Experimentally,
+identity of mixed lymphocytes may be validated by the RT-PCR amplification of CK-19 in
+blood [181]. However, the specificity of these measurements may be confounded by
+innumerable factors that affect the lymphocyte populations in the blood stream.
+
+FUTURE PERSPECTIVES
+
+NIH-PA Author Manuscript
+
+In conclusion, the establishment of early diagnostic biomarkers is critical to increase
+survival of PC patients. So far, no single marker has been identified with the specificity and
+reliability needed for screening PC during the early stages of the disease, even though a
+wide array of serum and tissue-based candidate markers have been identified. Biomarkers in
+body fluids have considerable potential for clinical diagnosis and prognosis; however, their
+application is limited by their low concentration compared to what might be available in the
+tumor tissue. The possibility that CA 19-9 may prove beneficial in diagnosing PC is
+supported by its 90% specificity to PC, but its reliability is still open to debate. Furthermore,
+more basic studies using cell lines, animal model experiment systems, and patient samples
+will be required to better understand the PC biology as a necessary requisite to identify more
+specific biomarkers for PC. The development of new methods to detect potential biomarkers
+with higher specificity and accuracy even for low concentrations in the body fluids would
+further advance biomarker research.
+Promising new area for PC biomarker research and application lies in an in-depth analysis of
+CTCs and CSCs. New technologies and approaches must be developed for isolating these
+cells, keeping them in culture without changing their genotype or phenotype, and
+understanding the roles which they might play in the genetic evolution of PC, will go a long
+way in facilitating PC diagnosis and developing novel management and treatment strategies.
+
+Acknowledgments
+We wish to extend our thanks to Mary Pull (North Dakota State University) for her thoughtful reading of the
+manuscript. We have attempted to include the most relevant materials in the field, so we apologize to authors whose
+work we have inadvertently overlooked. This project was supported by ND EPSCoR funds (EW), North Dakota
+State University Faculty Funds (EW) and Pilot Project Grant (EW) from the Centers of Biomedical Research
+Excellence (COBRE) grant NIH P20 RR020151 from the National Center for Research Resources (NCRR). NCRR
+is a component of the National Institutes of Health (NIH). The contents of this report are solely the responsibility of
+the authors and do not necessarily reflect the official views of the NIH or NCRR. The funders had no role in study
+design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+NIH-PA Author Manuscript
+
+ABBREVIATIONS
+PC
+
+Pancreatic cancer
+
+CT
+
+Computed tomography
+
+MRI
+
+Magnetic resonance imaging
+
+EUS
+
+Endoscopic ultrasound
+
+PET
+
+Positron emission tomography
+
+MRCP
+
+Magnetic resonance cholangiopancreatography
+
+ERCP
+
+Endoscopic retrograde cholangiopancreatography
+
+FNA
+
+Fine-needle aspiration
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 8
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+PanIN
+
+Pancreatic intraepithelial neoplasia
+
+SNP
+
+Single nucleotide polymorphism
+
+MSP
+
+Methylation specific PCR
+
+BSP
+
+Bisulfite-sequencing PCR
+
+TMA
+
+Tissue microarray
+
+DIGE
+
+Differential in-gel electrophoresis
+
+MS
+
+Mass spectrometry
+
+SELDI
+
+Surface enhanced laser desortion/ionization
+
+ELISA
+
+Enzyme linked immune sorbent assay
+
+MALDI
+
+Matrix assisted laser desorption/ionization
+
+DTC
+
+Disseminated tumor cells
+
+CTC
+
+Circulating tumor cells
+
+PAC
+
+Pancreatic adenocarcinoma
+
+PTGS
+
+Post transcriptional gene silencing
+
+CA 19-9
+
+Carbohydrate antigen 19-9
+
+EGTM
+
+European group of tumor markers
+
+NACB
+
+National academy of clinical biochemistry
+
+CSC
+
+Cancer stem cells
+
+2DE
+
+2 dimensional electrophoresis
+
+MudPIT
+
+Multi-dimensional protein identification technology
+
+ICAT
+
+Isotope coded affinity tag
+
+iTRAQ
+
+Isobaric tags for relative and absolute quantification
+
+REFERENCES
+
+NIH-PA Author Manuscript
+
+1. Chakraborty S, Baine MJ, Sasson AR, Batra SK. Current status of molecular markers for early
+detection of sporadic pancreatic cancer. Biochim Biophys Acta. 2011; 1815(1):44–64. [PubMed:
+20888394]
+2. Verma M. Pancreatic Cancer Biomarkers and Their Implication in Cancer Diagnosis and
+Epidemiology. Cancers. 2010; 2:1830–1837.
+3. Siegel R, Ward E, Brawley O, Jemal A. Cancer statistics, 2011: the impact of eliminating
+socioeconomic and racial disparities on pre-mature cancer deaths. CA Cancer J Clin. 2011; 61(4):
+212–236. [PubMed: 21685461]
+4. Fry LC, Monkemuller K, Malfertheiner P. Molecular markers of pancreatic cancer: development
+and clinical relevance. Langenbecks Arch Surg. 2008; 393:883–890. [PubMed: 18266003]
+5. Jimeno A, Hidalgo M. Molecular biomarkers: their increasing role in the diagnosis, characterization,
+and therapy guidance in pancreatic cancer. Mol Cancer Ther. 2006; 5:787–796. [PubMed:
+16648548]
+6. Strimpakos, AS.; Syrigos, KN.; Saif, MW. Translational research in pancreatic cancer. JOP;
+Highlights from the "2010 ASCO Gastrointestinal Cancers Symposium"; January 22–24, 2010;
+Orlando, FL, USA. p. 124-127.
+7. Stathis A, Moore MJ. Advanced pancreatic carcinoma: current treatment and future challenges. Nat
+Rev Clin Oncol. 2010; 7:163–172. [PubMed: 20101258]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 9
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+8. Holly EA, Chaliha I, Bracci PM, Gautam M. Signs and symptoms of pancreatic cancer: a
+population-based case-control study in the San Francisco Bay area. Clin Gastroenterol Hepatol.
+2004; 2:510–517. [PubMed: 15181621]
+9. Schmassmann A. Pancreatic carcinoma: conservative and adjuvant therapy. Ther Umsch. 1996;
+53:387–393. [PubMed: 8685857]
+10. Isozaki H, Okajima K, Morita S, et al. Review of pancreatic cancer. Bull Osaka Med Coll. 1990;
+36:1–11. [PubMed: 2135640]
+11. Costamagna G, Cotroneo AR, Mutignani M, Di Stasi C, Perri V. Carcinoma of the pancreatic head
+area. Therapy: nonoperative biliary drainage for palliation. Rays. 1995; 20:326–337. [PubMed:
+8559974]
+12. el-Kamar FG, Grossbard ML, Kozuch PS. Metastatic pancreatic cancer: emerging strategies in
+chemotherapy and palliative care. Oncologist. 2003; 8:18–34. [PubMed: 12604729]
+13. Robinson PA. The role of MRI in pancreatic cancer. Eur Radiol. 2002; 12:267–269. [PubMed:
+11870421]
+14. Stroszczynski C, Grutzmann R, Kittner T. CT and MR imaging of pancreatic cancer. Recent
+Results Cancer Res. 2008; 177:5–14. [PubMed: 18084942]
+15. Ardengh JC, de Paulo GA, Ferrari AP. Pancreatic carcinomas smaller than 3.0 cm:
+endosonography (EUS) in diagnosis, staging and prediction of resectability. HPB (Oxford). 2003;
+5:226–230. [PubMed: 18332991]
+16. Klapman J, Malafa MP. Early detection of pancreatic cancer: why, who, and how to screen. Cancer
+Control. 2008; 15:280–287. [PubMed: 18813195]
+17. Serrano OK, Chaudhry MA, Leach SD. The role of PET scanning in pancreatic cancer. Adv Surg.
+2010; 44:313–325. [PubMed: 20919529]
+18. Adamek HE, Albert J, Breer H, Weitz M, Schilling D, Riemann JF. Pancreatic cancer detection
+with magnetic resonance cholangiopancreatography and endoscopic retrograde
+cholangiopancreatography: a prospective controlled study. Lancet. 2000; 356:190–193. [PubMed:
+10963196]
+19. Erickson RA. ERCP and pancreatic cancer. Annals of Surgical Oncology. 2004; 11:555–557.
+[PubMed: 15150065]
+20. Ku YM, Shin SS, Lee CH, Semelka RC. Magnetic resonance imaging of cystic and endocrine
+pancreatic neoplasms. Top Magn Reson Imaging. 2009; 20:11–18. [PubMed: 19687721]
+21. Bournet B, Souque A, Senesse P, et al. Endoscopic ultrasound-guided fine-needle aspiration biopsy
+coupled with KRAS mutation assay to distinguish pancreatic cancer from pseudotumoral chronic
+pancreatitis. Endoscopy. 2009; 41:552–557. [PubMed: 19533561]
+22. Salek C, Benesova L, Zavoral M, et al. Evaluation of clinical relevance of examining K-ras, p16
+and p53 mutations along with allelic losses at 9p and 18q in EUS-guided fine needle aspiration
+samples of patients with chronic pancreatitis and pancreatic cancer. World J Gastroenterol. 2007;
+13:3714–3720. [PubMed: 17659731]
+23. American gastroenterological association medical position statement: epidemiology, diagnosis, and
+treatment of pancreatic ductal adenocarcinoma. Gastroenterology. 1999; 117:1463–1484.
+[PubMed: 10579988]
+24. Pitt HA. Curative treatment for pancreatic neoplasms. Standard resection. Surg Clin North Am.
+1995; 75:891–904. [PubMed: 7660252]
+25. Wray CJ, Ahmad SA, Matthews JB, Lowy AM. Surgery for pancreatic cancer: recent controversies
+and current practice. Gastroenterology. 2005; 128:1626–1641. [PubMed: 15887155]
+26. Zervos EE, Rosemurgy AS, Al-Saif O, Durkin AJ. Surgical management of early-stage pancreatic
+cancer. Cancer Control. 2004; 11:23–31. [PubMed: 14749620]
+27. Heinemann V. Gemcitabine: progress in the treatment of pancreatic cancer. Oncology. 2001; 60:8–
+18. [PubMed: 11150902]
+28. Mamon HJ, Niedzwiecki D, Hollis D, et al. A phase 2 trial of gemcitabine, 5-florouracil, and
+radiation therapy in locally advanced nonmetastatic pancreatic adenocarcinoma: cancer and
+Leukemia Group B (CALGB) 80003. Cancer. 2010; 117:2620–2628. [PubMed: 21656739]
+29. Kim MP, Gallick GE. Gemcitabine resistance in pancreatic cancer: picking the key players. Clin
+Cancer Res. 2008; 14:1284–1285. [PubMed: 18316544]
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 10
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+30. Hidalgo M. Pancreatic cancer. N Engl J Med. 2010; 362:1605–1617. [PubMed: 20427809]
+31. Hazard L. The role of radiation therapy in pancreas cancer. Gastrointest Cancer Res. 2009; 3:20–
+28. [PubMed: 19343134]
+32. Le Scodan R, Mornex F, Girard N, et al. Preoperative chemoradiation in potentially resectable
+pancreatic adenocarcinoma: feasibility, treatment effect evaluation and prognostic factors, analysis
+of the SFRO-FFCD 9704 trial and literature review. Ann Oncol. 2009; 20:1387–1396. [PubMed:
+19502533]
+33. Cooke EW, Hazard L. Curative radiation therapy for pancreatic malignancies. Surg Clin North
+Am. 2010; 90:341–354. [PubMed: 20362790]
+34. Lowenfels AB, Maisonneuve P. Epidemiology and risk factors for pancreatic cancer. Best Pract
+Res Clin Gastroenterol. 2006; 20:197–209. [PubMed: 16549324]
+35. Lowenfels AB, Maisonneuve P. Risk factors for pancreatic cancer. J Cell Biochem. 2005; 95:649–
+656. [PubMed: 15849724]
+36. Morse DL, Balagurunathan Y, Hostetter G, et al. Identification of novel pancreatic
+adenocarcinoma cell-surface targets by gene expression profiling and tissue microarray. Biochem
+Pharmacol. 2010; 80:748–754. [PubMed: 20510208]
+37. Takayama R, Nakagawa H, Sawaki A, et al. Serum tumor antigen REG4 as a diagnostic biomarker
+in pancreatic ductal adenocarcinoma. J Gastroenterol. 2010; 45:52–59. [PubMed: 19789838]
+38. Talamini G, Bassi C, Falconi M, et al. Alcohol and smoking as risk factors in chronic pancreatitis
+and pancreatic cancer. Digestive Diseases Sci. 1999; 44:1303–1311.
+39. Harada T, Chelala C, Bhakta V, et al. Genome-wide DNA copy number analysis in pancreatic
+cancer using high-density single nucleotide polymorphism arrays. Oncogene. 2008; 27:1951–
+1960. [PubMed: 17952125]
+40. Bardeesy N, DePinho RA. Pancreatic cancer biology and genetics. Nat Rev Cancer. 2002; 2:897–
+909. [PubMed: 12459728]
+41. Ryu JK, Hong SM, Karikari CA, Hruban RH, Goggins MG, Maitra A. Aberrant MicroRNA-155
+expression is an early event in the multistep progression of pancreatic adenocarcinoma.
+Pancreatology. 2010; 10:66–73. [PubMed: 20332664]
+42. Klimstra DS, Longnecker DS. K-ras mutations in pancreatic ductal proliferative lesions. Am J
+Pathol. 1994; 145:1547–1550. [PubMed: 7992857]
+43. Pellegata NS, Sessa F, Renault B, et al. K-ras and p53 gene mutations in pancreatic cancer: ductal
+and nonductal tumors progress through different genetic lesions. Cancer Res. 1994; 54:1556–1560.
+[PubMed: 8137263]
+44. Ghaneh P, Costello E, Neoptolemos JP. Biology and management of pancreatic cancer. Postgrad
+Med J. 2008; 84:478–497. [PubMed: 18940950]
+45. Fukushima N, Sato N, Ueki T, et al. Aberrant methylation of preproenkephalin and p16 genes in
+pancreatic Intraepithelial neoplasia and pancreatic ductal adenocarcinoma. Am J Pathol. 2002;
+160:1573–1581. [PubMed: 12000709]
+46. Ueki T, Toyota M, Skinner H, et al. Identification and characterization of differentially methylated
+CpG islands in pancreatic carcinoma. Cancer Res. 2001; 61:8540–8546. [PubMed: 11731440]
+47. Korc M, Chandrasekar B, Yamanaka Y, Friess H, Buchier M, Beger HG. Overexpression of the
+epidermal growth factor receptor in human pancreatic cancer is associated with concomitant
+increases in the levels of epidermal growth factor and transforming growth factor alpha. J Clin
+Invest. 1992; 90:1352–1360. [PubMed: 1401070]
+48. Barton CM, Hall PA, Hughes CM, Gullick WJ, Lemoine NR. Transforming growth factor alpha
+and epidermal growth factor in human pancreatic cancer. J Pathol. 1991; 163:111–116. [PubMed:
+1707959]
+49. Friess H, Berberat P, Schilling M, Kunz J, Korc M, Buchler MW. Pancreatic cancer: the potential
+clinical relevance of alterations in growth factors and their receptors. J Mol Med. 1996; 74:35–42.
+[PubMed: 8834768]
+50. Simeone DM, Ji B, Banerjee M, et al. CEACAM1, a novel serum biomarker for pancreatic cancer.
+Pancreas. 2007; 34:436–443. [PubMed: 17446843]
+51. Schutte M, Hruban RH, Geradts J, et al. Abrogation of the Rb/p16 tumor-suppressive pathway in
+virtually all pancreatic carcinomas. Cancer Res. 1997; 57:3126–3130. [PubMed: 9242437]
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+52. Yamano M, Fujii H, Takagaki T, Kadowaki N, Watanabe H, Shirai T. Genetic progression and
+divergence in pancreatic carcinoma. Am J Pathol. 2000; 156:2123–2133. [PubMed: 10854233]
+53. Boschman CR, Stryker S, Reddy JK, Rao MS. Expression of P53 Protein in Precursor Lesions and
+Adenocarcinoma of Human Pancreas. Am J Pathol. 1994; 145:1291–1295. [PubMed: 7992834]
+54. Zindy F, Quelle DE, Roussel MF, Sherr CJ. Expression of the p16(INK4a) tumor suppressor
+versus other INK4 family members during mouse development and aging. Oncogene. 1997;
+15:203–211. [PubMed: 9244355]
+55. Liu L, Dilworth D, Gao LZ, et al. Mutation of the CDKN2A 5 ' UTR creates an aberrant initiation
+codon and predisposes to melanoma. Nat Genetics. 1999; 21:128–132. [PubMed: 9916806]
+56. DiGiuseppe JA, Hruban RH, Goodman SN, et al. Overexpression of p53 protein in
+adenocarcinoma of the pancreas. Am J Clin Pathol. 1994; 101:684–688. [PubMed: 8209852]
+57. Goggins M, Hruban RH, Kern SE. BRCA2 is inactivated late in the development of pancreatic
+intraepithelial neoplasia - Evidence and implications. Am J Pathol. 2000; 156:1767–1771.
+[PubMed: 10793087]
+58. Wilentz RE, Iacobuzio-Donahue CA, Argani P, et al. Loss of expression of Dpc4 in pancreatic
+intraepithelial neoplasia: Evidence that DPC4 inactivation occurs late in neoplastic progression.
+Cancer Res. 2000; 60:2002–2006. [PubMed: 10766191]
+59. Asomaning K, Reid AE, Zhou W, et al. MDM2 promoter polymorphism and pancreatic cancer risk
+and prognosis. Clinical Cancer Res. 2008; 14:4010–4015. [PubMed: 18559624]
+60. Dong M, Ma G, Tu W, Guo KJ, Tian YL, Dong YT. Clinicopathological significance of p53 and
+mdm2 protein expression in human pancreatic cancer. World J Gastroenterol. 2005; 11:2162–
+2165. [PubMed: 15810085]
+61. Wehler T, Wolfert F, Schimanski CC, et al. Strong expression of chemokine receptor CXCR4 by
+pancreatic cancer correlates with advanced disease. Oncology Reports. 2006; 16:1159–1164.
+[PubMed: 17089032]
+62. Thomas RM, Kim J, Revelo-Penafiel MP, Angel R, Dawson DW, Lowy AM. The chemokine
+receptor CXCR4 is expressed in pancreatic intraepithelial neoplasia. Gut. 2008; 57:1555–1560.
+[PubMed: 18664506]
+63. Thomas RM, Toney K, Fenoglio-Preiser C, et al. The RON receptor tyrosine kinase mediates
+oncogenic phenotypes in pancreatic cancer cells and is increasingly expressed during pancreatic
+cancer progression. Cancer Res. 2007; 67:6075–6082. [PubMed: 17616662]
+64. Sato N, Fukushima N, Maitra A, et al. Discovery of novel targets for aberrant methylation in
+pancreatic carcinoma using high-throughput microarrays. Cancer Res. 2003; 63:3735–3742.
+[PubMed: 12839967]
+65. Selaru FM, David S, Meltzer SJ, Hamilton JP. Epigenetic Events in Gastrointestinal Cancer. Am J
+Gastroenterol. 2009; 104:1910–1912. [PubMed: 19661933]
+66. Koorstra JBM, Feldmann G, Habbe N, Maitra A. Morphogenesis of pancreatic cancer: role of
+pancreatic intraepithelial neoplasia (PanINs). Langenbecks Archives Surgery. 2008; 393:561–570.
+67. van Heek NT, Meeker AK, Kern SE, et al. Telomere shortening is nearly universal in pancreatic
+intraepithelial neoplasia. Am J Pathol. 2002; 161:1541–1547. [PubMed: 12414502]
+68. Gisselsson D, Jonson T, Petersen A, et al. Telomere dysfunction triggers extensive DNA
+fragmentation and evolution of complex chromosome abnormalities in human malignant tumors.
+Proceed Nat Academy Sci USA. 2001; 98:12683–12688.
+69. Lopez-Casas PP, Lopez-Fernandez LA. Gene-expression profiling in pancreatic cancer. Expert
+Rev Mol Diagn. 2010; 10:591–601. [PubMed: 20629509]
+70. Laurell H, Bouisson M, Berthelemy P, et al. Identification of biomarkers of human pancreatic
+adenocarcinomas by expression profiling and validation with gene expression analysis in
+endoscopic ultrasound-guided fine needle aspiration samples. World J Gastroenterol. 2006;
+12:3344–3351. [PubMed: 16733850]
+71. Liang JJ, Kimchi ET, Staveley-O'Carroll KF, Tan D. Diagnostic and prognostic biomarkers in
+pancreatic carcinoma. Int J Clin Exp Pathol. 2009; 2:1–10. [PubMed: 18830385]
+72. Gao J, Zhu F, Lv S, Li Z, Ling Z, Gong Y, et al. Identification of pancreatic juice proteins as
+biomarkers of pancreatic cancer. Oncol Rep. 2010; 23:1683–1692. [PubMed: 20428826]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+73. Iacobuzio-Donahue CA, Maitra A, Olsen M, et al. Exploration of global gene expression patterns
+in pancreatic adenocarcinoma using cDNA microarrays. Am J Pathol. 2003; 162:1151–1162.
+[PubMed: 12651607]
+74. Wong SCC, Chan CML, Ma BBY, et al. Advanced proteomic technologies for cancer biomarker
+discovery. Expert Rev Proteomics. 2009; 6:123–134. [PubMed: 19385940]
+75. Ma N, Ge C-l, Luan F-m, et al. Serum protein fingerprint of patients with pancreatic cancer by
+SELDI technology. Chinese J Cancer Res. 2008; 20:171–176.
+76. Xue A, Scarlett CJ, Chung L, et al. Discovery of serum biomarkers for pancreatic adenocarcinoma
+using proteomic analysis. British J Cancer. 2010; 103:391–400.
+77. Yu KH, Rustgi AK, Blair IA. Characterization of proteins in human pancreatic cancer serum using
+differential gel electrophoresis and tandem mass spectrometry. J Proteome Res. 2005; 4:1742–
+1751. [PubMed: 16212428]
+78. Tambor V, Fucikova A, Lenco J, et al. Application of Proteomics in Biomarker Discovery: a
+Primer for the Clinician. Physiological Res. 2010; 59:471–497.
+79. Chen R, Pan S, Yi EC, et al. Quantitative proteomic profiling of pancreatic cancer juice.
+Proteomics. 2006; 6:3871–3879. [PubMed: 16739137]
+80. Zhang L, Farrell JJ, Zhou H, et al. Salivary transcriptomic biomarkers for detection of resectable
+pancreatic cancer. Gastroenterology. 2010; 138:949–957. e1–e7. [PubMed: 19931263]
+81. Haug U, Wente MN, Seiler CM, Jesnowski R, Brenner H. Stool testing for the early detection of
+pancreatic cancer: rationale and current evidence. Expert Rev Mol Diagn. 2008; 8:753–759.
+[PubMed: 18999925]
+82. Brody JR, Costantino CL, Potoczek M, et al. Adenosquamous carcinoma of the pancreas harbors
+KRAS2, DPC4 and TP53 molecular alterations similar to pancreatic ductal adenocarcinoma. Mod
+Pathol. 2009; 22:651–659. [PubMed: 19270646]
+83. Liu F. SMAD4/DPC4 and pancreatic cancer survival. Commentary re: M. Tascilar et al., The
+SMAD4 protein and prognosis of pancreatic ductal adenocarcinoma. Clin Cancer Res. 2001;
+7:4115–4121. Clin Cancer Res 2001; 7: 3853-6. [PubMed: 11751510]
+84. Biankin AV, Morey AL, Lee CS, et al. DPC4/Smad4 expression and outcome in pancreatic ductal
+adenocarcinoma. J Clin Oncol. 2002; 20:4531–4542. [PubMed: 12454109]
+85. Gu LJ, Chen J, Lu ZH, Li L, Zhou WX, Luo YF. [Expression of DPC4/Smad4, p21wafI, and p16
+in human pancreatic cancer]. Ai Zheng. 2002; 21:132–137. [PubMed: 12479060]
+86. Kipp BR, Fritcher EG, Clayton AC, et al. Comparison of KRAS mutation analysis and FISH for
+detecting pancreatobiliary tract cancer in cytology specimens collected during endoscopic
+retrograde cholangiopancreatography. J Mol Diagn. 2010; 12:780–786. [PubMed: 20864634]
+87. Wu X, Lu XH, Xu T, et al. Evaluation of the diagnostic value of serum tumor markers, and fecal kras and p53 gene mutations for pancreatic cancer. Chin J Dig Dis. 2006; 7:170–174. [PubMed:
+16808798]
+88. Zinsky R, Bolukbas S, Bartsch H, Schirren J, Fisseler-Eckhoff A. Analysis of KRAS Mutations of
+Exon 2 Codons 12 and 13 by SNaPshot Analysis in Comparison to Common DNA Sequencing.
+Gastroenterol Res Pract. 2010 789363.
+89. Morton JP, Timpson P, Karim SA, et al. Mutant p53 drives metastasis and overcomes growth
+arrest/senescence in pancreatic cancer. Proc Natl Acad Sci USA. 2009; 107:246–251. [PubMed:
+20018721]
+90. Jeong J, Park YN, Park JS, Yoon DS, Chi HS, Kim BR. Clinical significance of p16 protein
+expression loss and aberrant p53 protein expression in pancreatic cancer. Yonsei Med J. 2005;
+46:519–525. [PubMed: 16127777]
+91. Gerdes B, Ramaswamy A, Kersting M, et al. p16(INK4a) alterations in chronic pancreatitisindicator for high-risk lesions for pancreatic cancer. Surgery. 2001; 129:490–497. [PubMed:
+11283541]
+92. Maitra A, Molberg K, Albores-Saavedra J, Lindberg G. Loss of Dpc4 expression in colonic
+adenocarcinomas correlates with the presence of metastatic disease. Am J Pathol. 2000; 157:1105–
+1111. [PubMed: 11021814]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 13
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+93. Iacobuzio-Donahue CA, Fu B, Yachida S, et al. DPC4 gene status of the primary carcinoma
+correlates with patterns of failure in patients with pancreatic cancer. J Clin Oncol. 2009; 27:1806–
+1813. [PubMed: 19273710]
+94. Maitra A, Kern SE, Hruban RH. Molecular pathogenesis of pancreatic cancer. Best Pract Res Clin
+Gastroenterol. 2006; 20:211–226. [PubMed: 16549325]
+95. Jiang Y, Mackley H, Cheng H, Ajani JA. Use of K-Ras as a predictive biomarker for selecting
+anti-EGF receptor/pathway treatment. Biomark Med. 2010; 4:535–541. [PubMed: 20701442]
+96. Morris JP, Wang SC, Hebrok M. KRAS, Hedgehog, Wnt and the twisted developmental biology of
+pancreatic ductal adenocarcinoma. Nature Rev Cancer. 2010; 10:683–695. [PubMed: 20814421]
+97. Rustgi AK. The molecular pathogenesis of pancreatic cancer: clarifying a complex circuitry. Genes
+& Development. 2006; 20:3049–3053. [PubMed: 17114578]
+98. Slater EP, Langer P, Fendrich V, et al. Prevalence of BRCA2 and CDKN2a mutations in German
+familial pancreatic cancer families. Fam Cancer. 2010; 9:335–343. [PubMed: 20195775]
+99. Matsubayashi H, Canto M, Sato N, et al. DNA methylation alterations in the pancreatic juice of
+patients with suspected pancreatic disease. Cancer Res. 2006; 66:1208–1217. [PubMed:
+16424060]
+100. Bausch D, Thomas S, Mino-Kenudson M, et al. Plectin-1 as a novel biomarker for pancreatic
+cancer. Clin Cancer Res. 2010; 17:302–309. [PubMed: 21098698]
+101. Balasenthil S, Chen N, Lott ST, et al. A migration signature and plasma biomarker panel for
+pancreatic adenocarcinoma. Cancer Prev Res (Phila). 2010; 4:137–149. [PubMed: 21071578]
+102. Kurtova A, Sivina M, Quiroga MP, Wierda WG, Keating MJ, Burger JA. The Immunophenotype
+Signature CD49d(+)CD38(+) Identifies Chronic Lymphocytic Leukemia Cases with a Higher
+Potential for Migration Beneath Marrow Stromal Cells. Blood. 2009; 114:150–151.
+103. Sakorafas GH, Tsiotou AG, Tsiotos GG. Molecular biology of pancreatic cancer; oncogenes,
+tumour suppressor genes, growth factors, and their receptors from a clinical perspective. Cancer
+Treat Rev. 2000; 26:29–52. [PubMed: 10660490]
+104. Mulero-Navarro S, Esteller M. Epigenetic biomarkers for human cancer: The time is now. Critical
+Rev Oncol Hematol. 2008; 68:1–11. [PubMed: 18430583]
+105. Tan AC, Jimeno A, Lin SH, et al. Characterizing DNA methylation patterns in pancreatic cancer
+genome. Molecular Oncology. 2009; 3:425–438. [PubMed: 19497796]
+106. Omura N, Li CP, Li A, et al. Genome-wide profiling of methylated promoters in pancreatic
+adenocarcinoma. Cancer Biol Therapy. 2008; 7:1146–1156.
+107. Ohtsubo K, Watanabe H, Yao F, et al. Preproenkephalin hypermethylation in the pure pancreatic
+juice compared with p53 mutation in the diagnosis of pancreatic carcinoma. J Gastroenterol.
+2006; 41:791–797. [PubMed: 16988769]
+108. Shimizu K, Itsuzaki Y, Fujii H, Honoki K, Tsujiuchi T. Reduced expression of the Rassf1a gene
+and its aberrant DNA methylation in pancreatic duct adenocarcinomas induced by Nnitrosobis(2-oxopropyl)amine in hamsters. Mol Carcinog. 2008; 47:80–87. [PubMed: 17849420]
+109. Pizzi S, Azzoni C, Bottarelli L, et al. RASSF1A promoter methylation and 3p21.3 loss of
+heterozygosity are features of foregut, but not midgut and hindgut, malignant endocrine tumours.
+J Pathol. 2005; 206:409–416. [PubMed: 15887288]
+110. House MG, Herman JG, Guo MZ, et al. Aberrant hypermethylation of tumor suppressor genes in
+pancreatic endocrine neoplasms. Ann Surg. 2003; 238:423–431. discussion 31-2. [PubMed:
+14501508]
+111. Dammann R, Schagdarsurengin U, Liu LM, et al. Frequent RASSF1A promoter
+hypermethylation and K-ras mutations in pancreatic carcinoma. Oncogene. 2003; 22:3806–3812.
+[PubMed: 12802288]
+112. Matsubayashi H, Sato N, Fukushima N, et al. Methylation of cyclin D2 is observed frequently in
+pancreatic cancer but is also an age-related phenomenon in gastrointestinal tissues. Clin Cancer
+Res. 2003; 9:1446–1452. [PubMed: 12684418]
+113. Virmani A, Rathi A, Heda S, et al. Aberrant methylation of the Cyclin D2 promoter in primary
+small cell, nonsmall cell lung and breast cancers. Int J Cancer. 2003; 107:341–345. [PubMed:
+14506731]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 14
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+114. Sakai M, Hibi K, Koshikawa K, et al. Frequent promoter methylation and gene silencing of
+CDH13 in pancreatic cancer. Cancer Sci. 2004; 95:588–591. [PubMed: 15245595]
+115. Watanabe H, Okada G, Ohtsubo K, et al. Aberrant methylation of secreted apoptosis-related
+protein 2 (SARP2) in pure pancreatic juice in diagnosis of pancreatic neoplasms. Pancreas. 2006;
+32:382–389. [PubMed: 16670620]
+116. Park JK, Ryu JK, Lee KH, et al. Quantitative analysis of NPTX2 hypermethylation is a promising
+molecular diagnostic marker for pancreatic cancer. Pancreas. 2007; 35:e9–e15. [PubMed:
+17895837]
+117. Melnikov AA, Scholtens D, Talamonti MS, Bentrem DJ, Levenson VV. Methylation Profile of
+Circulating Plasma DNA in Patients With Pancreatic Cancer. J Surgical Oncol. 2009; 99:119–
+122.
+118. Manuyakorn A, Paulus R, Farrell J, et al. Cellular Histone Modification Patterns Predict
+Prognosis and Treatment Response in Resectable Pancreatic Adenocarcinoma: Results From
+RTOG 9704. J Clinical Oncol. 2010; 28:1358–1365. [PubMed: 20142597]
+119. Li A, Omura N, Hong SM, et al. Pancreatic cancers epigenetically silence SIP1 and
+hypomethylate and overexpress miR-200a/200b in association with elevated circulating
+miR-200a and miR-200b levels. Cancer Res. 2010; 70:5226–5237. [PubMed: 20551052]
+120. Nimmo RA, Slack FJ. An elegant miRror: microRNAs in stem cells, developmental timing and
+cancer. Chromosoma. 2009; 118:405–418. [PubMed: 19340450]
+121. Croce CM. Causes and consequences of microRNA dysregulation in cancer. Nat Rev Genet.
+2009; 10:704–714. [PubMed: 19763153]
+122. Rosenfeld N, Aharonov R, Meiri E, et al. MicroRNAs accurately identify cancer tissue origin.
+Nat Biotechnol. 2008; 26:462–469. [PubMed: 18362881]
+123. Esquela-Kerscher A, Slack FJ. Oncomirs - microRNAs with a role in cancer. Nat Rev Cancer.
+2006; 6:259–269. [PubMed: 16557279]
+124. Bartels CL, Tsongalis GJ. [MicroRNAs: novel biomarkers for human cancer]. Ann Biol Clin
+(Paris). 2009; 68:263–272. [PubMed: 20478768]
+125. Szafranska AE, Davison TS, John J, et al. MicroRNA expression alterations are linked to
+tumorigenesis and non-neoplastic processes in pancreatic ductal adenocarcinoma. Oncogene.
+2007; 26:4442–4452. [PubMed: 17237814]
+126. Kong X, Du Y, Wang G, et al. Erratum to: Detection of Differentially Expressed microRNAs in
+Serum of Pancreatic Ductal Adenocarcinoma Patients: miR-196a Could Be a Potential Marker
+for Poor Prognosis. Dig Dis Sci. 2011; 56:602–609. [PubMed: 20614181]
+127. Ho AS, Huang X, Cao H, et al. Circulating miR-210 as a Novel Hypoxia Marker in Pancreatic
+Cancer. Transl Oncol. 2010; 3:109–113. [PubMed: 20360935]
+128. Giovannetti E, Funel N, Peters GJ, et al. MicroRNA-21 in pancreatic cancer: correlation with
+clinical outcome and pharmacologic aspects underlying its role in the modulation of gemcitabine
+activity. Cancer Res. 2010; 70:4528–4538. [PubMed: 20460539]
+129. Hwang J-H, Voortman J, Giovannetti E, et al. Identification of MicroRNA-21 as a Biomarker for
+Chemoresistance and Clinical Outcome Following Adjuvant Therapy in Resectable Pancreatic
+Cancer. PLoS One. 2010; 5:e10630. [PubMed: 20498843]
+130. du Rieu MC, Torrisani J, Selves J, et al. MicroRNA-21 is induced early in pancreatic ductal
+adenocarcinoma precursor lesions. Clin Chem. 2010; 56:603–612. [PubMed: 20093556]
+131. Zhang Y, Li M, Wang H, et al. Profiling of 95 microRNAs in pancreatic cancer cell lines and
+surgical specimens by real-time PCR analysis. World J Surg. 2009; 33:698–709. [PubMed:
+19030927]
+132. Haas M, Laubender RP, Stieber P, et al. Prognostic relevance of CA 19-9, CEA, CRP, and LDH
+kinetics in patients treated with palliative second-line therapy for advanced pancreatic cancer.
+Tumour Biol. 2010; 31:351–357. [PubMed: 20480409]
+133. Ho JJ, Siddiki B, Kim YS. Association of sialyl-Lewis(a) and sialyl-Lewis(x) with MUC-1
+apomucin ina pancreatic cancer cell line. Cancer Res. 1995; 55:3659–3663. [PubMed: 7627976]
+134. Steinberg W. The clinical utility of the CA 19-9 tumor-associated antigen. Am J Gastroenterol.
+1990; 85:350–355. [PubMed: 2183589]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 15
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+135. Andren-Sandberg A. CA 50 and CA 19-9 in serum as tumor markers for pancreatic cancer: a
+review of the literature. Acta Chir Scand Suppl. 1989; 549:75–81. [PubMed: 2648719]
+136. Kokhanenko N, Ignashov AM, Varga EV, et al. [Role of the tumor markers CA 19-9 and
+carcinoembryonic antigen (CEA) in diagnosis, treatment and prognosis of pancreatic cancer].
+Vopr Onkol. 2001; 47:294–297. [PubMed: 11544826]
+137. Baeckstrom D, Hansson GC, Nilsson O, Johansson C, Gendler SJ, Lindholm L. Purification and
+characterization of a membrane-bound and a secreted mucin-type glycoprotein carrying the
+carcinoma-associated sialyl-Lea epitope on distinct core proteins. J Biol Chem. 1991;
+266:21537–21547. [PubMed: 1718981]
+138. Koprowski H, Herlyn M, Steplewski Z, Sears HF. Specific antigen in serum of patients with
+colon carcinoma. Science. 1981; 212:53–55. [PubMed: 6163212]
+139. Koprowski H, Steplewski Z, Mitchell K, Herlyn M, Herlyn D, Fuhrer P. Colorectal carcinoma
+antigens detected by hybridoma antibodies. Somatic Cell Genet. 1979; 5:957–971. [PubMed:
+94699]
+140. Magnani JL, Nilsson B, Brockhaus M, et al. A monoclonal antibody-defined antigen associated
+with gastrointestinal cancer is a ganglioside containing sialylated lacto-N-fucopentaose II. J Biol
+Chem. 1982; 257:14365–14369. [PubMed: 7142214]
+141. Ugorski M, Laskowska A. Sialyl Lewis(a): a tumor-associated carbohydrate antigen involved in
+adhesion and metastatic potential of cancer cells. Acta Biochimica Polonica. 2002; 49:303–311.
+[PubMed: 12362971]
+142. Vestergaard EM, Hein HO, Meyer H, et al. Reference values and biological variation for tumor
+marker CA 19-9 in serum for different Lewis and secretor genotypes and evaluation of secretor
+and Lewis genotyping in a Caucasian population. Clin Chem. 1999; 45:54–61. [PubMed:
+9895338]
+143. Hanisch FG, Uhlenbruck G, Dienst C. Structure of tumor-associated carbohydrate antigen Ca
+19-9 on human seminal-plasma glycoproteins from healthy donors. Eur J Biochem. 1984;
+144:467–473. [PubMed: 6593222]
+144. Tempero MA, Uchida E, Takasaki H, Burnett DA, Steplewski Z, Pour PM. Relationship of
+Carbohydrate Antigen 19-9 and Lewis Antigens in Pancreatic-Cancer. Cancer Research. 1987;
+47:5501–5503. [PubMed: 3308077]
+145. Eskelinen M, Haglund U. Developments in serologic detection of human pancreatic
+adenocarcinoma. Scand J Gastroenterol. 1999; 34:833–844. [PubMed: 10522599]
+146. Sreejayan N, Wittig BM, Von Stillfried N, et al. Human biliary mucin binds to E-selectin: a
+possible role in modulation of inflammation. Am J Physiology-Gastrointestinal Liver Physiol.
+2001; 280:G1043–G1048.
+147. Kannagi R. Carbohydrate antigen sialyl Lewis a--its pathophysiological significance and
+induction mechanism in cancer progression. Chang Gung Med J. 2007; 30:189–209. [PubMed:
+17760270]
+148. Miyazaki K, Ohmori K, Izawa M, et al. Loss of disialyl Lewis(a), the ligand for lymphocyte
+inhibitory receptor sialic acid-binding immunoglobulin-like lectin-7 (Siglec-7) associated with
+increased sialyl Lewis(a) expression on human colon cancers. Cancer Res. 2004; 64:4498–4505.
+[PubMed: 15231659]
+149. Ritts RE, Delvillano BC, Go VLW, Herberman RB, Klug TL, Zurawski VR. Initial ClinicalEvaluation of an Immunoradiometric Assay for Ca-19-9 Using the Nci Serum Bank. Int J Cancer.
+1984; 33:339–345. [PubMed: 6199316]
+150. Satake K, Kanazawa G, Kho I, Chung YS, Umeyama K. A Clinical-Evaluation of Carbohydrate
+Antigen 19-9 and Carcinoembryonic Antigen in Patients with Pancreatic-Carcinoma. J Surgical
+Oncol. 1985; 29:15–21.
+151. Safi F, Beger HG, Bittner R, Buchler M, Krautzberger W. Ca-19-9 and Pancreatic
+Adenocarcinoma. Cancer. 1986; 57:779–783. [PubMed: 3455839]
+152. Duffy MJ, Sturgeon C, Lamerz R, et al. Tumor markers in pancreatic cancer: a European Group
+on Tumor Markers (EGTM) status report. Ann Oncol. 2010; 21:441–447. [PubMed: 19690057]
+153. Tian FH, Appert HE, Myles J, Howard JM. Prognostic Value of Serum Ca-19-9 Levels in
+Pancreatic Adenocarcinoma. Annals Surgery. 1992; 215:350–355.
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 16
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+154. Glenn J, Steinberg WM, Kurtzman SH, Steinberg SM, Sindelar WF. Evaluation of the Utility of a
+Radioimmunoassay for Serum Ca-19-9 Levels in Patients before and after Treatment of
+Carcinoma of the Pancreas. J Clinical Oncol. 1988; 6:462–468. [PubMed: 3162513]
+155. Forsmark CE, Lambiase L, Vogel SB. Diagnosis of Pancreatic-Cancer and Prediction of
+Unresectability Using the Tumor-Associated Antigen Ca19-9. Pancreas. 1994; 9:731–734.
+[PubMed: 7846016]
+156. Lundin J, Roberts PJ, Kuusela P, Haglund C. The Prognostic Value of Preoperative Serum Levels
+of Ca-19-9 and Cea in Patients with Pancreatic-Cancer. British J Cancer. 1994; 69:515–519.
+157. Willett CG, Daly WJ, Warshaw AL. CA 19-9 is an index of response to neoadjunctive
+chemoradiation therapy in pancreatic cancer. Am J Surgery. 1996; 172:350–352.
+158. Goonetilleke KS, Siriwardena AK. Systematic review of carbohydrate antigen (CA 19-9) as a
+biochemical marker in the diagnosis of pancreatic cancer. Ejso. 2007; 33:266–270. [PubMed:
+17097848]
+159. Gold DV, Modrak DE, Ying Z, Cardillo TM, Sharkey RM, Goldenberg DM. New MUC1 serum
+immunoassay differentiates pancreatic cancer from pancreatitis. J Clin Oncol. 2006; 24:252–258.
+[PubMed: 16344318]
+160. Tumour markers in gastrointestinal cancers--EGTM recommendations. European Group on
+Tumour Markers. Anticancer Res. 1999; 19:2811–2815. [PubMed: 10470247]
+161. Szajda SD, Waszkiewicz N, Chojnowska S, Zwierz K. Carbohydrate markers of pancreatic
+cancer. Biochem Soc Trans. 2011; 39:340–343. [PubMed: 21265800]
+162. Duffy MJ. CA 19-9 as a marker for gastrointestinal cancers: a review. Annals of Clinical
+Biochemistry. 1998; 35:364–370. [PubMed: 9635101]
+163. Lamerz R. Role of tumour markers, cytogenetics. Annals of Oncology. 1999; 10:145–149.
+[PubMed: 10436809]
+164. Monaghan PJ, Leonard MB, Neithercut WD, Raraty MGT, Sodi R. False positive carbohydrate
+antigen 19-9 (CA19-9) results due to a low-molecular weight interference in an apparently
+healthy male. Clinica Chimica Acta. 2009; 406:41–44.
+165. Kuhlmann KF, van Till JW, Boermeester MA, et al. Evaluation of matrix metalloproteinase 7 in
+plasma and pancreatic juice as a biomarker for pancreatic cancer. Cancer Epidemiol Biomarkers
+Prev. 2007; 16:886–891. [PubMed: 17507610]
+166. Chen R, Pan S, Duan X, et al. Elevated level of anterior gradient-2 in pancreatic juice from
+patients with pre-malignant pancreatic neoplasia. Mol Cancer. 2010; 9:149. [PubMed: 20550709]
+167. Ohuchida K, Mizumoto K, Yu J, et al. S100A6 is increased in a stepwise manner during
+pancreatic carcinogenesis: clinical value of expression analysis in 98 pancreatic juice samples.
+Cancer Epidemiol Biomarkers Prev. 2007; 16:649–654. [PubMed: 17416753]
+168. Suehara N, Mizumoto K, Niiyama H, Tanaka M. [Specific activation of telomerase in pancreatic
+cancer tissue and preoperative diagnosis of pancreatic cancer by telomerase in pancreatic juice].
+Nippon Rinsho. 1998; 56:1223–1228. [PubMed: 9613127]
+169. Li J, Ma Q, Liu H, et al. Relationship between Neural Alteration and Perineural Invasion in
+Pancreatic Cancer Patients with Hyperglycemia. PLoS One. 2011; 6:e17385. [PubMed:
+21386984]
+170. Bunger S, Laubert T, Roblick UJ, Habermann JK. Serum biomarkers for improved diagnostic of
+pancreatic cancer: a current overview. J Cancer Research and Clinical Oncology. 2011; 137:375–
+389.
+171. Brand RE, Nolen BM, Zeh HJ, et al. Serum Biomarker Panels for the Detection of Pancreatic
+Cancer. Clin Cancer Res. 2011; 17:805–816. [PubMed: 21325298]
+172. Hermann PC, Huber SL, Herrler T, et al. Distinct populations of cancer stem cells determine
+tumor growth and metastatic activity in human pancreatic cancer. Cell Stem Cell. 2007; 1:313–
+323. [PubMed: 18371365]
+173. Sergeant G, Vankelecom H, Gremeaux L, Topal B. Role of cancer stem cells in pancreatic ductal
+adenocarcinoma. Nat Rev Clin Oncol. 2009; 6:580–586. [PubMed: 19687789]
+174. Bhagwandin VJ, Shay JW. Pancreatic cancer stem cells: fact or fiction? Biochim Biophys Acta.
+2009; 1792:248–259. [PubMed: 19233264]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 17
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+175. Huang P, Wang CY, Gou SM, Wu HS, Liu T, Xiong JX. Isolation and biological analysis of
+tumor stem cells from pancreatic adenocarcinoma. World J Gastroenterol. 2008; 14:3903–3907.
+[PubMed: 18609717]
+176. Toshio K, Itoi T, Sofuni A, et al. Detection of circulating tumor cells in patients with pancreatic
+carcinoma. Gastroenterology. 2007; 132:A351-A.
+177. Kurihara T, Itoi T, Sofuni A, et al. Detection of circulating tumor cells in patients with pancreatic
+cancer: a preliminary result. J Hepato-Biliary-Pancreatic Surgery. 2008; 15:189–195.
+178. Klos D, Srovnal J, Lovecek M, Hajduch M, Neoral C, Havlik R. Determination of minimal
+residual disease in pancreatic cancer - clinical benefit. Br J Surgery. 2010; 97:S69–S70.
+179. An X, Ding PR, Li YH, et al. Elevated neutrophil to lymphocyte ratio predicts survival in
+advanced pancreatic cancer. Biomarkers. 2010; 15:516–522. [PubMed: 20602543]
+180. Chang P, Li Y, Li D. Micronuclei Levels in Peripheral Blood Lymphocytes as a Potential
+Biomarker for Pancreatic Cancer Risk. Carcinogenesis. 2010; 32:210–215. [PubMed: 21097528]
+181. Hoffmann K, Kerner C, Wilfert W, et al. Detection of disseminated pancreatic cells by
+amplification of cytokeratin-19 with quantitative RT-PCR in blood, bone marrow and peritoneal
+lavage of pancreatic carcinoma patients. World J Gastroenterol. 2007; 13:257–263. [PubMed:
+17226905]
+182. Helmstaedter L, Riemann JF. Pancreatic cancer--EUS and early diagnosis. Langenbecks Arch
+Surg. 2008; 393:923–927. [PubMed: 18247044]
+183. Levy MJ, Wiersema MJ. Endoscopic ultrasound in the diagnosis and staging of pancreatic cancer.
+Oncology (Williston Park). 2002; 16:29–38. 43; discussion 4, 7–9, 53–6. [PubMed: 11831609]
+184. Berberat P, Friess H, Kashiwagi M, Beger HG, Buchler MW. Diagnosis and staging of pancreatic
+cancer by positron emission tomography. World J Surg. 1999; 23:882–887. [PubMed: 10449814]
+185. Rocca R, De Angelis C, Daperno M, et al. Endoscopic ultrasound-fine needle aspiration (EUSFNA) for pancreatic lesions: effectiveness in clinical practice. Dig Liver Dis. 2007; 39:768–774.
+[PubMed: 17606420]
+186. James TA, Gibbs JF. Pancreatic cancer screening: identifying premalignant disease. Future
+Oncol. 2005; 1:191–195. [PubMed: 16555989]
+187. Iqbal S, Stevens PD. Cholangiopancreatoscopy for targeted biopsies of the bile and pancreatic
+ducts. Gastrointest Endosc Clin N Am. 2009; 19:567–577. [PubMed: 19917462]
+188. Fleming JB, Gonzalez RJ, Petzel MQ, et al. Influence of obesity on cancer-related outcomes after
+pancreatectomy to treat pancreatic adenocarcinoma. Arch Surg. 2009; 144:216–221. [PubMed:
+19289659]
+189. McWilliams RR, Matsumoto ME, Burch PA, et al. Obesity Adversely Affects Survival in
+Pancreatic Cancer Patients. Cancer. 2010; 116:5054–5062. [PubMed: 20665496]
+190. Li DH, Morris JS, Liu J, et al. Body Mass Index and Risk, Age of Onset, and Survival in Patients
+With Pancreatic Cancer. Jama-J the Am Medical Association. 2009; 301:2553–2562.
+191. Jiao L, Hassan MM, Bondy ML, et al. XRCC2 and XRCC3 gene polymorphism and risk of
+pancreatic cancer. Am J Gastroenterol. 2008; 103:360–367. [PubMed: 17986315]
+192. Iodice S, Gandini S, Maisonneuve P, Lowenfels AB. Tobacco and the risk of pancreatic cancer: a
+review and meta-analysis. Langenbecks Arch Surg. 2008; 393:535–545. [PubMed: 18193270]
+193. Li D, Tang H, Hassan MM, Holly EA, Bracci PM, Silverman DT. Diabetes and risk of pancreatic
+cancer: a pooled analysis of three large case-control studies. Cancer Causes Control. 2011;
+22:189–197. [PubMed: 21104117]
+194. Yalniz M, Pour PM. Diabetes mellitus: a risk factor for pancreatic cancer? Langenbecks Arch
+Surg. 2005; 390:66–72. [PubMed: 15083362]
+195. Whitcomb DC, Pogue-Geile K. Pancreatitis as a risk for pancreatic cancer. Gastroenterol Clinics
+North Am. 2002; 31:663-+.
+196. Raimondi S, Lowenfels AB, Morselli-Labate AM, Maisonneuve P, Pezzilli R. Pancreatic cancer
+in chronic pancreatitis; aetiology, incidence, and early detection. Best Practice Res Clinical
+Gastroenterol. 2010; 24:349–358.
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 18
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+197. Latchford A, Greenhalf W, Vitone LJ, Neoptolemos JP, Lancaster GA, Phillips RK. PeutzJeghers syndrome and screening for pancreatic cancer. Br J Surg. 2006; 93:1446–1455.
+[PubMed: 17115408]
+198. Klump B, Hsieh CJ, Nehls O, et al. Methylation status of p14ARF and p16INK4a as detected in
+pancreatic secretions. Br J Cancer. 2003; 88:217–222. [PubMed: 12610506]
+199. Wolpin BM, Chan AT, Hartge P, et al. ABO Blood Group and the Risk of Pancreatic Cancer. J
+National Cancer Institute. 2009; 101:424–431.
+200. Wolpin BM, Kraft P, Gross M, et al. Pancreatic Cancer Risk and ABO Blood Group Alleles:
+Results from the Pancreatic Cancer Cohort Consortium. Cancer Res. 2010; 70:1015–1023.
+[PubMed: 20103627]
+201. Greer JB, Yazer MH, Raval JS, Barmada MM, Brand RE, Whitcomb DC. Significant association
+between ABO blood group and pancreatic cancer. World J Gastroenterol. 2010; 16:5588–5591.
+[PubMed: 21105191]
+202. Seibert V, Ebert MP, Buschmann T. Advances in clinical cancer proteomics: SELDI-ToF-mass
+spectrometry and biomarker discovery. Brief Funct Genomic Proteomic. 2005; 4:16–26.
+[PubMed: 15975261]
+203. Maurya P, Meleady P, Dowling P, Clynes M. Proteomic approaches for serum biomarker
+discovery in cancer. Anticancer Res. 2007; 27:1247–1255. [PubMed: 17593616]
+204. Chen R, Pan S, Brentnall TA, Aebersold R. Proteomic profiling of pancreatic cancer for
+biomarker discovery. Mol Cell Proteomics. 2005; 4:523–533. [PubMed: 15684406]
+205. Mauri P, Scarpa A, Nascimbeni AC, et al. Identification of proteins released by pancreatic cancer
+cells by multidimensional protein identification technology: a strategy for identification of novel
+cancer markers. FASEB J. 2005; 19:1125–1127. [PubMed: 15985535]
+206. Rong YF, Jin DY, Hou CR, et al. Proteomics analysis of serum protein profiling in pancreatic
+cancer patients by DIGE: up-regulation of mannose-binding lectin 2 and myosin light chain
+kinase 2. Bmc Gastroenterol. 2010; 10 -.
+207. Chen R, Brentnall TA, Pan S, et al. Quantitative proteomics analysis reveals that proteins
+differentially expressed in chronic pancreatitis are also frequently involved in pancreatic cancer.
+Mol Cellular Proteomics. 2007; 6:1331–1342.
+208. Chen R, Yi EC, Donohoe S, et al. Pancreatic cancer proteome: the proteins that underlie invasion,
+metastasis, and immunologic escape. Gastroenterology. 2005; 129:1187–1197. [PubMed:
+16230073]
+209. Ehmann M, Felix K, Hartmann D, et al. Identification of potential markers for the detection of
+pancreatic cancer through comparative serum protein expression profiling. Pancreas. 2007;
+34:205–214. [PubMed: 17312459]
+210. Ransohoff DF. Bias as a threat to the validity of cancer molecular-marker research. Nat Rev
+Cancer. 2005; 5:142–149. [PubMed: 15685197]
+211. Kruger M, Moser M, Ussar S, et al. SILAC mouse for quantitative proteomics uncovers kindlin-3
+as an essential factor for red blood cell function. Cell. 2008; 134:353–364. [PubMed: 18662549]
+212. McDonald WH, Yates JR 3rd. Shotgun proteomics and biomarker discovery. Dis Markers. 2002;
+18:99–105. [PubMed: 12364816]
+213. Chen J, Li D, Killary AM, et al. Polymorphisms of p16, p27, p73, and MDM2 modulate response
+and survival of pancreatic cancer patients treated with preoperative chemoradiation. Ann Surg
+Oncol. 2009; 16:431–439. [PubMed: 19020940]
+214. Tanase CP, Dima S, Mihai M, et al. Caveolin-1 overexpression correlates with tumour
+progression markers in pancreatic ductal adenocarcinoma. J Molecular Histol. 2009; 40:23–29.
+215. Giovannetti E, Del Tacca M, Mey V, et al. Transcription analysis of human equilibrative
+nucleoside transporter-1 predicts survival in pancreas cancer patients treated with gemcitabine.
+Cancer Res. 2006; 66:3928–3935. [PubMed: 16585222]
+216. Szafranska AE, Doleshal M, Edmunds HS, et al. Analysis of microRNAs in pancreatic fineneedle aspirates can classify benign and malignant tissues. Clin Chem. 2008; 54:1716–1724.
+[PubMed: 18719196]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 19
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+217. Chen BZ, Yu SL, Singh S, et al. Identification of microRNAs expressed highly in pancreatic isletlike cell clusters differentiated from human embryonic stem cells. Cell Biol Int. 2011; 35:29–37.
+[PubMed: 20735361]
+218. Greither T, Grochola LF, Udelnow A, Lautenschlager C, Wurl P, Taubert H. Elevated expression
+of microRNAs 155, 203, 210 and 222 in pancreatic tumors is associated with poorer survival. Int
+J Cancer. 2010; 126:73–80. [PubMed: 19551852]
+219. Li YW, VandenBoom TG, Kong DJ, et al. Up-regulation of miR-200 and let-7 by Natural Agents
+Leads to the Reversal of Epithelial-to-Mesenchymal Transition in Gemcitabine-Resistant
+Pancreatic Cancer Cells. Cancer Res. 2009; 69:6704–6712. [PubMed: 19654291]
+220. Stratford JK, Bentrem DJ, Anderson JM, et al. A Six-Gene Signature Predicts Survival of Patients
+with Localized Pancreatic Ductal Adenocarcinoma. Plos Medicine. 2010; 7 e1000307.
+221. Ohuchida K, Mizumoto K, Ishikawa N, et al. The role of S100A6 in pancreatic cancer
+development and its clinical implication as a diagnostic marker and therapeutic target. Clin
+Cancer Res. 2005; 11:7785–7793. [PubMed: 16278400]
+222. Tian M, Cui YZ, Song GH, et al. Proteomic analysis identifies MMP-9, DJ-1 and A1BG as
+overexpressed proteins in pancreatic juice from pancreatic ductal adenocarcinoma patients. BMC
+Cancer. 2008; 8:241. [PubMed: 18706098]
+223. Sadakari Y, Ohtsuka T, Ohuchida K, et al. MicroRNA expression analyses in preoperative
+pancreatic juice samples of pancreatic ductal adenocarcinoma. JOP. 2010; 11:587–592.
+[PubMed: 21068491]
+224. Habbe N, Koorstra JBM, Mendell JT, et al. MicroRNA miR-155 is a biomarker of early
+pancreatic neoplasia. Cancer Biol Therapy. 2009; 8:340–346.
+225. Ohuchida K, Mizumoto K, Ohhashi S, et al. Twist, a novel oncogene, is upregulated in pancreatic
+cancer: clinical implication of Twist expression in pancreatic juice. Int J Cancer. 2007;
+120:1634–1640. [PubMed: 17236203]
+226. Nakashima A, Murakami Y, Uemura K, et al. Usefulness of Human Telomerase Reverse
+Transcriptase in Pancreatic Juice as a Biomarker of Pancreatic Malignancy. Pancreas. 2009;
+38:527–533. [PubMed: 19342980]
+227. Satake K. Diagnosis of pancreatic cancer. Serological markers. Int J Pancreatol. 1991; 9:93–98.
+[PubMed: 1744453]
+228. Cappelli G, Paladini S, D'Agata A. Tumor markers in the diagnosis of pancreatic cancer. Tumori.
+1999; 85:S19–S21. [PubMed: 10235075]
+229. Harmenberg U, Wahren B, Wiechel KL. Tumor markers carbohydrate antigens CA 19-9 and
+CA-50 and carcinoembryonic antigen in pancreatic cancer and benign diseases of the
+pancreatobiliary tract. Cancer Res. 1988; 48:1985–1988. [PubMed: 3349472]
+230. Liao WC, Wu MS, Wang HP, Tien YW, Lin JT. Serum Heat Shock Protein 27 Is Increased in
+Chronic Pancreatitis and Pancreatic Carcinoma. Pancreas. 2009; 38:422–426. [PubMed:
+19214136]
+231. Karna E, Surazynski A, Orlowski K, et al. Serum and tissue level of insulin-like growth factor-I
+(IGF-I) and IGF-I binding proteins as an index of pancreatitis and pancreatic cancer. Int J Exp
+Pathol. 2002; 83:239–245. [PubMed: 12641820]
+232. Sun ZL, Zhu Y, Wang FQ, et al. Serum proteomic-based analysis of pancreatic carcinoma for the
+identification of potential cancer biomarkers. Biochim Biophys Acta. 2007; 1774:764–771.
+[PubMed: 17507299]
+233. Abbasciano V, Graziano L, Guerra S, et al. Coagulation disorders and tumor markers in the
+diagnosis of pancreatic cancer. Oncology. 1991; 48:377–382. [PubMed: 1720884]
+234. Firpo MA, Gay DZ, Granger SR, et al. Improved Diagnosis of Pancreatic Adenocarcinoma Using
+Haptoglobin and Serum Amyloid A in a Panel Screen. World J Surgery. 2009; 33:716–722.
+235. Bloomston M, Zhou JX, Rosemurgy AS, Frankel W, Muro-Cacho CA, Yeatman TJ. Fibrinogen
+gamma overexpression in pancreatic cancer identified by large-scale proteomic analysis of serum
+samples. Cancer Res. 2006; 66:2592–2599. [PubMed: 16510577]
+236. Ni XG, Bai XF, Mao YL, et al. The clinical value of serum CEA, CA19-9, and CA242 in the
+diagnosis and prognosis of pancreatic cancer. Eur J Surg Oncol. 2005; 31:164–169. [PubMed:
+15698733]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 20
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+237. Dive C, Smith RA, Garner E, et al. Considerations for the use of plasma cytokeratin 18 as a
+biomarker in pancreatic cancer. British J Cancer. 2010; 102:577–582.
+238. Zhou J, Hu L, Yu Z, et al. Marker Expression in Circulating Cancer Cells of Pancreatic Cancer
+Patients. J Surg Res. 2011; 171:631–636. [PubMed: 20869080]
+239. Sabbaghian MS, Rothberger G, Alongi AP, et al. Levels of Elevated Circulating Endothelial Cell
+Decline after Tumor Resection in Patients with Pancreatic Ductal Adenocarcinoma. Anticancer
+Res. 2010; 30:2911–2917. [PubMed: 20683032]
+240. Lu X, Xu T, Qian J, Wen X, Wu D. Detecting K-ras and p53 gene mutation from stool and
+pancreatic juice for diagnosis of early pancreatic cancer. Chin Med J (Engl). 2002; 115:1632–
+1636. [PubMed: 12609076]
+241. Jiao L, Zhu J, Hassan MM, Evans DB, Abbruzzese JL, Li D. K-ras mutation and p16 and
+preproenkephalin promoter hypermethylation in plasma DNA of pancreatic cancer patients: in
+relation to cigarette smoking. Pancreas. 2007; 34:55–62. [PubMed: 17198183]
+242. Salek C, Minarikova P, Benesova L, et al. Mutation status of K-ras, p53 and allelic losses at 9p
+and 18q are not prognostic markers in patients with pancreatic cancer. Anticancer Res. 2009;
+29:1803–1810. [PubMed: 19443408]
+243. Ghaneh P, Kawesha A, Evans JD, Neoptolemos JP. Molecular prognostic markers in pancreatic
+cancer. J Hepatobiliary Pancreat Surg. 2002; 9:1–11. [PubMed: 12021893]
+244. Huang L, Goodrow TL, Zhang SY, Klein-Szanto AJ, Chang H, Ruggeri BA. Deletion and
+mutation analyses of the P16/MTS-1 tumor suppressor gene in human ductal pancreatic cancer
+reveals a higher frequency of abnormalities in tumor-derived cell lines than in primary ductal
+adenocarcinomas. Cancer Res. 1996; 56:1137–1141. [PubMed: 8640773]
+245. Vasen HF, Wasser M, van Mil A, et al. Magnetic Resonance Imaging Surveillance Detects EarlyStage Pancreatic Cancer in Carriers of a p16-Leiden Mutation. Gastroenterology. 2011; 140:850–
+856. [PubMed: 21129377]
+246. Chen J, Li D, Wei C, et al. Aurora-A and p16 polymorphisms contribute to an earlier age at
+diagnosis of pancreatic cancer in Caucasians. Clin Cancer Res. 2007; 13:3100–3104. [PubMed:
+17505013]
+247. Barbera VM, Martin M, Marinoso L, et al. The 18q21 region in colorectal and pancreatic cancer:
+independent loss of DCC and DPC4 expression. Biochimica Et Biophysica Acta-Molecular Basis
+of Disease. 2000; 1502:283–296.
+248. Parsi MA, Li A, Li CP, Goggins M. DNA methylation alterations in endoscopic retrograde
+cholangiopancreatography brush samples of patients with suspected pancreaticobiliary disease.
+Clin Gastroenterol Hepatol. 2008; 6:1270–1278. [PubMed: 18995218]
+249. Wang J, Chen J, Chang P, et al. MicroRNAs in plasma of pancreatic ductal adenocarcinoma
+patients as novel blood-based biomarkers of disease. Cancer Prev Res (Phila). 2009; 2:807–813.
+[PubMed: 19723895]
+250. Lee EJ, Gusev Y, Jiang J, et al. Expression profiling identifies microRNA signature in pancreatic
+cancer. Int J Cancer. 2007; 120:1046–1054. [PubMed: 17149698]
+251. Roldo C, Missiaglia E, Hagan JP, et al. MicroRNA expression abnormalities in pancreatic
+endocrine and acinar tumors are associated with distinctive pathologic features and clinical
+behavior. J Clin Oncol. 2006; 24:4677–4684. [PubMed: 16966691]
+252. Bhatti I, Lee A, James V, et al. Knockdown of microRNA-21 Inhibits Proliferation and Increases
+Cell Death by Targeting Programmed Cell Death 4 (PDCD4) in Pancreatic Ductal
+Adenocarcinoma. J Gastrointest Surg. 2010; 15:199–208. [PubMed: 21088996]
+253. Haglund C, Lundin J, Kuusela P, Roberts PJ. CA 242, a new tumour marker for pancreatic
+cancer: a comparison with CA 19-9, CA 50 and CEA. Br J Cancer. 1994; 70:487–492. [PubMed:
+8080735]
+254. Navaglia F, Fogar P, Basso D, et al. Pancreatic cancer biomarkers discovery by surface-enhanced
+laser desorption and ionization time-of-flight mass spectrometry. Clin Chem Lab Med. 2009;
+47:713–723. [PubMed: 19426140]
+255. Safi F, Roscher R, Beger HG. Tumor markers in pancreatic cancer. Sensitivity and specificity of
+CA 19-9. Hepatogastroenterology. 1989; 36:419–423. [PubMed: 2613165]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 21
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+256. Masson P, Palsson B, Andren-Sandberg A. Cancer-associated tumour markers CA 19-9 and
+CA-50 in patients with pancreatic cancer with special reference to the Lewis blood cell status. Br
+J Cancer. 1990; 62:118–121. [PubMed: 2390470]
+257. Ramachandran V, Arumugam T, Wang HM, Logsdon CD. Anterior gradient 2 is expressed and
+secreted during the development of pancreatic cancer and promotes cancer cell survival. Cancer
+Res. 2008; 68:7811–7818. [PubMed: 18829536]
+258. Allum WH, Stokes HJ, Macdonald F, Fielding JW. Demonstration of carcinoembryonic antigen
+(CEA) expression in normal, chronically inflamed, and malignant pancreatic tissue by
+immunohistochemistry. J Clin Pathol. 1986; 39:610–614. [PubMed: 3522636]
+259. Haas M, Laubender RP, Stieber P, et al. Prognostic relevance of CA 19-9 CEA, CRP, and LDH
+kinetics in patients treated with palliative second-line therapy for advanced pancreatic cancer.
+Tumor Biology. 2010; 31:351–357. [PubMed: 20480409]
+260. Duraker N, Hot S, Polat Y, Hobek A, Gencler N, Urhan N. CEA, CA 19-9, and CA 125 in the
+differential diagnosis of benign and malignant pancreatic diseases with or without jaundice. J
+Surgical Oncol. 2007; 95:142–147.
+261. Macdonald F, Downing R, Allum WH. Expression of Ca125 in Pancreatic-Carcinoma and
+Chronic-Pancreatitis. Br J Cancer. 1988; 58:505–506. [PubMed: 3207606]
+262. Hasholzner U, Stieber P, Reiter W, Zimmermann A, Hofmann K, Schalhorn A. CA 242 in
+comparison with established tumour markers in colorectal, pancreatic and lung cancer.
+Anticancer Res. 1999; 19:2477–2480. [PubMed: 10470177]
+263. Pasanen PA, Eskelinen M, Partanen K, Pikkarainen P, Penttila I, Alhava E. Receiver operating
+characteristic (ROC) curve analysis of the tumour markers CEA, CA 50 and CA 242 in
+pancreatic cancer, results from a prospective study. Br J Cancer. 1993; 67:852–855. [PubMed:
+8471445]
+264. Lundin J, Roberts PJ, Kuusela P, Haglund C. Prognostic significance of serum CA 242 in
+pancreatic cancer. A comparison with CA 19-9. Anticancer Res. 1995; 15:2181–2186. [PubMed:
+8572621]
+265. Kim J-E, Lee KT, Lee JK, Paik SW, Rhee JC, Choi KW. Clinical usefulness of carbohydrate
+antigen 19-9 as a screening test for pancreatic cancer in an asymptomatic population. J
+Gastroenterology and Hepatology. 2004; 19:182–186.
+266. Lee MX, Saif MW. Screening for early pancreatic ductal adenocarcinoma: an urgent call! JOP.
+2009; 10:104–108. [PubMed: 19287101]
+267. Cwik G, Wallner G, Skoczylas T, Ciechanski A, Zinkiewicz K. Cancer antigens 19-9 and 125 in
+the differential diagnosis of pancreatic mass lesions. Arch Surg. 2006; 141:968–973. discussion
+74. [PubMed: 17043274]
+268. Banfi G, Zerbi A, Pastori S, Parolini D, Dicarlo V, Bonini P. Behavior of Tumor-Markers Ca19.9,
+Ca195, Cam43, Ca242, and Tps in the Diagnosis and Follow-up of Pancreatic-Cancer. Clinical
+Chem. 1993; 39:420–423. [PubMed: 8448851]
+269. Jiang XT, Tao HQ, Zou SC. Detection of serum tumor markers in the diagnosis and treatment of
+patients with pancreatic cancer. Hepatobiliary Pancreat Dis Int. 2004; 3:464–468. [PubMed:
+15313690]
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 22
+
+NIH-PA Author Manuscript
+Fig. (1).
+
+Genetic progression model for PC [1, 40–41].
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 23
+
+Table 1
+
+Advances in Diagnostic Tools for PC [14–16, 19–20, 182–187]
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Diagnostic Tool
+
+Applications and Advantages
+
+Limitations
+
+Transabdominal ultrasound
+
+Visualization of bile duct and liver
+
+Poor visualization of pancreas
+
+Computed tomography (CT)
+
+Diagnosis and staging
+
+Nephrotoxicity (Iodine-contrast
+agent); potential side effects
+from exposure to radiation
+
+Magnetic resonance imaging (MRI)
+
+Superior imaging of pancreas and bile duct
+Iodine-free contrast agent
+No radiation
+
+Expensive
+Less availability
+
+Positron emission tomography (PET)
+
+Metastatic disease assessment, Monitoring recurrence and
+response to adjuvant therapy
+
+Expensive
+Less availability
+
+Endoscopic ultrasound (EUS)
+
+Imaging of pancreatic masses and lymph nodes
+
+Expensive
+Less availability
+
+EUS-FNA (Fine needle)
+
+Specific detection of PC
+Safe and less invasive technology
+Imaging of lesions from 3–4 mm upwards
+Puncturing of lymph nodes greater than 5 mm
+
+Access only to posterior
+mediastinum
+
+Magnetic resonance
+cholangiopancreatography (MRCP)
+
+Imaging of fluid in the pancreatic ducts in a non-invasive
+manner
+
+Lower resolution
+No biopsy
+Expensive
+
+Endoscopic retrograde
+cholangiopancreatography (ERCP)
+
+Imaging strictures
+
+Complications like bleeding and
+infection
+
+Cholangiopancreatoscopy
+
+Site-directed biopsies of strictures
+
+Fragile equipment
+
+NIH-PA Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 24
+
+Table 2
+
+High Risk Factors for PC
+
+NIH-PA Author Manuscript
+
+Risk factors
+
+References
+
+Obesity (Body Mass Index) ≥ 30
+
+[188–190]
+
+Having symptoms indicative of PC for ≥ 3 years
+Smokers & smokers specifically with polymorphism at
+Obstructive jaundice
+
+[34–35, 38, 191–192]
+[1, 159]
+
+Onset of type II diabetes for ≥ 3 years
+Chronic pancreatitis & pancreatitis history
+Peutz-Jeghers syndrome
+
+[1, 193–194]
+[195–196]
+[197]
+
+Hypermethylation of p14 and p16 + K-ras mutation
+ABO blood group
+
+[1]
+Arg188His
+
+[198]
+[199–201]
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 25
+
+Table 3
+
+Current Technologies for Biomarker Research [202–212]
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Technology
+
+Applications and Advantages
+
+Limitations
+
+Microarray
+
+Chip-based concurrent analysis of thousands of
+genes
+
+Frequent identification of false
+positives
+
+RT-PCR/PCR/ MSP
+
+Multiple target analysis in a single, multiplexed
+reaction
+
+Sensitive, can generate false
+positive results
+
+Two-dimensional gel
+electrophoresis (2DE)
+
+Separation of proteins by isoelectric point (IP) and
+molecular weight (MW)
+
+Permits detection of very basic or
+acidic proteins only
+
+Differential in-gel
+electrophoresis (DIGE)
+
+Co-separation of multiple samples and visualization
+on one 2-D gel
+
+Changes in labeling can markedly
+alter position of migration of
+specific proteins
+
+Multi-dimensional
+protein identification
+technology (MudPIT)
+
+Non-gel approach for the identification of proteins
+from complex mixtures
+
+Inability to directly measure the
+relative abundance of proteins
+
+Isotope coded affinity tag
+(ICAT)
+
+Measurement of relative abundance of proteins
+labeled at cysteine residues
+
+Suitable only for proteins with
+labeling-accessible cysteines
+
+Isobaric tags for relative
+and absolute
+quantification (iTRAQ)
+
+Identification and quantification of proteins by
+labeling both whole and subcellular proteomes
+
+Unlikely to reveal basic information
+on proteins of interest
+
+Matrix-assisted laser
+desorption/ionization
+(MALDI)
+
+Identification of proteins isolated through gel
+electrophoresis
+
+Quantitation difficult
+
+Surface-enhanced laser
+desorption/ionization
+(SELDI)
+
+Analysis of protein mixtures by mass spectroscopy
+ionization method
+
+Low reproducibility
+Low resolution
+
+PROTEOMICS
+
+NIH-PA Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+Bhat et al.
+
+Page 26
+
+Table 4
+
+Various Tissue Types Used for PC Biomarker Research
+
+NIH-PA Author Manuscript
+
+Sample Source
+
+Detection Method
+
+Markers
+
+Tissue
+
+Immunohistochemistry, PCR-based
+techniques, and Microarray
+
+K-ras, TP53, SMAD4, p16, Plectin-1, Caveolin-1,
+hENT1, miR-216, miR-217, miR-196, miR-196a,
+miR-186, miR-222, miR-200b, miR-15b, miR-95,
+FosB, KLF6, ATP4A, NFKBIZ, GSG1,
+SIGLEC11
+
+[22, 43, 84–85, 100, 125,
+131, 213–220]
+
+Pancreatic juice
+
+Quantitative proteomics
+
+AGR2, S100A6, MMP-9, DJ-1, A1BG, MMP-7,
+miRNA-21, miRNA-155, Twist, PRSS2, PLRP1,
+hTERT
+
+[72, 166, 221–226]
+
+Serum
+
+Quantitative proteomics, ELISA,
+
+CA 19-9, CA 125, CEACAM1, MMP-7, REG4,
+HSP-27, IGF, IGFR, cyclin I, GDI2, PF4, SAA,
+fibrinogen γ
+
+[37, 50, 227–236]
+
+Plasma
+
+Functional genomics
+
+TNC, TFP1, TGFBI, SEL-1L, LICAM, WWTR1,
+CDC4BPA, CK 18
+
+[101, 237]
+
+CTC
+
+RT-PCR
+
+C-MET, h-TERT, CK20, ELC, PlGF
+
+[238–239]
+
+Saliva
+
+Human genome array
+
+K-ras, MBD3L2, ACRV1, DPM1
+
+Stool
+
+PCR
+
+K-ras, TP53
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+References
+
+[80]
+[81, 240]
+
+Bhat et al.
+
+Page 27
+
+Table 5
+
+Most Studied Markers in PC
+
+NIH-PA Author Manuscript
+
+Biomarkers
+
+Detection Method
+
+References
+
+K-ras
+
+PCR
+
+[22, 43, 87, 241–243]
+
+p16
+
+PCR and immunohistochemistry
+
+[22, 90, 213, 244–246]
+
+P53
+
+PCR and immunohistochemistry
+
+[43, 87, 90, 242]
+
+DPC4
+
+PCR and immunohistochemistry
+
+[93, 247]
+
+ppENK
+
+Methylation specific PCR
+
+[45, 99, 107, 241]
+
+RASSF1A
+
+Methylation specific PCR
+
+[108–111]
+
+Cyclin D2
+
+Methylation specific PCR
+
+[99, 112, 248]
+
+Microarray and qRT-PCR
+
+[41, 218, 224, 249–251]
+
+Molecular biomarkers
+
+Epigenetic biomarkers
+
+MicroRNA biomarkers
+miR-155
+
+NIH-PA Author Manuscript
+
+miR-21
+
+RT-PCR
+
+[128, 130, 252]
+
+miR-196a
+
+Immunohistochemistry
+
+[126, 131, 216, 249]
+
+ELISA
+
+[132, 253–256]
+
+Other biomarkers
+CA 19-9
+CEACAM1
+
+ELISA
+
+[50]
+
+AGR2
+
+RT-PCR, ELISA and Western blotting
+
+[166, 257]
+
+CEA
+
+Immunohistochemistry
+
+[236, 253, 258–260]
+
+CA 125
+
+Immunoradiometric assay and Immunohistochemistry
+
+[260–261]
+
+CA242
+
+ELISA
+
+[236, 253, 262–264]
+
+NIH-PA Author Manuscript
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+NIH-PA Author Manuscript
+
+Screening
+
+No
+
+No
+
+No
+
+No
+
+Markers
+
+CA 19-9
+
+CEA
+
+CA 125
+
+CA 242
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Diagnosis/Prognosis
+
+<25 U/ml
+
+< 35 U/ml
+
+< 5 U/ml
+
+< 37 U/ml
+
+healthy
+Individual
+
+> 25 U/ml
+
+> 35 U/ml
+
+> 50 U/ml
+
+> 37 U/ml
+
+Patient
+
+60%
+
+60%
+
+45%
+
+81%
+
+Sensitivity
+
+80%
+
+80%
+
+75%
+
+90%
+
+Specificity
+
+[170, 236, 253, 264, 268–269]
+
+[260, 267]
+
+[158, 161, 236, 266]
+
+[1, 134, 158, 170, 265–266]
+
+References
+
+NIH-PA Author Manuscript
+
+Most Promising Protein Markers for PC in the Serum
+
+NIH-PA Author Manuscript
+
+Table 6
+Bhat et al.
+Page 28
+
+Curr Pharm Des. Author manuscript; available in PMC 2012 July 30.
+
+

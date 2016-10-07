@@ -1,0 +1,200 @@
+
+P
+
+m/z 12,828
+
+P
+
+m/z 28,043
+
+P
+
+m/z 3,272
+
+P
+
+Groups
+
+By stage
+
+Stages I/II invasive cancer
+Stage I/II borderline tumor
+Stages III/IV invasive cancer
+
+By subtype
+
+Serous
+Mucinous
+Endometrioid
+Clear cell
+
+n
+
+65
+25
+88
+
+93
+42
+24
+13
+
+127.3  179.3 (55.8)
+105.2  155.8 (34.5)
+426.1  356.5 (321.6)
+
+294.9  328.7 (151.9)
+175.4  240.3 (71.7)
+225.8  265.8 (93.3)
+192.1  264.9 (107.7)
+
+0.0001
+
+0.23
+
+0.25  0.10 (0.25)
+0.24  0.09 (0.25)
+0.20  0.08 (0.19)
+
+0.21  0.09 (0.20)
+0.26  0.09 (0.26)
+0.22  0.08 (0.23)
+0.22  0.07 (0.22)
+
+0.0006
+
+0.02
+
+0.37  0.27 (0.28)
+0.54  0.39 (0.32)
+0.38  0.26 (0.31)
+
+0.43  0.32 (0.32)
+0.43  0.27 (0.39)
+0.36  0.28 (0.27)
+0.33  0.21 (0.28)
+
+0.13
+
+0.48
+
+1.76  1.92 (0.87)
+2.96  2.65 (2.30)
+0.88  1.50 (0.37)
+
+1.56  2.10 (0.52)
+1.72  2.14 (0.79)
+1.63  1.88 (0.63)
+0.96  0.41 (1.24)
+
+0.0001
+
+0.88
+
+0.97
+
+By age
+
+Age  50 years
+Age  50 years
+* The total ion current (area-under-spectrum curve) within the m/z range 1.5 kDa150 kDa of all spectra were normalized to the constant 0.2 before analysis.
+ P estimated by Mann-Whitney U test for two-group comparison and by Kruskal-Wallis test for multigroup comparison.
+
+301.0  327.0 (132.6)
+180.2  255.8 (55.8)
+
+0.21  0.09 (0.21)
+0.24  0.10 (0.24)
+
+136
+59
+
+0.39  0.27 (0.31)
+0.43  0.32 (0.35)
+
+0.52
+
+1.46  1.94 (0.54)
+1.52  1.97 (0.52)
+
+0.004
+
+0.02
+
+5886
+
+OVARIAN CANCER BIOMARKERS FROM PROTEOMIC PROFILING
+
+Fig. 3. Comparison of receiver operating characteristic curves between CA125 and three discovered biomarkers (AD) and the two multivariate predictive models (EH). For AD,
+(1) CA125; (2) m/z 12,828; (3) m/z 28,043; and (4) m/z 3,272. For EH, E, CA125; , multivariate model using the three biomarkers; and , multivariate model using the three
+biomarkers and CA125. GH, the fitted receiver operating characteristic curves are superimposed by the empirical receiver operating characteristic curves. *, Part of biomarker
+discovery set. , Epithelial ovarian cancer included both invasive and borderline tumors. Panels G and H: vertical and horizontal dashed lines correspond to 90% specificity and 83%
+sensitivity, respectively.
+
+in area-under-curve, a likely reason would be the relatively few stage
+I/II invasive cases available.
+
+Serum levels of CA125 have been used widely for distinguishing
+benign from malignant pelvic masses and for monitoring the clinical
+course of patients with ovarian cancer. However, CA125 is elevated in
+only about half of stage I/II ovarian cancer patients (23). Lowering the
+cutoff of CA125 would increase its sensitivity in detecting stage I/II
+cancer but result in many false positives in patients with benign
+conditions as well as in healthy women. The improvement in sensi-
+tivity by the multivariate models to detect early stage cancer also
+increased the false-positive rate among patients with benign pelvic
+masses, but unlike with CA125, it did not lead to appreciable con-
+comitant loss of specificity among healthy women. At a sensitivity of
+83% and specificity of 94%, the current multivariate model by itself
+is not suitable for general population screening. However, in a two-
+stage approach with a combination of a serum test followed by
+sonography, a high specificity might be reached at an acceptable total
+cost.
+
+The identified biomarkers have been characterized generally as
+
+acute-phase reactants. The down-regulation of transthyretin and apo-
+lipoprotein A1 in ovarian cancer patients suggests the possibility that
+they are byproducts of the host response to the tumor. Although recent
+data have supported the concept that inflammation is a critical com-
+ponent of tumor progression (24), such acute-phase reactants may still
+represent only epiphenomena because of the presence of tumor and
+may not be specific to a particular type of cancer (25, 26). In this
+study, with preliminary data from immunoassays analysis, we were
+able to verify that the levels of apolipoprotein A1 were not altered in
+the serum of breast or colon cancer patients and the levels of trans-
+thyretin were not altered in the serum of breast or prostate cancer
+patients.
+
+Transthyretin and lipoprotein(a) have been separately reported to be
+decreased in epithelial ovarian cancer (27, 28). Transthyretin is the
+major carrier for serum thyroxine and tri-iodothyronine and facilitates
+the transport of retinol via its interaction with retinol binding protein.
+Transgenic mice lacking transthyretin expression have dramatically
+lower levels of retinol and retinol binding protein, and decreased
+levels of retinol binding protein as well as cellular retinol binding
+
+5887
+
+OVARIAN CANCER BIOMARKERS FROM PROTEOMIC PROFILING
+
+Table 4 Comparison of sensitivities and specificities of two multivariate predictive models and CA125
+
+Specificity, %
+
+Sensitivity, %
+
+Group by stage
+
+Healthy
+control
+
+Benign pelvic
+
+mass
+
+Epithelial
+ovarian
+cancer
+
+Stages I/II

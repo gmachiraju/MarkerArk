@@ -1,0 +1,28 @@
+{
+  "name": "angular-hotkeys",
+  "main": [
+    "build/hotkeys.min.js",
+    "build/hotkeys.min.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "example"
+  ],
+  "devDependencies": {
+    "mousetrap": "~1.4.6",
+    "angular-mocks": "~1.2.15"
+  },
+  "homepage": "https://github.com/netj/angular-hotkeys",
+  "_release": "5c7f00c297",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5c7f00c2970516f5d125b3159d79a181b9986c08"
+  },
+  "_source": "git://github.com/netj/angular-hotkeys.git",
+  "_target": "master",
+  "_originalSource": "netj/angular-hotkeys"
+}

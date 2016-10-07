@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+# error -- Show error message
+##
+# Author: Jaeho Shin <netj@ropas.snu.ac.kr>
+# Created: 2010-07-28
+
+# use prefix and a log file when specified
+: ${DEEPDIVE_ERROR_PREFIX:=} ${DEEPDIVE_LOGERROR:=}
+# whether to use colored output
+: ${DEEPDIVE_COLOR:=true}
+
+before= after=
+if [[ -t 2 ]] && $DEEPDIVE_COLOR; then
+    # TODO check terminal's color support
+    before=a; a() { echo -ne '\033[31m'; }
+     after=b; b() { echo -ne '\033[0m'; }
+fi
+
+{
+$before
+for msg; do
+    {
+        [[ -z "$DEEPDIVE_LOGERROR" ]] ||
+            echo "${DEEPDIVE_ERROR_PREFIX}$msg" >>"$DEEPDIVE_LOGERROR"
+    } 2>/dev/null
+    echo "${DEEPDIVE_ERROR_PREFIX}$msg"
+done
+$after
+} >&2
+false

@@ -1,0 +1,4 @@
+#!/bin/sh -eu
+here=${0%/*} name=${0##*/}
+export LD_LIBRARY_PATH="$here"/../../graphviz/prefix/lib:"$here"/../../graphviz/prefix/lib/graphviz${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}
+exec "$here"/../../graphviz/prefix/bin/"$name" "$@"

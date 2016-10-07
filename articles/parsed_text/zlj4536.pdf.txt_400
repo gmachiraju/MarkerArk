@@ -1,0 +1,200 @@
+
+CARET Study. The validation test samples consisted of sera collected
+from participants in the Carotene and Retinol Efcacy Trial (CARET). CARET
+was a multicenter, randomized, double-blind, placebo-controlled study to
+evaluate the efcacy and safety of daily supplementation with 30 mg of beta-
+carotene and 25,000 IU retinyl palmitate on primary lung cancer prevention.12
+Eligible participants were men and women age 50 to 69 years who were either
+current or former smokers (quit within the previous 6 years) and had at least 20
+pack-years of cigarette smoking (n  14,254) or were men age 45 to 69 years
+who were current or former smokers (quit no more than 15 years prior to the
+start of the study) and had a substantial history of occupational asbestos
+exposure (n  4,060). Participants were enrolled from 1985 to 1994 and were
+observed for cancer and mortality outcomes until 2005. For this study, we
+randomly selected 61 current smokers who developed NSCLC during
+follow-up and analyzed pro-SFTPB in serum samples, which had been col-
+lected within 12 months before the diagnosis of NSCLC. For each case, two
+controls who were free of lung cancer throughout CARET follow-up were
+selected and were matched for age, sex, smoking history (current smoker),
+study enrollment cohort, and the date of blood draw. One-to-two case-control
+matching was possible for all cases except for one patient, leading to 121
+control participants. The clinical characteristics of the CARET participants are
+provided in the Data Supplement. All serum samples were obtained following
+informed consent and approval by the institutional review board of the Fred
+Hutchinson Cancer Research Center.
+
+Pro-SFTPB Assay
+
+By using mass spectrometry, we discovered N-terminal and C-terminal
+pro-peptides of SFTPB in the circulatory systems of mice that harbored lung
+adenocarcinoma and in the conditioned media of NSCLC cell lines (Data
+Supplement). Mouse monoclonal antibodies against the N-terminus of pro-
+SFTPB (Data Supplement) were raised, leading to the development of a sand-
+wich pro-SFTPB ELISA, which specically reacted with pro-SFTPB and did
+not react with other surfactant proteins or mature SFTPB. The standards were
+calibrated according to the absolute mass of the recombinant antigen (details
+are provided in the Data Supplement). We then validated this assay with
+plasma samples obtained at the time of diagnosis from patients with operable
+NSCLC (n  28) and healthy controls (n  38). These samples had previously
+been analyzed for levels of mature SFTPB by ELISA (see the Data Supplement
+for demographics of the newly diagnosed NSCLC set). Plasma levels of pro-
+SFTPB were signicantly higher in cases compared with controls (P  .001 by
+the Mann-Whitney U test; Data Supplement). The area under the receiver
+operating characteristic curve (AUC) of pro-SFTPB was superior to that of
+mature SFTPB7(0.793 and 0.646, respectively; Data Supplement).
+
+For the Pan-Can Study, the baseline plasma samples (ie, samples taken at
+the time of enrollment) were used for the assay. For both the Pan-Can and
+CARET studies, samples were blinded and analyzed by using pro-SFTPB
+ELISA (details of the assay are provided in the Data Supplement). For samples
+whose pro-SFTPB levels were below the level of detection, we assigned a value
+that was half the detection limit. The median coefcient of variation was 6.1%.
+Because the Pan-Can Study and the CARET Study used different standards,
+the absolute levels of pro-SFTPB are not directly comparable.
+Statistical Methods
+
+Descriptive comparisons of study variables between groups used Fishers
+exact test for categorical data, t test for continuous data, and nonparametric
+test of trend for ordinal data. Multivariable logistic regression models were
+used to evaluate whether pro-SFTPB was independently associated with lung
+cancer. Known risk factors for lung cancer were evaluated in models and
+included age, sex, body mass index (BMI), personal history of cancer, family
+history of lung cancer, forced expiratory volume in one second percent pre-
+dicted (FEV1 % pred), average number of cigarettes smoked per day, and
+duration smoked. Pro-SFTPB was right skewed, and log-transformed pro-
+SFTPB (log-proSFTPB) was used in modeling. Selected interaction terms,
+
+Called the toll-free study telephone number
+
+(N = 7,059)
+
+ dedulcxE
+  Had risk index < 2% 
+  Did not meet other eligibility criteria 
+
+)944,4 = n(
+(n = 3,559)
+(n = 890)
+
+Eligible on the basis of prescreening
+
+(n = 2,610)
+
+Excluded at interview 
+ elbigilenI  
+  Declined participation 
+
+(n = 73)
+)73 = n(
+(n = 36)
+
+Enrolled
+(n = 2,537)
+
+Excluded due to insufficient plasma volume
+
+(n = 52)
+
+In biomarker substudy
+
+(n = 2,485)
+
+Fig 1. Flow diagram of recruitment to the Pan-Canadian Early Detection of Lung
+
+Cancer Study.
+
+www.jco.org
+
+ 2013 by American Society of Clinical Oncology
+
+4537
+
+Sin et al
+
+Table 1. Baseline Characteristics of Participants in the Pan-Canadian Early Detection of Lung Cancer Study Overall and by Lung Cancer Status
+
+No Cancer
+
+Lung Cancer
+
+Total
+
+Characteristic
+
+Age, years
+
+50-54
+55-59
+60-64
+65-69
+ 70
+
+Sex
+
+Male
+Female
+
+BMI
+
+Underweight ( 18.5 kg/m2)
+Normal (18.5-24.9 kg/m2)
+Overweight (25-29.9 kg/m2)
+Obese ( 30 kg/m2)
+
+Personal history of cancer
+
+No
+Yes
+
+Family history of cancer
+
+No
+Yes
+
+Pneumonia
+
+No
+Yes
+
+Emphysema
+
+No
+Yes
+
+Smoking status
+
+Former smoker
+Current smoker
+
+Race/ethnicity
+
+White
+Asian
+Aboriginal
+Black or African Canadian
+Other
+
+Education
+
+8th grade or less
+9th to 11th grade
+High school graduate
+Technical/vocational school
+Associates degree/some college
+Bachelors degree
+Advanced degree
+
+FEV1 ratio of predicted
+
+Mean
+SD
+Median
+IQR
+Range
+
+No.
+
+234
+443
+726
+568

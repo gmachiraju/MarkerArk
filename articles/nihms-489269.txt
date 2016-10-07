@@ -1,0 +1,2581 @@
+NIH Public Access
+Author Manuscript
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Cancer Prev Res (Phila). 2012 August ; 5(8): 992–1006. doi:10.1158/1940-6207.CAPR-11-0441.
+
+The State of Molecular Biomarkers for the Early Detection of
+Lung Cancer
+Mohamed Hassanein1, J. Clay Callison1, Carol Callaway-Lane4, Melinda C. Aldrich2,3, Eric
+L. Grogan2,4, and Pierre P. Massion1,4
+1Division of Allergy, Pulmonary and Critical Care Medicine, Vanderbilt-Ingram Cancer Center,
+Nashville, Tennessee
+2Department
+3Division
+
+of Thoracic Surgery, Vanderbilt University Medical Center, Nashville, Tennessee
+
+of Epidemiology, Vanderbilt University Medical Center, Nashville, Tennessee
+
+4Veterans
+
+Affairs, Tennessee Valley Healthcare System, Nashville, Tennessee
+
+NIH-PA Author Manuscript
+
+Abstract
+Using biomarkers to select the most at-risk population, to detect the disease while measurable and
+yet not clinically apparent has been the goal of many investigations. Recent advances in molecular
+strategies and analytic platforms, including genomics, epigenomics, proteomics, and
+metabolomics, have identified increasing numbers of potential biomarkers in the blood, urine,
+exhaled breath condensate, bronchial specimens, saliva, and sputum, but none have yet moved to
+the clinical setting. Therefore, there is a recognized gap between the promise and the product
+delivery in the cancer biomarker field. In this review, we define clinical contexts where risk and
+diagnostic biomarkers may have use in the management of lung cancer, identify the most relevant
+candidate biomarkers of early detection, provide their state of development, and finally discuss
+critical aspects of study design in molecular biomarkers for early detection of lung cancer.
+
+Introduction
+
+NIH-PA Author Manuscript
+
+Lung cancer is the leading cause of cancer-related death in the United States (1). More than
+60% of patients are diagnosed at advanced stages when a cure is unlikely (2). Five-year
+survival rate for patients with advanced disease is less than 10%, whereas 5-year survival
+rate in patients with stage I disease is greater than 70% (3). The annual mortality rate for
+lung cancer exceeds the annual rate for breast, prostate, and colon cancer combined, all of
+which have successful clinical screening tools for the detection of early-stage disease (4).
+For this reason, the search for diagnostic strategies for early lung cancer detection has
+intensified.
+Until recently, the case for early detection in lung cancer was extrapolated from other
+cancers such as colon and breast. Clinicians and scientists continued to hypothesize that the
+earlier lung cancer is diagnosed, the opportunity for improved survival increases.
+Historically, lung cancer has been difficult to detect early and thus survival advantages were
+
+©2012 American Association for Cancer Research.
+Corresponding Author: Pierre P. Massion, Vanderbilt Ingram Cancer Center, PRB 640, 2220 Pierce Avenue, Nashville TN 37232.
+Phone: 615-936-2256; Fax: 615-936-1790; pierre.massion@vanderbilt.edu.
+Supplementary data for this article are available at Cancer Prevention Research Online (http://cancerprevres.aacrjournals.org/).
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+
+Hassanein et al.
+
+Page 2
+
+NIH-PA Author Manuscript
+
+difficult to ascertain. In the 1970s and 1980s, chest x-ray and sputum cytology were tested in
+screening trials for lung cancer. Although this approach increases the number of lung
+cancers diagnosed, it did not improve lung cancer–specific mortality (5, 6). The Early Lung
+Cancer Action Program (ELCAP) was a large lung cancer screening trial started in the
+1990s using chest computed tomographic (CT) imaging (7). It showed an improved
+detection rate and survival of early-stage lung cancers, which prompted the design of a large
+randomized National Lung Screening Trial (NLST). Exciting results of the recently
+completed study showed a 20% reduction in lung cancer–specific mortality using low-dose
+CT screening for patients at high risk for lung cancer after a median follow up of 6.5 years,
+compared with chest x-ray (8, 9). This is the first large randomized screening study of lung
+cancer by low-dose chest CT to show an improvement in overall survival, thus giving new
+hope in the survival for this cancer. Extrapolating from the NLST results, a screening
+method that reduces lung cancer–specific mortality by 20% could save an estimated 11,074
+lives annually in the United States., which is far greater than 2,303, the number currently
+estimated to be saved with adjuvant chemotherapy (see Supplementary Data), therefore
+providing a strong rationale to pursue efforts in early detection.
+How do we define early detection?
+
+NIH-PA Author Manuscript
+
+Early detection involves a high-risk population, a screening test, and a testing schedule.
+Within this context, one must distinguish populations of individuals at-risk before or after
+the disease becomes measurable (Fig 1).
+What clinical endpoints do the biomarker candidates of early detection address?
+A distinction is made between risk biomarkers to assess the risk of developing lung cancer
+(individuals at risk but with no measurable disease) and diagnostic biomarkers to determine
+whether cancer is present (individuals at risk with measurable asymptomatic disease such as
+lung nodules). Prognostic biomarkers in patients with early-stage disease can identify
+individuals with an aggressive phenotype and shorter survival regardless of the type of
+treatment provided and may help select populations who may benefit from adjuvant therapy.
+Biomarkers of risk of developing lung cancer in the absence of measurable disease are only
+discussed when originally developed as diagnostic biomarkers. The literature on biomarkers
+of risk of developing lung cancer based on proteins or single-nucleotide polymorphism
+(SNP) and including genome-wide association studies (GWAS) is beyond the scope of this
+review. Likewise, prognostic biomarkers will not be discussed further.
+What are the benchmarks for clinical utility?
+
+NIH-PA Author Manuscript
+
+To be useful in the clinical setting, biomarkers go through careful phases of development as
+discussed below and should respond to specific criteria. The biomarkers should (i) be
+quantifiable and reproducible, (ii) have good testing performance [with good positive
+predictive value (PPV) and negative predictive value (NPV)], (iii) be measurable in
+accessible material, in small amounts and with little preparation, (iv) indicate a disease state,
+(v) have proven clinical use, (vi) be adopted by the community-at-large to take advantages
+of the benefits testing affords, (vii) be cost-effective; and (viii) be reimbursed by health
+insurers.
+
+The Clinical Context of Early Detection
+To be successful at improving lung cancer detection, biomarkers must address a specific
+clinical question. Two pressing clinical needs are identified, biomarkers that will address the
+risk of developing lung cancer and others that are diagnostic in nature and will distinguish
+malignant from benign nodules.
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 3
+
+The risk of developing lung cancer
+
+NIH-PA Author Manuscript
+
+Biomarkers of risk for lung cancer have the potential to improve early detection beyond the
+use of CT scans that suffer from lack of sensitivity (particularly among never-smokers),
+specificity (high false-positive rate), and from high cost. Several published models exist that
+predict an individual's risk of developing lung cancer (10–15). These models were
+developed to select patients who may benefit from additional radiographic screening.
+Identifying a risk biomarker for developing lung cancer would further define the at-risk
+population, decrease the overall number of screening CTs conducted, and ultimately limit
+the downstream consequences of discovering these “false positive” nodules.
+Distinguishing benign from malignant lung nodules
+
+NIH-PA Author Manuscript
+
+Diagnostic biomarkers that may assist in distinguishing a benign nodule from a malignant
+one would be invaluable. Depending on geographic location, up to 30% of indeterminate
+pulmonary nodules are ultimately found to have benign pathology when surgically resected
+(16). In the NLST, 24% of patients who underwent a diagnostic operation (mediastinoscopy,
+thoracoscopy, or thoracotomy) had benign disease (17). Thus, additional testing with a
+biomarker could decrease the number of surgical resections for ultimately benign disease.
+Current guidelines recommend that providers use models to assist with determining the
+likelihood that a particular nodule identified by CT scan is malignant and thus should be
+resected (18). However, as the use of low-dose CT for lung cancer screening evolves, better
+predictive models that incorporate biomarkers would assist the clinical provider in
+determining which patients have lung cancer. We recently validated a blood-based
+proteomic signature for lung cancer diagnosis and showed that it may provide added value
+to the clinical and imaging assessment of indeterminate lung nodules (19). Hopefully as
+biomarkers are developed, they will assist in identifying not only those individuals without
+malignancy but also help in determining those who are malignant and amenable to surgical
+resection.
+
+Current Status of Early Detection Biomarkers for Lung Cancer
+We will review the most recent advances made to date in the field of molecular biomarkers
+for risk assessment and diagnosis of lung cancer, as well as discuss the clinical use and
+limitations of different approaches.
+
+NIH-PA Author Manuscript
+
+In an effort to identify the most relevant lung cancer biomarkers of early detection, we
+selected published reports from PubMed on the basis of the keywords biomarkers, risk,
+diagnosis, early detection, and lung cancer. To narrow our search, we further applied the
+following 2 filters. First, the proposed marker, or panel of markers, must be quantitatively
+measurable and its performance tested in at least one sample set of clinically relevant
+specimens. Second, the report adhered to the PRoBE biomarker validation guidelines
+discussed later. As a result, we have selected original reports summarized in Tables 1 to 3.
+We recognize the limitation of selection, outcome reporting, and publication biases.
+We have organized our report on the basis of specimen types, either tissue-based (Table 1)
+or biofluids-based markers. We have further subcategorized biofluids-based biomarkers into
+blood-based (Table 2), sputum, white blood cells, and peripheral blood cells (Table 3). The
+phases of biomarker development are assessed following the Early Detection Research
+Network (EDRN) classification (20). This classification was designed for biomarkers of
+early detection in the context of screening and therefore may not directly address phases of
+development of diagnostic biomarkers. These tables also include efforts from investigators
+to integrate biomarkers in models of risk prediction or diagnosis. The validation sets
+reported in the tables correspond to an attempt to test the biomarker (or signature) in a true
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 4
+
+independent population, also described as clinical validation (4), to evaluate the performance
+of the test.
+
+NIH-PA Author Manuscript
+
+Tissue-based candidate biomarkers
+Numerous studies have adapted large-scale analytic approaches to profile the full spectrum
+of molecular aberrations associated with lung cancer malignancy in tumors. These studies
+have yielded valuable information that has unraveled several key molecular events of lung
+cancer tumorigenesis, including mapping the genomic loci associated with high risk of
+developing lung cancer, hypermethylation of a number of tumor suppressor genes (21–25),
+regions of chromosomal amplification (26, 27), mRNA expression variation (28–31), the
+differential expression of several microRNAs (32), and the proteomic signature of invasive
+(33, 34) and preinvasive lesions in lung tissues (35, 36).
+
+NIH-PA Author Manuscript
+
+Several research groups, including ours, have been testing genetic and proteomic alterations
+in surrogate tissues such as bronchial brushings and biopsies to determine the probability of
+having lung cancer (25–27, 36, 37), see Table 1. While this approach requires
+bronchoscopy, molecular markers obtained from the airways may pair with the recently
+proven CT screening to provide additional benefit when evaluating individuals at high risk
+for lung cancer. Although much of the early biomarker discovery efforts have used freshfrozen samples as a primary source, acquiring these specimens is costly and laborious.
+Because surgical pathology specimens stored as formalin-fixed, paraffin-embedded (FFPE)
+blocks are widely available, many researchers are attempting to profile genomic and
+proteomic aberrations in such specimens. Some of these aberrations include
+hypermethylation of genes (38) and microRNA (miRNA) expression (39), which can be
+successfully extracted as candidate biomarkers.
+miRNAs are a class of small noncoding RNA genes that are thought to regulate gene
+expression. They are abnormally expressed in several types of cancer (40, 41) and involved
+in a variety of biologic and pathologic processes with tissue specificity (41, 42) with the
+potential for clinical application (43). Another advantage of miRNA is that it is well
+preserved in formalin-fixed tissue, making it ideal for use in routinely processed material
+(44). Previous studies have identified differences in miRNA expression between squamous
+cell carcinoma and adenocarcinoma in lung cancer (32), as well as in other cancers (42, 43,
+45). The current trend toward using FFPE samples will allow for a greater number of
+available samples and thus will increase statistical power and generalization of results.
+
+NIH-PA Author Manuscript
+
+Tissue-based biomarkers that reflect the molecular changes associated with specific
+histologic subtypes of non–small cell lung cancer (NSCLC) may provide the means to
+differentiate tumors originating in the lung from metastases from other organ sites.
+Furthermore, using immunohistochemical profiling of lung cancer tissue markers in
+conjunction with well-established histologic examination can provide more accurate
+subclassification of lung malignancies and thus may directly impact the clinical decision
+making of antitumor therapy. The molecular changes associated with progression from
+normal to malignant tissue may lead to the discovery of novel markers that can be detected
+in circulation or other biofluids. Limited access to early-stage tumor tissue samples, tumor
+heterogeneity combined with the complexity of the genome and the proteome, and the low
+abundance of potential biomarkers represent some of the challenges that translational
+researchers face when attempting to bring these biomarker candidates from the bench to the
+bedside.
+Therefore, the potential use of tissue-based biomarkers is highly dependent on the
+accessibility of the specimens and the robustness of the assay offered. FFPE samples are
+preferred by scientists because of their availability, but their molecular analyses remain
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 5
+
+NIH-PA Author Manuscript
+
+more challenging. Although noninvasive diagnostic approaches are also preferred, it may
+take additional time to refine an airway epithelium–based biomarker versus one that can
+derive the same information from a less invasive sample. For example, developing surrogate
+biomarkers of early-stage disease from tissues in the field of cancerization (bronchial
+brushings or biopsies) may require testing in more proximal and less invasive samples (e.g.,
+nasal epithelium). This problem may be less acute for prognostic biomarkers and biomarkers
+predictive of response to therapy because tumor samples will be generally available for
+analysis. Although molecular analysis of lung tumor tissues holds great promise to
+revolutionize our understanding of the disease development and progression, tissue-based
+biomarkers from the bronchial airway have significant limitations related to tissue
+acquisition that may be overcome by the translation of that knowledge to more accessible
+specimens and by guiding the development of biofluids-based early detection strategies.
+Biofluids-based markers
+
+NIH-PA Author Manuscript
+
+The underlying premise of biofluids-based biomarker research is that molecular alterations
+of tumor cells lead to the synthesis of distinct molecular species that can be detected in
+biofluids. Biofluids-based detection strategies are an attractive approach for screening,
+namely due to their ease of acquisition. Biofluids including peripheral blood and its
+components (circulating cells, plasma, and serum), exhaled breath condensate (EBC), urine,
+and sputum offer noninvasive access to large quantities of samples available for analysis.
+These alterations can lead to the generation of disease-specific molecular species such as
+altered or methylated DNA, overexpressed mRNA, miRNA, or proteins that can potentially
+be released into the extracellular microenvironment. Therefore, molecular analyses of earlystage lung cancer-related biofluids represent an attractive choice for the discovery and
+validation of diagnostic biomarkers (46, 47).
+Blood-based markers—Blood is a complex and dynamic medium whose components
+can reflect various physiologic or pathologic states such as the presence of some cancers.
+Detectable moieties of the blood are currently the subject of many investigations and include
+cellular elements such as circulating tumor cells (CTC), cell-free DNA and RNA, proteins,
+peptides, and metabolites. Changes of the cell-free genomic components of the blood,
+including DNA methylation (48, 49), DNA amplification, and gene expression (50), have
+been reported in the circulation of patients with lung cancer. These candidates are reported
+in Table 2.
+
+NIH-PA Author Manuscript
+
+microRNAs—More recently, miRNAs have also been identified in the blood of patients
+with lung cancer (51, 52). In an effort to test the validity of miRNA as biomarkers able to
+predict lung tumor development, diagnosis, and prognosis, an extensive miRNA profiling
+was conducted in paired lung tumor and normal lung tissue and in plasma collected at the
+time of diagnosis by spiral CT. A signature of 15 miRNAs present in the blood was able to
+identify subjects at high risk of developing lung cancer in 2 independent cohorts of patient
+with 80% sensitivity and 90% specificity (53). These results suggest that miRNA expression
+ratios may be molecular predictors of lung cancer development and aggressiveness and may
+have clinical implication for lung cancer management in the future. In a separate study, a
+test included 34 serum miRNAs that could identify patients with early-stage NSCLCs in a
+population of asymptomatic high-risk individuals with 80% accuracy (54). These
+provocative results will have to be validated in independent cohorts.
+Proteomic profiles—Recent proteomic studies have focused on rapid proteomic profiling
+of blood with minimal sample preparation. One of these approaches uses matrix-assisted
+laser desorption/ionization—time-of-flight/mass spectrometric (MALDI-TOF/MS) patterns
+of abundant proteins or peptide fragments that correlate with early disease stage. Several
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 6
+
+NIH-PA Author Manuscript
+
+other studies used MALDI/MS to identify proteins and peptides in serum. For example, Patz
+and colleagues were able to identify 4 differentially expressed serum proteins (transferrin,
+retinol-binding protein, antitrypsin, and haptoglobin) that discriminate between NSCLCs
+and controls (55). Using the same MALDI/MS approaches, several other groups including
+ours (56) have reported serum protein expression profiles that distinguish patients with
+various cancers from control subjects (57). Recently, we validated the proteomic signature
+in 2 prospective cohorts of patients with lung nodules and showed that it may provide added
+value to the clinical and imaging assessment of indeterminate lung nodules (19).
+
+NIH-PA Author Manuscript
+
+Autoantibodies—Other promising development in the blood biomarkers field is the
+discovery of autoantibodies directed against tumor proteins. Alterations of the protein
+production in cancer cells by overexpression, mutations, misfolding, truncation, or
+proteolysis break immunologic tolerance and generate tumor-specific antigens which in turn
+elicit a host immune response (58). Autoantibodies generated against these tumor-associated
+antigens (TAA) during the course of disease progression can be further amplified by the
+immune network, making them attractive candidates for the early detection and diagnosis of
+cancer. Many TAA targets have been identified in patient sera in several immunologic
+diseases and malignancies using high-throughput screening platforms, such as cDNA
+expression libraries, phage display, and protein microarrays (59). For example, 2 separate
+groups identified several potential immunoreactive peptides for autoantibodies using a T-7
+cDNA-based phage library to screen the sera of patients with NSCLCs (60, 61). Using
+similar techniques, Chen and colleagues also identified and validated ubiquilin-1 peptides as
+a potential autoantibody target in lung adenocarcinoma from sera of patients with earlystage lung cancer (62). More recently, Wu and colleagues reported the identification of 6
+peptide clones discriminatory of NSCLCs using phage display techniques, but only one
+protein has been confirmed (63). Recent improvements in blood fractionation techniques
+and liquid chromatography led to the identification of several other autoantibodies (47).
+Autoantibodies against known lung cancer–associated proteins such as autoantibodies
+against p53, c-Myc, HER2, MUC1, CAGE, GBU4-5, NY-ESO-1 (64) or annexin I, PGP9.5,
+and 14-3-3 theta, LAMAR1 (65), or IMPDH, PGAM1 and ANXA2 (66) have also been
+reported as independent signatures. These recent autoantibody studies are particularly
+provocative because some allow the detection of cancer-specific markers in the preclinical
+phase of lung cancer progression. Similar to other circulating protein markers, the low
+abundance of autoantibodies and the complexity of the blood proteome are still substantial
+challenges facing these discovery efforts.
+
+NIH-PA Author Manuscript
+
+Circulating tumor cells—The ability to capture and study CTCs is an emerging and
+interesting development in the field that carries the potential to become a noninvasive tool
+for early detection and diagnosis of cancer, measuring response to therapy, as well as for
+understanding the basic biology of cancer progression and metastasis (67–71). CTCs are rare
+cells that originate from a malignancy and circulate freely in the peripheral blood. CTCs are
+usually captured by immobilized antiepithelial cell adhesion molecule (EpCAM, also known
+as TACSTD1) antibodies either in chip or bead platforms (72, 73). The technology of rare
+CTCs capture is still in the early phase of development and requires more specific surface
+markers to increase its spec-ificity for circulating lung cancer cells.
+In summary, peripheral blood is a rich medium for cancer-specific markers from small
+molecules such as miRNAs to whole cells, all of which represent a great opportunity for
+developing a minimally invasive diagnostic test of lung cancer. Significant challenges are
+still preventing the clinical success of blood markers, including the extreme complexity of
+the blood matrix, the scarce quantity of any given marker, and the lack of sensitive,
+reproducible, and high-throughput verification modalities, in particular in proteomics
+research. New and innovative fractionation techniques, more sensitive and specific detection
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 7
+
+reagents, and well-validated assays will increase our chances of capturing blood-based
+biomarkers.
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Exhaled breath condensate—The analysis of EBC represents another noninvasive
+method of diagnosing lung cancer. The analysis of volatile organic compounds (VOC) that
+are linked to cancer is likely to provide a novel opportunity for the identification of
+diagnostic cancer biomarkers because such a large volume of sample can be collected easily
+and inexpensively (74–76). The underlying rationale of this approach is based on the
+observation that tumor cell growth is accompanied by the alteration of protein expression
+pattern that may lead to peroxidation of the cell membrane and thus to the emission of
+VOCs (76). Several recent studies have used gas chromatography combined with mass
+spectrometric analysis (GC-MS) of VOCs as both discovery and validation platforms (77–
+81). Other groups have used the analytic power of GC-MS and the sensitivity of customdesigned nanosensors in which changes in electrical resistance from organic compounds
+contained in exhaled breath of patients can be detected by these sensors and recorded. For
+example, in a study by Peng and colleagues a VOC signature that distinguished patients with
+lung, colorectal, and breast cancers from healthy individuals was recently identified from
+exhaled alveolar breath (82). These candidates are reported in Table 3. Other studies
+attempted to identify volatile proteins and peptides present in EBC and used them as
+potential markers for the early detection of lung cancer (83–85). The results of these studies
+provide evidence for feasibility of this strategy to isolate and identify proteins useful for
+early detection of lung cancer. Further studies are still needed to standardize a collection
+device, to further show specificity of any test, and to determine the use of this approach in
+clinical practice.
+
+NIH-PA Author Manuscript
+
+Sputum and urine—Cigarette smoking leads to the increased production of sputum with
+glycoproteins, inflammatory cells, and exfoliated cells from the bronchial tree. Because
+sputum is so readily available, particularly in current and ex-smokers, that its molecular
+analysis has been an active area of research for lung cancer biomarkers (21). Although
+detecting lung cancer using sputum cytology alone has low sensitivity (86), several studies
+showed that combining cytology with analysis of genetic abnormalities improves diagnosis
+accuracy. Several types of genetic abnormalities have been detected in the sputum of
+patients with lung cancer, such as deletions of HYAL2, FHIT, and SFTPC (87),
+chromosomal aneusomy (88, 89), DNA methylation (90, 91), and miRNA (92, 93). These
+candidates are reported in Table 3. Also recently, measurements of genomic aneuploidy
+when combined with pulmonary function can significantly improve lung cancer risk
+prediction (94). The performance of most of these potential markers has not been tested in
+large-scale validation studies, and whether these markers will add value to standardized
+sputum cytology remains to be seen.
+Urine, much like blood, EBC, and sputum, is another easily accessible biofluid that could be
+an important source of cancer-specific markers. Some recent proof-of-principle studies have
+attempted to profile the molecular changes of urine using mass spectrometric analysis. The
+molecular species that were detected in urine include VOCs previously identified in an
+animal model of lung cancer (95), and their investigation in patients with lung cancer is just
+beginning (96).
+
+Study Design for Early Detection Biomarkers Validation
+Appropriate study design is crucial for the successful validation of a promising biomarker
+for clinical use. Validation of a biomarker useful for lung cancer screening should be
+conducted using a nested case–control study design within a prospective longitudinal cohort
+following the PRoBE design (97). Specifically, random sampling of cases and controls
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 8
+
+NIH-PA Author Manuscript
+
+identified from within a well-defined cohort population allows both cases and controls to be
+sampled from the same source population, thus providing validity to the case–control
+design. Matching strategies may be considered, such as using incidence density sampling to
+sample controls at the same time each case occurs, so that cases and controls are matched on
+time. While there are advantages to matching, the potential pitfalls of matching should be
+carefully considered before implementation (97, 98).
+Generalizability of biomarkers to the appropriate clinical setting and populations is requisite
+for a clinically useful biomarker. The prospective cohort from whom the cases and controls
+are sampled must be representative of the targeted clinical population to which the
+biomarker will be applied. Thus, the cohort study population should comprise individuals
+with conditions found in the target population, such as inflammatory disease, granulomas, or
+benign tumors, so that false-positives can be minimized and individuals developing lung
+cancer can be differentiated from those not developing the disease (99).
+
+NIH-PA Author Manuscript
+
+Biospecimens necessary for biomarker development should be collected at the initiation of
+the prospective cohort study, before ascertainment of lung cancer status (97), and potentially
+over multiple time points if the biomarker changes with age and with progression to disease
+(99). These biospecimens are then evaluated in patients who develop biopsy-proven cancer
+(cases) and those who do not (controls) to develop a biomarker for clinical use as a costefficient approach. Importantly, the outcome should be clearly defined (100), and the
+biomarker assay development should be blinded to case–control status to avoid information
+bias (97). To validate the usefulness of a biomarker for early detection of lung cancer,
+diagnostic validation of the biomarker should be conducted in a different population than the
+one in which the biomarker was developed. Finally, this should be followed by early
+diagnosis validation using a screening trial with lung cancer mortality as the endpoint (101).
+
+NIH-PA Author Manuscript
+
+Assessing whether a biomarker has clinical validity requires estimation of sensitivity and
+specificity, which can be summarized with the receiver operator characteristic (ROC) curve
+(102). Two additional clinically relevant measures that can be measured by ROC include
+NPV and PPV, which are estimated using sensitivity and specificity. These clinically
+important indices describe the probability of developing or having disease given a positive
+test. Estimates of PPV and NPV are influenced by the prevalence of the disease and
+consequently will vary by patient age, target population, and disease stage. Merely targeting
+the screening to a high-risk population based on demographic factors can alter the screening
+test performance characteristics (103). Thus, for a biomarker to be clinically valid and
+generalizable, the biomarker validation process must be applied to multiple populations
+having different demographic characteristics for determining the clinical validity and use of
+a biomarker.
+The use of lung cancer diagnosis prediction models will grow as the models accuracy
+improves. When a patient presents in the clinic and undergoes imaging, for example, CT
+resulting in a detected pulmonary nodule, current predictive models for assessing lung
+cancer malignancy include those developed by Cummings and colleagues (104), Gurney and
+colleagues (105), Swensen and colleagues (106), and Gould and colleagues (18). However,
+these models suffer from relatively poor accuracy in particular for indeterminate pulmonary
+nodules and do not provide accurate prediction of malignancy among patients referred for
+surgery (16). While these models may include predictors such as patient age, smoking
+status, duration and intensity of smoking, cancer history, gender, race, asbestos exposure,
+chronic obstructive pulmonary disease (COPD)/emphysema, and pulmonary nodule
+characteristics by CT (size, shape, density, and location), the addition of biomarkers may
+provide additional classification accuracy to the current lung cancer malignancy prediction
+models. Recent interest has focused on the potential for molecular tools to improve models
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 9
+
+NIH-PA Author Manuscript
+
+predicting lung cancer diagnosis, yet most studies have shown little improvement with
+added gene expression profile in cytologically normal large airway epithelium obtained via
+bronchoscopic brushings (28) or a serum proteomic profile in patients presenting with
+pulmonary nodules (19). While molecular markers are not yet fully incorporated into lung
+cancer malignancy prediction models, it is likely that a profile of molecular markers will be
+necessary to be clinically useful as biomarkers for early detection of lung cancer (107).
+Future development of predictive models should incorporate previously identified predictors
+and newly identified biomarkers (100).
+
+Current Challenges in Lung Cancer Biomarker Development and
+Implementation
+
+NIH-PA Author Manuscript
+
+One of the main objectives of molecular medicine in lung cancer is to identify biomarkers
+that discriminate between low- versus high-risk individuals and between benign and
+malignant lung tumors. Ultimately, these biomarkers can potentially be translated to
+noninvasive, simple, and reliable diagnostic tests for early detection of the disease. The
+underlying assumption behind these efforts is that tumor-specific or overexpressed proteins
+can be detected simply and accurately in complex clinical samples such as surrogate tissues
+and biofluids. The intensive research in genomics and proteomics aimed at identifying these
+biomarkers has yielded a large number of potential diagnostic biomarkers, although few
+have progressed to the level of U.S. Food and Drug Administration (FDA) approval for
+diagnostics (108).
+This disappointingly slow pace of lung cancer biomarkers discovery and validation is
+attributed to a host of technologic and methodologic factors. The gap between promise and
+product can partially be explained by the fact that the current discovery methods are neither
+reliable nor efficient. One reason is that the current analytic technologies still suffer from the
+limited power to detect low-abundant cancer markers against a high background of highabundance molecular species such as proteins in very complex matrices such as plasma or
+serum. These low-abundance markers in biofluids may be the most promising cancer
+biomarkers. Consequently, many of the best candidates may thus be missed during the
+discovery phase.
+
+NIH-PA Author Manuscript
+
+Another quandary is the limited capacity to verify and validate analytically existing
+candidate markers in a high-throughput manner. This is particularly true in proteomics
+research. The lack of available quality reagents such as antibodies or methodologies to
+translate the discovery of candidates in tissue specimens and measure their concentration in
+the circulation remains an enormous challenge. Therefore, it is possible that biomarkers
+have already been “discovered” but not yet validated. Furthermore, once a long list of
+candidate biomarkers is compiled, no current standardized method exists for selecting those
+that are most promising for systematic validation. In addition, the reproducibility of
+biomarker data has been flawed because of the poor design [e.g., underrepresentation of
+studies using a nested case–control design (ref. 97)], model overfitting, and the lack of
+cross-validation and independent validation. Changing technology, low concentration of
+signals combined with very few prospective studies, and a low incidence disease make the
+area of biomarker research challenging.
+
+Conclusions and Future Clinical Implications
+The molecular analysis of a variety of biospecimens has allowed the discovery of relevant
+candidate biomarkers and consequently the identification of novel proteins that may have a
+role in the development of lung cancer. A high volume of data from multiple highthroughput biochemical analyses of clinical material from “-omics” sources has been
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 10
+
+NIH-PA Author Manuscript
+
+accumulating at an exponential rate in the last few years, generating large number of
+biomarker candidates. None of the published candidate biomarkers of risk or of lung cancer
+diagnosis are ready for clinical use, and few have moved to phase III of biomarker
+development. Lung cancer is recognized as a complex and heterogeneous disease, not only
+at the biochemical level (genes, proteins, metabolites) but also at the tissue, organism, and
+population level. There is a need for incorporating findings from multiple discovery
+platforms into a mathematical framework that can improve our level of understanding of the
+disease process. A biofluids-based molecular test may improve the selection of high-risk
+individuals for CT screening, distinguish those with malignant nodules from benign lesions,
+and identify patients with particularly aggressive cancer. Clinical benefit could include
+further reductions in mortality and thus provide significant cost-savings to the health care
+system.
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+NIH-PA Author Manuscript
+
+The authors thank Mr. William Alborn for his insightful comments and suggestions and Judith Roberts from the
+Vanderbilt Tumor Registry for her help in providing data to support the estimates of lives saved from adjuvant
+chemotherapy in the United States.
+Grant Support
+The authors thank the following funding source for support of this work: NIH (U01CA152662 and RO1
+CA102353) awarded to P.P. Massion, Veterans Health Administration (VA-CDA2) awarded to E.L. Grogan, and A
+Vanderbilt Clinical and Translational Research Scholars award to M.C. Aldrich.
+
+References
+
+NIH-PA Author Manuscript
+
+1. Jemal A, Bray F, Center MM, Ferlay J, Ward E, Forman D. Global cancer statistics. CA Cancer J
+Clin. 2011; 61:69–90. [PubMed: 21296855]
+2. Jemal A, Center MM, DeSantis C, Ward EM. Global patterns of cancer incidence and mortality
+rates and trends. Cancer Epidemiol Biomarkers Prev. 2010; 19:1893–907. [PubMed: 20647400]
+3. Hoffman PC, Mauer AM, Vokes EE. Lung cancer. Lancet. 2000; 355:479–85. [PubMed: 10841143]
+4. Brenner DE, Normolle DP. Biomarkers for cancer risk, early detection, and prognosis: the
+validation conundrum. Cancer Epidemiol Biomarkers Prev. 2007; 16:1918–20. [PubMed:
+17932336]
+5. Fontana RS, Sanderson DR, Taylor WF, Woolner LB, Miller WE, Muhm JR, et al. Early lung
+cancer detection: results of the initial (prevalence) radiologic and cytologic screening in the Mayo
+Clinic study. Am Rev Respir Dis. 1984; 130:561–5. [PubMed: 6091507]
+6. Stitik FP, Tockman MS. Radiographic screening in the early detection of lung cancer. Radiol Clin
+North Am. 1978; 16:347–66. [PubMed: 746141]
+7. Henschke CI, McCauley DI, Yankelevitz DF, Naidich DP, McGuinness G, Miettinen OS, et al.
+Early Lung Cancer Action Project: overall design and findings from baseline screening. Lancet.
+1999; 354:99–105. [PubMed: 10408484]
+8. Aberle DR, Berg CD, Black WC, Church TR, Fagerstrom RM, Galen B, et al. The National Lung
+Screening Trial: overview and study design. Radiology. 2011; 258:243–53. [PubMed: 21045183]
+9. Aberle DR, Adams AM, Berg CD, Black WC, Clapp JD, Fagerstrom RM, et al. Reduced lungcancer mortality with low-dose computed tomographic screening. N Engl J Med. 2011; 365:395–
+409. [PubMed: 21714641]
+10. Bach PB, Kattan MW, Thornquist MD, Kris MG, Tate RC, Barnett MJ, et al. Variations in lung
+cancer risk among smokers. J Natl Cancer Inst. 2003; 95:470–8. [PubMed: 12644540]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+11. Cassidy A, Duffy SW, Myles JP, Liloglou T, Field JK. Lung cancer risk prediction: a tool for early
+detection. Int J Cancer. 2007; 120:1–6. [PubMed: 17058200]
+12. Peto R, Darby S, Deo H, Silcocks P, Whitley E, Doll R. Smoking, smoking cessation, and lung
+cancer in the UK since 1950: combination of national statistics with two case-control studies.
+BMJ. 2000; 321:323–9. [PubMed: 10926586]
+13. Spitz MR, Hong WK, Amos CI, Wu X, Schabath MB, Dong Q, et al. A risk model for prediction
+of lung cancer. J Natl Cancer Inst. 2007; 99:715–26. [PubMed: 17470739]
+14. D'Amelio AM Jr, Cassidy A, Asomaning K, Raji OY, Duffy SW, Field JK, et al. Comparison of
+discriminatory power and accuracy of three lung cancer risk models. Br J Cancer. 2010; 103:423–
+9. [PubMed: 20588271]
+15. Tammemagi CM, Pinsky PF, Caporaso NE, Kvale PA, Hocking WG, Church TR, et al. Lung
+cancer risk prediction: prostate, lung, colorectal and ovarian cancer screening trial models and
+validation. J Natl Cancer Inst. 2011; 103:1058–68. [PubMed: 21606442]
+16. Isbell JM, Deppen S, Putnam JB Jr, Nesbitt JC, Lambright ES, Dawes A, et al. Existing general
+population models inaccurately predict lung cancer risk in patients referred for surgical evaluation.
+Ann Thorac Surg. 2011; 91:227–33. [PubMed: 21172518]
+17. National Lung Screening Trial Research Team. Aberle DR, Adams AM, Berg CD, Black WC,
+Clapp JD, Fagerstrom RM, et al. Reduced lung-cancer mortality with low-dose computed
+tomographic screening. N Engl J Med. 2011; 365:395–409. [PubMed: 21714641]
+18. Gould MK, Ananth L, Barnett PG. A clinical model to estimate the pretest probability of lung
+cancer in patients with solitary pulmonary nodules. Chest. 2007; 131:383–8. [PubMed: 17296637]
+19. Pecot CV, Li M, Zhang XJ, Rajanbabu R, Calitri C, Bungum A, et al. Added value of a serum
+proteomic signature in the diagnostic evaluation of lung nodules. Cancer Epidemiol Biomarkers
+Prev. 2012; 21:786–92. [PubMed: 22374995]
+20. Pepe MS, Etzioni R, Feng Z, Potter JD, Thompson ML, Thornquist M, et al. Phases of biomarker
+development for early detection of cancer. J Natl Cancer Inst. 2001; 93:1054–61. [PubMed:
+11459866]
+21. Belinsky SA. Gene-promoter hypermethylation as a biomarker in lung cancer. Nat Rev Cancer.
+2004; 4:707–17. [PubMed: 15343277]
+22. Anglim PP, Galler JS, Koss MN, Hagen JA, Turla S, Campan M, et al. Identification of a panel of
+sensitive and specific DNA methylation markers for squamous cell lung cancer. Mol Cancer.
+2008; 7:62. [PubMed: 18616821]
+23. Castro M, Grau L, Puerta P, Gimenez L, Venditti J, Quadrelli S, et al. Multiplexed methylation
+profiles of tumor suppressor genes and clinical outcome in lung cancer. J Transl Med. 2010; 8:86.
+[PubMed: 20849603]
+24. Richards KL, Zhang B, Sun M, Dong W, Churchill J, Bachinski LL, et al. Methylation of the
+candidate biomarker TCF21 is very frequent across a spectrum of early-stage nonsmall cell lung
+cancers. Cancer. 2011; 117:606–17. [PubMed: 20945327]
+25. Schmidt B, Liebenberg V, Dietrich D, Schlegel T, Kneip C, Seegebarth A, et al. SHOX2 DNA
+methylation is a biomarker for the diagnosis of lung cancer based on bronchial aspirates. BMC
+Cancer. 2010; 10:600. [PubMed: 21047392]
+26. Halling KC, Rickman OB, Kipp BR, Harwood AR, Doerr CH, Jett JR. A comparison of cytology
+and fluorescence in situ hybridization for the detection of lung cancer in bronchoscopic specimens.
+Chest. 2006; 130:694–701. [PubMed: 16963665]
+27. Massion PP, Zou Y, Uner H, Kiatsimkul P, Wolf HJ, Baron AE, et al. Recurrent genomic gains in
+preinvasive lesions as a biomarker of risk for lung cancer. PLoS One. 2009; 4:e5611. [PubMed:
+19547694]
+28. Beane J, Sebastiani P, Whitfield TH, Steiling K, Dumas Y-M, Lenburg ME, et al. A prediction
+model for lung cancer diagnosis that integrates genomic and clinical features. Cancer Prev Res.
+2008; 1:56–64.
+29. Beer DG, Kardia SL, Huang CC, Giordano TJ, Levin AM, Misek DE, et al. Gene-expression
+profiles predict survival of patients with lung adenocarcinoma. Nat Med. 2002; 8:816–24.
+[PubMed: 12118244]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+30. Blomquist T, Crawford EL, Mullins D, Yoon Y, Hernandez DA, Khuder S, et al. Pattern of
+antioxidant and DNA repair gene expression in normal airway epithelium associated with lung
+cancer diagnosis. Cancer Res. 2009; 69:8629–35. [PubMed: 19887610]
+31. Wilkerson MD, Yin X, Hoadley KA, Liu Y, Hayward MC, Cabanski CR, et al. Lung squamous
+cell carcinoma mRNA expression subtypes are reproducible, clinically important, and correspond
+to normal cell types. Clin Cancer Res. 2010; 16:4864–75. [PubMed: 20643781]
+32. Yanaihara N, Caplen N, Bowman E, Seike M, Kumamoto K, Yi M, et al. Unique microRNA
+molecular profiles in lung cancer diagnosis and prognosis. Cancer Cell. 2006; 9:189–98. [PubMed:
+16530703]
+33. Yanagisawa K, Shyr Y, Xu BJ, Massion PP, Larsen PH, White BC, et al. Proteomic patterns of
+tumour subsets in non-small-cell lung cancer. Lancet. 2003; 362:433–9. [PubMed: 12927430]
+34. Yanagisawa K, Tomida S, Shimada Y, Yatabe Y, Mitsudomi T, Takahashi T. A 25-signal
+proteomic signature and outcome for patients with resected non-small-cell lung cancer. J Natl
+Cancer Inst. 2007; 99:858–67. [PubMed: 17551146]
+35. Rahman SM, Shyr Y, Yildiz PB, Gonzalez AL, Li H, Zhang X, et al. Proteomic patterns of
+preinvasive bronchial lesions. Am J Respir Crit Care Med. 2005; 172:1556–62. [PubMed:
+16179643]
+36. Rahman SMJ, Gonzalez AL, Li M, Seeley EH, Zimmerman LJ, Zhang XJ, et al. Lung cancer
+diagnosis from proteomic analysis of preinvasive lesions. Cancer Res. 2011; 71:3009–17.
+[PubMed: 21487035]
+37. Spira A, Beane JE, Shah V, Steiling K, Liu G, Schembri F, et al. Airway epithelial gene expression
+in the diagnostic evaluation of smokers with suspect lung cancer. Nat Med. 2007; 13:361–6.
+[PubMed: 17334370]
+38. Feng Q, Hawes SE, Stern JE, Wiens L, Lu H, Dong ZM, et al. DNA methylation in tumor and
+matched normal tissues from non-small cell lung cancer patients. Cancer Epidemiol Biomarkers
+Prev. 2008; 17:645–54. [PubMed: 18349282]
+39. Lebanony D, Benjamin H, Gilad S, Ezagouri M, Dov A, Ashkenazi K, et al. Diagnostic assay
+based on hsa-miR-205 expression distinguishes squamous from nonsquamous non-small-cell lung
+carcinoma. J Clin Oncol. 2009; 27:2030–7. [PubMed: 19273703]
+40. Volinia S, Calin GA, Liu CG, Ambs S, Cimmino A, Petrocca F, et al. A microRNA expression
+signature of human solid tumors defines cancer gene targets. Proc Natl Acad Sci U S A. 2006;
+103:2257–61. [PubMed: 16461460]
+41. Lu J, Getz G, Miska EA, Alvarez-Saavedra E, Lamb J, Peck D, et al. MicroRNA expression
+profiles classify human cancers. Nature. 2005; 435:834–8. [PubMed: 15944708]
+42. Roldo C, Missiaglia E, Hagan JP, Falconi M, Capelli P, Bersani S, et al. MicroRNA expression
+abnormalities in pancreatic endocrine and acinar tumors are associated with distinctive pathologic
+features and clinical behavior. J Clin Oncol. 2006; 24:4677–84. [PubMed: 16966691]
+43. Rosenfeld N, Aharonov R, Meiri E, Rosenwald S, Spector Y, Zepeniuk M, et al. MicroRNAs
+accurately identify cancer tissue origin. Nat Biotechnol. 2008; 26:462–9. [PubMed: 18362881]
+44. Li J, Smyth P, Flavin R, Cahill S, Denning K, Aherne S, et al. Comparison of miRNA expression
+patterns using total RNA extracted from matched samples of formalin-fixed paraffin-embedded
+(FFPE) cells and snap frozen cells. BMC Biotechnol. 2007; 7:36. [PubMed: 17603869]
+45. Feber A, Xi L, Luketich JD, Pennathur A, Landreneau RJ, Wu M, et al. MicroRNA expression
+profiles of esophageal cancer. J Thorac Cardiovasc Surg. 2008; 135:255–60. discussion 260.
+[PubMed: 18242245]
+46. Hanash S. Harnessing immunity for cancer marker discovery. Nat Biotechnol. 2003; 21:37–8.
+[PubMed: 12511908]
+47. Hanash SM, Pitteri SJ, Faca VM. Mining the plasma proteome for cancer biomarkers. Nature.
+2008; 452:571–9. [PubMed: 18385731]
+48. Greenberg AK, Rimal B, Felner K, Zafar S, Hung J, Eylers E, et al. S-adenosylmethionine as a
+biomarker for the early detection of lung cancer. Chest. 2007; 132:1247–52. [PubMed: 17934114]
+49. Begum S, Brait M, Dasgupta S, Ostrow KL, Zahurak M, Carvalho AL, et al. An epigenetic marker
+panel for detection of lung cancer using cell-free serum DNA. Clin Cancer Res. 2011; 17:4494–
+503. [PubMed: 21610147]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 13
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+50. Showe MK, Vachani A, Kossenkov AV, Yousef M, Nichols C, Nikonova EV, et al. Gene
+expression profiles in peripheral blood mono-nuclear cells can distinguish patients with non-small
+cell lung cancer from patients with nonmalignant lung disease. Cancer Res. 2009; 69:9202–10.
+[PubMed: 19951989]
+51. Lai CY, Yu SL, Hsieh MH, Chen CH, Chen HY, Wen CC, et al. MicroRNA expression aberration
+as potential peripheral blood biomarkers for schizophrenia. PLoS One. 2011; 6:e21635. [PubMed:
+21738743]
+52. Li S, Zhu J, Zhang W, Chen Y, Zhang K, Popescu LM, et al. Signature microRNA expression
+profile of essential hypertension and its novel link to human cytomegalovirus infection.
+Circulation. 2011; 124:175–84. [PubMed: 21690488]
+53. Boeri M, Verri C, Conte D, Roz L, Modena P, Facchinetti F, et al. MicroRNA signatures in tissues
+and plasma predict development and prognosis of computed tomography detected lung cancer.
+Proc Natl Acad Sci. 2011; 108:3713–8. [PubMed: 21300873]
+54. Bianchi F, Nicassio F, Marzi M, Belloni E, Dall'olio V, Bernard L, et al. A serum circulating
+miRNA diagnostic test to identify asymptomatic high-risk individuals with early stage lung
+cancer. EMBO Mol Med. 2011; 3:495–503. [PubMed: 21744498]
+55. Patz EF Jr, Campa MJ, Gottlin EB, Kusmartseva I, Guan XR, Herndon JE II. Panel of serum
+biomarkers for the diagnosis of lung cancer. J Clin Oncol. 2007; 25:5578–83. [PubMed:
+18065730]
+56. Yildiz PB, Shyr Y, Rahman JS, Wardwell NR, Zimmerman LJ, Shakh-tour B, et al. Diagnostic
+accuracy of MALDI mass spectrometric analysis of unfractionated serum in lung cancer. J Thorac
+Oncol. 2007; 2:893–901. [PubMed: 17909350]
+57. Ocak S, Chaurand P, Massion PP. Mass spectrometry-based proteomic profiling of lung cancer.
+Proc Am Thorac Soc. 2009; 6:159–70. [PubMed: 19349484]
+58. Caron M, Choquet-Kastylevsky G, Joubert-Caron R. Cancer immunomics using autoantibody
+signatures for biomarker discovery. Mol Cell Proteomics. 2007; 6:1115–22. [PubMed: 17376768]
+59. Feng Z, Prentice R, Srivastava S. Research issues and strategies for genomic and proteomic
+biomarker discovery and validation: a statistical perspective. Pharmacogenomics. 2004; 5:709–19.
+[PubMed: 15335291]
+60. Zhong L, Coe SP, Stromberg AJ, Khattar NH, Jett JR, Hirschowitz EA. Profiling tumor-associated
+antibodies for early detection of non-small cell lung cancer. J Thorac Oncol. 2006; 1:513–9.
+[PubMed: 17409910]
+61. Khattar NH, Coe-Atkinson SP, Stromberg AJ, Jett JR, Hirschowitz EA. Lung cancer-associated
+auto-antibodies measured using seven amino acid peptides in a diagnostic blood test for lung
+cancer. Cancer Biol Ther. 2010; 10:267–72. [PubMed: 20543565]
+62. Chen HY, Yu SL, Chen CH, Chang GC, Chen CY, Yuan A, et al. A five-gene signature and
+clinical outcome in non-small-cell lung cancer. N Engl J Med. 2007; 356:11–20. [PubMed:
+17202451]
+63. Wu L, Chang W, Zhao J, Yu Y, Tan X, Su T, et al. Development of autoantibody signatures as
+novel diagnostic biomarkers of non-small cell lung cancer. Clin Cancer Res. 2010; 16:3760–8.
+[PubMed: 20501620]
+64. Chapman CJ, Murray A, McElveen JE, Sahin U, Luxemburger U, Tureci O, et al. Autoantibodies
+in lung cancer: possibilities for early detection and subsequent cure. Thorax. 2008; 63:228–33.
+[PubMed: 17932110]
+65. Qiu J, Choi G, Li L, Wang H, Pitteri SJ, Pereira-Faca SR, et al. Occurrence of autoantibodies to
+annexin I, 14-3-3 theta and LAMR1 in prediagnostic lung cancer sera. J Clin Oncol. 2008;
+26:5060–6. [PubMed: 18794547]
+66. Farlow EC, Vercillo MS, Coon JS, Basu S, Kim AW, Faber LP, et al. A multi-analyte serum test
+for the detection of non-small cell lung cancer. Br J Cancer. 2010; 103:1221–8. [PubMed:
+20859284]
+67. Stahel RA, Mabry M, Skarin AT, Speak J, Bernal SD. Detection of bone marrow metastasis in
+small-cell lung cancer by monoclonal antibody. J Clin Oncol. 1985; 3:455–61. [PubMed:
+2984342]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 14
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+68. Peck K, Sher YP, Shih JY, Roffler SR, Wu CW, Yang PC. Detection and quantitation of
+circulating cancer cells in the peripheral blood of lung cancer patients. Cancer Res. 1998;
+58:2761–5. [PubMed: 9661888]
+69. Pachmann K, Camara O, Kavallaris A, Schneider U, Schunemann S, Hoffken K. Quantification of
+the response of circulating epithelial cells to neoadjuvant treatment for breast cancer: a new tool
+for therapy monitoring. Breast Cancer Res. 2005; 7:R975–9. [PubMed: 16280045]
+70. Pachmann K, Heiss P, Demel U, Tilz G. Detection and quantification of small numbers of
+circulating tumour cells in peripheral blood using laser scanning cytometer (LSC). Clin Chem Lab
+Med. 2001; 39:811–7. [PubMed: 11601678]
+71. Rolle A, Gunzel R, Pachmann U, Willen B, Hoffken K, Pachmann K. Increase in number of
+circulating disseminated epithelial cells after surgery for non-small cell lung cancer monitored by
+MAINTRAC(R) is a predictor for relapse: a preliminary report. World J Surg Oncol. 2005; 3:18.
+[PubMed: 15801980]
+72. Nagrath S, Sequist LV, Maheswaran S, Bell DW, Irimia D, Ulkus L, et al. Isolation of rare
+circulating tumour cells in cancer patients by microchip technology. Nature. 2007; 450:1235–9.
+[PubMed: 18097410]
+73. Wu C, Hao H, Li L, Zhou X, Guo Z, Zhang L, et al. Preliminary investigation of the clinical
+significance of detecting circulating tumor cells enriched from lung cancer patients. J Thorac
+Oncol. 2009; 4:30–6. [PubMed: 19096303]
+74. Amann A, Spanel P, Smith D. Breath analysis: the approach towards clinical applications. Mini
+Rev Med Chem. 2007; 7:115–29. [PubMed: 17305586]
+75. Mazzone P. Progress in the development of a diagnostic test for lung cancer through the analysis of
+breath volatiles. J Breath Res. 2008; 2:037014. [PubMed: 21386175]
+76. Mazzone PJ. Analysis of volatile organic compounds in the exhaled breath for the diagnosis of
+lung cancer. J Thorac Oncol. 2008; 3:774–80. [PubMed: 18594325]
+77. Phillips M, Gleeson K, Hughes JMB, Greenberg J, Cataneo RN, Baker L, et al. Volatile organic
+compounds in breath as markers of lung cancer: a cross-sectional study. Lancet. 1999; 353:1930–
+3. [PubMed: 10371572]
+78. Fuchs P, Loeseken C, Schubert JK, Miekisch W. Breath gas aldehydes as biomarkers of lung
+cancer. Int J Cancer. 2010; 126:2663–70. [PubMed: 19839051]
+79. Bajtarevic A, Ager C, Pienz M, Klieber M, Schwarz K, Ligor M, et al. Noninvasive detection of
+lung cancer by analysis of exhaled breath. BMC Cancer. 2009; 9:348. [PubMed: 19788722]
+80. Ligor M, Ligor T, Bajtarevic A, Ager C, Pienz M, Klieber M, et al. Determination of volatile
+organic compounds in exhaled breath of patients with lung cancer using solid phase
+microextraction and gas chromatography mass spectrometry. Clin Chem Lab Med. 2009; 47:550–
+60. [PubMed: 19397483]
+81. Mazzone PJ, Hammel J, Dweik R, Na J, Czich C, Laskowski D, et al. Diagnosis of lung cancer by
+the analysis of exhaled breath with a colorimetric sensor array. Thorax. 2007; 62:565–8. [PubMed:
+17327260]
+82. Peng G, Hakim M, Broza YY, Billan S, Abdah-Bortnyak R, Kuten A, et al. Detection of lung,
+breast, colorectal, and prostate cancers from exhaled breath using a single array of nanosensors. Br
+J Cancer. 2010; 103:542–51. [PubMed: 20648015]
+83. Kurova VS, Kononikhin AS, Sakharov DA, Popov IA, Larina IM, Tonevitskii AG, et al. [Exogenic
+proteins in the human exhaled breath condensate]. Bioorg Khim. 2011; 37:55–60. [PubMed:
+21460881]
+84. Gessner C, Rechner B, Hammerschmidt S, Kuhn H, Hoheisel G, Sack U, et al. Angiogenic markers
+in breath condensate identify non-small cell lung cancer. Lung Cancer. 2010; 68:177–84.
+[PubMed: 19647334]
+85. Kurova VS, Anaev EC, Kononikhin AS, Fedorchenko KY, Popov IA, Kalupov TL, et al.
+Proteomics of exhaled breath: methodological nuances and pitfalls. Clin Chem Lab Med. 2009;
+47:706–12. [PubMed: 19527138]
+86. Melamed MR. Lung cancer screening results in the National Cancer Institute New York study.
+Cancer. 2000; 89:2356–62. [PubMed: 11147612]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 15
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+87. Li R, Todd NW, Qiu Q, Fan T, Zhao RY, Rodgers WH, et al. Genetic deletions in sputum as
+diagnostic markers for early detection of stage I non-small cell lung cancer. Clin Cancer Res.
+2007; 13:482–7. [PubMed: 17255269]
+88. Varella-Garcia M, Kittelson J, Schulte AP, Vu KO, Wolf HJ, Zeng C, et al. Multi-target interphase
+fluorescence in situ hybridization assay increases sensitivity of sputum cytology as a predictor of
+lung cancer. Cancer Detect Prev. 2004; 28:244–51. [PubMed: 15350627]
+89. Katz RL, Zaidi TM, Fernandez RL, Zhang J, He W, Acosta C, et al. Automated detection of
+genetic abnormalities combined with cytology in sputum is a sensitive predictor of lung cancer.
+Mod Pathol. 2008; 21:950–60. [PubMed: 18500269]
+90. Palmisano WA, Divine KK, Saccomanno G, Gilliland FD, Baylin SB, Herman JG, et al. Predicting
+lung cancer by detecting aberrant promoter methylation in sputum. Cancer Res. 2000; 60:5954–8.
+[PubMed: 11085511]
+91. Belinsky SA, Palmisano WA, Gilliland FD, Crooks LA, Divine KK, Winters SA, et al. Aberrant
+promoter methylation in bronchial epithelium and sputum from current and former smokers.
+Cancer Res. 2002; 62:2370–7. [PubMed: 11956099]
+92. Yu L, Todd NW, Xing L, Xie Y, Zhang H, Liu Z, et al. Early detection of lung adenocarcinoma in
+sputum by a panel of microRNA markers. Int J Cancer. 2010; 127:2870–8. [PubMed: 21351266]
+93. Xing L, Todd NW, Yu L, Fang H, Jiang F. Early detection of squamous cell lung cancer in sputum
+by a panel of microRNA markers. Mod Pathol. 2010; 23:1157–64. [PubMed: 20526284]
+94. Tammemagi MC, Lam SC, McWilliams AM, Sin DD. Incremental value of pulmonary function
+and sputum DNA image cytometry in lung cancer risk prediction. Cancer Prev Res. 2011; 4:552–
+61.
+95. Matsumura K, Opiekun M, Oka H, Vachani A, Albelda SM, Yamazaki K, et al. Urinary volatile
+compounds as biomarkers for lung cancer: a proof of principle study using odor signatures in
+mouse models of lung cancer. PLoS One. 2010; 5:e8819. [PubMed: 20111698]
+96. Li Y, Zhang Y, Qiu F, Qiu Z. Proteomic identification of exosomal LRG1: a potential urinary
+biomarker for detecting NSCLC. Electrophoresis. 2011; 32:1976–83. [PubMed: 21557262]
+97. Pepe MS, Feng Z, Janes H, Bossuyt PM, Potter JD. Pivotal evaluation of the accuracy of a
+biomarker used for classification or prediction: standards for study design. J Natl Cancer Inst.
+2008; 100:1432–8. [PubMed: 18840817]
+98. Janes H, Pepe MS. Matching in studies of classification accuracy: implications for analysis,
+efficiency, and assessment of incremental value. Biometrics. 2008; 64:1–9. [PubMed: 17501939]
+99. Baker SG, Kramer BS, Srivastava S. Markers for early detection of cancer: statistical guidelines
+for nested case-control studies. BMC Med Res Methodol. 2002; 2:4. [PubMed: 11914137]
+100. Moons KG, Altman DG, Vergouwe Y, Royston P. Prognosis and prognostic research: application
+and impact of prognostic models in clinical practice. BMJ. 2009; 338:b606. [PubMed: 19502216]
+101. Baker SG. Improving the biomarker pipeline to develop and evaluate cancer screening tests. J
+Natl Cancer Inst. 2009; 101:1116–9. [PubMed: 19574417]
+102. Taylor JM, Ankerst DP, Andridge RR. Validation of biomarker-based risk prediction models.
+Clin Cancer Res. 2008; 14:5977–83. [PubMed: 18829476]
+103. Moons KG, Biesheuvel CJ, Grobbee DE. Test research versus diagnostic research. Clin Chem.
+2004; 50:473–6. [PubMed: 14981027]
+104. Cummings SR, Lillington GA, Richard RJ. Estimating the probability of malignancy in solitary
+pulmonary nodules. a Bayesian approach. Am Rev Respir Dis. 1986; 134:449–52. [PubMed:
+3752700]
+105. Gurney JW, Lyddon DM, McKay JA. Determining the likelihood of malignancy in solitary
+pulmonary nodules with Bayesian analysis. Part II. Application. Radiology. 1993; 186:415–22.
+[PubMed: 8421744]
+106. Swensen SJ, Silverstein MD, Ilstrup DM, Schleck CD, Edell ES. The probability of malignancy
+in solitary pulmonary nodules. Application to small radiologically indeterminate nodules. Arch
+Intern Med. 1997; 157:849–55. [PubMed: 9129544]
+107. Pepe MS, Gu JW, Morris DE. The potential of genes and other markers to inform about risk.
+Cancer Epidemiol Biomarkers Prev. 2010; 19:655–65. [PubMed: 20160267]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 16
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+108. Anderson JE, Hansen LL, Mooren FC, Post M, Hug H, Zuse A, et al. Methods and biomarkers for
+the diagnosis and prognosis of cancer and other diseases: towards personalized medicine. Drug
+Resist Updat. 2006; 9:198–210. [PubMed: 17011811]
+109. Hassanein M, Rahman JS, Chaurand P, Massion PP. Advances in proteomic strategies toward the
+early detection of lung cancer. Proc Am Thorac Soc. 2011; 8:183–8. [PubMed: 21543799]
+110. Kim B, Lee HJ, Choi HY, Shin Y, Nam S, Seo G, et al. Clinical validity of the lung cancer
+biomarkers identified by bioinformatics analysis of public expression data. Cancer Res. 2007;
+67:7431–8. [PubMed: 17671213]
+111. Farlow EC, Patel K, Basu S, Lee BS, Kim AW, Coon JS, et al. Development of a multiplexed
+tumor-associated autoantibody-based blood test for the detection of non-small cell lung cancer.
+Clin Cancer Res. 2010; 16:3452–62. [PubMed: 20570928]
+112. Boyle P, Chapman CJ, Holdenrieder S, Murray A, Robertson C, Wood WC, et al. Clinical
+validation of an autoantibody test for lung cancer. Ann Oncol. 2011; 22:383–9. [PubMed:
+20675559]
+113. Chen X, Hu Z, Wang W, Ba Y, Ma L, Zhang C, et al. Identification of ten serum microRNAs
+from a genome-wide serum microRNA expression profile as novel noninvasive biomarkers for
+nonsmall cell lung cancer diagnosis. Int J Cancer. 2012; 130:1620–8. [PubMed: 21557218]
+114. Kulpa J, Wojcik E, Reinfuss M, Kolodziejski L. Carcinoembryonic antigen, squamous cell
+carcinoma antigen, CYFRA 21-1, and neuron-specific enolase in squamous cell lung cancer
+patients. Clin Chem. 2002; 48:1931–7. [PubMed: 12406978]
+115. Takano A, Ishikawa N, Nishino R, Masuda K, Yasui W, Inai K, et al. Identification of Nectin-4
+oncoprotein as a diagnostic and therapeutic target for lung cancer. Cancer Res. 2009; 69:6694–
+703. [PubMed: 19679554]
+116. Diamandis EP, Goodglick L, Planque C, Thornquist MD. Pentraxin-3 is a novel biomarker of
+lung carcinoma. Clin Cancer Res. 2011; 17:2395–9. [PubMed: 21257721]
+117. Ostroff RM, Bigbee WL, Franklin W, Gold L, Mehan M, Miller YE, et al. Unlocking biomarker
+discovery: large scale application of aptamer proteomic technology for early detection of lung
+cancer. PLoS ONE. 2010; 5:e15003. [PubMed: 21170350]
+118. Zhong L, Hidalgo GE, Stromberg AJ, Khattar NH, Jett JR, Hirschowitz EA. Using protein
+microarray as a diagnostic assay for non-small cell lung cancer. Am J Respir Crit Care Med.
+2005; 172:1308–14. [PubMed: 16109979]
+119. Kneip C, Schmidt B, Seegebarth A, Weickmann S, Fleischhacker M, Liebenberg V, et al. SHOX2
+DNA methylation is a biomarker for the diagnosis of lung cancer in plasma. J Thorac Oncol.
+2011; 6:1632–8. [PubMed: 21694641]
+120. Shen J, Todd NW, Zhang H, Yu L, Lingxiao X, Mei Y, et al. Plasma microRNAs as potential
+biomarkers for non-small-cell lung cancer. Lab Invest. 2010; 91:579–87. [PubMed: 21116241]
+121. Wei J, Gao W, Zhu CJ, Liu YQ, Mei Z, Cheng T, et al. Identification of plasma microRNA-21 as
+a biomarker for early detection and chemosensitivity of non-small cell lung cancer. Chin J
+Cancer. 2011; 30:407–14. [PubMed: 21627863]
+122. Taguchi A, Politi K, Pitteri SJ, Lockwood WW, Faca VM, Kelly-Spratt K, et al. Lung cancer
+signatures in plasma based on proteome profiling of mouse tumor models. Cancer Cell. 2011;
+20:289–99. [PubMed: 21907921]
+123. Palmisano WA, Crume KP, Grimes MJ, Winters SA, Toyota M, Esteller M, et al. Aberrant
+promoter methylation of the transcription factor genes PAX5 alpha and beta in human cancers.
+Cancer Res. 2003; 63:4620–5. [PubMed: 12907641]
+124. Varella-Garcia M, Akduman B, Sunpaweravong P, Di Maria MV, Crawford ED. The UroVysion
+fluorescence in situ hybridization assay is an effective tool for monitoring recurrence of bladder
+cancer. Urol Oncol. 2004; 22:16–9. [PubMed: 14969798]
+125. Tanaka F, Yoneda K, Kondo N, Hashimoto M, Takuwa T, Matsumoto S, et al. Circulating tumor
+cell as a diagnostic marker in primary lung cancer. Clin Cancer Res. 2009; 15:6980–6. [PubMed:
+19887487]
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Hassanein et al.
+
+Page 17
+
+NIH-PA Author Manuscript
+
+Figure 1.
+
+NIH-PA Author Manuscript
+
+Clinical contexts for biomarker development in early detection of lung cancer. This diagram
+illustrates 4 clinical contexts within 4 windows of time. The period during which lung
+cancer is nonmeasurable and precedes the diagnosis characterizes the context of risk
+assessment. It represents a long window of time during which the disease develops and
+corresponds to an opportunity for chemoprevention. When the disease becomes measurable
+but remains asymptomatic, we enter the context of early diagnosis. Two other clinical
+contexts relate to clinical diagnosis, that is, when the disease is measurable and patients
+symptomatic, and to detection of recurrence. These windows of time correspond to the
+different contexts for which different biomarker targets can be developed. Adapted from
+Hassanein and colleagues (109). Adapted with permission of the American Thoracic
+Society. Copyright © 2012 American Thoracic Society.
+
+NIH-PA Author Manuscript
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+NIH-PA Author Manuscript
+
+Tumors and normal tissues
+
+Airway epithelium
+
+Airway epithelium
+
+Tumors and normal tissues
+
+Tumors and normal tissues
+
+Bronchial biopsies
+
+Spira (37)
+
+Beane (28)
+
+Kim (111)
+
+Blomquist (30)
+
+Rahman (36)
+
+MALDI signature
+
+mRNA
+
+mRNA
+
+mRNA
+
+mRNA
+
+DNA methylation
+
+DNA methylation
+
+DNA methylation
+
+DNA methylation
+
+DNA
+
+DNA
+
+Type of marker
+
+Diagnosis
+
+RARB, BVES, CDKN2A, KCNH5, RASSF1, CDH13,
+RUNX, CDH1
+
+Diagnosis
+Diagnosis
+Diagnosis
+
+Diagnosis
+
+Gene expression signature + clinical factors
+
+CBLC, CYP24A1, ALDH3A1, AKR1B10, S100P,
+PLUNC, LOC147
+
+CAT, CEBPG, E2F1, ERCC4, ERCC5, GPX1, GPX3,
+GSTM3, GSTP1, GSTT1, GSTZ1, MGST1, SOD1,
+XRCC1
+
+TMLS4, ACBP, CSTA, cyto C, MIF, ubiquitin, ACBP,
+Desubiquitin
+
+Diagnosis
+
+Diagnosis
+
+TCF21
+
+Gene expression signature
+
+Diagnosis
+
+SHOX2
+
+Diagnosis
+
+Diagnosis
+
+TP63, MYC, CEP3, CEP6 + sputum cytology +
+demographics
+
+GDNF, MTHFR, OPCML, TNFRSF25, TCF21, PAX8,
+PTPRN2, and PITX2
+
+Diagnosis
+
+Clinical purpose
+
+5p15, 7p12 (EGFR), 8q24 (C-MYC), CEP6
+
+Analyte
+
+9
+
+14
+
+7
+
+80
+
+80
+
+1
+
+1
+
+8
+
+8
+
+4
+
+4
+
+No. of markers
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC and SCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+SCC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+Pathologic subtype
+
+MALDI/MS
+
+RT-PCR
+
+qRT-PCR
+
+Affy array
+
+Affy array
+
+PCR
+
+PCR
+
+Methylation array
+
+Methylation array
+
+FISH
+
+FISH + cytology
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Preclinical samples
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+I
+
+I
+
+II
+
+I
+
+BM dev. phase
+
+51
+
+n/a
+
+32
+
+76
+
+77
+
+42
+
+n/a
+
+43
+
+49
+
+n/a
+
+n/a
+
+Training set
+
+60
+
+49, 40
+
+b
+36
+
+62
+
+52
+
+63
+
+523
+
+n/a
+
+n/a
+
+70
+
+137
+
+Validation set
+
+Validation and training sets overlap.
+
+Values derived from training set only.
+
+b
+
+a
+
+Abbreviations: AUC, area under the curve; BM dev. phase, biomarker development phase; n/a, not available; qPCR, quantitative real-time PCR; RT-PCR, reverse transcriptase PCR; SCC, squamous cell carcinoma; SCLC, small cell lung cancer.
+
+NOTE: Data organized by year of publication and type of marker considered.
+
+Bronchial aspirates
+
+Richards (24)
+
+Tumors and normal tissues
+
+Feng (38)
+
+Schmidt (25)
+
+Bronchial biopsies
+
+Massion (27)
+
+Tumors and normal tissues
+
+Bronchial specimens
+
+Hailing (26)
+
+Anglim (22)
+
+Specimens
+
+References
+
+Assay platform
+
+NIH-PA Author Manuscript
+
+Characteristics and performance of most recent tissue-based candidate biomarkers for the early detection of lung cancer
+
+a
+
+66
+
+n/a
+
+n/a
+
+100
+
+80
+
+76
+
+68
+
+95.6
+
+n/a
+
+n/a
+
+61–75
+
+a
+
+Sensitivity
+
+a
+
+88
+
+n/a
+
+n/a
+
+91
+
+84
+
+a
+98
+
+95
+
+95.6
+
+n/a
+
+n/a
+
+a
+83–100
+
+Specificity
+
+NIH-PA Author Manuscript
+
+Table 1
+
+77
+
+82–87
+
+n/a
+
+97
+
+n/a
+
+n/a
+
+86
+
+n/a
+
+n/a
+
+92.6
+
+n/a
+
+AUC
+
+Hassanein et al.
+Page 18
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+NIH-PA Author Manuscript
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Serum
+
+Plasma
+
+Plasma
+
+Plasma
+
+Plasma
+
+Plasma
+
+Plasma/tissues
+
+Plasma/tissues
+
+Zhong (60)
+
+Chapman (64)
+
+Qiu (65)
+
+Wu (63)
+
+Farlow (112)
+
+Boyle (113)
+
+Greenberg (48)
+
+Begum (49)
+
+Chen (114)
+
+Bianchi (54)
+
+Kulpa (115)
+
+Patz (55)
+
+Takano (116)
+
+Yildiz (56)
+
+Pecot (19)
+
+Diamandis (117)
+
+Ostroff (118)
+
+Zhong (119)
+
+Kneip (120)
+
+Shen (121)
+
+Wei (122)
+
+Taguchi (123)
+
+Boeri (53)
+
+Boeri (53)
+
+miRNA
+
+miRNA
+
+Protein, 2 panels
+
+miRNA
+
+miRNA
+
+DNA methylation
+
+AutoAB
+
+Aptamers
+
+Protein
+
+Protein
+
+Protein
+
+Protein
+
+Protein
+
+Protein
+
+miRNA
+
+miRNA
+
+DNA methylation
+
+DNA methylation
+
+AutoAB
+
+AutoAB
+
+AutoAB
+
+AutoAB
+
+AutoAB
+
+AutoAB
+
+Type of marker
+
+miRNA signature
+
+15
+
+13
+
+7
+
+1
+
+4
+
+1
+
+5
+
+6
+
+1
+
+7
+
+7
+
+1
+
+4
+
+4
+
+34
+
+10
+
+6
+
+1
+
+6
+
+6
+
+6
+
+3
+
+7
+
+5
+
+No. of markers
+
+Lung cancer
+
+Lung cancer
+
+NSLCL
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+Lung cancer
+
+Indeterm. lung nodule
+
+NSCLC
+
+NSCLC
+
+Lung cancer
+
+SCC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+Lung cancer
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+Lung cancer
+
+Lung cancer
+
+Pathologic subtype
+
+miRNA array and RT-PCR
+
+miRNA array and RT-PCR
+
+ELISA
+
+qRT-PCR
+
+qRT-PCR
+
+qPCR
+
+Protein microarray
+
+Aptamers
+
+ELISA
+
+MALDI/MS
+
+MALDI/MS
+
+ELISA
+
+ELISA
+
+ELISA
+
+qRT-PCR
+
+qRT-PCR
+
+qPCR
+
+HPLC
+
+ELISA
+
+ELISA
+
+ELISA
+
+Protein array
+
+ELISA
+
+ELISA
+
+Assay platform
+
+25
+
+n/a
+
+52
+
+n/a
+
+n/a
+
+n/a
+
+5
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+170
+
+n/a
+
+n/a
+
+III
+
+II
+
+III
+
+I
+
+II
+
+II
+
+I
+
+II
+
+I
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+I
+
+II
+
+II
+
+II
+
+III
+
+I
+
+II
+
+BM dev. phase
+
+20
+
+19
+
+93
+
+28
+
+40
+
+81
+
+985
+
+185
+
+100
+
+64
+
+310
+
+32–639
+
+68
+
+241
+
+196
+
+20
+
+154
+
+46
+
+Training set
+
+25
+
+22
+
+n/a
+
+n/a
+
+87
+
+371
+
+n/a
+
+341
+
+426
+
+100
+
+106
+
+295
+
+97
+
+420
+
+64
+
+310
+
+106
+
+n/a
+
+255
+
+n/a
+
+180
+
+170
+
+n/a
+
+56
+
+Validation set
+
+a
+
+a
+
+80
+
+75
+
+90
+
+100
+
+n/a
+
+a
+70
+
+a
+76
+n/a
+
+97
+
+90
+
+a
+95
+
+83
+
+80–90
+
+n/a
+
+85.7
+
+98
+
+75
+
+95
+
+90
+
+90
+
+86
+
+60
+
+90
+
+a
+
+89
+
+37–48
+
+n/a
+
+58
+
+54
+
+78
+
+20–62
+
+71
+
+93
+
+57
+
+a
+91–97
+84
+
+91
+
+a
+92–100
+
+91.1
+
+92
+
+82
+
+n/a
+
+a
+
+91
+
+Specificity
+
+32
+
+94.8
+
+92
+
+51
+
+n/a
+
+91
+
+a
+
+Sensitivity
+
+a
+
+Values derived from training set only.
+
+a
+
+a
+
+a
+
+85
+
+88
+
+89
+
+77.5
+
+93
+
+78
+
+n/a
+
+90
+
+60–74
+
+72
+
+82
+
+n/a
+
+n/a
+
+71–90
+
+89
+
+97
+
+n/a
+
+94–99
+
+64
+
+96.4
+
+96
+
+73
+
+n/a
+
+a
+99
+
+AUC
+
+Abbreviations: ADC, adenocarcinoma; AUC, area under the curve; AutoAB, autoantibody; BM dev. phase, biomarker development phase; HPLC, high-performance liquid chromatography; n/a, not available; qPCR, quantitative real-time PCR; RT-PCR, reverse transcriptase
+PCR; SCC, squamous cell carcinoma.
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+EGFR, SFTPB, WFDC2, ANGPTL3, ANXA1,
+YWHAQ, Lmr1
+
+miRNA signature
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+miR-21
+
+miRNA-21, -126, -210, -486-5p
+
+SHOX2
+
+Diagnosis
+
+Diagnosis
+
+cadherin-1, CD30 ligand, endostatin, HSP90a, LRIG3,
+MIP-4, pleiotrophin, PRKCI, RGM-C, SCF-sR, sLselectin, and YES
+
+TAA signature
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Penatraxin-3
+
+Model: MALDI/MS signature + clinical and imaging data
+
+MALDI/MS signature
+
+Nectin-4
+
+CEA, RBP4, hAAT, SCCA
+
+CEA, CYFRA 21-1, SCC-Ag, NSE
+
+miRNA signature
+
+Diagnosis
+
+Diagnosis
+
+miRNA signature
+
+APC, CDH1, MGMT, DCC, RASSF1A, AIM
+
+Diagnosis
+
+p53, NY-ESO-1, CAGE, GBU4-5, Annexin 1, and SOX2
+Diagnosis
+
+Diagnosis
+
+IMPDH, PGAM1, ubiquilin, ANXA1, ANXA2,
+HSP70-9B
+
+S-Adenosylmethionine
+
+Diagnosis
+
+Phage peptide clones
+
+Diagnosis
+
+Diagnosis
+
+p53, cmyc, HER2, NY-ESO-1, CAGE, MUC1, GBU4-5
+
+Annexin I, 14-3-3 theta, LAMR1
+
+Diagnosis
+
+Clinical purpose
+
+Phage peptide clones
+
+Analyte
+
+NOTE: Data organized by year of publication, specimen type, and type of marker considered.
+
+Specimens
+
+References
+
+Preclinical samples
+
+NIH-PA Author Manuscript
+
+Characteristics and performance of most recent blood-based candidate biomarkers for the early detection of lung cancer
+
+NIH-PA Author Manuscript
+
+Table 2
+Hassanein et al.
+Page 19
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Sputum
+
+Sputum
+
+Sputum
+
+Sputum
+
+Sputum
+
+Peripheral blood cells
+
+Peripheral blood cells
+
+EBC
+
+EBC
+
+EBC
+
+Palmisano (124)
+
+Belinsky (91)
+
+Varella-Garcia (125)
+
+Li (87)
+
+Yu (92)
+
+Showe (50)
+
+Tanaka (126)
+
+Phillips (77)
+
+Bajtarevic (79)
+
+Gessner (84)
+
+Protein
+
+VOCs
+
+VOCs
+
+CTC
+
+mRNA
+
+miRNA
+
+DNA
+
+DNA
+
+DNA methylation
+
+DNA methylation
+
+Type of marker
+
+VEGF, bFGF, ANG, TNF-α, IL-8
+
+VOCs signature
+
+VOCs signature
+
+CTCs
+
+Gene expression signature
+
+5
+
+50
+
+22
+
+1
+
+29
+
+4
+
+3
+
+4
+
+4
+
+2
+
+No. of markers
+
+NSCLC
+
+Lung cancer
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+NSCLC
+
+Lung cancer
+
+NSCLC
+
+SCC
+
+Pathologic subtype
+
+ELISA
+
+GC-MS
+
+GC-MS
+
+Cell search system
+
+cDNA array
+
+qRT-PCR
+
+FISH
+
+FISH + cytology
+
+PCR
+
+PCR
+
+Assay platform
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+36
+
+n/a
+
+11
+
+Preclinical samples
+
+I
+
+I
+
+I
+
+I
+
+II
+
+II
+
+I
+
+III
+
+I
+
+III
+
+BM dev. phase
+
+96
+
+108
+
+150
+
+228
+
+72
+
+102
+
+66
+
+141
+
+144
+
+Training set
+
+74
+
+n/a
+
+n/a
+
+55
+
+122
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Validation set
+
+a
+n/a
+
+52–80
+
+n/a
+
+100
+
+a
+
+a
+
+a
+
+81
+
+a
+88
+100
+
+82
+
+a
+30
+
+80
+
+a
+
+92
+
+76
+
+70
+
+a
+
+a
+80
+
+a
+83
+76
+
+n/a
+
+n/a
+
+Specificity
+
+n/a
+
+n/a
+
+Sensitivity
+
+99–100
+
+n/a
+
+n/a
+
+Values derived from training set only.
+
+a
+
+a
+60
+
+n/a
+
+84
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+AUC
+
+Abbreviations: ADC, adenocarcinoma; AUC, area under the curve; AutoAB, autoantibody; BM dev. phase, biomarker development phase; n/a, not available; qPCR, quantitative real-time PCR; SCC, squamous cell carcinoma; SCLC, small cell lung cancer.
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+Diagnosis
+
+HYAL2, FHIT, SFTPC
+
+miR-21, miR-486, miR-375, miR-200b
+
+Diagnosis
+
+Diagnosis
+
+Chromosomal aneusomy + cytology
+
+Diagnosis
+
+p16, MGMT, DAP, RASSFIA
+
+Clinical purpose
+
+p16, MGMT
+
+Analyte
+
+NOTE: Data organized by year of publication, specimen type, and type of marker considered.
+
+Specimens
+
+References
+
+Characteristics and performance of most recent sputum, EBC, and peripheral blood cells candidate biomarkers for the early detection of lung cancer
+
+NIH-PA Author Manuscript
+
+Table 3
+Hassanein et al.
+Page 20
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+

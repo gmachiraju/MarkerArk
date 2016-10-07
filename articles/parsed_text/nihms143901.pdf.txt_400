@@ -1,0 +1,200 @@
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 2
+
+detect human malignancy via a simple blood test has long been a major objective in medical
+screening. Carbohydrate antigen 15-3 (CA15-3) and carcinoembryonic antigen (CEA),
+discovered more than two and four decades ago, respectively, are the most commonly used
+tumor markers for breast cancer3-5. CA15-3 and CEA levels in serum are recommended for
+monitoring therapy of advanced breast cancer2. However, these cancer biomarkers have
+proven to be ineffective in detecting the early stages of the disease due to low diagnostic
+sensitivity and specificity6-8. Clearly, new tumor markers are urgently needed for screening,
+diagnosis, prognosis or selection of therapy of breast cancer patients.
+
+We have previously performed an extensive proteomic analysis of tissue culture
+supernatants from three different breast cancer cell lines9. Over 1,000 proteins were
+identified in our proteomic analysis. Based on literature searches, from the top 100
+differentially expressed proteins (as defined by spectral counting), 46 of the molecules had
+been previously examined as a serological breast cancer marker. The remaining proteins
+were scrutinized to select proteins for further investigation that was found only in the
+conditioned media of breast cancer cell lines and absent in MCF-10A (semi-normal breast
+epithelial cell line). This filtering criterion resulted in 30 candidates for further analysis. Of
+these 30 candidates, 11 of them had reagents available to develop an immunoassay to
+measure the levels of these proteins in biological fluids. Analyzing the serum of healthy
+individuals and patients with breast cancer resulted in one promising candidate molecule:
+activated leukocyte cell adhesion molecule (ALCAM) (Supplementary Figure 1).
+
+Cell adhesion molecules are cell surface receptors that mediate cell-cell and cell-substrate
+interactions. These molecules can be grouped into four families: integrins, cadherins,
+selectins and the immunoglobulin superfamily (Ig-SF)10. Alterations in cellular adhesion
+and communication can contribute to uncontrolled cell growth11. In this respect, ALCAM is
+a type 1 transmembrane glycoprotein of the Ig-SF12. The molecular weight of ALCAM is
+65kDa but with N-glycosylation at 8 putative sites, the mature ALCAM molecule has a
+molecular weight of 110kDa13. Five extracellular Ig domains, a transmembrane region and a
+short cytoplasmic tail make up the ALCAM protein that resembles E-cadherin in motif-
+arrangement12. ALCAM mediates both heterophilic (ALCAM-CD6) and homophilic
+(ALCAM-ALCAM) cell-cell interactions14. The extracellular structures of ALCAM provide
+two structurally and functionally distinguishable modules, one involved in ligand binding (to
+CD6)15 and the other in avidity14, 16. Physiologically, ALCAM is expressed in activated
+leukocytes and neural, epithelial and hematopoietic progenitor cells17. Functionally,
+ALCAM may act as a cell surface sensor to register local growth saturation and to regulate
+cellular signaling and dynamic responses18. ALCAM-CD6 interaction is required for
+optimal activation of T-cells suggesting a possible ALCAM involvement in the
+immunologic response to tumor cells19. ALCAM may favor interactions between tumor and
+endothelial cells18.
+
+The aim of our study was to investigate if ALCAM, either alone, or in combination with the
+classical breast cancer biomarkers (CA15-3 and CEA) represent a new strategy for breast
+cancer diagnosis with high sensitivity and specificity in serum, using quantitative
+methodologies. The association between serum marker concentrations with various
+clinicopathologic parameters was also examined.
+
+Materials and Methods
+Patients and Specimens
+
+The clinical material used consisted of 150 serum samples from breast cancer patients (ages
+34 to 82 years; median, 62 years), 100 serum samples from normal, apparently healthy
+women (ages 24 to 56 years; median, 40 years), and as an additional control, 50 serum
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 3
+
+samples from normal healthy men (ages 23 to 61 years; median, 48 years). Serum samples
+from healthy subjects were obtained through the Preventive Medical Unit at Venice General
+Hospital. The subjects were asked to donate blood samples for studies on tumor biomarkers
+and then asked to fill out a complete patient form. Any subjects that had a history of any
+serious or chronic illnesses or neoplasms were eliminated from the sample collection. The
+breast carcinoma serum samples were obtained on the morning prior to surgery and prior to
+any treatment. Peripheral blood samples were drawn by venopuncture after overnight fasting
+between 8 and 8:30 AM. Serum was collected in a Becton Dickinson vacutainer, code n

@@ -1,0 +1,200 @@
+[CANCER RESEARCH 64, 58825890, August 15, 2004]
+
+Three Biomarkers Identified from Serum Proteomic Analysis for the Detection of
+Early Stage Ovarian Cancer
+
+Zhen Zhang,1 Robert C. Bast, Jr.,2 Yinhua Yu,2 Jinong Li,1 Lori J. Sokoll,1 Alex J. Rai,1 Jason M. Rosenzweig,1
+Bonnie Cameron,1 Young Y. Wang,1 Xiao-Ying Meng,3 Andrew Berchuck,4 Carolien van Haaften-Day,5
+Neville F. Hacker,5 Henk W. A. de Bruijn,6 Ate G. J. van der Zee,6 Ian J. Jacobs,7 Eric T. Fung,3 and
+Daniel W. Chan1
+1Department of Pathology, Biomarker Discovery Center, Johns Hopkins Medical Institutions, Baltimore, Maryland; 2M. D. Anderson Cancer Center, Houston, Texas; 3Ciphergen
+Biosystems, Inc., Fremont, California; 4Duke University Medical Center, Durham, North Carolina; 5The Royal Hospital for Women, Randwick, New South Wales, Australia;
+6University Hospital Groningen, Groningen, the Netherlands; and 7Barts and The London, Queen Marys School of Medicine, London, United Kingdom
+
+ABSTRACT
+
+Early detection remains the most promising approach to improve
+long-term survival of patients with ovarian cancer. In a five-center case-
+control study, serum proteomic expressions were analyzed on 153 patients
+with invasive epithelial ovarian cancer, 42 with other ovarian cancers, 166
+with benign pelvic masses, and 142 healthy women. Data from patients
+with early stage ovarian cancer and healthy women at two centers were
+analyzed independently and the results cross-validated to discover poten-
+tial biomarkers. The results were validated using the samples from two of
+the remaining centers. After protein identification, biomarkers for which
+an immunoassay was available were tested on samples from the fifth
+center, which included 41 healthy women, 41 patients with ovarian cancer,
+and 20 each with breast, colon, and prostate cancers. Three biomarkers
+were identified as follows: (a) apolipoprotein A1 (down-regulated in can-
+cer); (b) a truncated form of transthyretin (down-regulated); and (c) a
+cleavage fragment of inter--trypsin inhibitor heavy chain H4 (up-regu-
+lated). In independent validation to detect early stage invasive epithelial
+ovarian cancer from healthy controls, the sensitivity of a multivariate
+model combining the three biomarkers and CA125 [74% (95% CI, 52
+90%)] was higher than that of CA125 alone [65% (95% CI, 43 84%)] at
+a matched specificity of 97% (95% CI, 89 100%). When compared at a
+fixed sensitivity of 83% (95% CI, 6195%), the specificity of the model
+[94% (95% CI, 8598%)] was significantly better than that of CA125
+alone [52% (95% CI, 39  65%)]. These biomarkers demonstrated the
+potential to improve the detection of early stage ovarian cancer.
+
+INTRODUCTION
+
+Despite progress in cancer therapy, ovarian cancer mortality has
+remained virtually unchanged over the past two decades (1). Annually
+in the United States alone, 23,000 women are diagnosed with the
+disease and almost 14,000 women die from it (1). Given our knowl-
+edge about the steep survival gradient relative to the stage at which the
+disease is diagnosed, it is reasonable to suggest that early detection
+remains the most promising approach to improve the long-term sur-
+vival of ovarian cancer patients.
+
+The relatively low prevalence (40 out of 100,000) of ovarian cancer
+among postmenopausal women in the general population, the lack of
+a clearly defined precursor lesion, and the high cost and possible
+complications associated with surgical confirmatory procedures have
+placed stringent requirements on any test intended for general popu-
+lation screening. Currently, none of the existing serum markers, such
+as CA125, CA 72 4, or macrophage colony-stimulating factor, can be
+
+Received 3/1/04; revised 5/17/04; accepted 5/26/04.
+Grant support: National Cancer Institute Grant 1P50 CA83639, UTMDACC Spe-
+cialized Programs of Research Excellence in Ovarian Cancer (R. Bast, Jr., and Z. Zhang),
+and funding from Ciphergen Biosystems, Inc. (Z. Zhang, J. Li, A. Rai, J. Rosenzweig,
+B. Cameron, Y. Wang, and D. Chan).
+
+The costs of publication of this article were defrayed in part by the payment of page
+charges. This article must therefore be hereby marked advertisement in accordance with
+18 U.S.C. Section 1734 solely to indicate this fact.
+
+Requests for reprints: Zhen Zhang, Center for Biomarker Discovery, Johns Hopkins
+Medical Institutions, 419 N. Caroline Street, Room 200, Baltimore, MD 21231. E-mail:
+zzhang7@jhmi.edu.
+
+used individually for screening (2). Longitudinal studies are under
+way in Europe, Japan, and the United States to evaluate screening
+strategies using CA125 and/or transvaginal sonography (35) and
+their impact on overall cancer mortality (6). Preliminary results have
+shown encouraging evidence of a survival benefit among patients
+diagnosed through a screening regimen (3).
+
+Reports from retrospective studies have shown that multivariate
+predictive models combining existing tumor markers improve cancer
+detection (7, 8). Recent advances in genomic and proteomic profiling
+technology have made it possible to apply computational methods to
+detect changes in protein expressions and their association to disease
+conditions, thereby hastening the identification of novel markers that
+may contribute to multimarker combinations with better diagnostic
+performance (9 13).
+
+In this study, we hypothesized that comparison of protein expres-
+sions of serum specimens from patients with early stage ovarian
+cancer with those from healthy women could lead to the discovery of
+candidate biomarkers for the detection of early stage ovarian cancer.
+To ensure that the discovered biomarkers are truly associated with
+ovarian cancer rather than the result of biases in samples, profiling
+data of specimens from multiple institutions were used for cross-
+comparison and independent validation. We additionally determined
+the protein identities of the discovered biomarkers to allow for addi-
+tional validation with independent methods and as a first step toward
+understanding the pathways in which they may function.
+
+MATERIALS AND METHODS
+
+Samples. The study involved a retrospective sample of 645 serum speci-
+mens. All were collected with institutional approval. Proteomic profiles were
+obtained from 503 specimens collected at four medical centers (M. D. Ander-
+son Cancer Center, Duke University Medical Center, Groningen University
+Hospital, the Netherlands, and the Royal Hospital for Women, Australia).
+Among them, the cancer group consisted of 65 patients with stages I/II
+invasive epithelial ovarian cancer, 88 patients with stages III/IV invasive
+epithelial ovarian cancer, 28 patients with borderline tumors, and 14 patients
+with recurrent disease, all optimally staged by pathologists based on Federation
+Internationale des Gynaecologistes et Obstetristes criteria. Among the stages
+I/II invasive cases, 20 were serous, 17 were mucinous, 15 were endometrioid,
+8 were clear cell, 1 was carcinosarcoma, and 4 were mixed epithelial carci-
+noma. The samples also included 166 patients with benign pelvic masses and
+142 healthy donors as controls. All of the samples were collected before the
+day of surgery or treatment, stored at 70C, and thawed immediately before
+assay. CA125 levels had been obtained previously using a CA125II radioim-
+munoassay (Centocor). The clinical characteristics and age distribution of the
+proteomic profiling study population are summarized in Table 1.
+
+In addition to the 503 specimens for proteomic profiling, 142 independent,
+archived serum specimens collected for routine clinical laboratory testing at
+the Johns Hopkins Medical Institutions were tested for levels of the identified
+biomarkers for which an immunoassay test was available. The sample included
+41 healthy women, 41 patients with late-stage ovarian cancer, and groups of 20
+patients each with breast, colon, and prostate cancers. All of the samples were
+processed promptly after collection and stored at 2 8C for a maximum of
+
+5882
+
+OVARIAN CANCER BIOMARKERS FROM PROTEOMIC PROFILING
+
+Table 1 Clinical characteristics and age distribution of 503 study samples used for proteomic profiling
+
+Sample origin
+
+Age
+
+Histologic subtypes
+
+Diagnostic groups
+and FIGO stages
+
+Biomarker discovery sets
+
+Healthy control
+Epithelial ovarian cancer
+
+Stages I/II invasive cancer
+Stage IIIA invasive cancer
+Stages I/II borderline tumor
+
+Independent validation set
+
+Healthy control
+All epithelial ovarian cancer
+Stages I/II invasive cancer
+Stages III/IV invasive cancer
+
+Recurrent
+
+Stages I/II borderline tumor
+Stages III/IV borderline tumor
+
+Benign pelvic masses
+
+n
+
+79
+57
+42
+2
+13
+
+63
+138
+23
+86
+14
+12
+3
+166
+
+A
+
+30
+20
+20
+
+B
+
+49
+37
+22
+2
+13
+
+50

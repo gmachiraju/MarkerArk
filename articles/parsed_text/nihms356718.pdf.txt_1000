@@ -1,0 +1,200 @@
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Nolen and Lokshin
+
+Page 6
+
+condition with respect to other nonrelated diseases that have the potential to confound
+clinical diagnosis. Below, we will discuss some aspects of feature selection.
+
+Approaches & controversies in biologically based feature selection
+Tumor versus stroma as sources of biomarker origin
+
+There are several conceptual beliefs regarding biomarker prioritization that were not
+included in the list above. For example, there is an opinion that only those proteins that are
+directly released by tumor cells should be considered as cancer biomarkers [65]. In
+accordance with this notion, many of the biomarkers listed in Table 1 would not be
+considered as they are known to originate from various extratumoral sources (e.g., liver for
+acute-phase proteins and pituitary gland for pituitary hormones). However, growing
+evidence suggests that many of these so-called extratumoral biomarkers are likely to be
+secreted by the growing tumor. For example, ovarian tumors and primary fallopian cells in
+vitro are capable of secreting, in addition to CA-125, HE4 and CA 153, multiple acute-
+phase reactants, inflammatory mediators, and additional molecules [Nolen LBM, Lokshin
+AE, Unpublished Data] [6668]. For example, the gastrointestinal hormone, ghrelin, has
+been shown to be expressed in the human ovary and also in inclusion cysts within the
+ovarian surface epithelium, where it induces cell proliferation, indicating a potential
+tumorigenic role [69]. Likewise, matrix metalloproteinases (MMPs) could originate from
+multiple sources within the tumor microenvironment, including tumor cells themselves, as
+well as the stroma, where they are presumably produced in response to growth factor and
+cytokine signaling [70,71]. Another example is the pituitary hormone, prolactin, which has
+been shown to be produced by several nonpituitary sources, including ovarian tumor cells,
+using an alternate promoter; and also functions as an ovarian tumor promoter in vitro [72]. It
+is possible that proteins secreted from tumor and from extratumoral sources are
+differentially modified. For example, previous reports have indicated alterations in
+haptoglobin, 1-acid glycoprotein and 1-antichymotrypsin in ovarian cancer patients [73].
+Ovarian tumor cells also secrete cytokines that can influence glycan processing in both the
+tumor cells and surrounding tissue [74]. Recent data indicate that ovarian tumor cells secrete
+factors that alter the glycosylation profile of liver proteins, and raise the possibility that
+some of the altered glycoforms of haptoglobin, 1-acid glycoprotein and 1-
+antichymotrypsin may be tumor derived [75].
+
+Acute-phase reactants
+
+All biological aspects of feature selection are empirical by default, meaning that every
+conclusion should be experimentally supported. One example illustrating the necessity of
+experimental confirmation is the recent debate on the value of acute-phase reactants as
+ovarian cancer biomarkers for early detection. The acute-phase is controlled by the balance
+of proinflammatory cytokines (IL-6, IL-8, IL-1b, TNF- and IFN-), anti-inflammatory
+molecules (IL-4, IL-10, IL-13 and TGF-) and the inhibitors of proinflammatory cytokines
+(soluble TNF- receptor, soluble IL-1 receptor and IL-1). Proinflammatory cytokines
+stimulate the increased production of positive acute-phase proteins (C-reactive protein
+[CRP], serum amyloid A, haptoglobin, 1-acid glycoprotein, 1-antitrypsin, 1-
+antichymotrypsin and fibrinogen) and decreased production of negative acute-phase proteins
+(albumin and transferrin) by the liver [76,77]. As shown above, multiple ovarian cancer
+biomarkers represent acute-phase reactants and acute-phase response signaling is a top
+canonical pathway of ovarian cancer. Several statements have been published casting doubt
+on the usability of acute-phase reactants for early detection of ovarian cancer based on the
+belief that these biomarkers are altered as a part of an inflammatory response to late-stage
+ovarian cancer [7881]. However, acute-phase reactants, as well as many proteins
+conventionally considered to represent late systemic responses could, in fact, play a
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c

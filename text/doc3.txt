@@ -1,0 +1,1390 @@
+SEMINAR
+Seminar
+Tourette’s syndrome
+James F Leckman
+As our knowledge of Gilles de la Tourette’s syndrome increases, so does our appreciation for the pathogenic
+complexity of this disorder and the challenges associated with its treatment. Advances in the neurosciences have led
+to new models of pathogenesis, whereas clinical studies have reinvigorated early hypotheses. The interdependent
+roles of genes and environment in disease formation have yet to be fully elucidated. Results of epidemiological studies
+have prompted debate on how best to characterise and diagnose this disorder. Absence of ideal anti-tic drugs,
+combined with knowledge that uncomplicated cases of childhood Tourette’s syndrome frequently have a favourable
+outcome, has led to striking changes in care and treatment of patients. This seminar focuses on these changing views
+and offers a new perspective on our understanding of the pathogenesis of Tourette’s syndrome and on principles for
+treatment of patients with this disorder.
+Tic disorders have been the subject of speculation for at
+least the past 300 years. Despite the overt nature of tics and
+decades of scientific scrutiny, our ignorance remains great.
+Notions of cause have ranged from “hereditary
+degeneration” to the “irritation of the motor neural systems
+by toxic substances, of a self-poisoning bacteriological
+origin” to “a constitutional inferiority of the subcortical
+structures . . . [that] renders the individual defenseless
+against overwhelming emotional and dynamic forces”. 1
+Predictably, each of these aetiological explanations has
+prompted new treatments and new ways of relating to
+families.
+Symptoms and natural history
+The cardinal features of Tourette’s syndrome are motor
+and phonic tics that wax and wane in severity. 2 Motor tics
+usually begin between the ages of 3 and 8 years, with
+transient periods of intense eye blinking or some other facial
+tic. Phonic tics, such as repetitive bouts of sniffing or throat
+clearing, can begin as early as 3 years of age, but typically
+they follow the onset of motor tics by several years. 3 In
+uncomplicated cases, severity of motor and phonic tics
+peaks early in the second decade of life, with many patients
+showing a striking reduction in tic severity by age 19 or
+20 years. 4 However, the most severe cases of Tourette’s
+syndrome arise in adulthood. Extreme forms of this
+disorder involve forceful bouts of self-injurious motor tics,
+such as hitting or biting, and socially unacceptable
+coprolalic utterances—eg, shouting obscenities, racial
+slurs—and gestures.
+Motor and phonic tics arise in bouts over the course of a
+day, and change in severity over weeks and months. 5 These
+episodes are characterised by stable intra-tic intervals—ie,
+time between successive tics—of short duration, typically
+0·5–1·0 s. Less well known is the so-called self-similarity of
+these patterns across different times. 6 Over minutes to
+hours, bouts of tics happen in groups. Over the course of
+weeks to months, many episodes of tics arise (figure 1).
+Lancet 2002; 360: 1577–86
+Child Study Center and Departments of Paediatrics, Psychiatry,
+and Psychology, Yale University, New Haven, CT 06520-7900, USA
+(Prof J F Leckman MD )
+(e-mail: James.Leckman@yale.edu)
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+This periodic higher-order combination of tic bouts could
+be the basis of the well-known waxing and waning course of
+Tourette’s syndrome.
+Knowledge of the temporal patterning of tics is
+important for the doctor, because it informs decisions about
+when to initiate anti-tic drugs, when to change drugs, and
+when to be patient and simply provide close monitoring
+and support to the family. Stated simply, if a clinician
+begins or changes a treatment at the end of a waxing period,
+the patient’s condition will improve irrespective of the
+efficacy of the intervention. Furthermore, a deeper
+understanding of the multiplicative processes that govern
+these timing patterns might clarify neural events arising
+every few milliseconds and the natural history of tic
+disorders over the first two decades of life.
+Many patients with tic disorders report associated
+sensory symptoms, including premonitory urges that
+incessantly prompt tics and feelings of momentary relief
+that follow performance of a tic. 7 Many patients describe
+being besieged by these bodily sensations that are generally
+localised to discrete anatomical regions—eg, like an urge to
+stretch one’s shoulder or a need to clear one’s throat. These
+urges, and the internal struggle to control them, can be as
+debilitating as the tics themselves. Other antecedent
+sensory happenings include a generalised inner tension that
+can be relieved only by performance of a tic. A large range
+of auditory or visual cues can also prompt tics, but the
+nature of these cues is usually highly selective for individual
+patients—a cough, a particular word, an alignment of
+angles or specific shapes.
+Search strategy and selection criteria
+A computerised and manual search on PubMed of published
+work was done to identify studies about the pathogenesis of
+Tourette’s syndrome and its treatment, with particular focus
+on original reports published over the past 5 years. Selection
+criteria included a judgment about novelty and importance of
+studies and their relevance to the well-informed general
+medical doctor. In the case of treatment studies, only those
+interventions whose efficacy has been supported by at
+least one randomised, double-blind, clinical trial are cited.
+Keywords used included: “Tourette”, “tic”, “obsessive-
+compulsive”, “attention deficit hyperactivity disorder”, and
+“PANDAS”, among others.
+1577
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+in
+individuals
+with
+Tourette’s
+syndrome. Normal obsessive-com-
+pulsive-like symptoms are present in
+many young children, peaking at 2·5
+years of age. This disorder when
+associated with tics generally has a
+prepubertal age of onset. When
+present, obsessive-compulsive symp-
+toms are usually done in secret, and are
+most disabling in the home environ-
+ment. They can lead to periods of
+depression. 8–11
+Individual tics
+Seconds
+Bouts of tics
+Hours
+Bouts-of-bouts of tics
+Epidemiology and genetics
+Days
+Bouts-of-bouts-of-bouts of tics
+Weeks
+Bouts-of-bouts-of-bouts-of-bouts of tics
+Months
+Time
+Figure 1: Fractal character of temporal occurrence of tics
+Progressively longer time scales (seconds to months) are depicted.
+In addition to tics, many patients with Tourette’s
+syndrome have symptoms of hyperkinetic disorder
+(known as attention-deficit hyperactivity disorder in the
+USA), obsessive-compulsive disorder, or both. These
+coexisting disorders can add greatly to morbidity
+associated with Tourette’s syndrome and detract from
+the patient’s overall quality of life 8–11 (figure 2). Tics
+typically have the greatest effect on a patient’s self-esteem
+and peer and family relationships from age 7–12 years,
+especially during periods of waxing forceful motor tics
+and loud phonic tics that can go on for hours virtually
+nonstop. Hyperkinetic disorder takes a heavy toll from
+onset, with a negative effect on peer acceptance, school
+performance, and self-esteem. Increased irritability and
+rage attacks, and an increased vulnerability for drug
+abuse, depression, and antisocial behaviour are also not
+uncommon among patients with Tourette’s syndrome
+and hyperkinetic disorder. 8–11 Lesser variants are typical
+Tics
+Hyperkinetic
+disorder
+Obsessive-
+compulsive
+disorder
+0
+5
+10
+15
+Age (years)
+Figure 2: Age at which tics and coexisting disorders affect
+patients
+Width of bars shows schematically the amount the disorder affects a
+patient at a particular age.
+1578
+20
+Once thought to be a rare disorder, 12
+the prevalence of Tourette’s syndrome
+is presently estimated to be between 31
+and 157 cases per 1000 in children
+aged 13–14-years. 13 Frequency of the
+disorder varies by age, sex, source of
+sample, and method of assessment. For
+example, studies on direct classroom
+observation and that use multiple
+informants consistently yield substan-
+tially higher prevalence estimates than
+do other assessment methods. Many
+patients
+identified
+with
+these
+techniques have mild characteristics
+and do not need long-term intervention
+apart from educational and other
+support. However, behavioural problems, in particular
+hyperkinetic disorder, are frequently associated with
+Tourette’s syndrome. Once diagnosed, these problems
+usually need prompt intervention to prevent or keep to a
+minimum adverse long-term results. In part, because of
+this association, children in special-education settings are
+more likely to be diagnosed with a tic disorder than
+children in community-based samples. 14
+Genes
+Genetic studies in twins and families provide compelling
+evidence that genetic factors are implicated in vertical
+transmission in families with a vulnerability to Tourette’s
+syndrome and related disorders. At present, the nature of
+vulnerability genes that predispose individuals to develop
+the disorder are unknown. Many genes probably have a
+role. Clarity about the nature and normal expression of
+even a few of the susceptibility genes in Tourette’s
+syndrome is likely to provide a major step forward in
+understanding the pathogenesis of this disorder. Future
+progress could also depend on identification of
+characteristic, biologically established, endophenotypes
+that are closely associated with specific vulnerability
+genes. Endophenotypes are measurable aspects of human
+psychiatric disorders that can either be used in linkage
+analyses as quantitative traits, be modelled in animals with
+the disease, or both. Promising endophenotypes include
+neurophysiological and neuroanatomical measures and
+patterns of treatment response (see section on neural
+substrates).
+The pattern of vertical transmission in family members
+suggests major gene effects, and results of segregation
+analyses
+accord
+with
+models
+of
+autosomal
+transmission. 15,16 Historically, efforts to identify suscep-
+tibility genes within these high-density families with
+traditional linkage strategies have met with limited
+success. However, investigators studying a large French-
+Canadian family have reported evidence for linkage at
+11q23. 17
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+Non-parametric approaches with families in which two
+or more siblings are affected with Tourette’s syndrome
+have also been undertaken. 18 This sib-pair approach is
+suitable for diseases with an unclear mode of inheritance,
+and has been used successfully in studies of other
+complex disorders, such as type 1 diabetes mellitus and
+essential hypertension. In one sib-pair study of Tourette’s
+syndrome, two areas were suggestive of linkage, one on
+chromosome 4q and another on chromosome 8p. 18 A
+genome scan of hoarding symptoms (a component of
+obsessive-compulsive disorder that can be seen in some
+patients with Tourette’s syndrome) as a quantitative
+phenotype was done with the same affected sib-pair data
+obtained by the Tourette’s Syndrome Association
+International Consortium for Genetics. 19 Significant allele
+sharing was noted for hoarding phenotypes for markers at
+4q34–35, 5q35, and 17q25. 4q is in close proximity to the
+region linked to Tourette’s syndrome. 18
+Identity-by-descent approaches have been used in
+populations in South Africa and Costa Rica. These
+techniques assume that a few so-called founder
+individuals contributed the vulnerability genes that are
+now distributed within a much larger population. The
+South African study implicated regions near the
+centromere of chromosome 2, and on 6p, 8q, 11q, 14q,
+20q, and 21q. 20,21 The marker in the French-Canadian
+family 17 that was associated with the highest LOD score
+was the same marker for which significant linkage
+disequilibrium with Tourette’s syndrome was detected in
+the South African population. However, none of the
+chromosomal regions in which cytogenetic abnormalities
+have been found to co-segregate with phenotypes of
+Tourette’s syndrome has shown any convincing evidence
+for linkage in the high-density families, the sib-pair study,
+or the identity-by-descent studies.
+Several candidate genes have been assessed in people
+with Tourette’s syndrome, including various dopamine
+receptors (DRD1, DRD2, DRD4, and DRD5), the
+dopamine transporter, various noradrenergic genes
+(ADRA2a, ADRA2C, and DBH), and a few serotonergic
+genes (5HTT). 22 Genetic variation at any one of these loci
+is unlikely to be a major source of vulnerability to the
+disorder, but in concert, these alleles could have an
+important cumulative effect.
+Environment
+Many epigenetic factors have been implicated in the
+pathogenesis of Tourette’s syndrome (panel 1). For
+example, children with a low birthweight with ischaemic
+parenchymal brain lesions are more likely to have tics and
+hyperkinetic symptoms by age 6 years than controls. 23
+Low Apgar scores recorded 5 min after birth have also
+been associated with an increased risk for tic symptoms. 24
+Males are more often affected with Tourette’s
+syndrome than females. Although this association could
+be attributable to genetic mechanisms, frequent male-to-
+male transmissions within families seem to rule out the
+presence of an X-linked vulnerability gene. This
+observation has led to the hypothesis that androgenic
+steroids during critical periods in fetal development could
+have a role in later development of the syndrome. 25 It has
+also led investigators to test the efficacy of antiandrogenic
+drugs in treatment of refractory tics. 26
+Tic disorders have long been identified as stress-
+sensitive problems. Typically, symptom exacerbations
+follow in the wake of stressful life-events. These events
+need not be adverse in character, as long as there is a high
+level of emotional excitement—eg, the start of school,
+impending holidays or birthdays, vacation trips. 27 Stress-
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+Panel 1: Possible risk factors
+Genetic vulnerability
+Gestational and perinatal risk factors
+● Severe nausea and vomiting during the first trimester
+● Severe psychosocial stress of the mother during pregnancy
+● Maternal use during pregnancy of coffee (more than 2 cups
+a day), cigarettes (more than ten a day), or alcohol (fewer
+than two drinks a day)
+● Identical twin with a lower birthweight
+● Low-birthweight children with evidence of parenchymal
+lesions, ventricular enlargement, or both
+● Transient hypoxia or ischaemia during birth (labour >24 h),
+use of forceps, nuchal cord, evidence of fetal distress
+● Low Apgar scores
+Severe psychosocial trauma, recurrent daily stresses
+(eg, teasing by peers), or extreme emotional excitement
+Recurrent streptococcal infections with post-infectious
+autoimmune response
+Drug abuse
+● Exposure to androgenic drugs
+● Chronic intermittent use of cocaine and other
+psychostimulants
+Co-existing medical or psychiatric disorders
+● Hyperkinetic disorders
+● Learning disabilities
+● Depression
+● Manic depression
+related neurotransmitters and hormones have also been
+implicated in Tourette’s syndrome. For example,
+compared with healthy controls, patients with the
+disorder have been reported to excrete substantially more
+norepinephrine in the 20 h preceding a lumbar puncture,
+to have raised concentrations of adrenocorticotropin
+hormone after this procedure, 28 and to have high
+concentrations of norepinephrine and corticotropin-
+releasing factor in their cerebrospinal fluid. 29,30 Taken
+together, these findings suggest that a subset of patients
+with Tourette’s syndrome could be characterised by
+heightened reactivity of the hypothalamic-pituitary-
+adrenal axis and related noradrenergic sympathetic
+systems.
+The past decade has seen the re-emergence of the
+hypothesis that post-infectious autoimmune mechanisms
+contribute to the pathogenesis of some cases of Tourette’s
+syndrome. Speculation about a post-infectious (or at least
+a post-rheumatic fever) cause for symptoms of tic
+disorder dates from the late 1800s. 1 Group A ␤
+haemolytic streptococci (GABHS) are known to be a
+possible trigger of immune-mediated disease in
+genetically predisposed individuals. Acute rheumatic
+fever is a delayed sequela of these bacteria, arising about
+3 weeks after an inadequately treated infection of the
+upper respiratory tract. Rheumatic fever is characterised
+by inflammatory lesions of the joints, heart, or central
+nervous system (Sydenham’s chorea). This disorder and
+Tourette’s syndrome probably affect common anatomic
+areas—the basal ganglia of the brain and related cortical
+and thalamic sites. Some patients with Sydenham’s
+chorea have motor and phonic tics and symptoms of
+obsessive-compulsive and attention-deficit hyperactivity
+disorder, suggesting that, at least in some instances, these
+disorders share a common cause. As in Sydenham’s
+chorea, antineural antibodies have been reported to be
+raised in the sera of some patients with Tourette’s
+1579
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+Cerebral cortex
+Striatum
+Striosome
+Indirect pathway
+Direct
+pathway
+GPe
+SNr
+GPi
+Basal ganglia
+output system
+Thalamus
+Subthalamic nucleus
+GABA
+Glutamate
+Figure 3: Schematic diagram of the major connections of the
+basal ganglia
+GPe=globus pallidus, pars externa; GPi=globus pallidus, pars interna;
+SNr=substantia nigra, pars reticulata.
+syndrome. 31–34 Paediatric autoimmune neuropsychiatric
+disorder associated with streptococcal infection
+(PANDAS) has been suggested to represent a distinct
+clinical entity and include cases of Tourette’s syndrome
+and obsessive-compulsive disorder, in which a GABHS
+infection is likely to have preceded symptom onset. 35
+Although the importance of antibodies against neurons in
+relation to cause, and the association with previous
+GABHS infections, remains a topic of great debate, 36
+treatments based on this mechanism show some
+promise. 37 Furthermore, if specific immunological
+alterations are associated with onset or acute clinical
+exacerbations, then the nature of these alterations should
+provide insight into the genetic, neuroanatomical, and
+immunological mechanisms implicated. This knowledge
+could provide a basis for rational design of therapeutic or
+preventative interventions.
+Neural substrates of habit formation and tics
+Habits are assembled routines that link
+sensory cues with motor action. Ideas at
+present
+have
+suggested
+neural
+substrates of habit formation are crucial
+for a better understanding of Tourette’s
+syndrome 38–42 (figures 3, 4, and 5).
+Neuroscientists who are interested in
+learning and habit formation have
+focused on the motor, sensorimotor,
+association, inhibitory, and limbic
+(motivational and threat detection)
+neural circuits that course through the
+basal ganglia. 39–42 These circuits direct
+information from the cerebral cortex to
+the subcortex, and then back to specific
+regions of the cortex, thereby forming
+multiple
+cortical-subcortical
+loops
+(figure 3).
+Cortical neurons projecting to the
+striatum outnumber striatal neurons by
+about a factor of ten. 43 These cortical
+projection neurons to the striatum
+segregate into two structurally similar,
+but neurochemically distinct, compart-
+ments:
+striosomes
+and
+matrix
+(figure 4). These two compartments
+1580
+differ by their cortical inputs, with the striosomal medium
+spiny projection neurons mainly receiving convergent
+limbic and prelimbic inputs, and neurons in the matrix
+mainly receiving convergent input from ipsilateral primary
+motor and sensory motor cortices and contralateral
+primary motor cortices. The response of particular
+medium spiny projection neurons in the striatum is partly
+dependent on perceptual cues that are judged salient, so
+rewarding and aversive stimuli can both serve as cues. 44
+Several other less abundant striatal cell types probably
+have a key role in this form of habit learning, including
+cholinergic tonically active neurons and fast spiking
+interneurons. Tonically active neurons are very sensitive
+to salient perceptual cues because they signal the networks
+within the cortico-basal ganglia learning circuits when
+these cues arise 44 (figure 4). They are responsive to
+dopaminergic inputs from the substantia nigra, and these
+signals probably participate in calculation of the perceived
+salience (reward value) of perceptual cues along with
+excitatory inputs from midline thalamic nuclei. 40,45 The
+fast spiking spiny interneurons of the striatum are
+electrically coupled via gap junctions that connect
+adjacent dendrites. Once activated, these fast spiking
+neurons can inhibit many striatal projection neurons
+synchronously. 46 The characteristic electrophysiological
+properties of the striatal fast spiking neurons—eg,
+irregular bursting with stable intra burst frequencies—are
+reminiscent of temporal patterning of tics. 5 These fast
+spiking interneurons are also very sensitive to cholinergic
+drugs, suggesting that they are functionally related to
+tonically active neurons. 47
+Under normal circumstances, peak metabolic activity
+happens in the matrix compartment (matrix>striosome),
+as shown in figure 5. 42 However, when this balance is
+reversed (striosome>matrix), tics and stereotypies are
+likely to arise. 48
+Although alterations in the structure of the basal
+ganglia, including loss of right-left asymmetry in the
+volumes of the lenticular nuclei, in patients with
+Tourette’s syndrome have been reported, 49 present data
+from in-vivo neuroimaging and neurophysiological studies
+suggest that broadly distributed cortical systems (or their
+thalamic inputs) might be even more important
+GABA
+Glutamate
+Acetylcholine
+Dopamine
+Inputs to
+striosomes
+S Striosomal medium
+spiny neuron FS
+M Medium spiny neuron
+in the matrix Tan Tonically active neuron
+Cortical inputs
+to the matrix
+Midline thalamic nuclei
+Hippocampus
+Prefrontal cortex
+Striosome
+Anterior cingulate
+cortex
+M
+FS
+S
+M
+Tan
+Orbital frontal
+cortex
+S
+Motor and premotor
+cortex
+FS
+M
+Amygdala
+Fast spiking aspiny
+neuron
+Sensorimotor
+cortex
+Matrix
+Substantia nigra, pars
+compacta
+Figure 4: Schematic diagram of the major inputs into the medium spiny GABAergic
+projection neurons of the striatum
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+Balance of activity
+Striosomes
+Matrix
+M
+alterations in dopamine pathways, such as an increase in
+dopamine transporter capacity, are possible, but not
+necessary, features of pathophysiology. 57
+Developmental models
+S
+Under normal conditions
+S
+M
+Stereotypies and tics?
+Figure 5: Effect of an imbalance between medium spiny
+neurons in the two striatal compartments
+determinants of tic and hyperkinetic behaviours. 50,51 These
+cross-sectional data also emphasise the need to gain a
+better understanding of developmental processes, sexual
+dimorphisms, and compensatory responses through
+prospective longitudinal studies.
+Early results of functional in-vivo neuroimaging studies
+have shown that voluntary tic suppression involves
+activation of regions of the prefrontal cortex and caudate
+nucleus and bilateral deactivation of the putamen and
+globus pallidus. 52 If confirmed, these findings accord with
+the well-known finding that chemical or electrical
+stimulation of inputs into the putamen can provoke motor
+and phonic responses that resemble tics. They also
+reinforce the view that prefrontal cortical regions have a
+crucial role in expression of tic symptoms. In addition to
+behavioural inhibition paradigms, neurophysiological
+studies—eg, transcranial magnetic stimulation and
+prepulse inhibition of startle responses—have shown that
+the cortical silent period is shortened and intracortical
+inhibition is defective in patients with Tourette’s
+syndrome. 53,54 This finding provides a possible explanation
+for the reduced motor inhibition and intrusive sensory
+occurrence in Tourette’s syndrome and obsessive-
+compulsive disorder. These in-vivo neuroimaging and
+neurophysiological findings might also be useful
+endophenotypes that could be proven to have value in
+prediction of treatment response to specific drugs or in
+clarification of the role of specific vulnerability genes.
+Recent neurosurgical procedures reinforce the
+functional importance of thalamic regions that are part of
+these cortical-subcortical loops. 55 Results of one case
+study showed that high frequency stimulation of the
+median and rostral intralaminar thalamic nuclei produced
+an important reduction of tics. This effect could be caused
+by the effect of these midline thalamic nuclei on the
+tonically active neurons (figure 4), or on broadly
+distributed cortical systems and their corticostriatal
+projections. As in other movement disorders, a deeper
+understanding of the circuitry involved in Tourette’s
+syndrome could lead to specific circuit-based therapies,
+with deep-brain stimulation to treat refractory cases.
+As with habits and stereotypies, ascending
+dopaminergic pathways probably have a key role in
+consolidation and performance of tics. First, dopamine
+D2 receptor-blocking drugs are the mainstay of traditional
+pharmacological approaches to treatment of tics. Second,
+studies of monozygotic twins suggest that developmental
+shifts in the balance of tonic-phasic dopaminergic tone
+arise as a result of epigenetic differences, and density of
+dopamine D2 receptors might affect severity of Tourette’s
+syndrome. 56 Third, further evidence shows that a range of
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+Future progress in elucidation of the pathogenesis and
+treatment of Tourette’s syndrome could be greatly
+accelerated with development of animal models. Thus far,
+the use of psychomotor stimulants, direct dopamine
+receptor agonists, behavioural stress sensitisation
+conditioning paradigms, and immune-based challenges to
+induce different levels of stereotypy in rats and other
+species seem to offer the greatest promise in modelling key
+components of the disorder’s phenotype. 48,58–60
+If tics, like stereotypies, vary in accordance with the
+balance of activity of medium spiny projection neurons in
+the striosome and matrix compartments of the striatum,
+then it should be possible to investigate the clinical effect
+of genetics, developmental insults, or both, that affect the
+number and sensitivity of medium spiny projection
+neurons in the two striatal compartments. For example,
+perinatal ischaemic and hypoxic insults involving
+parenchymal lesions strikingly increase risk of tic
+disorders. 24
+Furthermore, this model could provide a meaningful
+integration of knowledge about tics drawn from several
+perspectives. These include the stress responsiveness of
+tics (limbic activation), the presence of premonitory
+sensory urges (as sensory motor and primary motor
+cortical inputs converge on the fewer medium spiny
+projection neurons in the matrix), the reduction of tics
+when an individual is engaged in acts that need selective
+attention, and guided motor action (heightened activity
+within the matrix compartment).
+Results of two studies have shown an increase in oral
+stereotypies in rats after infusion of sera from patients
+with Tourette’s syndrome with high concentrations of
+antibodies against neurons compared with controls. 59,60
+One plausible hypothesis is that these antibodies could
+alter synaptic transmission and alter the balance between
+the striosomal and matrix compartments of the striatum.
+From a developmental perspective, many GABAergic
+interneurons of the cerebral cortex clearly migrate
+tangentially from the same embryonic regions in the
+ganglionic eminence that also give rise to the GABAergic
+medium spiny projection neurons of the striatum. 61 Could
+adverse events arising at a specific point in development—
+eg, the differential loss of medium spiny projection
+neurons in the matrix compartment—account for the
+striatal imbalance and intracortical deficits in inhibition
+seen in some patients with Tourette’s syndrome? 53
+Assessment and diagnosis
+Clinical examination of a child with tics should include an
+assessment of the child or adolescent as a whole not
+merely as someone with tics. 62,63 During the examination,
+the full range of difficulties and competencies should be
+charted: the clinician, family, and child must collaborate
+to reconstruct the child’s history, tic symptoms (onset,
+progression, waxing and waning, and factors that have
+worsened or ameliorated tic status), and present
+functioning. An important question is the extent to which
+tics are interfering with the child’s emotional, social,
+familial, and school experiences. To establish this fact, it
+is useful to monitor symptoms over a few months to assess
+their severity and fluctuation, effect on the family, and
+adaptation of the child and family to them. This
+monitoring can be helped if the family keeps records or uses
+standard forms. 3
+1581
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+A central task of assessment is to explicate, clarify, and
+address family issues. Diagnostic assessment is closely
+connected with the first steps of treatment. During the
+process of clinical inquiry, the doctor can approach
+sensitive issues through clarification, education, and an
+opening therapeutic discussion with the child and family.
+As with other children with school-performance
+problems, the child with Tourette’s syndrome needs careful
+assessment of cognitive functioning and school
+achievement. Children with this disorder tend to have
+difficulties in attentional deployment, perseverance, and
+ability to keep themselves and their work organised. Many
+have poor penmanship. Schoolwork can be impaired by
+compulsions, such as the need to scratch out words or
+return to the beginning of a sentence.
+Neurological examination of a child with Tourette’s
+syndrome can be of great value. Tics are sudden habitual
+movements or utterances that typically mimic some
+fragment of normal behaviour and that use discrete muscle
+groups. As such, they can be confused with normal
+coordinated movements or vocalisations. Tics can also be
+mistaken for akathisia, tardive dyskinesia, or other
+hyperkinetic movement disorders. 64 Once established, any
+given tic tends to persist for a time. Tics are often
+exacerbated by stress and fatigue. By contrast with other
+movement disorders, tics can arise during sleep, but are
+usually much attenuated. Some severely affected patients
+have immaturities or atypicalities on the neuromaturational
+examination (so-called soft signs). These signs might
+suggest disturbances in the body schema and in integration
+of motor control, but their relevance is not really clear.
+Findings on electroencephalography and structural MRI
+are generally normal and are not yet of proven clinical use
+(apart from patients in whom other neurological suspicions
+are present). Similarly, laboratory studies can establish a
+child’s general health profile and assist in differential
+diagnosis of other movement disorders, but there are no
+laboratory tests for positive diagnosis of Tourette’s
+syndrome or other tic disorders.
+Diagnostic criteria presently in use include the
+international classification of disease and related health
+problems, 10th revision (ICD-10) 65 and diagnostic and
+statistical manual, 4th edition text revision (DSM-IVTR). 66
+Although clear differences exist between these classification
+schemes, they are broadly congruent with each other. To
+keep error to a minimum in case ascertainment and to
+produce an instrument measuring the likelihood of having
+Tourette’s syndrome, an international team of experts has
+published a diagnostic confidence index. 67 Scores on this
+index are highly correlated with present tic severity, as
+measured by a psychometrically sound, widely used,
+clinician-rating scale, the Yale global tic severity scale. 68
+Once diagnosis of tic disorder has been established,
+careful assessment will allow the clinician to learn about
+fluctuation of symptoms. As the child becomes more
+comfortable, he or she will show his or her symptoms with
+less suppression or inhibition. Patients or family members
+might recognise a symptom as a tic after they have been
+educated about possible symptoms.
+The history of patients with long-standing Tourette’s
+syndrome is often confused by use of drugs. Often, drugs
+have been stopped because they were thought to have been
+useless or to have caused side-effects. The history of
+treatments and what they have meant to the child and
+family can be pieced together during the assessment. Also,
+the clinician can learn why earlier treatment attempts were
+not useful.
+When a child or adolescent, and his or her parents, is
+given enough time, over the course of several sessions, to
+1582
+Panel 2: Possible protective factors
+Informed and supportive home and school or occupational
+environment
+● Maintenance of good sleep hygiene
+● Regular physical exercise regimen
+● Presence and use of special talents (eg, exceptional social
+skills, athletic skills, musical abilities, academic gifts)
+●
+narrate their experiences, sadness, and disappointments,
+they may feel that their full story has finally been heard,
+perhaps for the first time, after having seen many doctors.
+This process of rethinking the past and integrating disparate
+threads of experience can be therapeutic in its own right,
+and could help to ease the immediate crisis that led to the
+consultation. The experience of being understood through
+the diagnostic process is reassuring. Many patients and
+families often feel supported, understood, and reassured by
+hearing a more or less detailed account of our
+understanding of the pathogenesis and natural history of
+Tourette’s syndrome. Knowledge that their experience is
+similar to that of other families, and that many of the most
+puzzling features of the disorder are typical (such as waxing
+and waning, symptom variation, ability to suppress tic for
+brief periods, and premonitory urges), can be a great
+reassurance to families.
+Treatment
+Multimodal treatment for Tourette’s syndrome is usually
+indicated. 69 As noted above, this approach includes
+educational and supportive interventions appropriate for
+any chronic disease. Panel 2 outlines possible protective
+factors for the disorder. The various manifestations of the
+disorder are best treated in the context of a long-term
+relationship with a clinician who can help the patient,
+family, and school deal with the changing manifestations of
+the disorder through the years. Because acute and chronic
+stress can exacerbate tics, psychotherapeutic attention to
+difficulties of self-esteem, social coping, family issues, and
+school adjustment could have non-specific ameliorative
+effects on tic severity and on attendant anxiety and
+depression. Local chapters of patients’ advocacy
+organisations, such as the Tourette’s Syndrome
+Association, can have a very supportive role, by putting
+families of newly diagnosed children in contact with more
+experienced families. Parents should be encouraged to
+build on their child’s strengths.
+Many cases of uncomplicated Tourette’s syndrome can
+be successfully managed with just these interventions, and
+do not need anti-tic drugs. When patients present with co-
+existing hyperkinetic disorder, obsessive-compulsive
+disorder, depression, or two or three of these disorders, it is
+usually better to treat these comorbid disorders first, since
+successful treatment of them will often diminish tic severity.
+Anti-tic treatments
+Ideal anti-tic treatments are not presently available. None
+of the drugs or techniques can be used effectively just when
+tics are at their worst. Most of the available
+pharmacological drugs need long-term treatment, and
+many have potentially serious side-effects. Indeed, for some
+drugs, it is much easier to begin their use than to stop them.
+The natural waxing and waning pattern of tics often
+confounds the results of drug trials. Even without
+intervention, periods of severe tics will be followed by one
+of spontaneous waning. Because tic-suppressant drugs
+generally need several weeks to have their full effect, it is
+often difficult to distinguish response to a drug from
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+spontaneous waning of symptoms. Thus, it is usually best
+to avoid beginning or increasing drugs as soon as an
+exacerbation begins.
+Two classes of drug are most widely used to control tics
+associated with Tourette’s syndrome: ␣2 adrenergic
+agonists and neuroleptics. 70 Guanfacine and clonidine are
+two ␣2 adrenergic agents originally developed as anti-
+hypertensives for adults. In low doses, clonidine reduces
+central noradrenergic activity by stimulation of presynaptic
+␣2 adrenergic autoreceptors; guanfacine is believed to act
+more selectively on postsynaptic ␣2 adrenergic receptors in
+the prefrontal cortex. Use of these drugs is supported by
+results of randomised, placebo-controlled, clinical trials. 71–73
+However, this support is not uniform. 74,75 Although they are
+generally not as potent as neuroleptics in suppression of
+tics, guanfacine and clonidine are more benign than
+neuroleptics in terms of potential short-term and long-term
+side-effects and are frequently the first choice in previously
+untreated individuals, especially those with mild-to-
+moderate symptoms.
+Treatment with these drugs for children and adults is
+usually started at a low dose and gradually increased.
+Beginning with a morning dose of 0·025 mg or 0·05 mg of
+clonidine, additional doses are added every 3–4 h. The size
+of each dose can be gradually increased to a total dose of
+0·2–0·3 mg daily. Although the effect of each individual
+dose of clonidine wears off after about 3–5 h, the full tic-
+suppressant effects of the regimen could need 10–12 weeks
+to be apparent. Guanfacine is longer acting than clonidine,
+but is given in a similar way, in a range of 0·25–1·0 mg two
+or three times a day.
+The main side-effect of these two drugs in the
+recommended dose range is sedation, sometimes
+accompanied by irritability. This unwanted effect may need
+dose reduction or a change of drug. Reversible cardiac
+arrhythmias have been rarely reported with clonidine;
+however, the need for electrocardiographic studies at
+baseline and as soon as a stable dosage is reached remains
+controversial. Hypotension has not been a typical drawback
+in children taking these drugs. If a decision is made to
+discontinue these drugs, gradual tapering over a week or
+two is advisable to avoid tic flare-ups or rebound
+hypertension.
+Several typical and atypical neuroleptics are frequently
+used for treatment of Tourette’s syndrome, especially
+in patients with severe tics or whose tic symptoms
+are unresponsive to ␣2 adrenergic agonists. Efficacy of
+these drugs is associated with their potency in blockage
+of postsynaptic dopamine-2 receptors. Pimozide,
+haloperidol, sulpiride, and tiapride are the most frequently
+used typical neuroleptics, whereas risperidone and
+ziprasidone are two atypical neuroleptics with proven tic-
+suppressant efficacy. 76–85
+Sulpiride is a substituted benzamide and a selective
+dopamine-2 antagonist, and has been widely used,
+especially in Europe. 86 In the only double-blind trial with
+this drug, George and colleagues 87 undertook a 14-week
+placebo-controlled crossover study of fluvoxamine versus
+sulpiride, followed by single-blind combined treatment in
+11 patients with comorbid Tourette’s syndrome and
+obsessive-compulsive disorder. Sulpiride monotherapy
+greatly reduced tics and non-significantly improved
+obsessive-compulsive symptoms. With neuroleptics, it is
+best to start with a low daily dose and gradually increase the
+dose. With sulpiride, the initial dose is 200 mg per day,
+gradually increasing to 1 g per day.
+However, use of high doses of these drugs rarely shows
+additional improvement in tics, and very often produces
+bothersome side-effects. Withdrawal from neuroleptics
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+can produce tic exacerbations and dyskinesias that can be
+delayed in onset by several weeks. Although neuroleptics
+are widely prescribed for patients with Tourette’s
+syndrome, many patients do not adhere to treatment. The
+most typical, dose-related side-effects of neuroleptics are
+sedation or dysphoria. Weight gain is also a drawback with
+most of these drugs, especially risperidone. Some children
+taking neuroleptics develop de-novo separation anxiety
+and school refusal.
+Although atypical neuroleptics are believed to have a
+low risk of tardive dyskinesia, acute extrapyramidal
+reactions—eg, torticollis, oculogyric crisis, akathisia—do
+arise, and they might need anticholinergic drugs. Because
+of potential QT changes, baseline and follow-up
+electrocardiography is recommended for risperidone,
+ziprasidone, and pimozide. It is also essential for the
+prescribing clinician to be familiar with potential
+cytochrome P450-related drug reactions, because fatal
+interactions have arisen with pimozide and erythromycin-
+related antibiotics.
+In accordance with the neuromodulatory role of
+tonically active neurons in the striatum (figure 4),
+nicotinic drugs, especially in combination with
+neuroleptics, have shown some promise in clinical
+trials. 86,87 Other drugs with some promise include low
+doses of pergolide, a mixed D1-D2-D3 dopamine
+receptor agonist, 88 and locally injected dilute botulinum
+toxin. 89 Some patients report a striking reduction in
+premonitory sensory urges after local injections of
+botulinum toxin.
+Furthermore, investigators have used several specific
+behavioural techniques, eg, habit reversal, hypnotherapy,
+relaxation, and biofeedback techniques, and a growing use
+of alternative treatments—eg, acupuncture and dietary
+supplements—has been seen. The most promising of
+these approaches is habit-reversal training. Azrin and
+Nunn 90 developed this procedure for treatment of tics and
+other habits. As originally described, the intervention
+consists of several inter-related components.
+Four components focus on increasing patient’s aware-
+ness of their tic behaviour. The first component is
+response description, in which the patient is trained to
+describe tic occurrences in detail and to re-enact tic
+movements while looking in a mirror. The second one is
+response detection, in which the therapist points out each
+tic as soon as it takes place. The third includes practices
+aimed at helping the patient to identify the earliest signs of
+tic occurrence. The fourth is functional analysis, to
+identify situations in which tics are most likely to happen.
+A fifth component comprises competing response
+practice, which teaches individuals to produce
+incompatible physical responses dependent upon the urge
+to perform a tic. Individuals are instructed to isometrically
+contract tic-opposing muscles for 1–3 min, or until the
+urge to tic has passed. Other components include ones
+used to increase and sustain motivation and adherence, as
+well as one aimed at generalisation training. This
+intervention may be useful for some individuals, but
+systematic clinical trials have not been done. 91
+Treatment of hyperkinetic disorder in children with tics
+Treatment of hyperkinetic disorder in patients with a
+personal history of tics is common, complex, and
+controversial. In addition to classroom interventions—eg,
+small classes, close monitoring, assigned seat at the front
+of the classroom, assignment of a teacher’s aide, and other
+accommodations—and behavioural interventions at home
+(eg, parents’ management training and behavioural
+management are often very important, especially when the
+1583
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+child manifests disruptive behaviour), clinicians typically
+find drugs to be helpful in treatment of this disorder.
+Psychostimulants, such as methylphenidate, dexamfet-
+amine, and related drugs are the most effective agents for
+uncomplicated hyperkinetic disorder. Although these drugs
+could be used with impunity in some individuals with tics,
+in a few cases, they can precipitate de-novo tics or
+exacerbate pre-existing tics in some individuals with
+Tourette’s syndrome. As a result, many clinicians will begin
+with clonidine or guanfacine, which, although not as potent
+as the stimulants, seem to be less prone to exacerbation of
+tics. 71–73 Researchers in one large-scale, double-blind,
+clinical trial reported that the combination of clonidine and
+methylphenidate was most efficacious in treatment of
+children with both attention-deficit hyperactivity disorder
+and chronic tics. 73 This study showed that these two drugs
+had differential effects, with clonidine being most helpful
+for impulsivity and hyperactivity, and methylphenidate
+being most helpful for symptoms of inattention.
+Treatment of tic-related obsessive-compulsive disorder
+Specific cognitive behavioural techniques (eg, exposure and
+response prevention training) might be useful for selected
+patients with Tourette’s syndrome who present with
+obsessive-compulsive
+disorder.
+Serotonin
+reuptake
+inhibitors are usually useful in treatment of symptoms of
+this disorder, but might not produce a complete therapeutic
+response. 92 Augmentation with a low dose of a neuroleptic
+might increase the anti-obsessional efficacy of these
+drugs. 93,94 At higher dosages, the serotonin reuptake
+inhibitors might occasionally precipitate or exacerbate tics.
+PANDAS interventions
+Although some cases of Tourette’s syndrome have been
+proposed to be a sequela of GABHS infections, this
+connection remains controversial, and is likely to be a
+contributing mechanism in only a few people with the
+syndrome. 95
+Antibiotic
+prophylaxis
+and
+arduous
+investigational interventions, such as plasma exchange or
+intravenous immunoglobulins, have been successfully used
+in a few patients with exacerbations after streptococcal
+infection. 37,96 Such measures should be considered only with
+expert child psychiatric and paediatric consultation. At
+present, the main mandate for the clinician is to be vigilant
+in assessment of children with pharyngitis or those exposed
+to Streptococcus spp, and vigorous treatment and follow-up
+of those with positive throat culture results.
+development. Research paradigms used in these studies,
+and many of the empirical findings resulting from them,
+will probably be relevant to other chronic disorders of
+childhood onset and will also advance our understanding of
+normal development.
+References
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Future prospects
+Present ideas about Tourette’s syndrome have been shaped
+by advances in the neurosciences and our emerging
+understanding of the role of the basal ganglia in learning
+and habit formation. Although evidence that the same
+mechanisms have a role in habit formation and tics is
+circumstantial, progress has set the stage for a major
+advance in our understanding of this disorder. Continued
+success in these areas will lead to molecular insights into
+functioning of neural networks, complexities of information
+transfer, and targeting of specific circuits for more intensive
+study. Diagnostic, treatment, and prognostic advances can
+also be anticipated.
+The identification of susceptibility genes in Tourette’s
+syndrome will doubtless point us in new therapeutic
+directions, as will characterisation of possible autoimmune
+mechanisms active in the PANDAS subgroup of patients.
+In view of this potential, Tourette’s syndrome can be
+deemed a model disorder in which to study the dynamic
+interplay of genetic vulnerabilities, environmental events,
+and neurobiological systems active during early brain
+1584
+17
+18
+19
+20
+21
+22
+23
+Kushner HI. A cursing brain? The histories of Tourette syndrome.
+Cambridge, MA. Harvard University Press, 1999.
+Robertson MM. Tourette syndrome, associated conditions and the
+complexities of treatment. Brain 2000; 123: 425–62.
+Leckman JF, King RA, Cohen DJ. Tics and tic disorders. In:
+Leckman JF, Cohen DJ, eds. Tourette’s syndrome tics, obsessions,
+compulsions: developmental psychopathology and clinical care. New
+York: John Wiley and Sons, 1998: 23–42.
+Leckman JF, Zhang H, Vitale A, et al. Course of tic severity in
+Tourette’s syndrome: the first two decades. Pediatrics 1998; 102:
+14–19.
+Peterson BS, Leckman JF. Temporal characterization of tics in Gilles
+de la Tourette’s syndrome. Biol Psychiatry 1998; 44: 1337–48.
+Lin HQ, Yeh C-B, Peterson BS, et al. Assessment of symptom
+exacerbations in a longitudinal study of children with Tourette
+syndrome or obsessive-compulsive disorder. J Am Acad Child Adolesc
+Psychiatry 2002; 41: 1070–77.
+Bliss J. Sensory experiences of Gilles de la Tourette syndrome.
+Arch Gen Psychiatry 1980; 37: 1343–47.
+Spencer T, Biederman J, Harding M, et al. Disentangling the overlap
+between Tourette’s disorder and ADHD. J Child Psychol Psychiatry
+1998; 39: 1037–44.
+Carter AS, O’Donnell DA, Schultz RT, Scahill L, Leckman JF,
+Pauls DL. Social and emotional adjustment in children affected
+with Gilles de la Tourette’s syndrome: associations with ADHD
+and family functioning. J Child Psychol Psychiatry 2000; 41:
+215–23.
+Peterson BS, Pine DS, Cohen P, Brook JS. Prospective, longitudinal
+study of tic, obsessive-compulsive, and attention-deficit/hyperactivity
+disorders in an epidemiological sample. J Am Acad Child Adolesc
+Psychiatry 2001; 40: 685–95.
+Elstner K, Selai CE, Trimble MR, Robertson MM. Quality of
+life (QOL) of patients with Gilles de la Tourette’s syndrome.
+Acta Psychiatr Scand 2001; 103: 52–59.
+Costello EJ, Angold A, Burns BJ, et al. The Great Smoky Mountains
+Study of Youth: goals, design, methods, and the prevalence of DSM-
+III-R disorders. Arch Gen Psychiatry 1996; 53: 1129–36.
+Hornsey H, Banerjee S, Zeitlin H, Robertson M. The prevalence of
+Tourette syndrome in 13-14-year-olds in mainstream schools.
+J Child Psychol Psychiatry 2001; 42: 1035–39.
+Kurlan R, McDermott MP, Deeley C, et al. Prevalence of tics in
+schoolchildren and association with placement in special education.
+Neurology 2001; 57: 1383–88.
+Walkup JT, LaBuda MC, Singer HS, Brown J, Riddle MA, Hurko O.
+Family study and segregation analysis of Tourette syndrome:
+evidence for a mixed model of inheritance. Am J Hum Genet 1996;
+59: 684–93.
+Leckman JF, Pauls DL, Zhang H, et al. Obsessive-compulsive
+symptom dimensions in affected sibling pairs diagnosed with Gilles de
+la Tourette syndrome. Am J Med Genet (in press).
+Merette C, Brassard A, Potvin A, et al. Significant linkage for
+Tourette syndrome in a large French Canadian family.
+Am J Hum Genet 2000; 67: 1008–13.
+The Tourette Syndrome Association International Consortium for
+Genetics. A complete genome screen in sib-pairs affected with Gilles
+de la Tourette syndrome. Am J Hum Genet 1999; 65: 1428–36.
+Zhang H, Leckman JF, Tsai C-P, Kidd KK, Rosario Campos MC,
+The Tourette Syndrome Association International Consortium for
+Genetics. Genome wide scan of hoarding in sibling pairs both
+diagnosed with Gilles de la Tourette syndrome. Am J Hum Genet
+2002; 70: 896–904.
+Simonic I, Gericke GS, Ott J, Weber JL. Identification of genetic
+markers associated with Gilles de la Tourette syndrome in an
+Afrikaner population. Am J Hum Genet 1998; 63: 839–46.
+Simonic I, Nyholt DR, Gericke GS, et al. Further evidence for linkage
+of Gilles de la Tourette syndrome (GTS) susceptibility loci on
+chromosomes 2p11, 8q22 and 11q23-24 in South African Afrikaners.
+Am J Med Genet 2001; 105: 163–67.
+Comings DE. Clinical and molecular genetics of ADHD and Tourette
+syndrome: two related polygenic disorders. Ann N Y Acad Sci 2001;
+931: 50–83.
+Whitaker AH, Van Rossem R, Feldman JF, et al. Psychiatric outcomes
+in low-birth-weight children at age 6 years: relation to neonatal cranial
+ultrasound abnormalities. Arch Gen Psychiatry 1997; 54: 847–56.
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+24 Burd L, Severud R, Klug MG, Kerbeshian J. Prenatal and perinatal
+risk factors for Tourette disorder. J Perinat Med 1999; 27: 295–302.
+25 Peterson BS, Leckman JF, Scahill L, et al. Hypothesis: steroid
+hormones and sexual dimorphisms modulate symptom expression in
+Tourette’s syndrome. Psychoneuroendocrinology 1992; 17: 553–63.
+26 Peterson BS, Zhang H, Bondi C, Anderson GM, Leckman JF.
+A double-blind, placebo-controlled, crossover trial of an antiandrogen
+in the treatment of Tourette’s syndrome. J Clin Psychopharmacol 1998;
+18: 324–31.
+27 Silva RR, Munoz DM, Barickman J, Friedhoff AJ. Environmental
+factors and related fluctuation of symptoms in children and
+adolescents with Tourette’s disorder. J Child Psychol Psychiatry 1995;
+36: 305–12.
+28 Chappell P, Riddle M, Anderson G, et al. Enhanced stress
+responsivity of Tourette syndrome patients undergoing lumbar
+puncture. Biol Psychiatry 1994; 36: 35–43.
+29 Leckman JF, Goodman WK, Anderson GM, et al. CSF biogenic
+amines in obsessive-compulsive disorder and Tourette’s syndrome.
+Neuropsychopharmacol 1995; 12: 73–86.
+30 Chappell PB, Leckman JF, Goodman WK, et al. CSF corticotropin
+releasing factor is elevated in Tourette’s syndrome. Biol Psychiatry
+1996; 39: 776–83.
+31 Kiessling LS, Marcotte AC, Culpepper L. Antineural antibodies in
+movement disorders. Pediatrics 1993; 92: 39–43.
+32 Singer HS, Giuliano JD, Hansen BH, et al. Antibodies against human
+putamen in children with Tourette syndrome. Neurology 1998; 50:
+1618–24.
+33 Morshed SA, Parveen S, Leckman JF, et al. Antibodies against
+striatal, nuclear, cytoskeletal and streptococcal epitopes in children
+and adults with Tourette’s syndrome, Sydenham’s chorea, and
+autoimmune disorders. Biol Psychiatry 2001; 50: 566–78.
+34 Wendlandt JT, Grus FH, Hansen BH, Singer HS. Striatal antibodies
+in children with Tourette’s syndrome: multivariate discriminant
+analysis of IgG repertoires. J Neuroimmunol 2001; 119: 106–13.
+35 Swedo SE, Leonard HL, Garvey M, et al. Pediatric autoimmune
+neuropsychiatric disorders associated with streptococcal infections:
+clinical description of the first 50 cases. Am J Psychiatry 1998; 155:
+264–71.
+36 Kurlan R. Tourette’s syndrome and ‘PANDAS’: will the relation bear
+out? Pediatric autoimmune neuropsychiatric disorders associated with
+streptococcal infection. Neurology 1998; 50: 1530–34.
+37 Perlmutter J, Leitman SF, Garvey MA, et al. Therapeutic plasma
+exchange and intravenous immunoglobulin for obsessive-compulsive
+disorder and tic disorders in childhood. Lancet 1999; 354: 1153–58.
+38 Leckman JF, Riddle MA. Tourette’s syndrome: when habit forming
+units form habits of their own? Neuron 2000; 28: 349–54.
+39 Graybiel AM, Canales JJ. The neurobiology of repetitive behaviors:
+clues to the neurobiology of Tourette syndrome. Adv Neurol 2001; 85:
+123–31.
+40 Suzuki T, Miura M, Nishimura K, Aosaki T. Dopamine-dependent
+synaptic plasticity in the striatal cholinergic interneurons. J Neurosci
+2001; 21: 6492–501.
+41 Jog MS, Kubota Y, Connolly CI, Hillegaart V, Graybiel AM. Building
+neural representations of habits. Science 1999; 286: 1745–49.
+42 Brown LL, Feldman SM, Smith DM, Cavanaugh JR, Ackermann RF,
+Graybiel AM. Differential metabolic activity in the striosome and
+matrix compartments of the rat striatum during natural behaviors.
+J Neurosci 2002; 22: 305–14.
+43 Zheng T, Wilson CJ. Corticostriatal combinatorics: the implications of
+corticostriatal axonal arborizations. J Neurophysiol 2002; 87: 1007–17.
+44 Blazquez PM, Fujii N, Kojima J, Graybiel AM. A network
+representation of response probability in the striatum. Neuron 2002;
+33: 973–82.
+45 Raz A, Feingold A, Zelanskaya V, Vaadia E, Bergman H. Neuronal
+synchronization of tonically active neurons in the striatum of normal
+and parkinsonian primates. J Neurophysiol 1996; 76: 2083–88.
+46 Koos T, Tepper JM. Inhibitory control of neostriatal projection
+neurons by GABAergic interneurons. Nat Neurosci 1999; 2: 467–72.
+47 Koos T, Tepper JM. Dual cholinergic control of fast-spiking
+interneurons in the neostriatum. J Neurosci 2002; 22: 529–35.
+48 Canales JJ, Graybiel AM. A measure of striatal function predicts
+motor stereotypy. Nat Neurosci 2000; 3: 377–83.
+49 Swerdlow NR, Young AB. Neuropathology in Tourette syndrome: an
+update. Adv Neurol 2001; 85: 151–61.
+50 Peterson BS, Staib L, Scahill L, et al. Regional and ventricular
+volumes in Tourette syndrome. Arch Gen Psychiatry 2001; 58: 427–42.
+51 Fredericksen KA, Cutting LE, Kates WR, et al. Disproportionate
+increases of white matter in right frontal lobe in Tourette syndrome.
+Neurology 2002; 58: 85–89.
+52 Peterson BS, Skudlarski P, Anderson AW, et al. A functional magnetic
+resonance imaging study of tic suppression in Tourette syndrome.
+Arch Gen Psychiatry 1998; 55: 326–33.
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+53 Ziemann U, Paulus W, Rothenberger A. Decreased motor inhibition
+in Tourette’s disorder: evidence from transcranial magnetic
+stimulation. Am J Psychiatry 1997; 154: 1277–84.
+54 Swerdlow NR, Karban B, Ploum Y, Sharp R, Geyer MA, Eastvold A.
+Tactile prepuff inhibition of startle in children with Tourette’s
+syndrome: in search of an “fMRI-friendly” startle paradigm. Biol
+Psychiatry 2001; 50: 578–85.
+55 Vandewalle V, van der Linden C, Groenewegen HJ, Caemaert J.
+Stereotactic treatment of Gilles de la Tourette syndrome by high
+frequency stimulation of thalamus. Lancet 1999; 353: 724.
+56 Wolf SS, Jones DW, Knable MB, et al. Tourette syndrome: prediction
+of phenotypic variation in monozygotic twins by caudate nucleus D2
+receptor binding. Science 1996; 273: 1225–27.
+57 Muller-Vahl KR, Berding G, Brucke T, et al. Dopamine transporter
+binding in Gilles de la Tourette syndrome. J Neurol 2000; 247:
+514–20.
+58 Leckman JF, Cohen DJ, Price RA, et al. The pathogenesis of Gilles de
+la Tourette’s syndrome: a review of data and hypothesis. In: Shah NS,
+Shah AB, eds. Movement disorders. New York: Plenum Press, 1986:
+257–72.
+59 Hallett JJ, Harling-Berg CJ, Knopf PM, Stopa EG, Kiessling LS. Anti-
+striatal antibodies in Tourette syndrome cause neuronal dysfunction.
+J Neuroimmunol 2000; 111: 195–202.
+60 Taylor JR, Morshed SA, Parveen S, et al. An animal model of
+Tourette’s syndrome. Am J Psychiatry 2002; 159: 657–60.
+61 Anderson SA, Eisenstat DD, Shi L, Rubenstein JL. Interneuron
+migration from basal forebrain to neocortex: dependence on Dlx
+genes. Science 1997; 278: 474–76.
+62 Cohen DJ. Finding meaning in one’s self and others: clinical studies
+of children with autism and Tourette’s syndrome. In: Kessel F,
+Bornstein M, Sameroff A, eds. Contemporary constructions of the
+child: essays in honor of William Kessen. Hillsdale, NJ: Lawrence
+Eribaurn Associates, 1991: 159–75.
+63 Cohen DJ, Leckman JF. The child and adolescent with Tourette’s
+syndrome: changing perspectives on phenomenology and treatment.
+In: Kurlan R, ed. Handbook of Tourette’s syndrome and related
+tic and behavioral disorders. New York: Marcel Dekker, 1993:
+461–80.
+64 Jankovic J. Tourette’s syndrome. N Engl J Med 2001; 345:
+1184–92.
+65 Robertson MM, Banerjee S, Kurlan R, et al. The Tourette syndrome
+diagnostic confidence index: development and clinical associations.
+Neurology 1999; 53: 2108–12.
+66 World Health Organization. Multiaxial classification of child and
+adolescent psychiatric disorders: international classification of disease
+and related health problems, 10th revision (ICD-10). Cambridge:
+Cambridge University Press, 1998: 43–45.
+67 American Psychiatric Association. Diagnostic and statistical manual,
+fourth edition text revision (DSM-IVTR). Washington, DC: American
+Psychiatric Association Press, 2000: 108–16.
+68 Leckman JF, Riddle MA, Hardin MT, et al. The Yale global tic
+severity scale (YGTSS): initial testing of a clinician-rated scale
+of tic severity. J Am Acad Child Adolesc Psychiatry 1989; 28:
+566–73.
+69 Leckman JF, King RA, Scahill L, Findley D, Ort SI, Cohen DJ.
+Yale approach to assessment and treatment. In: Leckman JF,
+Cohen DJ, eds. Tourette’s syndrome tics, obsessions, compulsions:
+developmental psychopathology and clinical care. New York: John
+Wiley and Sons, 1998: 285–309.
+70 Freeman RD, Fast DK, Burd L, Kerbeshian J, Robertson MM,
+Sandor P. An international perspective on Tourette syndrome:
+selected findings from 3,500 individuals in 22 countries.
+Dev Med Child Neurol 2000; 42: 436–47.
+71 Leckman JF, Hardin MT, Riddle MA, Stevenson J, Ort SI, Cohen DJ.
+Clonidine treatment of Tourette’s syndrome. Arch Gen Psychiatry
+1991; 48: 324–28.
+72 Scahill LD, Chappell PB, Kim YS, et al. Guanfacine in the treatment
+of children with tic disorders and ADHD: a placebo-controlled study.
+Am J Psychiatry 2001; 158: 1067–74.
+73 Tourette Syndrome Study Group. Treatment of ADHD in children
+with tics: a randomized controlled trial. Neurology 2002; 58: 527–36.
+74 Goetz CG, Tanner CM, Wilson RS, Carroll VS, Como PG,
+Shannon KM. Clonidine and Gilles de la Tourette’s syndrome:
+double-blind study using objective rating methods. Ann Neurol 1987;
+21: 307–10.
+75 Singer HS, Brown J, Quaskey S, Rosenberg LA, Mellits ED,
+Denckla MB. The treatment of attention-deficit hyperactivity disorder
+in Tourette’s syndrome: a double-blind placebo-controlled study
+with clonidine and desipramine. Pediatrics 1995; 95: 74–81.
+76 Shapiro AK, Shapiro E. Controlled study of pimozide vs placebo
+in Tourette’s syndrome. J Am Acad Child Psychiatry 1984; 23:
+161–73.
+1585
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+77 Eggers C, Rothenberger A, Berghaus U. Clinical and neurobiological
+findings in children suffering from tic disease following treatment with
+tiapride. Eur Arch Psychiatry Neurol Sci 1988; 237: 223–29.
+78 Shapiro E, Shapiro AK, Fulop G, et al. Controlled study of
+haloperidol, pimozide and placebo for the treatment of Gilles de la
+Tourette’s syndrome. Arch Gen Psychiatry 1989; 46: 722–30.
+79 Sallee FR, Nesbitt L, Jackson C, Sine L, Sethuraman G. Relative
+efficacy of haloperidol and pimozide in children and adolescents with
+Tourette’s disorder. Am J Psychiatry 1997; 154: 1057–62.
+80 Robertson MM, Schnieden V, Lees AJ. Management of Gilles de la
+Tourette syndrome using sulpiride. Clin Neuropharmacol 1990; 13:
+229–35.
+81 George MS, Trimble MR, Robertson MM. Fluvoxamine and sulpiride
+in comorbid obsessive-compulsive disorder and Gilles de la Tourette
+syndrome. Hum Psychopharmacol 1993; 8: 327–34.
+82 Sallee FR, Kurlan R, Goetz CG, et al. Ziprasidone treatment of
+children and adolescents with Tourette’s syndrome: a pilot study.
+J Am Acad Child Adolesc Psychiatry 2000; 39: 292–99.
+83 Bruggeman R, van der Linden C, Buitelaar JK, Gericke GS,
+Hawkridge SM, Temlett JA. Risperidone versus pimozide in
+Tourette’s disorder: a comparative double-blind parallel-group study.
+J Clin Psychiatry 2001; 62: 50–56.
+84 Dion Y, Annable L, Sandor P, Chouinard G. Risperidone in the
+treatment of Tourette syndrome: a double-blind, placebo-controlled
+trial. J Clin Psychopharmacol 2002; 22: 31–39.
+85 Scahill L, Leckman JF, Schultz RT, Katsovich L, Peterson BS.
+A placebo-controlled trial of risperidone in Tourette syndrome.
+Neurology (in press).
+86 Silver AA, Shytle RD, Philipp MK, Wilkinson BJ, McConville B,
+Sanberg PR. Transdermal nicotine and haloperidol in Tourette’s
+disorder: a double-blind placebo-controlled study. J Clin Psychiatry
+2001; 62: 707–14.
+87 Silver AA, Shytle RD, Sheehan KH, Sheehan DV, Ramos A,
+Sanberg PR. Multicenter, double-blind, placebo-controlled study of
+mecamylamine monotherapy for Tourette’s disorder. J Am Acad
+Child Adolesc Psychiatry 2001; 40: 1103–10.
+88 Gilbert DL, Sethuraman G, Sine L, Peters S, Sallee FR.
+Tourette’s syndrome improvement with pergolide in a randomized,
+double-blind, crossover trial. Neurology 2000; 54: 1310–15.
+89 Marras C, Andrews D, Sime E, Lang AE. Botulinum toxin for simple
+motor tics: a randomized, double-blind, controlled clinical trial.
+Neurology 2001; 56: 605–10.
+90 Azrin NH, Nunn RG. Habit-reversal: a method of eliminating
+nervous habits and tics. Behav Res Ther 1973; 11: 619–28.
+91 Piacentini J, Chang S. Behavioral treatments for Tourette syndrome
+and tic disorders: state of the art. Adv Neurol 2001; 85: 319–31.
+92 McDougle CJ, Goodman WK, Leckman JF, Barr LC, Heninger GR,
+Price LH. The efficacy of fluvoxamine in obsessive-compulsive
+disorder: effects of comorbid chronic tic disorder. J Clin
+Psychopharmacol 1993; 13: 354–58.
+93 McDougle CJ, Fleischmann RL, Epperson CN, Wasylink S,
+Leckman JF, Price LH. Haloperidol addition in fluvoxamine-
+refractory obsessive-compulsive disorder: a double-blind, placebo-
+controlled study in patients with and without tics. Arch Gen Psychiatry
+1994; 51: 302–08.
+94 McDougle CJ, Epperson CN, Pelton GH, Wasylink S, Price LH.
+A double-blind, placebo-controlled study of risperidone addition in
+serotonin reuptake inhibitor-refractory obsessive-compulsive disorder.
+Arch Gen Psychiatry 2000; 57: 794–801.
+95 Singer HS, Giuliano JD, Zimmerman AM, Walkup JT. Infection: a
+stimulus for tic disorders. Pediatr Neurol 2000; 22: 380–83.
+96 Garvey MA, Perlmutter SJ, Allen AJ, et al. A pilot study of penicillin
+prophylaxis for neuropsychiatric exacerbations triggered by
+streptococcal infections. Biol Psychiatry 1999; 45: 1564–71.
+Uses of error
+Tackers on the diaphragm
+K Thijssens, C Hoff, J Meyerink
+An 84-year-old woman had suffered from heartburn,
+nausea, vomiting, and postprandial abdominal pain. Her
+history contained bilateral hip prosthesis and repeated
+pulmonary embolism. A chest radiograph and endoscopy
+showed a type IV diaphragmatic hernia with a tortuous
+intrathoracic stomach and a grade II oesophagitis. A
+laparoscopic hernia repair was performed. The stomach
+was reduced into the abdominal cavity and the hernial sac
+resected. The resulting defect in the diaphragm was
+deemed too large for primary closure and a coated polyester
+mesh was attached to the crura with 5 mm titanium helical
+fasteners or tackers. After an uneventful recovery the
+patient suddenly developed a cardiogenic shock on the 14th
+postoperative day (central venous pressure 14 cm H 2 O,
+arterial oxygen saturation 70%). Chest radiography
+revealed no abnormality, including pneumothorax. With
+the medical history in mind the primary diagnosis of
+pulmonary embolism was made above the diagnosis of
+cardiac tamponade. When maximum supportive care,
+including intravenous fluids and high doses of inotropic
+agents, respiratory support, and human recombinant tissue
+plasminogen activator was ineffective, a cardiac ultrasound
+was done, establishing cardiac tamponade. Pericardio-
+centesis yielded 300 mL of blood per hour. A left
+thoracotomy was subsequently done. There was active
+bleeding of the epicardium from a number of pointed
+lesions, just opposite the tackers which had penetrated the
+pericardium. The offending tackers were removed and the
+defects in the epicardium sutured. The patient then went
+on to recover without further complications and was
+discharged 18 days after thoracotomy. One obvious point
+to make is that in spite of a history of pulmonary embolism,
+cardiac tamponade should have been considered from the
+onset of obstructive shock. In fact the administration of
+alteplase had a detrimental effect on the course of cardiac
+tamponade, which was already present at that time.
+Furthermore it is essential to consider the use of tackers in
+this and possibly other areas of endoscopic surgery. These
+5 mm titanium helical tackers are introduced under manual
+pressure. Since the layers of tissue that are to be fastened
+are compressed there is no possibility of accurately
+controlling their depth of penetration.
+Department of Surgery, Medisch Centrum Leeuworden, Henri Dunantweg 2, 8934 AD Leeuworden, Netherlands (K Thijssens MD , C Hoff MD ,
+J Meyerink MD )
+1586
+THE LANCET • Vol 360 • November 16, 2002 • www.thelancet.com
+For personal use. Only reproduce with permission from The Lancet Publishing Group.

@@ -1,0 +1,201 @@
+e2_idxs	e1_label	e2_label	sent_id	e1_idxs	doc_id	is_correct
+[15, 16]	MarkerName	Diseases	46	[3]	AGR2_blood_biomarker.txt	true
+[29]	MarkerName	Abb	117	[40]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	183	[21]	AGR2_blood_biomarker.txt	true
+[1]	MarkerName	Abb	257	[7]	AGR2_blood_biomarker.txt	false
+[29]	MarkerName	Abb	117	[25]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	163	[2]	AGR2_blood_biomarker.txt	true
+[13]	MarkerName	Abb	201	[42]	AGR2_blood_biomarker.txt	true
+[13, 14]	MarkerName	Diseases	195	[72]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[120]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	219	[0]	AGR2_blood_biomarker.txt	true
+[22, 23]	MarkerName	Diseases	180	[19]	AGR2_blood_biomarker.txt	UNKNOWN
+[13, 14]	MarkerName	Diseases	195	[64]	AGR2_blood_biomarker.txt	false
+[33]	MarkerName	Abb	131	[2]	AGR2_blood_biomarker.txt	true
+[13, 14]	MarkerName	Diseases	172	[8]	AGR2_blood_biomarker.txt	true
+[8, 9]	MarkerName	Diseases	309	[1]	AGR2_blood_biomarker.txt	false
+[32]	MarkerName	Abb	137	[8]	AGR2_blood_biomarker.txt	false
+[16, 17]	MarkerName	Diseases	150	[6]	AGR2_blood_biomarker.txt	false
+[163, 164]	MarkerName	Diseases	117	[40]	AGR2_blood_biomarker.txt	false
+[163, 164]	MarkerName	Diseases	117	[73]	AGR2_blood_biomarker.txt	false
+[6, 7]	MarkerName	Diseases	19	[3]	AGR2_blood_biomarker.txt	false
+[31, 32]	MarkerName	Diseases	178	[4]	AGR2_blood_biomarker.txt	true
+[14]	MarkerName	Abb	117	[73]	AGR2_blood_biomarker.txt	false
+[23, 24]	MarkerName	Diseases	248	[5]	AGR2_blood_biomarker.txt	true
+[10, 11]	MarkerName	Diseases	136	[1]	AGR2_blood_biomarker.txt	false
+[19]	MarkerName	Abb	144	[5]	AGR2_blood_biomarker.txt	true
+[4, 5]	MarkerName	Diseases	164	[0]	AGR2_blood_biomarker.txt	false
+[33]	MarkerName	Abb	129	[4]	AGR2_blood_biomarker.txt	true
+[32]	MarkerName	Abb	137	[0]	AGR2_blood_biomarker.txt	false
+[15]	MarkerName	Abb	25	[2]	AGR2_blood_biomarker.txt	false
+[15]	MarkerName	Abb	25	[33]	AGR2_blood_biomarker.txt	false
+[7, 8]	MarkerName	Diseases	124	[14]	AGR2_blood_biomarker.txt	false
+[15, 16]	MarkerName	Diseases	83	[12]	AGR2_blood_biomarker.txt	false
+[45, 46]	MarkerName	Diseases	125	[30]	AGR2_blood_biomarker.txt	true
+[14]	MarkerName	Abb	117	[40]	AGR2_blood_biomarker.txt	false
+[42, 43]	MarkerName	Diseases	163	[2]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	163	[36]	AGR2_blood_biomarker.txt	false
+[19, 20]	MarkerName	Diseases	114	[8]	AGR2_blood_biomarker.txt	false
+[11, 12]	MarkerName	Diseases	248	[5]	AGR2_blood_biomarker.txt	true
+[33, 34]	MarkerName	Diseases	124	[27]	AGR2_blood_biomarker.txt	false
+[4]	MarkerName	Abb	108	[6]	AGR2_blood_biomarker.txt	UNKNOWN
+[13, 14]	MarkerName	Diseases	195	[92]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[157]	AGR2_blood_biomarker.txt	false
+[28, 29]	MarkerName	Diseases	211	[13]	AGR2_blood_biomarker.txt	false
+[45, 46]	MarkerName	Diseases	125	[1]	AGR2_blood_biomarker.txt	true
+[42, 43]	MarkerName	Diseases	187	[28]	AGR2_blood_biomarker.txt	true
+[23, 24]	MarkerName	Diseases	187	[28]	AGR2_blood_biomarker.txt	false
+[35, 36]	MarkerName	Diseases	108	[26]	AGR2_blood_biomarker.txt	true
+[19]	MarkerName	Abb	343	[22]	AGR2_blood_biomarker.txt	false
+[18, 19]	MarkerName	Diseases	196	[12]	AGR2_blood_biomarker.txt	false
+[10, 11]	MarkerName	Diseases	91	[7]	AGR2_blood_biomarker.txt	false
+[42, 43]	MarkerName	Diseases	187	[7]	AGR2_blood_biomarker.txt	false
+[12, 13]	MarkerName	Diseases	117	[60]	AGR2_blood_biomarker.txt	false
+[25]	MarkerName	Abb	25	[27]	AGR2_blood_biomarker.txt	false
+[19, 20]	MarkerName	Diseases	114	[22]	AGR2_blood_biomarker.txt	false
+[29]	MarkerName	Abb	117	[60]	AGR2_blood_biomarker.txt	false
+[16]	MarkerName	Abb	354	[16]	AGR2_blood_biomarker.txt	false
+[30]	MarkerName	Abb	4	[42]	AGR2_blood_biomarker.txt	false
+[13]	MarkerName	Abb	201	[8]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[35]	AGR2_blood_biomarker.txt	false
+[23, 24]	MarkerName	Diseases	187	[7]	AGR2_blood_biomarker.txt	true
+[7, 8]	MarkerName	Diseases	124	[27]	AGR2_blood_biomarker.txt	false
+[5]	MarkerName	Abb	102	[15]	AGR2_blood_biomarker.txt	false
+[12, 13]	MarkerName	Diseases	33	[11]	AGR2_blood_biomarker.txt	false
+[8]	MarkerName	Abb	25	[27]	AGR2_blood_biomarker.txt	false
+[1]	MarkerName	Abb	257	[19]	AGR2_blood_biomarker.txt	false
+[37, 38]	MarkerName	Diseases	343	[22]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[111]	AGR2_blood_biomarker.txt	false
+[27, 28]	MarkerName	Diseases	182	[15]	AGR2_blood_biomarker.txt	true
+[13, 14, 15, 16]	MarkerName	Diseases	4	[42]	AGR2_blood_biomarker.txt	UNKNOWN
+[19, 20]	MarkerName	Diseases	36	[10]	AGR2_blood_biomarker.txt	false
+[31]	MarkerName	Abb	131	[2]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[44]	AGR2_blood_biomarker.txt	false
+[10, 11, 12, 13]	MarkerName	Diseases	25	[27]	AGR2_blood_biomarker.txt	false
+[37, 38]	MarkerName	Diseases	184	[25]	AGR2_blood_biomarker.txt	UNKNOWN
+[5, 6]	MarkerName	Diseases	7	[0]	AGR2_blood_biomarker.txt	UNKNOWN
+[17, 18, 19, 20]	MarkerName	Diseases	25	[27]	AGR2_blood_biomarker.txt	false
+[20, 21]	MarkerName	Diseases	47	[14]	AGR2_blood_biomarker.txt	UNKNOWN
+[32, 33]	MarkerName	Diseases	251	[4]	AGR2_blood_biomarker.txt	false
+[25]	MarkerName	Abb	25	[33]	AGR2_blood_biomarker.txt	false
+[42, 43]	MarkerName	Diseases	163	[36]	AGR2_blood_biomarker.txt	UNKNOWN
+[13, 14]	MarkerName	Diseases	195	[180]	AGR2_blood_biomarker.txt	false
+[37, 38]	MarkerName	Diseases	184	[15]	AGR2_blood_biomarker.txt	false
+[18, 19]	MarkerName	Diseases	196	[14]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	208	[12]	AGR2_blood_biomarker.txt	UNKNOWN
+[17, 18]	MarkerName	Diseases	15	[3]	AGR2_blood_biomarker.txt	true
+[4]	MarkerName	Abb	108	[0]	AGR2_blood_biomarker.txt	true
+[18, 19]	MarkerName	Diseases	134	[6]	AGR2_blood_biomarker.txt	UNKNOWN
+[33]	MarkerName	Abb	139	[18]	AGR2_blood_biomarker.txt	false
+[4]	MarkerName	Abb	104	[15]	AGR2_blood_biomarker.txt	false
+[12, 13]	MarkerName	Diseases	117	[157]	AGR2_blood_biomarker.txt	false
+[12]	MarkerName	Abb	109	[16]	AGR2_blood_biomarker.txt	UNKNOWN
+[14]	MarkerName	Abb	117	[60]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	19	[3]	AGR2_blood_biomarker.txt	false
+[18, 19]	MarkerName	Diseases	134	[1]	AGR2_blood_biomarker.txt	false
+[14]	MarkerName	Abb	117	[25]	AGR2_blood_biomarker.txt	false
+[29]	MarkerName	Abb	117	[157]	AGR2_blood_biomarker.txt	false
+[8]	MarkerName	Abb	25	[2]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	2	[2]	AGR2_blood_biomarker.txt	false
+[10, 11]	MarkerName	Diseases	136	[3]	AGR2_blood_biomarker.txt	false
+[5, 6]	MarkerName	Diseases	165	[15]	AGR2_blood_biomarker.txt	false
+[21, 22]	MarkerName	Diseases	13	[8]	AGR2_blood_biomarker.txt	true
+[35, 36]	MarkerName	Diseases	108	[6]	AGR2_blood_biomarker.txt	false
+[39]	MarkerName	Abb	4	[42]	AGR2_blood_biomarker.txt	true
+[13, 14]	MarkerName	Diseases	172	[3]	AGR2_blood_biomarker.txt	true
+[40, 41]	MarkerName	Diseases	254	[38]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[137]	AGR2_blood_biomarker.txt	false
+[32, 33]	MarkerName	Diseases	251	[13]	AGR2_blood_biomarker.txt	false
+[24, 25]	MarkerName	Diseases	186	[8]	AGR2_blood_biomarker.txt	true
+[15]	MarkerName	Abb	25	[27]	AGR2_blood_biomarker.txt	false
+[20, 21]	MarkerName	Diseases	163	[36]	AGR2_blood_biomarker.txt	true
+[1, 2]	MarkerName	Diseases	83	[12]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[148]	AGR2_blood_biomarker.txt	false
+[25, 26]	MarkerName	Diseases	34	[0]	AGR2_blood_biomarker.txt	true
+[17, 18]	MarkerName	Diseases	181	[11]	AGR2_blood_biomarker.txt	false
+[29]	MarkerName	Abb	117	[73]	AGR2_blood_biomarker.txt	false
+[33]	MarkerName	Abb	139	[11]	AGR2_blood_biomarker.txt	UNKNOWN
+[17, 18, 19, 20]	MarkerName	Diseases	25	[33]	AGR2_blood_biomarker.txt	false
+[35, 36]	MarkerName	Diseases	108	[0]	AGR2_blood_biomarker.txt	false
+[15, 16]	MarkerName	Diseases	67	[9]	AGR2_blood_biomarker.txt	true
+[37, 38]	MarkerName	Diseases	184	[31]	AGR2_blood_biomarker.txt	false
+[44, 45]	MarkerName	Diseases	312	[10]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	4	[42]	AGR2_blood_biomarker.txt	UNKNOWN
+[33, 34]	MarkerName	Diseases	124	[1]	AGR2_blood_biomarker.txt	false
+[19, 20]	MarkerName	Diseases	125	[1]	AGR2_blood_biomarker.txt	true
+[8, 9]	MarkerName	Diseases	34	[13]	AGR2_blood_biomarker.txt	false
+[25]	MarkerName	Abb	139	[11]	AGR2_blood_biomarker.txt	UNKNOWN
+[35]	MarkerName	Abb	129	[4]	AGR2_blood_biomarker.txt	true
+[19, 20]	MarkerName	Diseases	114	[7]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[175]	AGR2_blood_biomarker.txt	false
+[31, 32]	MarkerName	Diseases	178	[21]	AGR2_blood_biomarker.txt	true
+[19, 20]	MarkerName	Diseases	114	[0]	AGR2_blood_biomarker.txt	true
+[163, 164]	MarkerName	Diseases	117	[157]	AGR2_blood_biomarker.txt	true
+[13]	MarkerName	Abb	123	[3]	AGR2_blood_biomarker.txt	true
+[18, 19]	MarkerName	Diseases	16	[31]	AGR2_blood_biomarker.txt	true
+[8, 9]	MarkerName	Diseases	183	[3]	AGR2_blood_biomarker.txt	true
+[12, 13]	MarkerName	Diseases	1	[4]	AGR2_blood_biomarker.txt	true
+[18, 19]	MarkerName	Diseases	16	[6]	AGR2_blood_biomarker.txt	true
+[23, 24]	MarkerName	Diseases	198	[10]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	195	[81]	AGR2_blood_biomarker.txt	false
+[16, 17]	MarkerName	Diseases	126	[10]	AGR2_blood_biomarker.txt	false
+[37]	MarkerName	Abb	349	[40]	AGR2_blood_biomarker.txt	false
+[19]	MarkerName	Abb	144	[28]	AGR2_blood_biomarker.txt	false
+[37]	MarkerName	Abb	349	[78]	AGR2_blood_biomarker.txt	false
+[12, 13]	MarkerName	Diseases	117	[73]	AGR2_blood_biomarker.txt	false
+[0, 1]	MarkerName	Diseases	175	[19]	AGR2_blood_biomarker.txt	false
+[10, 11]	MarkerName	Diseases	98	[32]	AGR2_blood_biomarker.txt	true
+[39]	MarkerName	Abb	137	[0]	AGR2_blood_biomarker.txt	UNKNOWN
+[21, 22]	MarkerName	Diseases	13	[3]	AGR2_blood_biomarker.txt	true
+[0, 1]	MarkerName	Diseases	175	[7]	AGR2_blood_biomarker.txt	false
+[15]	MarkerName	Abb	116	[7]	AGR2_blood_biomarker.txt	UNKNOWN
+[0, 1]	MarkerName	Diseases	175	[24]	AGR2_blood_biomarker.txt	false
+[14, 15]	MarkerName	Diseases	0	[6]	AGR2_blood_biomarker.txt	true
+[19]	MarkerName	Abb	144	[26]	AGR2_blood_biomarker.txt	false
+[25, 26]	MarkerName	Diseases	34	[13]	AGR2_blood_biomarker.txt	true
+[18, 19]	MarkerName	Diseases	134	[8]	AGR2_blood_biomarker.txt	true
+[10, 11, 12, 13]	MarkerName	Diseases	25	[2]	AGR2_blood_biomarker.txt	false
+[8, 9]	MarkerName	Diseases	34	[0]	AGR2_blood_biomarker.txt	true
+[7, 8]	MarkerName	Diseases	168	[22]	AGR2_blood_biomarker.txt	true
+[20, 21]	MarkerName	Diseases	163	[2]	AGR2_blood_biomarker.txt	false
+[17, 18, 19, 20]	MarkerName	Diseases	25	[2]	AGR2_blood_biomarker.txt	false
+[18, 19]	MarkerName	Diseases	128	[6]	AGR2_blood_biomarker.txt	true
+[15, 16]	MarkerName	Diseases	67	[4]	AGR2_blood_biomarker.txt	false
+[13, 14]	MarkerName	Diseases	185	[4]	AGR2_blood_biomarker.txt	true
+[25]	MarkerName	Abb	25	[2]	AGR2_blood_biomarker.txt	false
+[32, 33]	MarkerName	Diseases	251	[1]	AGR2_blood_biomarker.txt	false
+[25, 26, 27, 28]	MarkerName	Diseases	4	[42]	AGR2_blood_biomarker.txt	UNKNOWN
+[25]	MarkerName	Abb	139	[18]	AGR2_blood_biomarker.txt	false
+[16, 17]	MarkerName	Diseases	150	[4]	AGR2_blood_biomarker.txt	UNKNOWN
+[12, 13]	MarkerName	Diseases	33	[0]	AGR2_blood_biomarker.txt	true
+[7, 8]	MarkerName	Diseases	124	[1]	AGR2_blood_biomarker.txt	true
+[33, 34]	MarkerName	Diseases	124	[14]	AGR2_blood_biomarker.txt	false
+[18]	MarkerName	Abb	4	[42]	AGR2_blood_biomarker.txt	UNKNOWN
+[24, 25]	MarkerName	Diseases	164	[0]	AGR2_blood_biomarker.txt	false
+[25, 26]	MarkerName	Diseases	179	[10]	AGR2_blood_biomarker.txt	UNKNOWN
+[37]	MarkerName	Abb	349	[85]	AGR2_blood_biomarker.txt	false
+[39]	MarkerName	Abb	137	[8]	AGR2_blood_biomarker.txt	UNKNOWN
+[42, 43]	MarkerName	Diseases	187	[37]	AGR2_blood_biomarker.txt	true
+[24, 25]	MarkerName	Diseases	164	[16]	AGR2_blood_biomarker.txt	true
+[13, 14]	MarkerName	Diseases	195	[128]	AGR2_blood_biomarker.txt	false
+[163, 164]	MarkerName	Diseases	117	[25]	AGR2_blood_biomarker.txt	false
+[8]	MarkerName	Abb	25	[33]	AGR2_blood_biomarker.txt	false
+[11, 12]	MarkerName	Diseases	35	[7]	AGR2_blood_biomarker.txt	true
+[12, 13]	MarkerName	Diseases	133	[4]	AGR2_blood_biomarker.txt	true
+[25, 26]	MarkerName	Diseases	163	[36]	AGR2_blood_biomarker.txt	UNKNOWN
+[10, 11]	MarkerName	Diseases	91	[19]	AGR2_blood_biomarker.txt	false
+[4]	MarkerName	Abb	108	[26]	AGR2_blood_biomarker.txt	false
+[6, 7]	MarkerName	Diseases	209	[12]	AGR2_blood_biomarker.txt	true
+[163, 164]	MarkerName	Diseases	117	[60]	AGR2_blood_biomarker.txt	false
+[12, 13]	MarkerName	Diseases	117	[40]	AGR2_blood_biomarker.txt	false
+[19, 20]	MarkerName	Diseases	125	[30]	AGR2_blood_biomarker.txt	UNKNOWN
+[25, 26]	MarkerName	Diseases	163	[2]	AGR2_blood_biomarker.txt	false
+[19, 20]	MarkerName	Diseases	114	[34]	AGR2_blood_biomarker.txt	false
+[14]	MarkerName	Abb	117	[157]	AGR2_blood_biomarker.txt	false
+[26, 27]	MarkerName	Diseases	210	[7]	AGR2_blood_biomarker.txt	true
+[4, 5]	MarkerName	Diseases	164	[16]	AGR2_blood_biomarker.txt	true
+[40, 41]	MarkerName	Diseases	254	[22]	AGR2_blood_biomarker.txt	false
+[1]	MarkerName	Abb	257	[1]	AGR2_blood_biomarker.txt	false
+[44, 45]	MarkerName	Diseases	312	[32]	AGR2_blood_biomarker.txt	false
+[6, 7]	MarkerName	Diseases	224	[0]	AGR2_blood_biomarker.txt	true
+[19, 20]	MarkerName	Diseases	111	[9]	AGR2_blood_biomarker.txt	UNKNOWN

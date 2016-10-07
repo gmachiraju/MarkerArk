@@ -1,0 +1,200 @@
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 5
+
+Association of Biomarkers with Breast Cancer
+
+The distributions of the 3 markers, as measured by immunoassays, in cases and controls, are
+shown in Figure 1. Distributions of the patients with breast cancer differed from controls
+(female or male) for ALCAM, but to a lesser degree for the other two markers. The median
+values of males and females were similar for all 3 markers. When comparing the ALCAM
+values between normal women (n = 100) and patients with breast cancer (n = 150) by the
+non-parametric Mann Whitney test (two-tailed), the medians were significantly different
+(median normals = 60 g/L; median cancer = 74 g/L; P<0.0001). For CA15-3, the medians
+were significantly different (median normals = 15 units/mL; median cancer = 21 units/mL;
+P<0.0001). Lastly for CEA, the medians were different (median normals = 1.3 g/L; median
+cancer = 1.9 g/L; P = 0.0003). The association of the markers with cancer was further
+considered with linear regression models of logarithm-transformed marker values as a
+function of clinical status (cancer vs non-cancer; females only) and age. Adjusting for age,
+the mean levels of log(CA15-3) and log(ALCAM) were significantly higher in cancer;
+levels of log(CEA) did not differ between cancer and controls.
+
+We also considered logistic regression models to further characterize the associations
+between markers and breast cancer, adjusting for age. Similar to the results from linear
+regression, we found that two individual markers, CA15-3 (OR=1.12, 95% CI [1.04,1.19])
+and ALCAM (OR=1.42, 95% CI [1.14,1.77]) univariately predicted breast cancer, but this
+was not the case for CEA (OR=0.99, 95% CI [0.95,1.05]). In a logistic regression model,
+which included age and all three markers, we found that CA15-3 and ALCAM
+independently predicted breast cancer. Results from the logistic regression models are given
+in Table 3.
+
+The Diagnostic Values of the Three Markers
+
+ROC curve analysis (Figure 2) was used to quantify the diagnostic value of the three
+markers. All three markers have AUC significantly better than 0.5, with ALCAM having the
+best performance (AUC=0.78, 95% CI [0.73,0.84]). The superiority of ALCAM over the
+other two markers was also evident when we considered sensitivities at fixed values of 90%
+and 80% specificities, respectively (Table 4). For example, at specificity of 80%, ALCAM
+yielded a sensitivity of 60%, compared with 48% for CA15-3. Likewise, at 90% specificity,
+ALCAM displayed higher sensitivity than CA15-3 and CEA. Combining CA15-3 and
+ALCAM, based on the linear predictors from a logistic regression model, yielded a ROC
+curve with an AUC of 0.81 (bootstrap 95% CI [0.75, 0.87]). Combining CA15-3, ALCAM
+and CEA did not result in any improvement in ROC curves compared to CA15-3 and
+ALCAM. Re-sampling methods which aimed to adjust for over-fitting21 did not yield
+substantially different results.
+
+Discussion
+
+Most primary cancers show loss of expression of adhesion molecules to allow for a critical
+step in metastasis to occur: detachment of the invading cell from its neighbors 22, 23.
+However, a number of potential reasons exist for observing elevated levels of adhesion
+molecules such as ALCAM in cancer patients versus normal individuals. First, increased
+homotypic intercellular adhesion (due to elevated levels of these molecules) may favor the
+metastatic process since cell aggregates, rather than single cells breaking away from the
+primary tumor, have a greater chance of survival in the circulation and of lodging in other
+organs24. Second, it is known that cell adhesion is necessary for the metastatic spread of
+cancer cells to new organs (secondary tumor establishment)23. As well, overproduction of
+adhesion molecules may disrupt the normally operative intercellular adhesion forces,
+allowing more cell movement and the adoption of a less ordered tissue architecture25. An
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o

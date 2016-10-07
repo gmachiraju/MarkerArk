@@ -1,0 +1,1960 @@
+NIH Public Access
+Author Manuscript
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Future Oncol. 2012 January ; 8(1): 55–71. doi:10.2217/fon.11.135.
+
+Protein biomarkers of ovarian cancer: the forest and the trees
+Brian M Nolen1,2 and Anna E Lokshin1,2,3,4,*
+1University of Pittsburgh Cancer Institute, Hillman Cancer Center, 5117 Centre Avenue 1.18,
+Pittsburgh, PA 15213, USA
+2Department
+
+of Medicine, School of Medicine, University of Pittsburgh, 1218 Scaife Hall, 3550
+Terrace Street, Pittsburgh, PA 15213, USA
+3Department
+
+of Pathology, School of Medicine, University of Pittsburgh, S-417 BST, 200 Lothrop
+Street, Pittsburgh, PA 15261, USA
+4Department
+
+of Ob/Gyn, School of Medicine, University of Pittsburgh, 300 Halket Street,
+Pittsburgh, PA 15213, USA
+
+NIH-PA Author Manuscript
+
+Abstract
+
+NIH-PA Author Manuscript
+
+Keywords
+
+The goal of effective population-based screening for ovarian cancer remains elusive despite
+intense efforts aimed at improving upon biomarker and imaging modalities. While dozens of
+potential serum biomarkers for ovarian cancer have been identified in recent years, none have yet
+overcome the limitations that have hindered the clinical use of CA-125. Avenues of opportunity in
+biomarker development are emerging as investigators are beginning to appreciate the significance
+of remote, as well as local or regional, sources of biomarkers in the construction of diagnostic
+panels, as well as the importance of evaluating biomarkers in prediagnostic settings. As the list of
+candidate biomarkers of ovarian cancer continues to grow, refinements in the methods through
+which specific proteins are selected for further development as components of diagnostic panels
+are desperately sought. Such refinements must take into account both the bioinformatic and
+biological significance of each candidate. Approaches incorporating these considerations may
+potentially overcome the challenges to early detection posed by the histological heterogeneity of
+ovarian cancer. Here, we review the recent progress achieved in efforts to develop diagnostic
+biomarker panels for ovarian cancer and discuss the challenges that remain.
+
+biomarkers; host response; ovarian cancer; pelvic mass; screening; tumor microenvironment
+Ovarian cancer represents the eighth most common cancer among women and the second
+most frequently diagnosed gynecological malignancy in the USA and Europe [1]. The
+overall mortality attributed to ovarian cancer exceeds that of any other gynecological cancer
+with over 50% of the 200,000 women or more newly diagnosed each year worldwide
+
+© 2012 Future Medicine Ltd
+*
+Author for correspondence: Tel.: +1 412 623 7706, Fax: +1 412 623 1415, lokshina@pitt.edu.
+For reprint orders, please contact: reprints@futuremedicine.com
+Financial & competing interests disclosure
+The authors receive the following grants: R01CA108990, R21CA143736, UPCI CCSG – P30CA047904, OCRF, Gynecological
+Center of Excellence – W81XWH-05-2-0005/US. The authors have no other relevant affiliations or financial involvement with any
+organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript
+apart from those disclosed.
+No writing assistance was utilized in the production of this manuscript.
+
+Nolen and Lokshin
+
+Page 2
+
+NIH-PA Author Manuscript
+
+expected to perish from the disease [201]. A critical factor in the elevated mortality
+associated with ovarian cancer is the lack of disease-specific symptoms. This difficulty is
+underscored in a joint recommendation recently issued by a high-profile consortium of
+public health organizations termed the Ovarian Cancer Symptom Index, which listed
+bloating, pelvic or abdominal pain, difficulty eating/fullness and urinary symptoms as those
+more likely to occur in ovarian cancer patients than healthy women [2]. Compounding the
+problem of ubiquitous clinical presentation is the observation that the majority of early-stage
+cancers are asymptomatic, resulting in over three-quarters of all diagnoses being made at a
+time when the disease has already established regional or distant metastases [3]. Despite
+aggressive cytoreductive surgery and platinum-based chemotherapy, the 5-year survival rate
+for patients with clinically advanced ovarian cancer is only 15–20%, although the cure rate
+for stage I disease is usually greater than 90% [3,4]. This strongly suggests that finding and
+removing tumors that remain confined to the ovary should confer a substantial improvement
+in survival. A stochastic model developed for annual screening indicated that shifting
+diagnosis from late (stage III) to early (stage I) stages could result in 3.4 years of life saved
+per patient [5]. Therefore, biomarker-based screening methodologies aimed at detecting
+ovarian cancer at its earliest stages have the potential to result in substantial improvements
+in overall survival for this disease.
+
+Screening for early disease: requirements & reality
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Considering the low prevalence of ovarian cancer, any proposed screening strategy must
+demonstrate a minimum specificity (SP) of 99.6% and a sensitivity (SN) of >75% to achieve
+a positive predictive value of 10% and avoid an unacceptable level of false-positive results
+[6,7]. Present methods for detecting ovarian cancer include physical examination,
+assessment of symptoms, imaging by several modalities (transvaginal ultrasound [TVS],
+Doppler ultrasound, CT, MRI and PET), and serum levels of the CA-125 biomarker of
+ovarian cancer [8–10]. CA-125 is the most robust and well-known serum biomarker for
+detection of ovarian cancer. The initial finding of CA-125 levels greater than 35 U/ml in
+approximately 83% of patients with advanced epithelial ovarian cancer and in only 1–2% of
+the normal population led to investigations into its use as a biomarker for ovarian cancer
+[11,12]. Furthermore, elevated levels of CA-125 are most strongly associated with serous
+tumors, which represent the most aggressive histological type of ovarian cancer [13].
+Subsequent analyses of CA-125 have revealed a number of limitations for the test. Although
+CA-125 is frequently elevated in advanced-stage ovarian cancer, the protein is elevated in
+less than 50% of stage I disease and is often normal in mucinous, endometrioid and clearcell carcinomas [14–20]. Moreover, a number of benign and malignant conditions may
+result in falsely elevated CA-125 values [21,22]. Additional factors may influence the
+CA-125 level, such as race/ethnicity, age, hysterectomy, smoking history and obesity [23].
+Despite these well-recognized limitations, CA-125 is the most widely studied serum
+biomarker for ovarian cancer. The best currently available protocol for early detection of
+ovarian cancer, a combination of screening for elevated CA-125 and TVS in the presence of
+elevated CA-125 [24,25], does not meet the stringent criteria for cost–effectiveness
+espoused by the US Preventive Services Task Force [26]. As a result, no professional group
+currently recommends screening for ovarian cancer in the general population [27–29]. Thus,
+there is a critical need to develop additional informative biomarkers capable of
+complementing CA-125 in order to achieve the requisite diagnostic performance necessary
+for clinical advancement.
+Two large, randomized trials that were designed to determine whether ovarian-cancer
+screening improves survival have completed the enrollment of patients. In the Prostate,
+Lung, Colon, and Ovarian (PLCO) Cancer Screening Trial, 34,261 healthy women between
+the ages of 55 and 74 years of age were randomly assigned to undergo either annual CA-125
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 3
+
+NIH-PA Author Manuscript
+
+testing plus TVS or to receive ‘usual care’ [30]. A positive finding was defined as a CA-125
+level of more than 35 U/ml or TVS evidence of an abnormal ovarian volume, or an ovarian
+cyst with papillary projections or solid components. Diagnostic follow-up of positive
+screens was performed at the discretion of participants’ physicians. The positive predictive
+value of a positive screening test was 1.0–1.3% during the 4 years of screening. The overall
+ratio of surgeries to screen-detected cancers was 19.5:1. Importantly, 72% of screendetected cases were stage III or IV, indicating that screening has not resulted in stage shift
+[30]. The PLCO project team recently released its report in which they conclude that the
+CA-125/TVS screening approach does not reduce disease-specific mortality in comparison
+with usual care, but does result in an increase in invasive medical procedures and associated
+harms [31].
+
+NIH-PA Author Manuscript
+
+In the United Kingdom Collaborative Trial of Ovarian Cancer Screening (UKCTOCS),
+202,638 postmenopausal women between the ages of 50 and 74 years, who were deemed to
+be at average risk for ovarian cancer, were randomly assigned to undergo annual pelvic
+examination (control group), annual TVS (ultrasonography or USS group) or annual
+measurement of CA-125 (evaluated over time with the use of ROCA) plus TVS in cases in
+which the CA-125 level was elevated (multimodality or MMS group) [32]. Women with
+persistent abnormality on repeat screens underwent evaluation by a clinical oncologist and,
+where appropriate, surgery. As compared with ultrasonography alone, multimodality
+screening had a significantly greater SP (99.8 vs 98.2%) and a higher positive predictive
+value (35.1 vs 2.8%); (p < 0.001); SN did not differ significantly between the two groups.
+The proportion of primary invasive ovarian and fallopian tube cancers diagnosed with stage
+I/II disease (48%) was encouraging compared with the 26% rate in the clinical series [33]
+and 22% in the prevalence screen of the PLCO screening trial in the USA [34]. Both the
+USS and MMS arms demonstrated a higher proportion of stage I–II cancers. The apparent
+difference between PLCO and UKCTOCS in proportion of screen-detected early cases could
+possibly be explained by the mode of diagnostic follow-up utilized in each trial wherein the
+suspicious cases identified in the PLCO trial were cared for by their physicians and in the
+UKCTOCS trial the majority were referred to a gynecologic oncologist.
+
+Ovarian cancer screening biomarkers: the forest
+Phases of cancer biomarker development
+
+NIH-PA Author Manuscript
+
+Biomarker development efforts to date clearly indicate that no individual biomarker,
+including CA-125, can provide sufficient SN at high SP for the early detection of ovarian
+cancer. Therefore, in order to devise a robust multimarker algorithm, it is necessary to
+identify additional informative biomarkers that complement CA-125. According to the
+requirements of the Early Detection Research Network/NIH, biomarker development should
+include five phases; preclinical exploratory Phase I, clinical development and validation in
+Phase II, validation in a retrospective longitudinal study in Phase III, prospective screening
+in Phase IV and randomized clinical trials in Phase V [35].
+Methodological approaches to protein biomarkers development
+Noninvasive biomarker testing is essential for practical general population monitoring.
+Therefore, biomarkers that can be detected in bodily fluids such as blood, urine, saliva or
+cervical mucus could be considered. The candidate marker must be both stable in these body
+fluids and present in quantities that can quantitatively differentiate individuals with ovarian
+cancer from individuals without disease. In the arena of Phase I protein biomarker
+development, a number of conceptual and methodological approaches have been utilized for
+biomarker discovery in bodily fluids. Early efforts, including those responsible for the
+identification of CA-125, described the analysis of murine antibodies capable of reacting
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 4
+
+NIH-PA Author Manuscript
+
+with tumor cells from ovarian cancer patients [36–38]. Later, biomarker discovery was
+achieved primarily by means of high-throughput screening methodologies, such as genomic,
+transcriptional and proteomic profiling [39–50]. Proteomic profiling provides direct
+information about proteins differentially expressed in cancer patients and control
+individuals. Such profiling has been performed by mass spectrometry [40] and, lately,
+through the use of antibody arrays, such as multiplex bead-based arrays or reverse antigen
+arrays [51,52]. Both approaches have limitations. To date, MS-based methods have
+demonstrated limited analytical SN and, consequently, most of the biomarkers discovered by
+proteomics represent high abundance, predominantly acute-phase proteins [53]. Recently,
+developed methods aimed at the depletion of abundant serum proteins may overcome this
+limitation and lead to the enhanced discovery of lower-abundance biomarkers [54,55].
+Immunoassays permit the analysis of proteins present in bodily fluids at much lower
+concentrations – as low as fg/ml – but this approach is limited by the availability of suitable
+immunoassays. However, the menu of candidate biomarker immunoassays continues to
+expand as the popularity of multiplex bead-based platforms grows. For instance, three large
+screening exercises aimed at the identification of ovarian cancer biomarkers using multiplex
+bead-based immunoassays evaluated over 300 candidate biomarkers in serum obtained from
+large groups of ovarian cancer patients and controls [51,52,56].
+
+Individual biomarkers of ovarian cancer: the trees
+NIH-PA Author Manuscript
+
+Our review of the relevant literature identified over 160 proteins reported to be differentially
+expressed in early ovarian cancer compared with healthy controls (Table 1). The ongoing
+analysis of these proteins, and the biological and pathological pathways they regulate could
+provide powerful tools for determining the mechanisms of ovarian cancer initiation and
+progression that could eventually lead to individualized biological therapies. However, as
+mentioned above, further validation steps are necessary to determine the value if these
+proteins, and relatively few have been evaluated in studies that meet the criteria for Phases II
+and/or III biomarker development [51,52,57–61].
+Origin of ovarian cancer biomarkers: tumor–stroma interaction
+
+NIH-PA Author Manuscript
+
+The complex and multifaceted process of ovarian epithelial tumorigenesis necessitates the
+development of an equally complex tumor microenvironment. Within this
+microenvironment, tumor cells, stromal fibroblasts and infiltrating leukocytes produce a
+multitude of autocrine and paracrine factors, including but not limited to cytokines,
+chemokines, growth factors, hormones, inflammatory mediators and acute-phase reaction
+molecules. It is this complex signaling network that mediates tumor/stroma interactions and
+facilitates tumor proliferation, invasion, neoangiogenesis and metastasis. As illustrated in
+Table 1, concentrations of numerous proteins involved in the above listed tumorigenic
+biological functions listed above are altered in the circulation of ovarian cancer patients.
+Mediators of inflammation, including cytokines and acute-phase reactants, were the most
+numerous among the various biological groups identified in our review, followed by
+adhesion molecules/proteases, growth/angiogenic factors and hormones.
+Biomarkers of ovarian cancer reflect different biological pathways of ovarian
+tumorigenesis
+The Ingenuity® pathway analysis software was utilized in an in-depth functional analysis of
+the ovarian cancer biomarkers presented in Table 1. This analysis identified acute-phase
+response signaling as a top canonical pathway and inflammatory response as a top biological
+function associated with most ovarian cancer biomarkers (97/157 biomarkers = 62%). In
+addition, cellular movement, cell-to-cell signaling, proliferation and cell death were
+identified as primary molecular and cellular functions associated with ovarian cancer
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 5
+
+NIH-PA Author Manuscript
+
+biomarkers (Table 2). With respect to network analysis, most ovarian cancer biomarkers fall
+into three major networks responsible for key aspects of cancer development (Table 3).
+Network 1 (70/157 = 45% of molecules) regulates invasion/metastasis, neoangiogenesis and
+immune responses; network 2 (24% of molecules) is responsible for DNA functions; and
+network 3 (14% of molecules) controls the cell cycle and inflammation. Of these multiple
+biomarkers, demonstrating strong association with ovarian cancer, the biomarkers with the
+highest informative value, singly or combined into multibiomarker panels, must be selected.
+In this selection process (feature selection), a two-pronged approach must be utilized
+considering both bioinformatics and the biological aspects of each biomarker or biomarker
+combination.
+
+Feature selection
+Biological considerations
+The selection of the most informative biomarkers represents the most crucial and
+challenging aspect of biomarker development. Prior to applying a bioinformatics-based
+feature selection, candidate biomarkers must be prioritized based on biological
+considerations that should include the following characteristics:
+
+NIH-PA Author Manuscript
+
+•
+
+A biomarker should demonstrate measurable alterations in noninvasive samples
+obtained from patients with early-stage or preclinical disease;
+
+•
+
+Collectively, biomarkers should be informative for all histological and pathological
+subtypes of a given cancer. In the setting of ovarian cancer, this includes the
+histological types (e.g., serous, mucinous, endometrioid, clear cell and less
+common subtypes), and the pathologically distinct type I and II tumors (described
+in [62]);
+
+•
+
+Individual biomarkers should be sufficiently reliable. The justification for a
+sufficiently high intraclass correlation index between temporal replicates depends
+on two factors: the magnitude of the intraclass correlation; and the degree of
+overlap, or difference in mean expression, for the distributions of that biomarker
+(i.e., between cases and controls). Specifically, the 95% confidence interval for the
+median difference between cases and controls should exclude 0 for a given
+biomarker to be considered in further analysis.
+
+Bioinformatics approaches
+
+NIH-PA Author Manuscript
+
+Biomarkers prioritized based on biological considerations should be further filtered using
+bioinformatic approaches that rely on optimized feature selection of high-dimensional data.
+The rule of thumb for feature selection is that features must be discriminant and add
+information to existing biomarkers in the panel for the best separation of the two groups. In
+the context of ovarian (or any other) cancer, the additive information feature means that
+selected biomarkers should increase SN at the same high SP over CA-125 used alone.
+Feature selection algorithms can be divided into three categories: filters, wrappers or
+embedded methods [63]. A filter method ranks features based on an evaluation measure, and
+then selects a subset of features that are ranked highly (e.g., two sample t-test). Using this
+method, biomarkers were selected from Phase II to Phase III in a PLCO collaborative
+exercise [64]. A wrapper method searches for the best set of features by repeated selection
+and assessment of a subset of features using a classification algorithm. An example of a
+wrapper method is the approach utilized in our work based on a Metropolis algorithm with
+Monte Carlo simulation [51]. Embedded methods include feature selection inside of the
+classifier training process. For example, decision trees implicitly determine which features
+are more discriminant and use them in the learning of tree structures. Finally, the resulting
+combination should not only be sensitive and specific but also selective for a given
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 6
+
+condition with respect to other nonrelated diseases that have the potential to confound
+clinical diagnosis. Below, we will discuss some aspects of feature selection.
+
+NIH-PA Author Manuscript
+
+Approaches & controversies in biologically based feature selection
+Tumor versus stroma as sources of biomarker origin
+
+NIH-PA Author Manuscript
+
+There are several conceptual beliefs regarding biomarker prioritization that were not
+included in the list above. For example, there is an opinion that only those proteins that are
+directly released by tumor cells should be considered as cancer biomarkers [65]. In
+accordance with this notion, many of the biomarkers listed in Table 1 would not be
+considered as they are known to originate from various extratumoral sources (e.g., liver for
+acute-phase proteins and pituitary gland for pituitary hormones). However, growing
+evidence suggests that many of these so-called extratumoral biomarkers are likely to be
+secreted by the growing tumor. For example, ovarian tumors and primary fallopian cells in
+vitro are capable of secreting, in addition to CA-125, HE4 and CA 15–3, multiple acutephase reactants, inflammatory mediators, and additional molecules [Nolen LBM, Lokshin
+AE, Unpublished Data] [66–68]. For example, the gastrointestinal hormone, ghrelin, has
+been shown to be expressed in the human ovary and also in inclusion cysts within the
+ovarian surface epithelium, where it induces cell proliferation, indicating a potential
+tumorigenic role [69]. Likewise, matrix metalloproteinases (MMPs) could originate from
+multiple sources within the tumor microenvironment, including tumor cells themselves, as
+well as the stroma, where they are presumably produced in response to growth factor and
+cytokine signaling [70,71]. Another example is the pituitary hormone, prolactin, which has
+been shown to be produced by several nonpituitary sources, including ovarian tumor cells,
+using an alternate promoter; and also functions as an ovarian tumor promoter in vitro [72]. It
+is possible that proteins secreted from tumor and from extratumoral sources are
+differentially modified. For example, previous reports have indicated alterations in
+haptoglobin, α1-acid glycoprotein and α1-antichymotrypsin in ovarian cancer patients [73].
+Ovarian tumor cells also secrete cytokines that can influence glycan processing in both the
+tumor cells and surrounding tissue [74]. Recent data indicate that ovarian tumor cells secrete
+factors that alter the glycosylation profile of liver proteins, and raise the possibility that
+some of the altered glycoforms of haptoglobin, α1-acid glycoprotein and α1antichymotrypsin may be tumor derived [75].
+Acute-phase reactants
+
+NIH-PA Author Manuscript
+
+All biological aspects of feature selection are empirical by default, meaning that every
+conclusion should be experimentally supported. One example illustrating the necessity of
+experimental confirmation is the recent debate on the value of acute-phase reactants as
+ovarian cancer biomarkers for early detection. The acute-phase is controlled by the balance
+of proinflammatory cytokines (IL-6, IL-8, IL-1b, TNF-α and IFN-γ), anti-inflammatory
+molecules (IL-4, IL-10, IL-13 and TGF-β) and the inhibitors of proinflammatory cytokines
+(soluble TNF-α receptor, soluble IL-1 receptor and IL-1). Proinflammatory cytokines
+stimulate the increased production of positive acute-phase proteins (C-reactive protein
+[CRP], serum amyloid A, haptoglobin, α1-acid glycoprotein, α1-antitrypsin, α1antichymotrypsin and fibrinogen) and decreased production of negative acute-phase proteins
+(albumin and transferrin) by the liver [76,77]. As shown above, multiple ovarian cancer
+biomarkers represent acute-phase reactants and acute-phase response signaling is a top
+canonical pathway of ovarian cancer. Several statements have been published casting doubt
+on the usability of acute-phase reactants for early detection of ovarian cancer based on the
+belief that these biomarkers are altered as a part of an inflammatory response to late-stage
+ovarian cancer [78–81]. However, acute-phase reactants, as well as many proteins
+conventionally considered to represent late systemic responses could, in fact, play a
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 7
+
+NIH-PA Author Manuscript
+
+causative role in cancer development. For example, inflammatory cytokines and acute-phase
+response proteins could be a part of an initial ‘para-inflammation’ phenomenon provoked by
+a premalignant lesion [82]. During a para-inflammatory response, leukocytes and other
+phagocytic cells produce an array of cytokines and reactive nitrogen and oxygen species,
+that upon repeated exposure, result in permanent DNA damage in endothelial and epithelial
+cells [83–85]. Additionally, cytokines and acute-phase reactants play multiple roles in early
+cancer development, from inducing tumor growth and inhibiting apoptosis to stimulating
+angiogenesis (Table 1) [85–92]. For example, apart from being a serine protease inhibitor,
+α1-antitrypsin stimulates the production of HGF, and was found to induce the proliferation
+of fibroblasts and the synthesis of procollagen in culture [93,94]. Another acute-phase
+reactant, ceruloplasmin, which serves as the major copper transport enzyme in blood, also
+acts as a molecular switch for activating proangiogenic factors [95]. The potential
+differential expression of acute-phase reactants/inflammatory molecules in early-stage or
+premalignant lesions has to be ascertained experimentally. In fact, levels of the acute-phase
+reactant, B2M, were altered in the sera of women participating in the PLCO trial who were
+diagnosed with ovarian cancer 0–2 years after the blood draw [64,96].
+Upregulated versus downregulated cancer biomarkers
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Another paradigmatic concept of a diagnostic biomarker holds that a particular protein must
+be increased in biological fluids from cancer patients. The findings presented in Tables 1–4
+indicate the need for a revision of this concept as proteins that are present at lower
+circulating levels in cases versus controls have been incorporated into useful biomarker
+panels. Examples of this type of biomarker include EGF receptor (EGFR) and ApoA1, two
+biomarkers selected based on their usefulness in diagnostic panels which are observed at
+lower levels in ovarian cancer patients in comparison with controls and are likely to be
+produced, at least in part, by extratumoral local or systemic sources [51,52,57,58,97,98].
+Further review of the findings reported in several expansive biomarker studies which
+utilized multiplex bead-based immunoassay platforms [Nolen LBM, Lokshin AE,
+Unpublished Data] [51,99] identified a total of 111 biomarkers found to be significantly
+altered between the case and control groups (Table 5). By consensus, 69 or 62% of the
+significant biomarkers found in these studies were elevated in the ovarian cancer groups,
+while 41 (or 38%) were decreased. With the exception of carbohydrate antigen tumor
+markers (CA-125, CA 19–9, CA 15–3 and CA 72–4), which are all elevated in the cancer
+groups, each other functional category presented in Table 1 is represented by both
+overexpressed and underexpressed biomarkers. Some protein families contain both up- and
+downregulated representatives, such as the IGF family of proteins, where IGFBP-1, -2, -4
+are increased in ovarian cancer while IGF-1 and IGFBP-3, -6 are decreased (Table 5). The
+differential pattern of serum alterations reported in our reviewed studies suggests a complex
+mechanism for the various member of the IGF family in ovarian cancer. Similarly, among
+MMPs, MMP-2 and -3 were observed to be downregulated in ovarian cancer while MMP-7
+and -9 were elevated. The majority of the hormones examined in the three studies were
+found to be downregulated in ovarian cancer. Interestingly, these underexpressed hormones
+include FSH, whose serum levels normally increased in post-menopausal women [100,101].
+It has been speculated that this decrease indicates increased binding of FSH to its receptors,
+which is irreversible at body temperature and results in permanent removal from the
+circulation [102]. Other protein biomarkers underexpressed in ovarian cancer include
+ApoA1 and transthyretin (TTR), which have been evaluated extensively as components of
+diagnostic panels for ovarian cancer and may originate from tumoral, local or systemic
+sources [62,68,103,104]. The adhesion molecule, VCAM-1, was observed to be
+downregulated in ovarian cancer in two studies and this alteration led to its inclusion in a
+highly effective diagnostic panel in our recent report [51]. Among other biomarkers
+downregulated in the circulation of patients with ovarian cancer are eotaxin-1 and -2, IL-18,
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 8
+
+NIH-PA Author Manuscript
+
+macrophage-derived chemokine, XCL1, EGFR, BDNF, ErbB2, IGFBP-3 and -6, IGF-I,
+PEDF, SCF, VCAM-1, MMP-2 and -3, NCAM, adiponectin, ERα, ghrelin, GIP, insulin,
+leptin, leuteinizing hormone, osteocalcin, thrombopoietin, α2-macroglobulin, ApoA1, CIII,
+H, clusterin, complement C3 and C4, factor VII, fetuin A, TTR, Fas, perforin and CK-MB
+(Table 4). While mechanisms leading to lower circulating concentrations of these proteins
+are likely to vary, some may be attributed to increased clearance from the circulation
+through renal filtration. This notion is supported by the observation of increased urinary
+concentrations of eotaxin-1, EGFR, ErbB2 and VCAM-1 in patients with ovarian cancer as
+compared with healthy individuals [Nolen LBM, Lokshin AE, Unpublished Data].
+Elsewhere, irreversible binding to cognate receptors on proliferating tumor cells [105] or
+internalization could result in lower blood levels. Additionally, differential glycosylation
+patterns could affect half-life of some biomarkers in circulation [75,106,107].
+
+Biomarkers of different subtypes of ovarian carcinoma
+Histological subtypes
+
+NIH-PA Author Manuscript
+
+Current evidence strongly suggests differential mechanisms of pathogenesis, genetic
+alterations and clinical behavior among the major histological subtypes of ovarian cancer,
+which include serous, endometrioid, mucinous and clear cell carcinomas (reviewed in
+[108]). These subtypes are increasingly considered to be distinct diseases originating from
+separate nonovarian tissues through mechanisms involving the presence or absence of
+specific precursors, including endometriosis. The tumor marker CA-125 is most highly
+associated with high-grade serous carcinomas, the most prevalent and aggressive ovarian
+cancer subtype, with other subtypes exhibiting only limited expression [18–20].
+
+NIH-PA Author Manuscript
+
+A number of the most intensely evaluated ovarian cancer biomarkers, including several of
+those selected in diagnostic panel development (Table 4) have shown some evidence of
+subtype SP in various reports. Expression of carcinoembryonic antigen (CEA) is associated
+with the mucinous subtype [109], and CEA was consistently selected by our MMC
+algorithm as part of a multimarker panel for a set of ovarian cancers representing different
+histologies [Nolen LBM, Lokshin AE, Unpublished Data] [51]. The expression of MMP-2,
+-7 and -9 have been well described in serous ovarian carcinomas with links to disease
+progression [1,110,111]. Expression of MMP-7 and -14 has also been noted in mucinous
+and clear cell carcinomas, respectively [112,113]. Expression of IGF-II by ovarian cancer
+cells was found to be associated with serous histology and this expression was driven by
+distinct promoters in comparison with nonserous histologies [114,115]. In separate studies,
+VEGF was found to be frequently expressed in both serous and clear cell ovarian
+carcinomas, and was proposed as a potential therapeutic target for these subtypes [2,116].
+M-CSF is expressed by both serous and mucinous ovarian cancers, and is believed to
+stimulate the phenotypic shift of tumor-associated macrophages to M2, thus promoting
+tumor growth [117]. Based on our reviewed findings and another recent publications, it
+would appear that high-grade serous carcinoma is associated with a larger array of
+aberrantly expressed biomarkers than other subtypes [118]. When biomarker combinations
+were considered, the panel of ApoAI, TTR and TF demonstrated particular utility in the
+detection of mucinous and endometrioid ovarian carcinomas [68,104,119].
+Classes of ovarian cancer: type I versus type II
+Kurman and colleagues have described two classes of ovarian cancer. Type I tumors are
+low-grade serous, low-grade endometrioid, clear cell, mucinous, and transitional carcinomas
+that exhibit Ras and Raf mutations, slow indolent growth and generally present as early
+stage. Type II tumors include high-grade serous, undifferentiated and malignant mixed
+mesodermal cancers with p53 mutations, are highly aggressive, evolve rapidly and present at
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 9
+
+NIH-PA Author Manuscript
+
+an advanced stage [62]. Currently, the most urgent unmet need is to more effectively screen
+for type II cancers, where the clinical benefit will be greatest. This will require sensitive and
+specific biomarkers that are expressed during ovarian carcinogenesis and reach the
+peripheral circulation at levels distinguishable from those in healthy individuals at a point
+sufficiently early to permit interventions that can alter the natural history of the disease. If,
+however, detecting type II ovarian cancer at an early stage proves difficult, the identification
+of women with small volume disease offers a reasonable alternative, as these are patients
+known to benefit most from chemotherapy. Detection of type II cancers from within highrisk populations has been particularly difficult and the use of multiple markers might
+improve SN [120]. To date, only one study examined levels of multiple biomarkers (MIF,
+Prolactin, CA-125, OPN, leptin, IGF-II and autoantibodies to p53) in plasma of type I and
+type II ovarian cancer and concluded that these biomarkers had significantly different
+plasma levels between type II ovarian cancer patients and healthy controls [121].
+
+Selection of multimarker panels based on postdiagnostic samples
+
+NIH-PA Author Manuscript
+
+A number of studies evaluating multimarker panels in postdiagnostic samples utilizing
+various criteria for biomarker prioritization and selection were reviewed (Table 4). In the
+study by Mor et al., 169 proteins were analyzed in serum samples obtained from ovarian
+cancer patients by means of rolling circle amplification (RCA) immunoassay microarray,
+and 35 of these proteins were found to be differentially expressed between cases and
+controls [56]. Biomarkers were further prioritized for independent ELISA testing if similar
+levels of expression were observed in newly diagnosed patients and patients with recurrent
+disease; ELISA tests were available commercially for these analytes; and they had
+compelling biological reasons for their evaluation. These analytes were EGF, MIF-1, TNFα, leptin, prolactin, IL-17, OPN and IGF-II. Leptin, prolactin, OPN and IGF-II showed
+perfect correlation between the RCA microarray immunoassays and the ELISA assays, and
+were able, when used together, to discriminate the control and cancer training group samples
+with 95% SN at 95% SP. Adding CA-125 and MIF to this panel provided a classification
+power of 92% SN at 99% SP. This panel was equally sensitive to different histologic
+subtypes of primary epithelial ovarian cancers – papillary serous, clear cell, endometroid
+and mixed [60]. Unfortunately, following a high level of initial enthusiasm and the
+subsequent marketing of this panel under the trade name OvaSure™ (Labcorp, NC, USA),
+deficiencies in study design have been identified that illustrate the challenges facing
+biomarker development efforts in general. Most prominent among these deficiencies was the
+inaccurate calculation of positive predictive value based on improper estimates of ovarian
+cancer prevalence [122,123]. This observation, coupled with the lack of evaluation in a large
+prospective study, led to performance revisions and the withdrawal of the commercial kit.
+
+NIH-PA Author Manuscript
+
+In the recent study by Havrilevsky et al. [124], a literature review was conducted for
+investigations describing transcriptional profiling of epithelial ovarian cancer. Candidate
+biomarkers meeting the following inclusion criteria were selected: overexpression of
+candidate gene in epithelial ovarian cancer relative to normal ovarian epithelium;
+overexpression of encoded protein in ovarian tissue; localization of encoded proteins to
+extracellular compartment as membrane-bound or secreted protein; and discrimination of
+ovarian cancer from normal sera utilizing prototype immunological assays. Correlation with
+CA-125 was not evaluated. Based on these criteria, eight genes – HE4, glycodelin (PAEP),
+MMP-7, MUC-1, PAI-1, SLPI, Plau-R and inhibin A – were selected as candidate markers
+for inclusion. Several combinations of these proteins were evaluated and a combination of
+CA-125, HE4, glycodelin, Plau-R and MMP-7 was selected, which offered 79% SN at 93%
+SP for early-stage ovarian cancer [124].
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 10
+
+NIH-PA Author Manuscript
+
+Our group utilized a subject cohort that included more than 2000 healthy women in an
+unbiased analysis of serum biomarker candidates [51]. Feature selection was performed
+based on both bioinformatics and the following biological considerations: high accuracy in
+early-stage disease; equal classification of all ovarian cancer histologies; and selectivity for
+ovarian cancer versus benign disease and other epithelial cancers [51]. Our identified panel
+of CA-125, HE4, CEA and VCAM-1 was found to discriminate early-stage ovarian cancer
+from the control group with 86% SN at 98% SP.
+
+NIH-PA Author Manuscript
+
+In a multicenter case–control study, Zhang et al. utilized SELDI-TOF to analyze sera
+obtained from 195 patients with invasive epithelial or other types of ovarian cancer along
+with patients diagnosed with benign pelvic masses and healthy control women [61]. The
+investigators employed subsets of five separate centers for sequential components of their
+analysis. Two centers were designated for biomarker discovery and candidate peaks from
+the proteomic analysis were identified by cross-validation. These candidate biomarker peaks
+were then validated in sera collected at two additional sites. Validated biomarker peaks were
+then identified and the corresponding proteins purified. Candidate biomarkers for which
+suitable immunoassays were available were then chosen for validation in sera collected at
+the fifth site. Analysis of immunoassay results led to the identification of a four-biomarker
+panel consisting of CA-125, ApoA1, TTR and H418. In the validation set, this panel
+provided a SN of 74% at a SP of 97% for the discrimination of early-stage ovarian cancer
+from healthy women.
+In a separate study, Skates et al. evaluated serum levels of four biomarkers by immunoassay
+in patients enrolled at three independent collection centers [59]. Sera collected at the first
+center constituted the training set and biomarker data were analyzed using three statistical
+models: logistic regression, classification tree and mixture discriminant analysis (MDA).
+The MDA model is unique in that it emulates the heterogeneity of ovarian cancer with
+respect to histological subtype and utilizes the distribution of biomarker levels within each
+subtype to estimate the histological type of each sample analyzed. The authors conclude that
+logistic regression and MDA modeling perform similarly and both outperform classification
+tree in the discrimination of ovarian cancer cases from controls. The combination of
+CA-125, CA 15–3, CA 72–4 and M-CSF, identified using the MDA model, performed best
+in the independent validation set, providing a SN of 70% at 98% SP for early-stage ovarian
+cancer.
+
+NIH-PA Author Manuscript
+
+Recently, Edgell et al. reported on a retrospective case–control study (Phase II biomarker
+study) in which the authors utilized a multiplexed bead-based immunoassay platform to
+evaluate five ovarian cancer biomarkers (CA-125, CRP, SAA, IL-6 and IL-8) in 362 plasma
+samples obtained from ovarian cancer patients and healthy controls split into independent
+training and validation sets [58]. Through multivariate modeling, the authors demonstrated a
+SN and SP of 94.1 and 91.3%, respectively, for the five-biomarker panel in the validation set
+and a SN and SP of 92.3 and 91.3%, respectively, for all early-stage ovarian cancers.
+In another recent study, Amonkar et al. demonstrated the value of multiplexed analysis in
+their evaluation of 104 candidate biomarkers in a cohort of over 350 ovarian cancer patients
+and controls [57]. The cohort represented various stages of disease, and each of the most
+common histological subtypes of epithelial ovarian cancer and most prevalent benign
+ovarian conditions. Their training analysis led to the identification of an 11-analyte profile
+consisting of CA-125, CA 19–9, EGFR, CRP, myoglobin, ApoA1, ApoCIII, MIP-1α, IL-6,
+IL-18 and tenascin C. In an independent validation set, this panel provided a SN of 91.3% at
+a SP of 88.5%.
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 11
+
+Multimarker panels in prediagnostic samples
+NIH-PA Author Manuscript
+
+While many of the reports represented in Table 4 are initially encouraging, several hurdles
+remain before any of the identified models can be implemented clinically on a widespread
+basis. Foremost is the need to evaluate the most promising panels in prospective randomized
+clinical trials. Additional preclinical validation will be required to fully characterize the
+efficacy of selected panels before this significant next step is warranted. A key component
+of this validation process is the evaluation of panels in samples obtained from prediagnostic
+ovarian cancer patients. Progress towards this type of validation is greatly hindered by the
+rarity of this sample type; however, several significant findings have been reported by a
+group under the direction of Nicole Urban. In a pair of reports, this group first describes
+elevated levels of CA-125, HE4 and mesothelin in the sera of symptomatic ovarian cancer
+patients, and then in the sera of patients 0–3 years prior to diagnosis, noting an optimal lead
+time of 1 year [125,126]. In a separate study, the investigators utilize a combinatorial
+approach, including CA-125 and HE4 measurements, in addition to the Symptom Index to
+prospectively classify benign from malignant pelvic masses with a SN of 84% at a SP of
+98.5% (Table 4) [127]. These findings regarding the usefulness of CA-125 and HE4 in
+prediagnostic and prospective samples are especially encouraging given the attention this
+combination has received in recent reports.
+
+NIH-PA Author Manuscript
+
+Recently, a collaborative study was performed to assess the prediagnostic performance of
+candidate biomarkers in the PLCO trial [64,128]. Forty one biomarkers selected by five
+leading ovarian cancer biomarker laboratories from Harvard University, Fred Hutchinson
+Medical Center, MD Anderson Cancer Center University of Pittsburgh and Yale University
+were utilized in the analysis of 118 cases and 473 matched healthy controls [64,96]. The
+selection of these markers proceeded from a Phase II validation study using a common
+reference set of 160 ovarian cancer cases (~50% stage I/II) and 480 general population
+controls based solely on individual performance (SN at 95% SP, AUC). The study
+demonstrated that none of these biomarkers or multimarker panels added any appreciable
+improvement in SN over that of CA-125 alone. Our subsequent analyses revealed that ten of
+the selected biomarkers: HE4, mesothelin, CA 15–3, CA 72–4, KLK6, spondin-2, TTR,
+Cyfra 21–1, IGFBP2 and YKL-40, were strongly (r > 0.35) correlated with CA-125 [Nolen
+LBM, Lokshin AE, Unpublished_Data]. This lack of feature independence could be credited
+as a limiting factor in the ability of these additional biomarkers to complement the
+diagnostic performance of CA-125.
+
+NIH-PA Author Manuscript
+
+In nearly all cases, efforts aimed at novel biomarker test development have relied upon the
+use of biological fluid samples collected at the time of first diagnosis. It would appear from
+the disappointing results of the PLCO study and others that this approach is not optimized
+for the development of prediagnostic tests offering a potential window of early successful
+intervention. Ongoing efforts of this type are unlikely to be productive, and the
+incorporation of new strategies focused on the characterization and detection of preclinical
+disease will be necessary for true advancement. Recent work suggests that a precursor lesion
+for serous carcinomas, termed serous tubal intraepithelial carcinoma (STIC), does indeed
+exist [129]. STICs originate from the fimbriated end of the fallopian tube, indicating a tubal,
+rather than ovarian epithelial, origin for serous carcinomas. The identification of the
+potential STIC precursor of serous carcinomas represents an important finding that may lead
+to advances in detecting these tumors at an earlier stage. Perhaps analysis of blood samples
+from patients who had undergone prophylactic oopherectomy where preneoplastic lesions
+were discovered could prove useful, although substantial effort would be needed to collect a
+statistically meaningful set of such samples. Finally, prospective identification of preclinical
+biomarkers using mouse models of ovarian cancer could be helpful.
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 12
+
+Conclusion
+NIH-PA Author Manuscript
+
+The search for biomarker-based screening tools for the early detection of ovarian cancer has
+yielded a number of promising findings. Biomarker panels offering levels of SN and SP
+exceeding 90% have been identified by a number of groups utilizing a variety of analysis
+techniques and statistical models. Each of the panels identified demonstrates a clear
+performance advantage over the individual performance of CA-125. Clinical
+implementation of biomarker tools has been delayed, and sometimes reversed, in large part
+owing to the stringent performance requirements associated with the detection of a rare
+disease and the lack of a demonstrated survival benefit.
+
+NIH-PA Author Manuscript
+
+The rapidly expanding appreciation of the heterogeneity of ovarian cancer presents
+biomarker researchers with a unique set of questions and challenges. Among these
+questions, the leading question is whether early detection efforts should target each of the
+disease subtypes collectively or focus on the most troublesome high-grade serous tumors.
+Clinical evidence describing the indolent nature of type I tumors (low-grade serous,
+endometroid, mucinous, clear cell), which are readily detected by current practices suggest
+the latter strategy might be most prudent. The difficulty in detecting the rapidly progressing
+high-grade serous tumors at an early manageable stage also indicates a need to focus
+biomarker development efforts on that individual subtype. However, within the setting of
+differential diagnosis of a pelvic mass, an ideal test would be capable of identifying tumors
+of multiple histological subtypes prior to referral for invasive diagnostic procedures. A
+biomarker panel consisting solely of conventional tumor markers (i.e., proteins derived
+directly from tumor cells and elevated in bodily fluids) is unlikely to accomplish this given
+the divergent molecular characteristics displayed by the various ovarian cancer subtypes.
+Likewise, although preferentially expressed by high-grade serous tumors, CA-125 alone is
+not sufficient for diagnosis or screening. The development of truly useful and clinically
+applicable biomarker-based diagnostics will require a broad and meticulous search through
+the forest of ovarian cancer biomarkers. This search should be conducted with an eye for
+biological relevance and bioinformatic performance, and should employ flexible criteria that
+permit the consideration of a diverse set of candidates.
+
+NIH-PA Author Manuscript
+
+The limited performance of serum biomarkers in the testing of prediagnostic samples
+indicates the need to identify additional useful biomarkers that may display alterations
+earlier in disease development. Further investigation into the tumorigenic pathways
+associated with each subtype of epithelial ovarian cancer is likely to provide a basis for
+additional biomarker discovery and development. The identification of the potential STIC
+precursor of serous carcinomas represents an important finding that may lead to advances in
+detecting these tumors at an earlier stage. Currently, findings related to the subtype-specific
+production of ovarian cancer biomarkers are sporadic and incomplete. The ongoing
+paradigm shift regarding the tissue of origin and pathogenesis of disease subtypes should
+give rise to additional investigations of this type. A greater appreciation of the natural
+history of each subtype of ovarian cancer, including the involvement or absence of precursor
+lesions, should further refine the search for useful prediagnostic biomarkers.
+
+Future perspective
+Biomarker-based screening tools for ovarian cancer are likely to advance well into clinical
+practice over the next 5–10 years. Implementation in the setting of routine screening will
+depend largely upon continually emerging findings from prospective clinical trials along the
+lines of PLCO and UKCTOCS. Physicians, researchers and public health officials will be
+required to weigh the potential survival benefits against the economic and social tolls
+associated with population-based screening. The continued improvement and refinement of
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 13
+
+NIH-PA Author Manuscript
+
+screening tools, including the identification of biomarker panels providing diagnostic
+capabilities superior to that of CA-125, should steadily tip the balance in favor of
+implementation. The incorporation of extratumoral biomarkers and the use of alternative
+analytical biofluids, such as urine, will likely contribute to this advancement. A paradigm
+shift in our definition of ovarian cancer biomarkers will likely be coupled to this
+advancement in biomarker-based tools. The increased identification and utilization of
+proteins derived from extratumoral biological compartments, proteins observed at decreased
+levels in patients relative to healthy individuals and proteins that provide complementary
+value through SP for a particular disease subtype is likely to characterize progress related to
+biomarker research.
+
+References
+Papers of special note have been highlighted as:
+▪ of interest
+▪▪ of considerable interest
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+1. Yoshida H, Ishiko O, Sumi T, Matsumoto Y, Ogita S. Survivin, bcl-2 and matrix
+metalloproteinase-2 enhance progression of clear cell- and serous-type ovarian carcinomas. Int J
+Oncol. 2001; 19(3):537–542. [PubMed: 11494033]
+2. Brustmann H, Naude S. Vascular endothelial growth factor expression in serous ovarian carcinoma:
+relationship with high mitotic activity and high FIGO stage. Gynecol Oncol. 2002; 84(1):47–52.
+[PubMed: 11748975]
+3. Holschneider CH, Berek JS. Ovarian cancer: epidemiology, biology, and prognostic factors. Semin
+Surg Oncol. 2000; 19(1):3–10. [PubMed: 10883018]
+4. Baker TR, Piver MS. Etiology, biology, and epidemiology of ovarian cancer. Semin Surg Oncol.
+1994; 10(4):242–248. [PubMed: 8091065]
+5. Skates SJ, Singer DE. Quantifying the potential benefit of CA 125 screening for ovarian cancer. J
+Clin Epidemiol. 1991; 44(4–5):365–380. [PubMed: 2010780]
+6. Jacobs IJ, Menon U. Progress and challenges in screening for early detection of ovarian cancer. Mol
+Cell Proteomics. 2004; 3(4):355–366. [PubMed: 14764655]
+7. Menon U, Jacobs IJ. Ovarian cancer screening in the general population: current status. Int J
+Gynecol Cancer. 2001; 11(Suppl 1):3–6. [PubMed: 11488995]
+8. Bast RC Jr, Xu FJ, Yu YH, Barnhill S, Zhang Z, Mills GB. CA 125: the past and the future. Int J
+Biol Markers. 1998; 13(4):179–187. [PubMed: 10228898]
+9. Kinkel K, Hricak H, Lu Y, Tsuda K, Filly RA. US characterization of ovarian masses: a metaanalysis. Radiology. 2000; 217(3):803–811. [PubMed: 11110947]
+10. Fishman DA, Cohen L, Blank SV, et al. The role of ultrasound evaluation in the detection of earlystage epithelial ovarian cancer. Am J Obstet Gynecol. 2005; 192(4):1214–1221. discussion 1221–
+1212. [PubMed: 15846205]
+11. Zurawski VR Jr, Orjaseter H, Andersen A, Jellum E. Elevated serum CA 125 levels prior to
+diagnosis of ovarian neoplasia: relevance for early detection of ovarian cancer. Int J Cancer. 1988;
+42(5):677–680. [PubMed: 3182103]
+12. Bast RC Jr, Klug TL, St John E, et al. A radioimmunoassay using a monoclonal antibody to
+monitor the course of epithelial ovarian cancer. N Engl J Med. 1983; 309(15):883–887. [PubMed:
+6310399]
+13. Tseng PC, Sprance HE, Carcangiu ML, Chambers JT, Schwartz PE. CA 125, NB/70K, and lipidassociated sialic acid in monitoring uterine papillary serous carcinoma. Obstet Gynecol. 1989;
+74(3 Pt 1):384–387. [PubMed: 2761916]
+14. Jacobs I, Bast RC Jr. The CA 125 tumour-associated antigen: a review of the literature. Hum
+Reprod. 1989; 4(1):1–12. [PubMed: 2651469]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 14
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+15. Woolas RP, Xu FJ, Jacobs IJ, et al. Elevation of multiple serum markers in patients with stage I
+ovarian cancer. J Natl Cancer Inst. 1993; 85(21):1748–1751. [PubMed: 8411259]
+16. Slotman BJ, Rao BR. Ovarian cancer (review) Etiology, diagnosis, prognosis, surgery,
+radiotherapy, chemotherapy and endocrine therapy. Anticancer Res. 1988; 8(3):417–434.
+[PubMed: 3291746]
+17. Yancik R. Ovarian cancer. Age contrasts in incidence, histology, disease stage at diagnosis, and
+mortality. Cancer. 1993; 71(Suppl 2):517–523. [PubMed: 8420671]
+18. Gocze P, Vahrson H. Ovarian carcinoma antigen (CA 125) and ovarian cancer (clinical follow-up
+and prognostic studies). Orv Hetil. 1993; 134(17):915–918. [PubMed: 8479736]
+19. Molina R, Filella X, Jo J, Agusti C, Ballesta AM. CA 125 in biological fluids. Int J Biol Markers.
+1998; 13(4):224–230. [PubMed: 10228906]
+20. Kaku T, Ogawa S, Kawano Y, et al. Histological classification of ovarian cancer. Med Electron
+Microsc. 2003; 36(1):9–17. [PubMed: 12658347]
+21. Neesham D. Ovarian cancer screening. Aust Fam Physician. 2007; 36(3):126–128. [PubMed:
+17339973]
+22. Clarke-Pearson DL. Clinical practice Screening for ovarian cancer. N Engl J Med. 2009; 361(2):
+170–177. [PubMed: 19587342]
+23. Johnson CC, Kessel B, Riley TL, et al. The epidemiology of CA-125 in women without evidence
+of ovarian cancer in the Prostate, Lung, Colorectal and Ovarian Cancer (PLCO) Screening Trial.
+Gynecol Oncol. 2008; 110(3):383–389. [PubMed: 18586313]
+24. Menon U. Ovarian cancer screening. CMAJ. 2004; 171(4):323–324. [PubMed: 15313987]
+25. Urban N, McIntosh MW, Andersen M, Karlan BY. Ovarian cancer screening. Hematol Oncol Clin
+North Am. 2003; 17(4):989–1005. ix. [PubMed: 12959188]
+26. Calogne N. Screening for ovarian cancer: recommendation statement. Ann Fam Med. 2004; 2(3):
+260–262. [PubMed: 15209204]
+27. US Preventive Services Task Force. Screening for ovarian cancer: recommendation statement. Am
+Fam Physician. 2005; 71(4):759–762. [PubMed: 15756773]
+28. ACOG committee opinion. Role of loop electrosurgical excision procedure in the evaluation of
+abnormal Pap test results Number 195, November 1997 Committee on Gynecologic Practice
+American College of Obstetricians and Gynecologists. Int J Gynaecol Obstet. 1998; 61(2):203–
+204. [PubMed: 9639230]
+29. Brown DL, Andreotti RF, Lee SI, et al. ACR appropriateness criteria(c) ovarian cancer screening.
+Ultrasound Q. 2010; 26(4):219–223. [PubMed: 21084936]
+30. Partridge E, Kreimer AR, Greenlee RT, et al. Results from four rounds of ovarian cancer screening
+in a randomized trial. Obstet Gynecol. 2009; 113(4):775–782. [PubMed: 19305319]
+31▪▪. Buys SS, Partridge E, Black A, et al. Effect of screening on ovarian cancer mortality: the
+Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Randomized Controlled Trial.
+JAMA. 2011; 305(22):2295–2303. The Prostate, Lung, Colon and Ovarian trial report on the
+impact of CA-125/transvaginal ultrasound multimodal screening on ovarian cancer mortality.
+[PubMed: 21642681]
+32▪▪. Menon U, Gentry-Maharaj A, Hallett R, et al. Sensitivity and specificity of multimodal and
+ultrasound screening for ovarian cancer, and stage distribution of detected cancers: results of the
+prevalence screen of the UK Collaborative Trial of Ovarian Cancer Screening (UKCTOCS).
+Lancet Oncol. 2009; 10(4):327–340. Preliminary results of United Kingdom Collaborative Trial
+of Ovarian Cancer Screening prospective trial. [PubMed: 19282241]
+33. Ueland FR, Depriest PD, Pavlik EJ, Kryscio RJ, Van Nagell JR Jr. Preoperative differentiation of
+malignant from benign ovarian tumors: the efficacy of morphology indexing and Doppler flow
+sonography. Gynecol Oncol. 2003; 91(1):46–50. [PubMed: 14529661]
+34. Buys SS, Partridge E, Greene MH, et al. Ovarian cancer screening in the Prostate, Lung, Colorectal
+and Ovarian (PLCO) cancer screening trial: findings from the initial screen of a randomized trial.
+Am J Obstet Gynecol. 2005; 193(5):1630–1639. [PubMed: 16260202]
+35. Pepe MS, Etzioni R, Feng Z, et al. Phases of biomarker development for early detection of cancer.
+J Natl Cancer Inst. 2001; 93(14):1054–1061. [PubMed: 11459866]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 15
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+36. Koprowski H, Herlyn M, Steplewski Z, Sears HF. Specific antigen in serum of patients with colon
+carcinoma. Science. 1981; 212(4490):53–55. [PubMed: 6163212]
+37. Gold P, Freedman SO. Demonstration of tumor-specific antigens in human colonic carcinomata by
+immunological tolerance and absorption techniques. J Exp Med. 1965; 121:439–462. [PubMed:
+14270243]
+38. Bast RC Jr, Feeney M, Lazarus H, Nadler LM, Colvin RB, Knapp RC. Reactivity of a monoclonal
+antibody with human ovarian carcinoma. J Clin Invest. 1981; 68(5):1331–1337. [PubMed:
+7028788]
+39. Husseinzadeh N. Status of tumor markers in epithelial ovarian cancer has there been any progress?
+A review. Gynecol Oncol. 2011; 120(1):152–157. [PubMed: 20934205]
+40. Zhang B, Barekati Z, Kohler C, et al. Proteomics and biomarkers for ovarian cancer diagnosis. Ann
+Clin Lab Sci. 2010; 40(3):218–225. [PubMed: 20689132]
+41. Makridakis M, Vlahou A. Secretome proteomics for discovery of cancer biomarkers. J Proteomics.
+2010; 73(12):2291–2305. [PubMed: 20637910]
+42. Dutta S, Wang FQ, Phalen A, Fishman DA. Biomarkers for ovarian cancer detection and therapy.
+Cancer Biol Ther. 2010; 9(9):668–677. [PubMed: 20372062]
+43. Tung CS, Wong KK, Mok SC. Biomarker discovery in ovarian cancer. Womens Health (Lond
+Engl). 2008; 4:27–40. [PubMed: 19072449]
+44. Coticchia CM, Yang J, Moses MA. Ovarian cancer biomarkers: current options and future
+promise. J Natl Compr Canc Netw. 2008; 6(8):795–802. [PubMed: 18926090]
+45. Mclemore MR, Miaskowski C, Aouizerat BE, Chen LM, Dodd M. Rules of tumor cell
+development and their application to biomarkers for ovarian cancer. Oncol Nurs Forum. 2008;
+35(3):403–409. [PubMed: 18467290]
+46. Merritt WM, Sood AK. Markers of angiogenesis in ovarian cancer. Dis Markers. 2007; 23(5–6):
+419–431. [PubMed: 18057525]
+47. Badgwell D, Bast RC Jr. Early detection of ovarian cancer. Dis Markers. 2007; 23(5–6):397–410.
+[PubMed: 18057523]
+48. Munkarah A, Chatterjee M, Tainsky MA. Update on ovarian cancer screening. Curr Opin Obstet
+Gynecol. 2007; 19(1):22–26. [PubMed: 17218847]
+49. Bast RC Jr, Badgwell D, Lu Z, et al. New tumor markers: CA125 and beyond. Int J Gynecol
+Cancer. 2005; 15(Suppl 3):274–281. [PubMed: 16343244]
+50. Nossov V, Amneus M, Su F, et al. The early detection of ovarian cancer: from traditional methods
+to proteomics Can we really do better than serum CA-125? Am J Obstet Gynecol. 2008; 199(3):
+215–223. [PubMed: 18468571]
+51▪▪. Yurkovetsky Z, Skates S, Lomakin A, et al. Development of a multimarker assay for early
+detection of ovarian cancer. J Clin Oncol. 2010; 28(13):2159–2166. Identification of a fourbiomarker panel with high performance in the discrimination of ovarian cancer from a large
+group of healthy control women. [PubMed: 20368574]
+52. Bertenshaw GP, Yip P, Seshaiah P, et al. Multianalyte profiling of serum antigens and autoimmune
+and infectious disease molecules to identify biomarkers dysregulated in epithelial ovarian cancer.
+Cancer Epidemiol Biomarkers Prev. 2008; 17(10):2872–2881. [PubMed: 18843033]
+53. Moshkovskii SA, Serebryakova MV, Kuteykin-Teplyakov KB, et al. Ovarian cancer marker of
+11.7 kDa detected by proteomics is a serum amyloid A1. Proteomics. 2005; 5(14):3790–3797.
+[PubMed: 16121334]
+54. Lin B, White JT, Wu J, et al. Deep depletion of abundant serum proteins reveals low-abundant
+proteins as potential biomarkers for human ovarian cancer. Proteomics Clin Appl. 2009; 3(7):853–
+861. [PubMed: 20559449]
+55. Qian WJ, Kaleta DT, Petritis BO, et al. Enhanced detection of low abundance human plasma
+proteins using a tandem IgY12-SuperMix immunoaffinity separation strategy. Mol Cell
+Proteomics. 2008; 7(10):1963–1973. [PubMed: 18632595]
+56▪. Mor G, Visintin I, Lai Y, et al. Serum protein markers for early detection of ovarian cancer. Proc
+Natl Acad Sci USA. 2005; 102(21):7677–7682. The preclinical basis of the OvaSure™ test is
+described. [PubMed: 15890779]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 16
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+57. Amonkar SD, Bertenshaw GP, Chen TH, et al. Development and preliminary evaluation of a
+multivariate index assay for ovarian cancer. PLoS ONE. 2009; 4(2):E4599. [PubMed: 19240799]
+58▪. Edgell T, Martin-Roussety G, Barker G, et al. Phase II biomarker trial of a multimarker diagnostic
+for ovarian cancer. J Cancer Res Clin Oncol. 2010; 136(7):1079–1088. Phase II biomarker panel
+analysis. [PubMed: 20082099]
+59▪▪. Skates SJ, Horick N, Yu Y, et al. Preoperative sensitivity and specificity for early-stage ovarian
+cancer when combining cancer antigen CA-125II, CA 15–3, CA 72–4, and macrophage colonystimulating factor using mixtures of multivariate normal distributions. J Clin Oncol. 2004;
+22(20):4059–4066. Multicenter evaluation of candidate biomarker panels. [PubMed: 15381683]
+60. Visintin I, Feng Z, Longton G, et al. Diagnostic markers for early detection of ovarian cancer. Clin
+Cancer Res. 2008; 14(4):1065–1072. [PubMed: 18258665]
+61▪. Zhang Z, Bast RC Jr, Yu Y, et al. Three biomarkers identified from serum proteomic analysis for
+the detection of early stage ovarian cancer. Cancer Res. 2004; 64(16):5882–5890. Serum
+biomarker panel identified through proteomic methods. [PubMed: 15313933]
+62▪. Kurman RJ, Shih IeM. Pathogenesis of ovarian cancer: lessons from morphology and molecular
+biology and their clinical implications. Int J Gynecol Pathol. 2008; 27(2):151–160.
+Comprehensive presentation of the two pathological types of ovarian cancer. [PubMed:
+18317228]
+63. Shin H, Sheu B, Joseph M, Markey MK. Guilt-by-association feature selection: identifying
+biomarkers from proteomic profiles. J Biomed Inform. 2008; 41(1):124–136. [PubMed:
+17544868]
+64. Cramer DW, Bast RC Jr, Berg CD, et al. Ovarian cancer biomarker performance in prostate, lung,
+colorectal, and ovarian cancer screening trial specimens. Cancer Prev Res (Phila). 2011; 4(3):365–
+374. [PubMed: 21372036]
+65. Diamandis EP. Cancer biomarkers: can we turn recent failures into success? J Natl Cancer Inst.
+2010; 102(19):1462–1467. [PubMed: 20705936]
+66. Levanon K, Ng V, Piao HY, et al. Primary ex vivo cultures of human fallopian tube epithelium as a
+model for serous ovarian carcinogenesis. Oncogene. 2010; 29(8):1103–1113. [PubMed:
+19935705]
+67. Faca VM, Ventura AP, Fitzgibbon MP, et al. Proteomic analysis of ovarian cancer cells reveals
+dynamic processes of protein secretion and shedding of extracellular domains. PLoS ONE. 2008;
+3(6):E2425. [PubMed: 18560578]
+68. Kozak KR, Su F, Whitelegge JP, Faull K, Reddy S, Farias-Eisner R. Characterization of serum
+biomarkers for detection of early stage ovarian cancer. Proteomics. 2005; 5(17):4589–4596.
+[PubMed: 16237736]
+69. Gaytan F, Morales C, Barreiro ML, et al. Expression of growth hormone secretagogue receptor
+type 1a, the functional ghrelin receptor, in human ovarian surface epithelium, mullerian duct
+derivatives, and ovarian tumors. J Clin Endocrinol Metab. 2005; 90(3):1798–1804. [PubMed:
+15585554]
+70. Heppner KJ, Matrisian LM, Jensen RA, Rodgers WH. Expression of most matrix
+metalloproteinase family members in breast cancer represents a tumor-induced host response. Am
+J Pathol. 1996; 149(1):273–282. [PubMed: 8686751]
+71. Shima I, Sasaguri Y, Kusukawa J, et al. Production of matrix metalloproteinase 9 (92-kDa
+gelatinase) by human oesophageal squamous cell carcinoma in response to epidermal growth
+factor. Br J Cancer. 1993; 67(4):721–727. [PubMed: 8471429]
+72. Levina VV, Nolen B, Su Y, et al. Biological significance of prolactin in gynecologic cancers.
+Cancer Res. 2009; 69(12):5226–5233. [PubMed: 19491263]
+73. Turner GA, Goodarzi MT, Thompson S. Glycosylation of alpha-1-proteinase inhibitor and
+haptoglobin in ovarian cancer: evidence for two different mechanisms. Glycoconj J. 1995; 12(3):
+211–218. [PubMed: 7496134]
+74. Partridge EA, Le Roy C, Di Guglielmo GM, et al. Regulation of cytokine receptors by Golgi Nglycan processing and endocytosis. Science. 2004; 306(5693):120–124. [PubMed: 15459394]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 17
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+75. Saldova R, Royle L, Radcliffe CM, et al. Ovarian cancer is associated with changes in
+glycosylation in both acute-phase proteins and IgG. Glycobiology. 2007; 17(12):1344–1356.
+[PubMed: 17884841]
+76. Gruys E, Toussaint MJ, Niewold TA, Koopmans SJ, Van Dijk E, Meloen RH. Monitoring health
+by values of acute phase proteins. Acta Histochem. 2006; 108(3):229–232. [PubMed: 16714050]
+77. Ceciliani F, Giordano A, Spagnolo V. The systemic reaction during inflammation: the acute-phase
+proteins. Protein Pept Lett. 2002; 9(3):211–223. [PubMed: 12144517]
+78. Pritzker KP. Cancer biomarkers: easier said than done. Clin Chem. 2002; 48(8):1147–1150.
+[PubMed: 12142366]
+79. Diamandis EP, Van Der Merwe DE. Plasma protein profiling by mass spectrometry for cancer
+diagnosis: opportunities and limitations. Clin Cancer Res. 2005; 11(3):963–965. [PubMed:
+15709159]
+80. Diamandis EP. Proteomic patterns in serum and identification of ovarian cancer. Lancet. 2002;
+360(9327):170. author reply 170–171. [PubMed: 12126845]
+81. Diamandis EP. Analysis of serum proteomic patterns for early cancer diagnosis: drawing attention
+to potential problems. J Natl Cancer Inst. 2004; 96(5):353–356. [PubMed: 14996856]
+82. Slattery ML, Fitzpatrick FA. Convergence of hormones, inflammation, and energy-related factors:
+a novel pathway of cancer etiology. Cancer Prev Res (Phila). 2009; 2(11):922–930. [PubMed:
+19892662]
+83. Wiseman H, Halliwell B. Damage to DNA by reactive oxygen and nitrogen species: role in
+inflammatory disease and progression to cancer. Biochem J. 1996; 313(Pt 1):17–29. [PubMed:
+8546679]
+84. Bartsch H, Nair J. Chronic inflammation and oxidative stress in the genesis and perpetuation of
+cancer: role of lipid peroxidation, DNA damage, and repair. Langenbecks Arch Surg. 2006;
+391(5):499–510. [PubMed: 16909291]
+85. O’byrne KJ, Dalgleish AG. Chronic immune activation and inflammation as the cause of
+malignancy. Br J Cancer. 2001; 85(4):473–483. [PubMed: 11506482]
+86. Naldini A, Pucci A, Bernini C, Carraro F. Regulation of angiogenesis by Th1- and Th2-type
+cytokines. Curr Pharm Des. 2003; 9(7):511–519. [PubMed: 12570799]
+87. Aldinucci D, Poletto D, Nanni P, et al. CD40L induces proliferation, self-renewal, rescue from
+apoptosis, and production of cytokines by CD40-expressing AML blasts. Exp Hematol. 2002;
+30(11):1283–1292. [PubMed: 12423681]
+88. Ono M. Molecular links between tumor angiogenesis and inflammation: inflammatory stimuli of
+macrophages and cancer cells as targets for therapeutic strategy. Cancer Sci. 2008; 99(8):1501–
+1506. [PubMed: 18754859]
+89. Culig Z. Cytokine disbalance in common human cancers. Biochim Biophys Acta. 2011; 1813(2):
+308–314. [PubMed: 21167870]
+90. Kundu JK, Surh YJ. Inflammation: gearing the journey to cancer. Mutat Res. 2008; 659(1–2):15–
+30. [PubMed: 18485806]
+91. Lee JM, Yanagawa J, Peebles KA, Sharma S, Mao JT, Dubinett SM. Inflammation in lung
+carcinogenesis: new targets for lung cancer chemoprevention and treatment. Crit Rev Oncol
+Hematol. 2008; 66(3):208–217. [PubMed: 18304833]
+92. Sharma RA, Dalgleish AG, Steward WP, O’Byrne KJ. Angiogenesis and the immune response as
+targets for the prevention and treatment of colorectal cancer (review). Oncol Rep. 2003; 10(5):
+1625–1631. [PubMed: 12883750]
+93. Kikuchi T, Abe T, Yaekashiwa M, et al. Secretory leukoprotease inhibitor augments hepatocyte
+growth factor production in human lung fibroblasts. Am J Respir Cell Mol Biol. 2000; 23(3):364–
+370. [PubMed: 10970828]
+94. Dabbagh K, Laurent GJ, Shock A, Leoni P, Papakrivopoulou J, Chambers RC. Alpha-1-antitrypsin
+stimulates fibroblast proliferation and procollagen production and activates classical MAP kinase
+signalling pathways. J Cell Physiol. 2001; 186(1):73–81. [PubMed: 11147816]
+95. Nasulewicz A, Mazur A, Opolski A. Role of copper in tumour angiogenesis – clinical implications.
+J Trace Elem Med Biol. 2004; 18(1):1–8. [PubMed: 15487757]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 18
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+96. Zhu CS, Pinsky PF, Cramer DW, et al. A framework for evaluating biomarkers for early detection:
+validation of biomarker panels for ovarian cancer. Cancer Prev Res (Phila). 2011; 4(3):375–383.
+[PubMed: 21372037]
+97. Lafky JM, Wilken JA, Baron AT, Maihle NJ. Clinical implications of the ErbB/epidermal growth
+factor (EGF) receptor family and its ligands in ovarian cancer. Biochim Biophys Acta. 2008;
+1785(2):232–265. [PubMed: 18291115]
+98. Su F, Kozak KR, Imaizumi S, et al. Apolipoprotein A-I (apoA-I) and apoA-I mimetic peptides
+inhibit tumor development in a mouse model of ovarian cancer. Proc Natl Acad Sci USA. 2010;
+107(46):19997–20002. [PubMed: 21041624]
+99. Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach
+to multiple testing. J Royal Stat Soc B (Methodol). 1995; 57(1):289–300.
+100. Castracane VD, Gimpel T, Goldzieher JW. Diagnosis of menopause: ratios of FSH/LH? Fertil
+Steril. 1996; 66(5):866. [PubMed: 8893709]
+101. Czygan PJ. Plasma levels of FSH and LH during the menstrual cycle, the menopause and in the
+course of gestagen treatment. Acta Endocrinol Suppl (Copenh). 1971; 152:2. [PubMed: 4101326]
+102. Andersen TT, Curatolo LM, Reichert LE Jr. Follitropin binding to receptors in testis: studies on
+the reversibility and thermodynamics of the reaction. Mol Cell Endocrinol. 1983; 33(1):37–52.
+[PubMed: 6315509]
+103. Moore LE, Fung ET, Mcguire M, et al. Evaluation of apolipoprotein A1 and posttranslationally
+modified forms of transthyretin as biomarkers for ovarian cancer detection in an independent
+study population. Cancer Epidemiol Biomarkers Prev. 2006; 15(9):1641–1646. [PubMed:
+16985025]
+104. Nosov V, Su F, Amneus M, et al. Validation of serum biomarkers for detection of early-stage
+ovarian cancer. Am J Obstet Gynecol. 2009; 200(6):639, e631–e635. [PubMed: 19285648]
+105. Levina V, Nolen BM, Marrangoni AM, et al. Role of eotaxin-1 signaling in ovarian cancer. Clin
+Cancer Res. 2009; 15(8):2647–2656. [PubMed: 19351767]
+106. Abbott KL, Lim JM, Wells L, Benigno BB, Mcdonald JF, Pierce M. Identification of candidate
+biomarkers with cancer-specific glycosylation in the tissue and serum of endometrioid ovarian
+cancer patients by glycoproteomic analysis. Proteomics. 2010; 10(3):470–481. [PubMed:
+19953551]
+107. Mirshahi M, Soria J, Soria C, Bertrand O, Basdevant A. Glycosylation of human fibrinogen and
+fibrin in vitro. Its consequences on the properties of fibrin(ogen). Thromb Res. 1987; 48(3):279–
+289. [PubMed: 3124289]
+108▪▪. Kurman RJ, Shih IeM. Molecular pathogenesis and extraovarian origin of epithelial ovarian
+cancer – shifting the paradigm. Hum Pathol. 2011; 42(7):918–931. Current review of the
+molecular and pathological heterogeneity of ovarian cancer. [PubMed: 21683865]
+109. De Bruijn HW, Ten Hoor KA, Boonstra H, Marrink J, Krans M, Aalders JG. Cancer-associated
+antigen CA 195 in patients with mucinous ovarian tumours: a comparative analysis with CEA,
+TATI and CA 125 in serum specimens and cyst fluids. Tumour Biol. 1993; 14(2):105–115.
+[PubMed: 8392219]
+110. Brun JL, Cortez A, Commo F, Uzan S, Rouzier R, Darai E. Serous and mucinous ovarian tumors
+express different profiles of MMP-2, -7, -9, MT1-MMP, and TIMP-1 and -2. Int J Oncol. 2008;
+33(6):1239–1246. [PubMed: 19020757]
+111. Murthi P, Barker G, Nowell CJ, et al. Plasminogen fragmentation and increased production of
+extracellular matrix-degrading proteinases are associated with serous epithelial ovarian cancer
+progression. Gynecol Oncol. 2004; 92(1):80–88. [PubMed: 14751142]
+112. Adley BP, Gleason KJ, Yang XJ, Stack MS. Expression of membrane type 1 matrix
+metalloproteinase (MMP-14) in epithelial ovarian cancer: high level expression in clear cell
+carcinoma. Gynecol Oncol. 2009; 112(2):319–324. [PubMed: 18976802]
+113. Shigemasa K, Tanimoto H, Sakata K, et al. Induction of matrix metalloprotease-7 is common in
+mucinous ovarian tumors including early stage disease. Med Oncol. 2000; 17(1):52–58.
+[PubMed: 10713661]
+114. Lu L, Katsaros D, Wiley A, et al. Promoter-specific transcription of insulin-like growth factor-II
+in epithelial ovarian cancer. Gynecol Oncol. 2006; 103(3):990–995. [PubMed: 16859738]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 19
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+115. Lu L, Katsaros D, Wiley A, et al. The relationship of insulin-like growth factor-II, insulin-like
+growth factor binding protein-3, and estrogen receptor-alpha expression to disease progression in
+epithelial ovarian cancer. Clin Cancer Res. 2006; 12(4):1208–1214. [PubMed: 16489075]
+116. Mabuchi S, Kawase C, Altomare DA, et al. Vascular endothelial growth factor is a promising
+therapeutic target for the treatment of clear cell carcinoma of the ovary. Mol Cancer Ther. 2010;
+9(8):2411–2422. [PubMed: 20663925]
+117. Kawamura K, Komohara Y, Takaishi K, Katabuchi H, Takeya M. Detection of M2 macrophages
+and colony-stimulating factor 1 expression in serous and mucinous ovarian epithelial tumors.
+Pathol Int. 2009; 59(5):300–305. [PubMed: 19432671]
+118. Kobel M, Kalloger SE, Boyd N, et al. Ovarian carcinoma subtypes are different diseases:
+implications for biomarker studies. PLoS Med. 2008; 5(12):e232. [PubMed: 19053170]
+119. Su F, Lang J, Kumar A, et al. Validation of candidate serum ovarian cancer biomarkers for early
+detection. Biomark Insights. 2007; 2:369–375. [PubMed: 19662218]
+120. Kurman RJ, Visvanathan K, Roden R, Wu TC, Shih IeM. Early detection and treatment of
+ovarian cancer: shifting from early stage to minimal volume of disease based on a new model of
+carcinogenesis. Am J Obstet Gynecol. 2008; 198(4):351–356. [PubMed: 18395030]
+121▪. Lu D, Kuhn E, Bristow RE, et al. Comparison of candidate serologic markers for type I and type
+II ovarian cancer. Gynecol Oncol. 2011; 122(3):560–566. Comparative analysis of serum
+biomarkers associated with types I and II ovarian cancer. [PubMed: 21704359]
+122. Greene MH, Feng Z, Gail MH. The importance of test positive predictive value in ovarian cancer
+screening. Clin Cancer Res. 2008; 14(22):7574. author reply 7577–7579. [PubMed: 18948386]
+123. Mcintosh M, Anderson G, Drescher C, et al. Ovarian cancer early detection claims are biased.
+Clin Cancer Res. 2008; 14(22):7574. author reply 7577–7579. [PubMed: 18948385]
+124▪. Havrilesky LJ, Whitehead CM, Rubatt JM, et al. Evaluation of biomarker panels for early stage
+ovarian cancer detection and monitoring for disease recurrence. Gynecol Oncol. 2008; 110(3):
+374–382. Review of transcriptional profiling efforts aimed at ovarian cancer biomarker
+discovery. [PubMed: 18584856]
+125. Palmer C, Duan X, Hawley S, et al. Systematic evaluation of candidate blood markers for
+detecting ovarian cancer. PLoS ONE. 2008; 3(7):e2633. [PubMed: 18612378]
+126. Anderson GL, Mcintosh M, Wu L, et al. Assessing lead time of selected ovarian cancer
+biomarkers: a nested case–control study. J Natl Cancer Inst. 2010; 102(1):26–38. [PubMed:
+20042715]
+127▪▪. Andersen MR, Goff BA, Lowe KA, et al. Use of a Symptom Index, CA125, and HE4 to predict
+ovarian cancer. Gynecol Oncol. 2010; 116(3):378–383. Prospective evaluation of biomarker
+panel combined with Symptom Index in prediagnostic samples. [PubMed: 19945742]
+128. Gohagan JK, Prorok PC, Hayes RB, Kramer BS. The Prostate, Lung, Colorectal and Ovarian
+(PLCO) Cancer Screening Trial of the National Cancer Institute: history, organization, and
+status. Control Clin Trials. 2000; 21(Suppl 6):251S–272S. [PubMed: 11189683]
+129. Folkins AK, Jarboe EA, Roh MH, Crum CP. Precursors to pelvic serous carcinoma and their
+clinical implications. Gynecol Oncol. 2009; 113(3):391–396. [PubMed: 19237187]
+130. Pinho S, Marcos NT, Ferreira B, et al. Biological significance of cancer-associated sialyl-Tn
+antigen: modulation of malignant phenotype in gastric carcinoma cells. Cancer Lett. 2007;
+249(2):157–170. [PubMed: 16965854]
+131. Bast RC Jr. Status of tumor markers in ovarian cancer screening. J Clin Oncol. 2003; 21(Suppl
+10):200s–205s. [PubMed: 12743135]
+132. Moore RG, Maclaughlan S. Current clinical use of biomarkers for epithelial ovarian cancer. Curr
+Opin Oncol. 2010; 22(5):492–497. [PubMed: 20613519]
+133. Pitteri SJ, Jebailey L, Faca VM, et al. Integrated proteomic analysis of human cancer cells and
+plasma from tumor bearing mice for ovarian cancer biomarker discovery. PLoS ONE. 2009;
+4(11):E7916. [PubMed: 19936259]
+134. Gadducci A, Ferdeghini M, Castellani C, et al. Serum levels of tumor necrosis factor (TNF),
+soluble receptors for TNF (55- and 75-kDa sTNFr), and soluble CD14 (sCD14) in epithelial
+ovarian cancer. Gynecol Oncol. 1995; 58(2):184–188. [PubMed: 7542621]
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 20
+
+NIH-PA Author Manuscript
+
+135. Naldini A, Morena E, Belotti D, Carraro F, Allavena P, Giavazzi R. Identification of thrombinlike activity in ovarian cancer associated ascites and modulation of multiple cytokine networks.
+Thromb Haemost. 2011; 106(4):705–711. [PubMed: 21833453]
+136. Morin PJ. Claudin proteins in ovarian cancer. Dis Markers. 2007; 23(5–6):453–457. [PubMed:
+18057528]
+137. Pyle-Chenault RA, Stolk JA, Molesh DA, et al. VSGP/F-spondin: a new ovarian cancer marker.
+Tumour Biol. 2005; 26(5):245–257. [PubMed: 16103746]
+138. Simon I, Liu Y, Krall KL, et al. Evaluation of the novel serum markers B7-H4, Spondin 2, and
+DcR3 for diagnosis and early detection of ovarian cancer. Gynecol Oncol. 2007; 106(1):112–
+118. [PubMed: 17490732]
+139. Dupont J, Tanwar MK, Thaler HT, et al. Early detection and prognosis of ovarian cancer using
+serum YKL-40. J Clin Oncol. 2004; 22(16):3330–3339. [PubMed: 15310777]
+140. Hogdall E, Fung ET, Christensen IJ, et al. Proteomic biomarkers for overall and progression-free
+survival in ovarian cancer patients. Proteomics Clin Appl. 2010; 4(12):940–952. [PubMed:
+21137034]
+141. Cho H, Kim JH. Lipocalin2 expressions correlate significantly with tumor differentiation in
+epithelial ovarian cancer. J Histochem Cytochem. 2009; 57(5):513–521. [PubMed: 19188485]
+142. Tsukishiro S, Suzumori N, Nishikawa H, Arakawa A, Suzumori K. Use of serum secretory
+leukocyte protease inhibitor levels in patients to improve specificity of ovarian cancer diagnosis.
+Gynecol Oncol. 2005; 96(2):516–519. [PubMed: 15661245]
+143. Strieter RM, Burdick MD, Mestas J, Gomperts B, Keane MP, Belperio JA. Cancer CXC
+chemokine networks and tumour angiogenesis. Eur J Cancer. 2006; 42(6):768–778. [PubMed:
+16510280]
+144. Gorelik E, Landsittel DP, Marrangoni AM, et al. Multiplexed immunobead-based cytokine
+profiling for early detection of ovarian cancer. Cancer Epidemiol Biomarkers Prev. 2005; 14(4):
+981–987. [PubMed: 15824174]
+
+NIH-PA Author Manuscript
+
+Website
+201. National Cancer Institute. SEER Cancer Statistics Review, 1975–2007. 2010.
+http://seer.cancer.gov/csr/1975_2007/
+
+NIH-PA Author Manuscript
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 21
+
+Executive summary
+
+NIH-PA Author Manuscript
+
+Background
+•
+
+Ovarian cancer is the most lethal gynecological malignancy.
+
+•
+
+Ovarian cancer is characterized by nonspecific symptomatic presentation,
+complicating early detection.
+
+•
+
+A shift in diagnosis from late- to early-stage disease could lead to a significant
+increase in survival.
+
+Screening for early disease: requirements & reality
+
+NIH-PA Author Manuscript
+
+•
+
+Current methods utilized in the detection of ovarian cancer are inadequate for
+use as population screening tools.
+
+•
+
+The CA-125 blood test is widely utilized but is characterized by several
+limitations.
+
+•
+
+Two large prospective clinical trials investigating ovarian cancer screening
+(PLCO and UKCTOCS) have reported mixed findings.
+
+•
+
+An expanded analysis of subtype-specific biomarker alterations, including
+specific precursors of those subtypes, should lead to improved biomarker
+discovery and development.
+
+Ovarian cancer screening biomarkers: the forest
+•
+
+The Early Detection Research Network has outlined five phases required for
+successful biomarker development.
+
+•
+
+A large number of candidate biomarkers for ovarian cancer have been identified
+in several bodily fluids, primarily serum, through the use of multiple
+technological platforms.
+
+•
+
+Multiplexed platforms permit the evaluation of large arrays of potential
+biomarkers at minimal time and sample volume requirements.
+
+Individual biomarkers of ovarian cancer: the trees
+
+NIH-PA Author Manuscript
+
+•
+
+Our review identified 160 proteins altered in the sera of ovarian cancer patients
+and healthy controls.
+
+•
+
+The list of candidate biomarkers can be broken down on the basis of biological
+properties into the following functional groups presented in order of
+predominance: mediators of inflammation; acute-phase reactants; adhesion
+molecules and proteases; hormones; and growth and angiogenesis factors.
+
+•
+
+The multiple functional groups represented by the array of biomarkers may be
+indicative of the multiple tumorigenic pathways involved in the development of
+ovarian cancer.
+
+Feature selection
+•
+
+In the selection of candidate biomarkers for inclusion in diagnostic multimarker
+panels, proteins should be first prioritized based on the following biological
+characteristics: measurable alterations in noninvasive samples; informative for
+all histological and pathological subtypes; and temporal reliability.
+
+•
+
+Specific considerations for biomarker selection include biomarker specificity for
+the various histological subtypes of ovarian cancer; biomarker specificity for
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 22
+
+NIH-PA Author Manuscript
+
+type I and type II ovarian cancers; nonclassical biomarkers; and proteins
+observed to be decreased in ovarian cancer patients and those produced by
+extratumoral sources.
+•
+
+Bioinformatic feature selection algorithms can be divided into three categories:
+filters, wrappers and embedded.
+
+Approaches & controversies in biologically based feature selection
+•
+
+Several trends in ovarian cancer biomarker development challenge the premise
+that biomarkers must arise directly from tumor cells and exhibit elevated serum
+levels in patients versus controls: stroma-derived biomarkers; acute-phase
+reactants; and downregulated proteins.
+
+Biomarkers of different subtypes of ovarian cancer
+•
+
+Specific biomarkers associated with the various histological subtypes of ovarian
+epithelial cancer may provide complementation and improved performance
+when assembled into diagnostic panels.
+
+•
+
+Biomarkers associated with pathologically defined type II ovarian carcinomas
+are especially sought after, given the aggressive nature of these tumors.
+
+Selection of multimarker panels based on postdiagnostic samples
+
+NIH-PA Author Manuscript
+
+•
+
+A number of groups have reported promising results based on samples collected
+at or after the time of diagnosis.
+
+•
+
+Methods employed included immunoassay microarray, transcriptional profiling,
+multiplexed bead-based immunoassay, SELDI-TOF mass spectroscopy and a
+variety of bioinformatic analysis techniques.
+
+Multimarker panels in prediagnostic samples
+•
+
+Several biomarkers including CA-125, HE4 and mesothelin have been evaluated
+in prediagnostic ovarian cancer sample with some indication of efficacy within 1
+year of diagnosis.
+
+•
+
+A large multisite evaluation of prediagnostic biomarkers in conjunction with the
+PLCO Screening Trial identified several candidate biomarkers with measurable
+alterations between ovarian cancer patients and controls.
+
+•
+
+No biomarker combination was identified that could outperform CA-125 alone
+for discrimination between the two groups.
+
+NIH-PA Author Manuscript
+
+Conclusions
+•
+
+Preclinical findings suggest that diagnostic panel performance is approaching
+the level required for clinical advancement; however, large-scale prospective
+evaluation of selected panels is currently lacking.
+
+•
+
+The expanding view of ovarian cancer heterogeneity will likely lead to further
+refinement of the goals of early detection and the methods employed to achieve
+those goals.
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 23
+
+Table 1
+
+Ovarian cancer-associated proteins.
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Biological function
+
+Biomarkers
+
+Role in cancer
+
+Cytokines/chemokines
+
+IL-1, -6, -7, -8, -10, -11, -12, -16, -18, -21, -23, -28A,
+-33, LIF, TNFR1–2, HVEM (TNFRSF14), IL1R-a,
+IL1R-b, IL-2R, M-CSF, MIP-1a, TNF-α, CD40,
+RANTES, CD40L, MIF, IFN-β, MCP-4 (CCL13), MIG
+(CXCL9), MIP-1δ (CCL15), MIP3a (CCL20), MIP-4
+(CCL18), MPIF-1, SDF-1a + b (CXCL12), CD137/4–
+1BB, lymphotactin (XCL1), eotaxin-1 (CCL11),
+eotaxin-2 (CCL24), 6Ckine/CCL21), BLC (CXCL13),
+CTACK (CCL27), BCA-1 (CXCL13), HCC4 (CCL16),
+CTAP-3 (CXCL7)
+
+Tumor growth, angiogenesis,
+immune functions,
+inflammation, invasion
+
+Growth/angiogenic factors
+
+IGF1, VEGF, VEGFR3, EGFR, ErbB2, CTGF, PDGF
+AA, BB, PDGFRb, bFGF, TGFbRIII, β-cellulin,
+IGFBP1–4, 6, BDNF, PEDF, angiopoietin-2, renin,
+lysophosphatidic acid, β2-microglobulin, sialyl TN,
+ACE
+
+Tumor growth, angiogenesis
+
+Adhesion molecules/proteases/related molecules
+
+CA-125, CA 19–9, CEA, CA 15–3, CA-50, CA 72–4,
+OVX1, mesothelin, sialyl TN, MMP-2, -3, -7, -9,
+VAP-1, TIMP1–2, tenascin C, VCAM-1, osteopontin,
+KIM-1, NCAM, tetranectin, nidogen-2, cathepsin L,
+prostasin, matriptase, kallikreins 2, 6, 10, cystatin C,
+claudin, spondin2, SLPI
+
+Invasion/metastases
+
+Hormones/related molecules
+
+bHCG, urinary gonadotropin peptide, inhibin, leptin,
+adiponectin, GH, TSH, ACTH, PRL, FSH, LH, cortisol,
+TTR, osteocalcin, insulin, ghrelin, GIP, GLP-1, amylin,
+glucagon, peptide YY, follistatin, hepcidin
+
+Tumor growth, transformation
+
+Acute-phase reactants/coagulation factors
+
+CRP, Apo A1, CIII, H, transthyretin, SAA, SAP,
+complement C3,4, complement factor H, albumin,
+ceruloplasmin, haptoglobin, β-hemoglobin, transferrin,
+ferritin, fibrinogen, thrombin, von Willebrand factor,
+myoglobin, immunosuppressive acidic protein, lipidassociated sialic acid, S100A12 (EN-RAGE), fetuin A,
+clusterin, α1-antitrypsin, a2- macroglobulin, serpin1
+(human plasminogen activator inhibitor-1), Cox-1,
+Hsp27, Hsp60, Hsp80, Hsp90, lectin-type oxidized
+LDL receptor 1, CD14, lipocalin 2, ITIH4
+
+Inflammation, tumor growth,
+angiogenesis
+
+Apoptosis factors
+
+sFasL, Cyfra21–1, TPA, perforin, DcR3
+
+Tumor growth, immune
+functions
+
+Energy homeostasis
+
+AGRP, creatine kinase-MB
+
+Tumor growth
+
+Proteins with undefined or other functions
+
+HE4, human milk fat globule 1–2, NT-Pro-BNP,
+neuron-specific enolase, CASA, NB/70K, AFP, afamin,
+collagen, prohibitin, keratin-6, PARC, B7-H4, YK-L40
+
+Data taken from [40,52,54,56,130–143].
+
+NIH-PA Author Manuscript
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 24
+
+Table 2
+
+Molecular and cellular functions associated with ovarian cancer biomarkers.
+
+NIH-PA Author Manuscript
+
+Function
+
+p-value
+
+Number of molecules
+
+Cellular movement
+
+6.88 × 10−61–6.13 × 10−14
+
+104
+
+Cell-to-cell signaling and interaction
+
+3.85 × 10−51–4.07 × 10−14
+
+104
+
+Cellular growth and proliferation
+
+4.20 × 10−51–3.13 × 10−14
+
+107
+
+Cell death
+
+3.37 × 10−44–6.09 × 10−14
+
+102
+
+DNA replication, recombination and repair
+
+5.19 × 10−32–2.77 × 10−17
+
+47
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 25
+
+Table 3
+
+Physiological networks associated with ovarian cancer biomarkers.
+
+NIH-PA Author Manuscript
+
+Network
+
+Biomarkers in network
+
+Score
+
+Top functions
+
+1
+
+A2M, adipokine, angiopoietin, APOA1, APOH, SAP, C3, CCL4, CCL5, CCL11, CCL13,
+CCL15, CCL18, CCL20, CCL21, CCL24, CCL27, CD14, CD40, CD40L, creatine kinase,
+CRP, CTGF, CXCL9, CXCL13, EGFR, Erbb2, eotaxin, ferritin, fibrin, fibrinogen, GH,
+hemoglobin, IFN-β, IGF1, IGFBP1, IGFBP2, IGFBP3, IGFBP4, IGFBP6, IL-1, IL-6, IL-8,
+IL-10, IL-23, IL-33, IL-1R, IL-12, IL-17, IL-1R1, IL-23A, inhibin, LIF, LPA, MIF, MMP-2,
+MMP-3, MMP-7, MMP-9, PYY, S100A12, SAA, SAA1, tPAI1, Tenascin, TGF-β, TIMP1,
+TIMP2, TNF, TNFR1 and 2, TTR, VCAM1, XCL1
+
+115
+
+Cellular movement,
+hematological system
+development and
+function, immune cell
+trafficking
+
+2
+
+BDNF, CEA, EGFR, ErbB2, FSH, ghelin, GIP, hCG, IL-7, IL-16, IL-2R, IL-2R, insulin,
+integrin, KLK6, NCAM1, PDGF-BB, PDGF-AA, PRL, TNF, TSH, VEGF, VWF, clusterin,
+β-cellulin, albumin, glucagon, casein, tansferrin, tenascin C, CXCL12, thrombin, FasL,
+KIM-1, MFG8
+
+46
+
+DNA replication,
+recombination and
+repair
+
+3
+
+Afamin, AGRP, APOC3, CCL13, CCL27, CKB, HGF, IL-6, IL-17, KLK2, KLK11, MUC16,
+PDGF-DD, complement factor H, AHSG, claudin, collagen, cathepsin D, leptin, mesothelin,
+nidogen 2, α-antitrypsin, HE4
+
+22
+
+Cell cycle,
+inflammatory response
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+NIH-PA Author Manuscript
+200/142†
+123/224†
+44/45
+20/82
+156/362†
+200/396
+456/2000†
+176/187†
+150/212†
+74/137
+
+CA-125, ApoA1, TTR
+
+CA-125, CA 72–4, MCSF
+
+CA-125, IL-6, IL-8, VEGF, EGF
+
+CA-125, TTR, ApoA1
+
+CA-125, leptin, PRL, OPN, IGF-II, MIF
+
+CA-125, HE4, glycodelin, cPlau-R, MUC1, PAI1
+
+CA-125, HE4, CEA, VCAM-1
+
+CA-125, CA 19–9, EGFR, CRP, myoglobin, Apo
+A1, CIII, MIP1a, IL-6, IL-18, tenascin C
+
+CA-125, CRP, SAA, IL-6, IL-8
+
+CA-125, HE4, SI
+
+84/98.5
+
+94.1/91.3
+
+91.3/88.5
+
+86–93/98
+
+80–89/87
+
+95.3/99.4
+
+89/92
+
+85/95
+
+70/98
+
+74/97
+
+SN/SP
+
+ELISA
+
+BBIA
+
+BBIA
+
+BBIA
+
+BBIA
+
+BBIA
+
+MS
+
+BBIA
+
+ELISA
+
+MS
+
+Analytical platform
+
+N/A
+
+LR
+
+Knowledge Discovery Engine-VS
+
+MMC
+
+LR
+
+LR
+
+LR
+
+CT
+
+CT, MDA, LR
+
+SVM
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+Biomarker prioritization
+
+2010
+
+2010
+
+2008, 2009
+
+2010
+
+2008
+
+2008
+
+2007
+
+2005
+
+2004
+
+2004
+
+Year
+
+[127]
+
+[58]
+
+[52,57]
+
+[54,12]
+
+[124]
+
+[60]
+
+[119]
+
+[144]
+
+[59]
+
+[61]
+
+Ref.
+
+BBIA: Bead-based immunoassay; CT: Classification trees; LR: Logistic regression; MDA: Mixture discriminant analysis; MMC: Metropolis-Monte Carlo algorithm; MS: Mass spectroscopy; N/A: Not
+applicable; SI: Symptom index; SN: Sensitivity; SP: Specificity; SVM: Support vector machine.
+
+Includes independent validation set.
+
+†
+
+Cases/controls
+
+Panel
+
+Bioinformatics method
+
+NIH-PA Author Manuscript
+
+Multimarker panels that discriminate ovarian cancer cases from healthy controls.
+
+NIH-PA Author Manuscript
+
+Table 4
+Nolen and Lokshin
+Page 26
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+Nolen and Lokshin
+
+Page 27
+
+Table 5
+
+Trends in serum biomarker alteration in three large studies.
+
+NIH-PA Author Manuscript
+
+Biological function
+
+Trend in OC
+
+Biomarkers
+
+Cytokines/chemokines
+
+Elevated
+
+IL-10†, IL-6†, TNF-α†, TNFR2†, 6Ckine, BCA-1, BLC/CXCL, CCL20/MIP3α,
+CD40, CXCL9/MIG, IL-1Rα, IL-11, IL-16, IL-1β, IL-21, IL-28A, IL-2R, IL-33,
+IL-7, IL-8, LIF, MIF, MIP-1δ, RANTES, sCD137/4, TNFR1
+
+Decreased
+
+Eotaxin-1, eotaxin-2, IL-18, macrophage-derived chemokine, XCL1/
+lymphotactin
+
+Elevated
+
+IGFBP1†, angiopoietin-2, β2-microglobulin, β-cellulin, CTGF, bFGF, heparinbinding EGF-like growth factor, IGFBP2, IGFBP4, PDGF, VEGF
+
+Decreased
+
+EGFR‡, BDNF†, ErbB2†, IGFBP3, IGFBP6, IGF-I, PEDF, stem cell factor
+
+Elevated
+
+CA-125†, CA 19–9†, OPN†, TIMP-1†, CA 15–3, CA 72–4, cathepsin D,
+MMP-9, tenascin C
+
+Decreased
+
+VCAM-1†, MMP-2, MMP-3, NCAM
+
+Elevated
+
+ACTH, GH, GLP-1, prolactin, TSH
+
+Decreased
+
+Adiponectin, estrogen receptor-α, FSH, ghrelin, GIP, insulin, leptin, LH,
+osteocalcin, thrombopoietin
+
+Elevated
+
+α1-antitrypsin†, CRP†, EN-RAGE, ferritin, fibrinogen, haptoglobin, HSA, PAI-1,
+protein S100-A12 (EN-RAGE), SAP, von Willebrand factor
+
+Decreased
+
+α2-macroglobulin†, ApoA1†, ApoCIII, ApoH, clusterin, complement C3, C4,
+factor VII, fetuin A, prealbumin†
+
+Elevated
+
+Cyfra 21–1
+
+Decreased
+
+Fas, perforin
+
+Elevated
+
+AGRP
+
+Decreased
+
+Creatine kinase-MB
+
+Elevated
+
+Anti-TFF-3, FABP, HE4, NSE, NT-Pro-BNP
+
+Decreased
+
+None
+
+Growth/angiogenic factors
+
+Adhesion molecules/proteases
+
+Hormones
+
+NIH-PA Author Manuscript
+
+Acute-phase reactants/coagulation factors
+
+Apoptosis factors
+
+Energy homeostasis
+
+Undefined or other functions
+
+†
+
+Trend agreement in two studies.
+
+‡
+
+Trend agreement in three studies.
+
+EGFR: EGF receptor.
+Data taken from [51,52] [Nolen LBM, Lokshin AE, Unpublished Data].
+
+NIH-PA Author Manuscript
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+

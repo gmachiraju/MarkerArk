@@ -1,0 +1,78 @@
+#!/usr/bin/env bash
+# compile-xdocs -- Compile executable documents that embed arbitrary commands
+#                  between <$ and $> into a shell script that generates the
+#                  resulting documents that contain the output of the commands.
+# 
+# Environment variables:
+#   EXPAND_PARAMETERS
+#     When set to non-empty value, expands strings like `$foo` or `${bar}`
+#     in addition to <$ ... $>.
+# 
+#   DEBUG
+#     When set to non-empty value, prints what command is running to stderr
+#     by setting `set -x`.
+# 
+#   DRYRUN
+#     When set to non-empty value, only prints the shell script that will run
+#     to stdout, instead of actually running it.
+#
+# Author: Jaeho Shin <netj@sparcs.org>
+# Created: 2013-11-20
+set -eu
+
+[[ $# -gt 0 ]] || set -- /dev/stdin
+
+for input; do
+    ! [[ -e "$input" ]] || continue
+    echo >&2 "$input: No such file"
+    exit 2
+done
+
+for input; do
+{
+    echo -n ": "$input"; "
+    echo -n 'set -e; '
+    case $input in
+        /dev/stdin) output=             wd=.                   ;;
+        *.in)       output=${input%.in} wd=$(dirname "$input") ;;
+        *)          output="$input".out wd=$(dirname "$input") ;;
+    esac
+    # compile each file into a shell script
+    [[ -z "$output" ]] ||
+        echo -n "exec >'"${output//\'/\'\\\'\'}"'; "
+    echo -n "cd '"${wd//\'/\'\\\'\'}"'; "
+    echo -n 'set +e; '
+    perl <"$input" -Mstrict -e '
+        sub echo {
+            for my $s (@_) {
+                my $t = $s;
+                $t =~ s/'\''/'\''\\'\'''\''/g;
+            '"$([[ -z "${EXPAND_PARAMETERS:-}" ]] || echo '
+                # expand $foo, ${foo}, \\$foo, but not \$foo or \\\$foo
+                $t =~ s/((?:[^\\]|^)(?:\\\\)*)(\$(?:[A-Za-z_]\w*|\{[^\}]+\}))/$1'\''"$2"'\''/g;  # recognized parameter expansions
+                $t =~ s/((?:[^\\]|^)(?:\\\\)*)\\\$/$1\$/g;  # expand escaped dollar sign
+                $t =~ s/\\\\/\\/g; # expand all escaped backslashes
+            ')"'
+                printf "printf %%s '\''%s'\''; ", $t;
+            }
+        }
+        my $md = join "", <>;
+        while ($md =~ /(.*?)<\$(.*?)\$>|(.*)$/sg) {
+            if (defined $2) { echo($1);
+                my $code = $2;
+                if ($code =~ /^=\s*(.*)/) { printf "printf %%s %s; ", $1; }
+                else {
+                    print $code, " ";
+                    # TODO add tests for these corner cases
+                    print ";" unless $code =~ /([\r\n]\s*|(do|then|else|\{|\(|for|while|until|if|elif)\s*)$/;
+                }
+            }
+            elsif ($3 ne "") { echo($3); }
+        }
+    '
+} |
+  if [[ -n "${DRYRUN:-}" ]]; then cat
+elif [[ -n "${DEBUG:-}"  ]]; then exec -a "$input" bash -x -s
+else                              exec -a "$input" bash -s
+fi
+done

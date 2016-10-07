@@ -1,0 +1,200 @@
+0.000001
+
+n.c.
+
+0.000001
+
+0.40  0.09 (0.42)
+0.27  0.09 (0.28)
+0.27  0.10 (0.28)
+0.24  0.04 (0.24)
+0.25  0.08 (0.26)
+
+0.000000
+0.000001
+
+n.c.
+
+0.000004
+
+0.58  0.25 (0.52)
+0.36  0.26 (0.29)
+0.34  0.27 (0.26)
+0.29  0.16 (0.29)
+0.42  0.22 (0.31)
+
+0.000000
+0.000001
+
+n.c.
+
+0.03
+
+0.57  1.06 (0.32)
+2.70  2.61 (1.76)
+2.11  2.01 (1.54)
+5.78  7.87 (5.78)
+4.11  2.82 (3.95)
+
+0.000000
+0.000007
+
+n.c.
+
+0.000000
+
+n
+
+79
+57
+42
+2
+13
+
+63
+138
+23
+86
+14
+12
+3
+166
+
+13.0  12.2 (10.5)
+330.7  337.2 (195.1)
+180.5  224.7 (74.5)
+433.2  357.3 (347.4)
+208.2  249.1 (95.4)
+88.3  152.9 (12.2)
+84.2  124.2 (18.7)
+36.1  54.5 (15.7)
+
+0.000000
+0.000002
+0.000000
+0.000001
+0.11
+0.22
+0.000000
+
+0.39  0.09 (0.38)
+0.20  0.09 (0.20)
+0.22  0.09 (0.21)
+0.20  0.08 (0.19)
+0.20  0.10 (0.20)
+0.22  0.11 (0.23)
+0.19  0.04 (0.21)
+0.30  0.12 (0.31)
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000012
+0.004
+0.000000
+
+0.80  0.41 (0.74)
+0.42  0.30 (0.32)
+0.42  0.26 (0.32)
+0.39  0.26 (0.31)
+0.43  0.29 (0.36)
+0.66  0.50 (0.37)
+0.55  0.24 (0.63)
+0.50  0.29 (0.47)
+
+0.000000
+0.000008
+0.000000
+0.0006
+0.20
+0.27
+0.0009
+
+0.64  0.81 (0.28)
+0.98  1.30 (0.41)
+1.10  1.59 (0.37)
+0.76  0.99 (0.37)
+1.52  1.71 (0.74)
+1.72  1.84 (0.91)
+0.64  0.42 (0.60)
+2.94  2.68 (2.16)
+
+0.09
+0.54
+0.40
+0.05
+0.01
+0.36
+
+Benign pelvic masses
+Abbreviation: n.c., not computed. FIGO, Federation Internationale des Gynaecologistes et Obstetristes.
+* The total ion current (area-under-spectrum curve) within the m/z range 1.5 kDa150 kDa of all spectra were normalized to the constant 0.2 before analysis.
+ P of all two-group comparisons estimated by Mann-Whitney U test; P estimated between patients with ovarian cancer and healthy controls unless specified otherwise.
+ P estimated between patients with benign pelvic mass and patients with epithelial ovarian cancer in the independent validation set.
+ Mean level of biomarker m/z 3,272 was higher among patients with benign pelvic mass than in patients with epithelial ovarian cancer in the independent validation set.
+
+n.c.
+
+lipoprotein A1 using a turbidimetric immunoassay performed in a
+microtiter plate format (Wako Chemical USA) and for transthyretin
+using a particle enhanced turbidimetric immunoassay performed on
+the Dimension RxL Instrument (Dade-Behring; Table 5). The serum
+levels of CA125 were up-regulated among the 41 patients with late-
+stage ovarian cancer compared with the 41 healthy controls
+(mean  SD in units/ml, 2388  4723 versus 18  23,
+P  0.000000), whereas levels of apolipoprotein A1 and transthyretin
+were down-regulated (mean  SD in mg/dl, 122  42 versus
+153  28, P  0.0004, and 20  7 versus 27  6, P  0.00005,
+respectively). The mean serum apolipoprotein A1 level among the
+healthy controls was not significantly different from that of patients
+with breast or colorectal cancer (P  0.77 and P  0.69, respectively)
+and only marginally different from that of patients with prostate
+cancer (P  0.02). The mean serum transthyretin level was down-
+regulated among patients with colorectal cancer (P  0.01) albeit to
+a lesser degree than that in patients with ovarian cancer. The differ-
+ences in mean serum transthyretin levels between the healthy controls
+and patients with breast or prostate cancer were not significant
+(P  0.51 and P  0.22, respectively).
+
+DISCUSSION
+
+Differential analysis of serum protein profiles from patients with
+early stage ovarian cancer and healthy women revealed three biomar-
+kers the discriminatory power of which was confirmed with samples
+
+from multiple institutions through cross-validation and independent
+validation. Combined with CA125 in a multivariate predictive model,
+these biomarkers improve significantly on the specificity of CA125
+alone although maintaining a relatively high sensitivity. Two of the
+markers were also evaluated using immunoassays. Although the im-
+munoassay for transthyretin was not specific for the particular trun-
+cated form that corresponds to the m/z 12,828 peak, the results
+corroborated the findings from the surface-enhanced laser desorption/
+ionization mass spectrum data and provided preliminary analysis of
+tumor site specificity of these two markers.
+
+Results from receiver operating characteristic curve analysis (Fig.
+3, G and H) show that at a fixed high sensitivity, the predictive
+models, with or without CA125 as one of its inputs, had a much-
+improved specificity over that of CA125 alone. However, when the
+models were compared with CA125 at a fixed high specificity, the
+improvement in sensitivity was more moderate and tended to diminish
+as specificity approached 98% and above. The level of analytical
+variability in peak intensity measurement relative to the few early
+stage ovarian cancer cases in the independent validation set made it
+difficult to evaluate in a statistically meaningful way the diagnostic
+performance of the individual biomarkers or the multivariate models
+at extreme specificity or sensitivity values.
+
+The differences in area-under-curve in detecting stage I/II invasive
+cancer from healthy controls were not statistically significant for the
+independent validation set. Given the fairly large absolute differences
+
+Table 3 Comparison of distributions of serum levels of CA125 and the discovered biomarkers among different groups of epithelial ovarian cancer patients from combined
+
+discovery and independent validation sets
+
+Biomarker level (peak intensity, (mean  SD, median) and P
+
+CA125 (units/ml)

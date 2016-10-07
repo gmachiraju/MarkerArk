@@ -1,0 +1,1927 @@
+Hindawi Publishing Corporation
+Journal of Oncology
+Volume 2012, Article ID 709049, 15 pages
+doi:10.1155/2012/709049
+
+Review Article
+Early Detection Biomarkers for Ovarian Cancer
+Sreeja Sarojini,1 Ayala Tamir,1 Heejin Lim,1 Shihong Li,2 Shifang Zhang,2
+Andre Goy,3 Andrew Pecora,3 and K. Stephen Suh1, 3
+1 The
+
+Genomics and Biomarker Program, The John Theurer Cancer Center, Hackensack University Medical Center,
+Hackensack, NJ 07601, USA
+2 Genewiz, Inc., South Plainfield, NJ 07080, USA
+3 The John Theurer Cancer Center, Hackensack University Medical Center, Hackensack, NJ 07601, USA
+Correspondence should be addressed to K. Stephen Suh, ksuh@hackensackumc.org
+Received 19 June 2012; Accepted 19 November 2012
+Academic Editor: William J. Hoskins
+Copyright © 2012 Sreeja Sarojini et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Despite the widespread use of conventional and contemporary methods to detect ovarian cancer development, ovarian cancer
+remains a common and commonly fatal gynecological malignancy. The identification and validation of early detection biomarkers
+highly specific to ovarian cancer, which would permit development of minimally invasive screening methods for detecting
+early onset of the disease, are urgently needed. Current practices for early detection of ovarian cancer include transvaginal
+ultrasonography, biomarker analysis, or a combination of both. In this paper we review recent research on novel and robust
+biomarkers for early detection of ovarian cancer and provide specific details on their contributions to tumorigenesis. Promising
+biomarkers for early detection of ovarian cancer include KLK6/7, GSTT1, PRSS8, FOLR1, ALDH1, and miRNAs.
+
+1. Introduction
+Among gynecological malignancies, morbidity and mortality
+rates are higher among ovarian carcinomas because early
+detection is diﬃcult due to the absence of recognizable
+physical symptoms and a lack of sensitive screening methods.
+In 2012, a total of 22,000 new cases and more than 15,000
+deaths are expected, according to Cancer Facts and Figures,
+2012, by the American cancer Society [1]. Despite availability of current screening measures, such as transvaginal
+ultrasound, measurement of biomarker CA125 levels [2],
+or a combination of both modalities, due to the highly
+heterogeneous nature of ovarian cancer mortality rates
+remain high. Although death rate has decreased by 1.9%
+every year from 2004 to 2008, ovarian cancer still accounts
+for 3% of all malignancies among women [1]. The longterm survival rate is less than 30% for advanced stage
+patients, but conventional surgery with chemotherapy can
+cure about 90% of patients if diagnosed in stage I. Indeed,
+if the malignancy arises in the ovary and is localized for
+a suﬃcient interval to permit eﬀective screening, then the
+
+chances for survival are significantly higher [3]. Because
+their anatomical location is deep down the pelvis, tumorrelated abnormal functioning of the ovaries is asymptomatic
+until the tumor becomes enlarged or disseminates. In
+postmenopausal women, the problem is exacerbated because
+ovaries become dysfunctional after menopause. Therefore,
+ovarian cancer is more likely to be detected in an advanced
+rather than an early stage [4]. Microarray analyses and proteomics have been promising technologies used in research
+to identify molecular signature biomarkers for early detection, disease classification, and prognosis of ovarian cancer.
+Collections of heterogeneous neoplasms comprising ovarian
+carcinomas have conventionally been classified based on
+their type and degree of diﬀerentiation. However, current
+clinical management practices overlook the heterogeneity of
+ovarian carcinoma [5]. Germline mutations in BRCA1 and
+BRCA2 confer higher risk of ovarian cancer; the estimated
+risk for BRCA1 mutation carriers range between 16% and
+68% by age 70 and between 11% and 27% for BRCA2
+mutation carriers [6–10]. If diagnosed at a localized stage, the
+5 yr survival rate is 93%; however, only 15% of all cases
+
+2
+
+Journal of Oncology
+Table 1: Specificity and sensitivity of early detection biomarkers for ovarian cancer from various studies.
+
+Early detection biomarkers: ovarian cancer (sensitivity and specificity)
+n (Total) Specificity Sensitivity Levels Benign (n) Other malignancies (n) Ovarian (n) Reference
+HE4
+233
+95%
+73%
+High
+166
+NA
+67
+[39]
+74.20%
+100%
+[36]
+HE4 + CA125
+Serum
+472
+High
+383
+89
+10%
+76%
+92.30%
+Prostasin + CA125 Serum
+137
+94%
+92%
+High
+100
+37
+37
+[91]
+Osteopontin
+Plasma
+251
+NA
+NA
+High
+107
+47
+51
+[138]
+KLK6 (hK6)
+Serum
+384
+95%
+21%–26% High
+141
+NA
+146
+[55]
+KLK6 + CA125
+Serum
+384
+90%
+42%
+High
+141
+NA
+146
+[55]
+B7-H4
+Serum
+2256
+97%
+45%
+High
+1023
+997
+236
+[140]
+B7-H4 + CA125
+Serum
+2256
+97%
+65%
+High
+1023
+410
+236
+[141]
+Biomarker
+
+Source
+Serum
+
+n: number of patients.
+
+Table 2: Clinical trials (currently active or completed) for evaluating novel biomarkers of ovarian cancer.
+Clinical trials for evaluating early detection biomarkers in ovarian cancer (USA)
+Phase
+n
+Status
+Clinical trial no. Reference Primary outcome measure
+All biomarkers
+1
+500 (E) Not yet recruiting NCT01466049
+NA
+Screening
+HE4 + CA125
+0
+566
+Completed
+NCT00315692
+[23]
+cancer versus benign disease
+Rate of increase in CA125 over
+CA125
+Low risk (w)
+1 9500 (E)
+Recruiting
+NCT00539162
+NA
+time
+HE4 + CA125
+Adnexal mass
+1
+512
+Completed
+NCT00987649
+NA
+Initial cancer risk assessment
+CA125 + HE4
+High risk (w)
+1 1208 (E)
+Recruiting
+NCT01121640
+NA
+PPV of screening protocols
+CA125
+High risk (w)
+2 2400 (E)
+Unknown
+NCT00080639
+NA
+Screening
+Mesothelin
+Low risk (w)
+0
+250 (E)
+Unknown
+NCT000155740
+NA
+Screening
+Sensitivity and specificity of IOI
+FOLR1
+Stage I Ov ca.
+2
+50 (E)
+Recruiting
+NCT01511055
+NA
+with folate
+CA125 measurement in blood
+CA125 + TVU
+Ovarian diseases
+0
+750 (E)
+Recruiting
+NCT01292733
+NA
+over time
+Screening postmenopausal
+Postmenopausal
+0
+48230
+Completed
+NCT00058032 [24, 25]
+CA125 ± TVU
+women
+CA125
+High risk (w)
+0
+2430
+Recruiting
+NCT00039559
+NA
+Feasibility at study completion
+CA125 + TVU
+High genetic risk (w) 0 5000 (E)
+Unknown
+NCT00033488
+NA
+Annual screening
+CA125
+High risk (w)
+0 6000 (E)
+Recruiting
+NCT00005095
+NA
+Screening
+Combined methods Ov. neoplasms
+0
+36000 Not yet recruiting NCT01178736
+NA
+Low-cost screening
+Interventional
+High risk (w)
+0
+1500
+Recruiting
+NCT00849199
+NA
+Genetic testing, screening
+All Biomarkers
+High risk (w)
+0
+250 (E)
+Recruiting
+NCT00854399
+NA
+Overall survival
+Tumor markers
+High risk (w)
+0
+5000
+Completed
+NCT00267072
+NA
+Early stage detection
+Assessment of screening
+DNA markers
+Ovarian cancer
+0
+170 (E)
+Recruiting
+NCT00879840
+NA
+modalities
+BRCA 1/2 mutation Ov. neoplasms
+0
+1500
+Completed
+NCT00001468
+NA
+Identifying BRCA 1/2 mutation
+Biomarker
+
+Condition
+Adnexal mass
+Pelvic mass
+
+TVU: transvaginal ultrasonography. (w): women, (E): estimated enrollment, IOI: intraoperative imaging. Source: http://clinicaltrials.gov/.
+
+are detected at this stage. The majority of cases (63%) are
+diagnosed after dissemination with the 1-, 5-, and 10year relative survival rates being 75%, 44%, and 35%,
+respectively [1]. Clinical trials for identifying BRCA1 and
+BRCA2 mutations in high risk populations are currently
+being performed (Table 2). As described in earlier reviews,
+both cytoreductive surgery and combination chemotherapy
+with platinum-based compounds and taxanes did not change
+the overall cure rate of ovarian cancer; however, the 5 yr
+survival rate has increased from 37% (1974–1976) to 46%
+
+(1999–2005) [11]. In order to improve long-term survival
+of patients, to improve the clinical outcomes of ovarian
+cancer and to obtain significant reduction of risk, eﬀective
+early detection methods using screening biomarkers with
+adequate sensitivity are urgently needed [12].
+1.1. CA125 (Cancer Antigen 125). The widely used, classic,
+“gold standard” tumor biomarker, CA125, a high molecular
+weight glycoprotein, has a sensitivity between 50% and 60%
+with a specificity of 90% in early stage postmenopausal
+
+Journal of Oncology
+
+3
+
+GSTP’s
+[103]
+M
+A
+JN P-K
+K /
+
+AP
+s/M RK
+Ra -k/E1/2
+
+Mesothelin
+[54]
+
+PRSS8
+[90, 94]
+
+N-cadherin/
+β-catenin
+Vimentin
+
+CA125/
+MUC-16
+
+HE4
+[43]
+
+[26, 27]
+E-cadherin/
+cytokeratin 18
+
+ERK signaling
+MMP-7
+[54]
+CAV-1
+Src
+CA125/
+MUC-16
+[27]
+
+MMP-2
+MMP-9
+[26]
+
+KLK6
+[74]
+
+PI3K/AKT signaling
+
+FOLR1
+
+P-53/lyn
+Gαi-3
+
+[114]
+
+ALDH1
+
+Src/abl
+
+[127]
+
+miR27A
+
+HIPK2
+
+[120]
+
+Osteopontin
+[135]
+Integrin
+CD44
+PTEN
+
+(a)
+
+miR-214
+[119]
+
+(b)
+
+Figure 1: EGF/EGFR-based signaling pathways of ovarian cancer biomarkers. (a) Non-EGF/EGFR-based signaling pathways. (b) ↑
+indicates upregulation. ↓ indicates downregulation. Caveolin-1 (Cav-1); phosphoinositide-3-kinase (PI3K); c-Jun N-terminal kinase (JNK);
+extracellular signal-regulated kinase (ERK); homeodomain-interacting protein kinase-2 (HIPK2); matrix metalloproteinase-2 or 7 (MMP-2
+or MMP-7); multidrug-resistant protein (MDR1, P-glycoprotein); multidrug resistance-associated proteins 1 and 2 (MRP1/2); mitogenactivated protein kinase (MAP-K); phosphatase and tensin homolog (PTEN).
+
+women, and expression of CA125 is enhanced in 90% of
+patients with epithelial ovarian cancer above normal levels
+[13–17]. CA125 is normally expressed in tissues derived from
+Mullerian and coelomic epithelia and is the only biomarker
+currently widely used in cancer therapy [18]. It was suggested
+that CA125 can potentially be used for early detection of
+ovarian cancer [19] since increased levels of CA125 may
+precede clinical detection by more than a year. In addition,
+analysis of CA125 levels has been useful in monitoring
+chemotherapy responses, distinguishing malignant pelvic
+masses from benign masses, detection of recurrence, and
+improving clinical trial design. A decline in expression
+of CA125 is considered a favorable prognostic occurrence
+during chemotherapy, and serial measurement of CA125
+is used as an indicator of therapeutic outcomes and for
+assessing stabilization of the disease [15, 20, 21]. However,
+several factors undermine the significance of CA125 as an
+early detection biomarker. CA125 expression is absent in
+about 20% of ovarian cancers, and CA125 expression is
+elevated in some benign conditions such as liver cirrhosis,
+endometriosis, and peritonitis. Also, CA125 levels exhibit
+fluctuations associated with menstrual cycle and pregnancy.
+As a result, no CA125-based screening techniques are as yet
+recommended for the general population. However, CA125
+has been used eﬀectively in concert with other markers to
+increase its sensitivity as an early detection biomarker. In a
+study by Tcherkassova et al., the receptor for circulating fetal
+protein alpha-fetoprotein (RECAF), an oncofetal antigen,
+has been examined as a biomarker for early detection of
+ovarian cancer in conjunction with CA125 among healthy
+women. When specificity was set at 100% (for each of the
+
+individual markers), it was observed that the addition of
+RECAF to CA125 enhanced the sensitivity of detection to
+83%, as compared to 70% when using CA125 alone. For
+stages III/IV the sensitivity increased from 79.6% to 88.2%
+with the addition of RECAF, and a more profound increase
+was observed for early detection of stages I/II (58.1% with
+CA125 alone to 76% with RECAF/CA125) [22]. Therefore,
+because of the relatively low sensitivity of CA125 as a
+single screening biomarker, combining it with additional
+biomarkers to create a multiple biomarker panel was more
+eﬀective; no single biomarker can provide all the necessary information for ovarian cancer diagnosis and therapy.
+Currently, various clinical trials are evaluating CA125 alone
+or in combination with other biomarkers for screening of
+ovarian cancer (Table 2) [23–25]. It was demonstrated that
+CA125 binds to E-cadherin and β-catenin complexes, which
+results in enhanced motility, migration, and invasiveness
+of cells expressing CA125/MUC16 (Figures 1(a) and 1(b))
+[26, 27]. As with some other ovarian cancer biomarkers,
+CA125/MUC16 expressing cells signaling enhance epidermal
+growth factor receptor (EGFR) activation, which results in
+increasing its downstream eﬀectors Akt and ERK1/2 and
+in enhanced MMP-2 and MMP-9 expression [26]. Implementation of computer technology and statistical methods
+in developing better detection and treatment capacity of
+ovarian cancer has generated new tools that could boost
+sensitivity of CA125. One is a computerized algorithm which
+incorporates and stratifies an individual’s age-specific risk
+for ovarian cancer using CA125 profile; risk of ovarian
+cancer algorithm (ROCA) increases the sensitivity of CA125
+(86%) in preclinical detection. Using ROCA, it could be
+
+4
+predicted whether or not an individual is at high risk based
+on the levels of CA125 (current and previous) as her age
+progresses, meaning if the levels of CA125 increase as the
+individual ages, ROCA identifies the individual as at high
+risk. Additionally, women with elevated levels of CA125 over
+35 u/mL (which is considered as a threshold), which remain
+unchanged over the years, are identified as at lower risk
+(specificity 98%). Based on ROCA scores, women are thus
+triaged into low risk, high risk, and intermediate risk and
+referred for further procedures such as annuals, transvaginal
+sonography (TVS), or repeated evaluations of CA125 levels,
+respectively [28–30]. Similarly, Ova1 is an FDA approved
+multivariate index for identifying high risk ovarian tumors
+before any surgical procedures. It combines measurements
+of five proteins CA125-II, apolipoprotein A1, transthyretin,
+beta 2 microglobulin, and transferrin. Proprietary OvaCalc
+software is used to interpret the results, and an Ova1 score
+will be assigned which varies based on menopausal status.
+Ova1 score 5 and 4.4 is considered with higher risk of malignancy in premenopausal women and for postmenopausal,
+respectively, with sensitivity of 92.5% and specificity 42.8%
+in a trial conducted on women (n = 516) referred for
+surgery by physicians [31]. In a recent study involving
+590 women with diﬀerent types of malignancies including
+nonepithelial and epithelial ovarian cancers, malignancies
+metastatic to the ovary, other pelvic cancers, and borderline
+tumors, Ova1 demonstrated higher sensitivity compared to
+physician’s assessment or to CA125 profile and identified
+the risk of malignancies when combined with physician
+assessment before surgery. However, this study demonstrated
+that Ova1 is independent of cancer stage and menopausal
+status of women and has high sensitivity in detecting ovarian
+cancer compared with CA125 and physician assessment [32].
+It also demonstrated higher sensitivity in detecting ovarian
+cancer compared with CA125 alone.
+1.2. HE4 (Human Epididymis Protein 4). HE4 is a member
+of the WFDC family of proteins (whey acidic four-disulfide
+core) and is found to be overexpressed in ovarian carcinomas. Normal functions of HE4 are yet to be identified;
+however, the specificity and sensitivity of HE4 shows promise
+as a serum marker for ovarian cancer in the early detection
+process [33, 34]. Currently, the FDA has approved the
+use of HE4 as a tumor marker for monitoring relapse or
+progression of EOC (epithelial ovarian carcinoma) [35].
+Earlier studies evaluated HE4 alone and in combination
+with CA125 as a biomarker for ovarian cancer. The results
+suggested that HE4 used in conjunction with CA125 yielded
+significantly greater specificity than either markers alone
+[36]. Also, as a single marker, HE4 had the highest sensitivity
+(72.9% at 95% specificity), and when combined with CA125
+sensitivity increased to 76.4% (at 95% specificity). Among
+biomarkers tested, HE4 levels demonstrated the highest
+sensitivity for stage I disease, but was only 45.9% at 95%
+specificity. There was no significant change in sensitivity for
+stage I disease when HE4 was combined with CA125 or with
+other biomarkers. Thus, HE4 complements the eﬃcacy of
+CA125 in improving screening and diagnosis, and together
+they comprise a promising biomarker panel for detection
+
+Journal of Oncology
+and risk stratification of ovarian cancer [35, 37–40]. Recent
+research by Escudero et al. comparing tumor markers HE4
+and CA125 in healthy individuals (n = 101), patients
+with nonmalignant lesions (n = 535), and patients with
+malignant tumors (n = 423) indicated that HE4 has higher
+specificity in patients with benign gynecological disorders
+than CA125. Similar results were obtained in patients with
+renal failure or disease. However, the levels of CA125 were
+higher in all nonovarian malignancies, and the results of
+this study suggest that even though HE4 has a higher
+diagnostic specificity than CA125, a combination of both
+improves the early detection and diagnosis of ovarian cancer
+of any histological type or stage [41]. In another study
+conducted among Chinese women (n = 491), analysis of
+HE4 and CA125 in sera from healthy subjects, patients with
+nonmalignant disorders and ovarian cancer patients showed
+that both CA125 and HE4 levels were elevated significantly in
+ovarian cancer patients compared to other groups, with the
+specificity of HE4 ranging from 90% to 100% and CA125
+from 36% (benign gynecologic disease) to 99%, attaining a
+specificity of 100% for ovarian cancer with the combination
+of both biomarkers [37]. Furthermore, in a model proposed
+by Yurkovetsky et al. [42], a multibiomarker panel with
+CA125, HE4, CEA, and VCAM-1 was highly recommended
+for early detection of ovarian cancer with 86% sensitivity and
+98% specificity. Overall, available data indicates that HE4
+could be a novel biomarker for early detection of ovarian
+cancer in high risk populations, and a multibiomarker panel
+with CA125 would be promising in detection, diagnosis,
+and prognosis. HE4 was shown to induce tumor cell
+adhesion, migration, and growth through the EGFR-MAPK
+signaling pathway (Figure 1(a)) [43]. In a recent attempt
+to obtain a better detection tool, serum levels of HE4 and
+CA125 were incorporated with menopausal status leading
+to the development of ROMA (risk of ovarian malignancy
+algorithm) in detecting ovarian cancer from benign pelvic
+masses even in early stages. ROMA stratifies these patients
+as high risk groups or low risk, based on ROMA score
+(numerical) calculated from the predictive index [44]. Recent
+studies demonstrated that ROMA exhibits high diagnostic
+accuracy in predicting epithelial ovarian cancer from pelvic
+masses. However, further research is required for evaluating
+ROMA in early detection of ovarian cancer [45, 46].
+1.3. Mesothelin. Several studies have demonstrated overexpression of mesothelin (a glycoprotein present on mesothelial cells lining the pleura, peritoneum, and pericardium)
+in most epithelial ovarian cancers and have suggested the
+eligibility of mesothelin as a target for cancer therapy [47,
+48]. Previously Scholler et al. demonstrated that cancer cells
+undergo CA125/mesothelin dependent cell adhesion in the
+mesothelial epithelium of peritoneum and confirmed CA125
+and mesothelin mediate cell attachment [49]. Rump et al.
+reported that, this mesothelin/CA125 interaction may also
+play a role in peritoneal metastasis of ovarian cancer [50].
+In a recent study, Lowe et al. evaluated personal factors such
+as age, BMI, usage of talc, and smoking that influence the
+levels of expressions of mesothelin, CA125, and HE4 in highrisk, healthy postmenopausal women and demonstrated that
+
+Journal of Oncology
+“age” is a significant predictor in expression of mesothelin
+and HE4 since levels of these biomarkers were found to be
+increased in older women. Also, there was inverse correlation
+between mesothelin levels and BMI of the subjects (>50 yr
+n = 120, <50 yr n = 130) [51]. Similarly, a significant
+increase in levels of mesothelin in sera analyzed in normal
+subjects, subjects with benign disorders, and subjects with
+malignant ovarian tumors revealed that mesothelin could
+be a novel biomarker and that higher levels denote poor
+overall survival in patients following optimal debulking
+surgery or who have advanced stage ovarian cancer [52].
+Moreover, 42% of patients with early stage ovarian cancer
+had elevated mesothelin in urine compared to only 12% of
+patients who had elevated mesothelin in serum, suggesting
+the potential of mesothelin as an early detection biomarker
+[53]. Also, McIntosh et al. noted that mesothelin and CA125
+as a combined marker provided greater sensitivity for early
+ovarian cancer diagnosis [19]. Cancer cells overexpressing
+mesothelin demonstrated enhanced migration and metastasis. These activities were mediated through MMP-7, which is
+regulated through the ERK1/2, Akt, and JNK pathways. The
+signaling pathway of mesothelin in ovarian cancer is detailed
+in Figure 1(a), [54].
+1.4. Kallikreins. The human kallikrein (KLK) gene family,
+localized on chromosome 19q13.4, is composed of 15 genes
+encoding low molecular mass serine proteases (30 KD)
+of known or predicted trypsin-like or chymotrypsin-like
+activity, which dysregulate diﬀerent types of cancer including
+ovarian, giving either a favorable or unfavorable prognosis
+[55–57]. KLKs are translated as preproenzymes and are
+cleaved into proenzymes upon release from the secretion
+pathway. Processing of the proenzymes into active extracellular KLKs is mediated by KLKs or other proteases [58, 59].
+Despite the fact that KLKs are involved in the regulation of
+many physiological processes, including smooth muscle contractions, hormonal regulation, vascular cell growth/repair,
+and blood pressure, the role of KLKs in pathogenesis or
+progression of cancer and diabetes remains unclear. The role
+of KLKs in controlling cellular processes such as neovascularization, apoptosis, and tumor metastasis by cleavage of
+growth factors, extracellular matrix, or hormones has been
+previously reported, and robust arteriogenesis induced by
+overexpression of hK1 has been recently studied [60–62].
+KLKs function in numerous physiological and pathological processes, including hormonal regulation [63], either
+individually or in pathways. Their genetic polymorphisms
+including sequence and splice variants are often associated
+with increased risk for various types of cancers including
+ovarian, thus revealing the potential role of KLKs as
+prognostic, diagnostic, and predictive biomarkers. KLK4-8,
+KLK10-11, and KLK13-15 were shown to be upregulated in
+ovarian tissue and serum from patients and were upregulated
+in cell lines at the mRNA and/or protein level. Previous
+studies reported that KLK4 (hK4) proteins are present in
+normal prostate tissue and are secreted in seminal plasma;
+however, higher levels of KLK4 expression are associated with
+the progression of ovarian cancer, mainly late stage serous
+
+5
+epithelial-derived ovarian carcinomas where hK4 represents
+a potential biomarker for diagnosis and prognosis [64, 65].
+KLK4 and KLK5 were reported to be associated with poor
+outcome in grade 1 and 2 tumors, indicating their association
+with aggressive forms of cancer. The association of KLK4
+with aggressive cancer was identified in an RT-PCR study
+of KLK4 expression in 147 ovarian cancer tissue samples
+[66, 67]. Similar patterns of expression were observed in the
+levels of KLK5 with higher expression in aggressive serous
+carcinomas compared to expression in normal ovarian
+tissues or low grade tumors [68].
+As demonstrated in Shan et al., KLK6 was reported to
+be a novel biomarker for ovarian cancer diagnosis based on
+the fact that it is associated with late stage, chemotherapy
+responsive, disease-free survival and serous histotype [69,
+70]. KLK6 has been identified as having high potential as
+a novel biomarker with better specificity than CA125 for
+early detection of ovarian cancer because it is not elevated
+in noncancerous tumors [55]. Nonetheless, the diagnostic
+sensitivity is low compared to the diagnostic sensitivity
+of CA125. However, when KLK6 is used in combination
+with CA125, the sensitivity of each of the biomarkers is
+significantly increased (at 90% specificity, sensitivity is 72%
+for all patients and 42% in early stage patients) [55]. Using
+an immune-fluorometric assay KLK6 was found in high concentrations in various body fluids including CSF, breast milk,
+nipple aspirate fluid, and breast cyst fluid of women and in
+male and female serum [71, 72]. However, the sensitivity
+and specificity of both KLK6 and CA125 are ineﬀective in
+screening a population for early detection of ovarian cancer
+[73]. The prognosis for patients with preoperative KLK6 levels >4.4 μg/L in serum is much worse than for patients with
+lower preoperative KLK6 serum levels. The significance of
+KLK6 as a prognostic factor is higher than CA125. The extensive and almost exclusive sialylation of KLK6 from malignant
+ovarian cells suggests that sialylated KLK6 could serve as
+a novel biomarker for early detection [74]. The signaling
+pathway of KLK6 in ovarian cancer is given in Figure 1(a),
+where its expression was found to be upregulated through
+downstream pathways of k-ras. A component of the plasma
+membrane Caveolae, CAV-1, was shown to be responsible for
+KLK6 gene expression and related protein secretion [75].
+Another important kallikrein family member, KLK7, a
+chymotryptic serine protease previously reported to have
+a role in the desquamation of plantar stratum corneum,
+catalyzes the degradation of desmosomes in the deeper layers
+of skin during reconstruction [76], thus playing a pivotal
+role in cell shedding. Similarly, the presence of KLK7 on
+the surface of cancer cells suggests that, by digestion of
+extracellular matrix, KLK7 helps in the shedding of tumor
+cells and, therefore, in invasion and early metastasis. The significance of KLK7 in ovarian cancer early detection is directly
+related to its upregulated levels in ovarian cancer cells [77].
+In a study of 44 ovarian tumors (12 low malignant and 32
+carcinomas), Tanimoto et al. [78] showed that levels of KLK7
+mRNA were elevated in 66.7% of low malignant potential
+tumor cells and in 78.1% of malignant cells, suggesting that
+the overexpression of KLK7 in ovarian tumors contributes to
+tumor cell growth and metastasis.
+
+6
+KLK8 is normally expressed in ovaries as well as in adult
+and fetal kidneys, salivary gland, skin, tonsil, and breast. It is
+also detected in breast milk and amniotic fluid as well as in
+CVF, CSF, and ovarian cancer ascites [79].
+Analysis of kallikreins 4–8, 10, 11, 13, and 14 levels in
+eﬀusion supernatants obtained from 221 ovarian cancer
+samples and nonneoplastic diseases demonstrated that,
+with the exception of KLK4, all kallikreins were expressed
+at higher than normal levels in ovarian cancer eﬀusions.
+Among these, KLK6, KLK7, KLK8, and KLK10 showed the
+highest statistical significance in ovarian cancer eﬀusions
+over other cancer groups, suggesting that these kallikreins
+might be useful biomarkers in diﬀerential diagnosis of
+ovarian cancer [80]. In an analysis of kallikreins 6, 10, CA125,
+and hemostatic markers and 5-year survival outcome from
+epithelial ovarian carcinoma, it was found that ovarian
+carcinoma patients who lived past 60 months shared
+similar elevated preoperative levels of KLK10 and CA125
+seen among benign cyst patients. However, the authors
+indicated a need for a further enlarged study to confirm
+these findings [81]. Results from an ovarian cancer xenograft
+model suggest that KLK10 has a tumor suppressive function
+[82]. Expression of KLK10 is noted in a variety of tissues,
+including breast, ovary, colon, prostrate, and testes [83, 84].
+The observed upregulation of KLKs in ovarian cancer is important for diagnosis, prognosis, and treatment.
+KLK6, KLK10, and KLK11 may provide novel serological
+diagnostic markers since their expression levels in serum
+are significantly higher in ovarian cancer patients than in
+healthy subjects. Similarly, KLK4 and KLK9 share prognostic
+value in ovarian cancer, with higher expression of KLK5
+correlating with poor prognosis [66]. In recent studies,
+we used a bioinformatics-guided approach coupled with
+subsequent screening and validation methods for identifying
+novel biomarkers for ovarian carcinoma. Our results showed
+that KLK6 and KLK7 are upregulated in ovarian cancer
+tissues over other cancer types. Upregulation occurs during
+early stages and in ovarian carcinomas of low malignancy,
+and these KLKs are secreted into the blood during tumor
+progression [85]. Hence, KLK6/7 could be further evaluated
+as early detection biomarkers.
+1.5. PRSS8. Human prostasin (PRSS8), a trypsin-like proteinase (40 KDa) localized on chromosome 16p11.2, was first
+isolated from seminal fluid and was found to be localized or
+secreted (or both bound and secreted) on the apical surface
+of the epithelia of the lung, kidney, and prostate. Prostasin
+plays a significant role in activating epithelial sodium channels and suppressing the in vitro invasiveness of both prostate
+and breast cancers [86–88]. Similarly, epidermal tight junction formation and terminal diﬀerentiation are connected
+to the matriptase-prostasin proteolytic pathway [89]. Recent
+studies showed that EGFR (epidermal growth factor receptor) protein expression and EGF-induced phosphorylation of
+Erk1/2 (extra cellular signal regulated kinases) were found to
+be downregulated by prostasin expression in PC-3 prostate
+cancer cells. Given that prostasin functions in EGFR signal
+modulation, a recent study concluded that it was significant
+in the regulation of placental trophoblast cell proliferation
+
+Journal of Oncology
+via the EGFR-MAPK signaling pathway, since this cascade
+regulates placental cytotrophoblast proliferation [90].
+The potential of prostasin/PRSS8 as a novel biomarker
+for ovarian carcinoma was suggested by Mok et al. using
+microarray technology to identify upregulated genes for
+secretor proteins. The results demonstrated overexpression
+of PRSS8 in malignant ovarian epithelial cells and stroma
+compared to the normal ovarian tissue with sensitivity and
+specificity of 92% and 94%, respectively [91]. A significant
+decline in postoperative serum levels of PRSS8 was observed
+in a majority of cases. Similarly, Costa et al. demonstrated
+significantly higher over-expression of prostasin mRNA in
+fresh-frozen ovarian cancer tissues than in normal controls
+[92]. Previous studies to determine the function of Zincfinger protein 217 (ZNF217) using Aﬀymetrix Gene Chip
+analysis in the ovarian cancer cell line, HO-8910, with HGU133 plus 2.0 arrays demonstrated that silencing of the
+ZNF217 gene resulted in downregulation (approximately 8fold) of 164 genes compared to normal cells. The same study
+also confirmed downregulation of PRSS8 after silencing
+ZNF217 expression indicating the significance of ZNF217
+as a key regulator [93] and suggesting PRSS8 as a potential
+biomarker in ovarian carcinomas. The signaling pathway of
+PRSS8 in ovarian cancer is detailed in Figure 1(a) [90, 94].
+1.6. Glutathione S-Transferase Polymorphisms. Functional
+polymorphisms of members of the Glutathione S-transferase
+family (GSTM1, GSTT1, and GSTP1) are the result of large
+deletions present in the structural gene, which in turn aﬀect
+drug metabolism and influence the eﬀects of chemotherapy
+in cancer patients. Allelic variants of GSTs catalyze the
+conjugation of glutathione to xenobiotic or endogenous
+substrates, including potentially toxic chemical compounds,
+and promote detoxification. Given that GST polymorphisms
+are highly expressed in the human ovary [95] and that
+polymorphisms of drug metabolizing enzymes influence the
+susceptibility to diﬀerent types of cancer, studies on the role
+of GST polymorphisms in the response to chemotherapy
+in ovarian cancer therapy would be appropriate. Earlier
+epidemiologic studies did not confirm the association of GST
+polymorphisms with epithelial ovarian cancer [96], although
+they suggested that individuals with homozygous deletions
+of GSTM or GSTT have reduced or no GST activity, making
+elimination of electrophilic carcinogens diﬃcult. In a study
+conducted by Beeghly et al. using DNA extracts from 215
+primary epithelial ovarian cancer tissues, GSTT1, GSTM1,
+and GSTP1 genotypes were identified and assessed by
+multiplex PCR and PCR-RFLP. The study incorporated Cox
+proportional hazards regression to determine the association
+between GST polymorphisms and cancer progression. The
+results indicated that although none of the individual GST
+polymorphisms were associated with disease characteristics,
+when adjusted for disease stage or limited to late-stage
+patients, GSTM1 polymorphism conferred a better survival.
+More significantly, combination of no GSTM1 and low
+GSTP1 resulted in over 60% better progression-free survival and nearly 40% improved overall survival. Therefore,
+functional polymorphisms of GSTM1 and GSTP1 have
+important roles in survival of the patients [97]. Similarly,
+
+Journal of Oncology
+a meta-analysis, by Economopoulos et al. examining the
+association of GST polymorphisms and ovarian cancer risk,
+suggested that GSTT1, GSTM1, and GSTP1 polymorphisms
+did not seem to contribute any increased risk in individuals. The study included 2357 cases and 3044 controls (8
+studies) of GSTM1 null polymorphism, 1923 cases and
+2759 controls (6 studies) of GSTT1 null polymorphism,
+and 3 studies of GSTP1 Ile105Val. Because the populations
+studied were largely white, the authors indicated that the
+results could not be extrapolated to other populations,
+and further race-specific analyses were needed [98]. The
+role of GSTs is highly relevant in drug-resistant tumors
+where higher expression of GSTs could alter regulation of
+the kinase cascade during drug therapy [99]. Similarly, the
+imbalance between GSH and related enzymes could lead
+to various pathologies, including cancer, with the genetic
+polymorphisms of GST aﬀecting susceptibility and progression [99]. Significant reduction in enzymatic activities and
+higher risk for malignancies are observed in homozygous
+“null” genotypes (deletion of GSTT1 or GSTM1 genes),
+because the detoxifying abilities of these individuals are
+low [100–102]. In ovarian cancer patients with a “double
+null” genotype, the observed prognosis was poor, along with
+diminished response to chemotherapy; however, patients
+with null genotypes for either GSTT1 or GSTM1 exhibited
+an increased survival rate after chemotherapy for invasive
+ovarian carcinoma [100–102]. Considering these results, it
+might be predicted that polymorphisms of GST (GSTT1 or
+GSTM1) could provide a novel biomarker for early detection
+and diagnosis of ovarian cancer, although further research is
+necessary. The signaling pathway of GSTPs in cancer is given
+in Figure 1(a), [103]. Although it is not yet clear what are the
+signaling pathways of the diﬀerent subtypes of GSTP, it was
+suggested they may operate through the ERK pathway.
+1.7. FOLR1. FOLR1 (folate receptor alpha) is a membranebound receptor protein involved in transport of folate into
+cells and other cellular processes. Over-expression of FOLR1
+was observed in 69% of uterine serous carcinoma [104].
+Rapidly dividing cancer cells have an increased requirement
+for folate to maintain DNA synthesis, and as reviewed by
+Kelemen, the expression of FOLR1 is regulated by depletion
+of extracellular folate levels, accumulation of homocysteine,
+steroid hormone levels, genetic mutations, and certain
+transcription factors and cytosolic proteins [105]. Kelemen
+discusses the significance of folate levels in tumor etiology
+and progression, with suggestions for future research in
+FOLR1 gene expression and regulation [105]. Similarly, the
+over-expression of FOLR1 in various nonmucinous tumors
+of epithelial origin, including ovarian carcinoma, has been
+reported; however, its evaluation as a novel biomarker
+for early detection has yet to be confirmed. FOLR1 overexpression was confirmed in serous ovarian carcinoma in
+previous studies detailing clinicopathologic features and
+outcomes, as well as the relationship between FOLR1 and
+chemoresistance [106]. This study evaluated 91 specimens of
+serous ovarian carcinomas, and the results showed that overexpression of FOLR1 is a poor prognostic factor for diseasefree survival and has a negative impact on overall survival of
+
+7
+patients. Moreover, FOLR1 regulated the expression of bcl-2
+and Bax and inhibited cytotoxic drug-induced apoptosis in
+in vitro apoptosis experiments. The results further support
+that FOLR1 could be a potential biomarker in detection,
+prognosis, and assessing chemotherapy responses of ovarian
+carcinoma [106]. In a recent study by van Dam et al.,
+expression of folate receptor-alpha was further examined
+by using a detecting imaging agent, and intraoperative use
+of a folate-targeted fluorescence agent with fluorescence
+microscopy showed a strong signal for all folate-positive
+malignant tumors and no signal for all folate-negative
+malignant tumors or benign lesions [107].
+Similarly, analysis of the diagnostic and prognostic role
+of FOLR1 and FOLR3 in eﬀusion cytology of ovarian cancer
+(n = 71), breast cancer (n = 10), and malignant mesothelioma (n = 10) using quantitative PCR and flow cytometry
+showed significantly higher concentrations of FOLR1 and
+FOLR3 in ovarian carcinoma samples compared to breast
+or mesothelioma. Furthermore, the high expression of folate
+receptors in ovarian carcinomas shown in this study supports
+the validity of FOLR1 as drug targets in chemotherapy of
+ovarian cancer, since FOLR1 expression eﬀectively diﬀerentiates ovarian cancer tumors with its coexpression with
+FOLR3, aﬀecting the serosal cavities of tumors [108]. An earlier study to evaluate the significance of expression of folate
+receptors in gynecologic tissues (ovary, uterus, and cervix) by
+Wu et al. revealed contrasting expression patterns of FOLR1
+between normal diﬀerentiation and malignant transformations of these tissues using quantitative analysis of FOLR1
+mRNA. Results indicated that in normal ovary, FOLR1
+expression was limited to germinal epithelium, and downregulation of FOLR1 was noted in diﬀerentiation of these
+cells into benign mucinous or benign serous lesions. Similarly, malignant transformation of these cells also resulted
+in down regulation of FOLR1, with higher levels of mRNA
+expression in serous cystadenocarcinoma [109]. Consequently, these studies support the upregulation of FOLR1 in
+ovarian cancer and confirm that it plays a significant role in
+regulating folate pathways in the tumor environment, making FOLR1 a possible biomarker for early detection of ovarian carcinoma. Clinical trials are currently being performed
+to evaluate the potential of FOLR1 as an early detection
+biomarker (Table 2). The diﬀerence in levels of expression of
+FOLR1 reported in recent studies is summarized in Table 4
+[110–113]. Nearly no information is available in regard to the
+signaling pathway of FOLR1 in ovarian cancer, but it was suggested it signals through p-53/lyn/Gαi-3 (Figure 1(b)) [114].
+1.8. miRNA. In addition to the above-mentioned biomarkers, epigenetic markers including microRNAs (miRNA) are
+being considered as positive predictive biomarkers for the
+clinical management of ovarian cancer [115]. Carcinogenesis
+is a multistep process involving genetic alterations in oncogenes such as deletions, mutations, or amplifications and
+changes in microRNA genes. Iorio et al. investigated the
+importance of miRNA in ovarian cancer and demonstrated
+that miR-21, miR-141, miR-200a, miR-200c, miR-200b, miR203, miR-205, and miR-214 could be used as diagnostic
+markers in ovarian cancer [116]. Taylor et al. compared
+
+8
+
+Journal of Oncology
+Table 3: Levels of expression of biomarker ALDH1 in various stages of ovarian cancer.
+
+Biomarker
+
+Expression pattern on
+tumors
+Low to high
+
+Low
+ALDH1
+
+Low to high
+Low and high
+
+Positive rates
+(levels of expression)
+0% in 27.1% of samples
+1%–20% in 44% of samples
+20%–100% in 28.9% of samples
+(10% of all patients demonstrated
+nearly 100% expression)
+
+Category
+
+N
+
+Serous stages III-IV
+
+65
+
+Malignant tumors
+Benign tumors
+
+5
+5
+
+17.1% ± 7.61%
+31.03% ± 6.68%
+
+Healthy controls
+
+5
+
+37.4% ± 5.4%
+
+Serous carcinoma
+Stage I
+Late stage
+
+266
+32
+65
+
+>20% expression in 85% of samples
+>20% expression in 44% of samples
+77% positive cells
+
+References
+[124]
+
+[125]
+
+[121]
+[126]
+
+Table 4: Levels of expression of biomarker FOLR1 in various stages of ovarian cancer.
+Biomarker
+
+FOLR1
+
+Expression pattern
+High
+
+Category
+Early stage (I/II)
+Advanced stage (III/IV)
+Healthy controls
+
+N
+15
+15
+30
+
+Positive rates (levels of expression)
+16 ± 2 au
+12 ± 2 au
+7 ± 0.9 au
+
+References
+[110]
+
+High
+
+Advanced stage
+Healthy controls
+Primary tumors
+Recurrent tumors
+Serous carcinoma
+Nonserous carcinoma
+
+104
+30
+186
+27
+210
+116
+
+97%
+Negligible
+72%
+81.5%
+81.8%
+39.9%
+
+[111]
+
+High
+Weak to moderate
+
+these miRNA profiles in circulating tumor exosomes isolated
+from sera of both benign and malignant ovarian carcinoma
+patients. The results showed miRNA profiles in exosomal
+microRNA from ovarian cancer patients were significantly
+diﬀerent from the profiles observed in patients with nonmalignant disorders, with no exosomal miRNA detected in
+normal controls [117]. These results suggest that miRNA
+profiling could be a promising biomarker for early detection
+of ovarian cancer and biopsy profiling, as well as for
+screening asymptomatic populations. Further research in
+OVCAR3 cell lines showed higher levels of miR-21, miR-203,
+and miR-205 in ovarian cancer compared to normal ovary.
+miRNA levels were further increased when OVCAR3 cell
+lines were demethylated with 5-aza-2 -deoxycytidine, suggesting DNA hypomethylation as a possible reason for overexpression of miRNA. This study indicates the pathogenetic
+role of miRNA in epithelial ovarian cancer and supports
+miRNA gene methylation as a possible epigenetic pathway
+for their abnormal expression [116]. In addition, the role
+of miRNAs in disease prognosis and prediction of outcome
+in ovarian cancer has also been investigated by profiling
+miRNA expression from advanced cancer samples [118].
+The results indicated that miR-200a, miR-200b, and miR429 play a role in cancer recurrence and overall survival and
+demonstrated that low expression of miRNA 200 miRNAs in
+this group predicts poor outcome, whereas high expression
+
+[112]
+[113]
+
+of miRNA 200 miRNAs inhibits ovarian cancer cell migration, possibly preventing metastasis, which might indicate a
+better outcome [118]. The results discussed above indicate
+that miRNAs are aberrantly expressed in ovarian carcinoma
+and are potential biomarkers for early detection, diagnosis,
+and monitoring the overall progress of the disease. miR214 was shown to operate through PI3K/AKT upregulation
+via PTEN suppression, while it was suggested that miR-27A
+in ovarian cancer signals through HIPK2 (Figures 1(a) and
+1(b)) [119, 120].
+1.9. ALDH1 (Aldehyde Dehydrogenase 1). Being a member
+of aldehyde dehydrogenases protein family, ALDH1A1 plays
+important role when expressed in a subpopulation of cells
+with tumor-initiating properties in a variety of malignancies
+and thus a possible candidate biomarker in cancer therapy.
+ALDH1 is encoded by ALDH1A1 gene located in chromosome 9q21 and plays key role in pyridine nucleotidedependent oxidation of aldehydes to respective carboxylic
+acids. The role of ALDH1 in diﬀerentiation of ovarian cancer
+stem cells and association of ALDH1 expression and various
+clinicopathologic factors including diagnosis, tumor grade,
+chemoresponses, staging of disease, and overall survival and
+disease-free survival of ovarian cancer was evaluated in
+recent research by Chang et al., using microarray analysis
+of ALDH1 (n = 442) by immune-histochemical staining
+
+Journal of Oncology
+as compared to the variations in clinical outcome. Results
+demonstrated that ALDH1 expression was associated with
+longer overall survival of the patients, and high expression
+of ALDH1 is a favorable prognostic factor in patients with
+ovarian cancer [121]. Similarly, recent study evaluating the
+expression of ALDH1 in epithelial ovarian cancer stem cells
+by Steﬀensen et al. demonstrated the higher expression of
+ALDH1 in CD44+ EOC stem cell clones [122] indicating
+ALDH1 as a potential biomarker for identifying presence of
+tumorigenic stem cells and improved therapy options.
+Furthermore, tumorigenicity of stem cells coexpressing
+ALDH1 and CD 133 was studied by Silva et al., who demonstrated that tumor cells coexpressing ALDH1 and CD 133
+have highly aggressive phenotype, rapid tumor formation
+and propagation, worse progression free survival and overall
+survival in ovarian cancer [123]. Considering these results,
+which demonstrate that ALDH1A1-positive ovarian cancer
+cells have increased tumorigenicity and higher chemoresistance, it might be predicted that ALDH1A1, particularly
+in a marker set, could be a possible biomarker for early
+detection of ovarian carcinomas [111]. Recently reported
+levels of expression of ALDHA1 in various ovarian cancers
+are detailed in Table 3 [121, 124–126]. The signaling pathway
+of ALDH1 in ovarian cancer is shown in Figure 1(b) [127].
+1.10. Other Relevant Biomarkers. Multianalyte-based analytical discovery platforms readily adaptable to clinical diagnostic screening tests are used currently to profile immune
+responses against tumor-associated antigens. A goal is to
+identify tumor-specific antibodies present before the development of clinical symptoms that have potential for detecting ovarian cancer. Such antitumor immune responses are
+highly beneficial in identifying ovarian cancer [128]. Similarly, tumor vasculature also expresses significant diﬀerences
+from its normal counterpart and is a source of unique
+markers for detecting various malignancies including ovarian cancer. By using immunohistochemistry-guided lasercapture microdissection and genomewide transcriptional
+profiling for evaluating the diﬀerential expression of genes
+between tumor cells and normal ovarian tissues, studies have
+revealed the potential of TVMs (tumor vascular markers)
+as early detection biomarkers for ovarian cancer [129,
+130]. Another potent early detection biomarkers for ovarian
+cancer are glycans and their associated proteins and lipid
+structures, which also vary between normal tissue and malignant tumors. Glycosylation is a complex posttranslational
+modification, and monitoring glycosylation changes provide
+a more specific and sensitive method for identifying malignancies including ovarian cancer [131, 132]. Microvesicles
+or exosomes are membranous bodies released from tumor
+cells and contain macromolecules including RNA, proteins,
+and lipids. Current research is focusing on identifying tumor
+exosomes as novel biomarkers for tumor environments
+since tumor exosomes act as central mediators expressing
+molecules involved in angiogenesis, stromal remodeling,
+chemoresistance, activating signaling pathways, and intercellular genetic exchanges [133]. Similarly, the eﬃciency of
+FDG-PET/CT (F-18 fluorodeoxyglucose-positron emission
+tomography) to visualize the increased glucose consumption
+
+9
+of malignant lesions, especially in ovarian cancer, is discussed
+by Nowosinska et al. In that study, primary malignant tumors
+could be detected with more accuracy than borderline
+ovarian tumors; however, limitations included the inability
+to diﬀerentiate between benign and malignant pelvic masses.
+This may be developed into a potential technique for early
+detection of ovarian carcinoma and may have application
+in management of patients [134]. In addition, osteopontin
+(Figure 1(a)) [135] and B7-H4 have recently been identified
+as early detection biomarkers for ovarian cancer. These
+markers are undergoing further research for confirmation
+[136–138] (Table 1). A recent cell culture study revealed that
+geometric mean of expression levels of osteopontin in epithelial ovarian cancer cell lines is significantly higher (270.4)
+than healthy ovarian epithelial cell lines (4.1). Similarly,
+tissue level expression of osteopontin also varied from normal ovarian epithelial tissue (9) to epithelial ovarian cancer
+tissue (164). Moreover, immune localization of osteopontin
+showed higher levels of expression in borderline tumors than
+benign tumors, suggesting the importance of osteopontin
+as an early detection biomarker for ovarian cancer [138].
+YKL-40, a glycoprotein in chitinase protein family, expresses
+elevated levels in early and advanced stages of ovarian cancer.
+Serum levels of YKL-40 from normal healthy individuals,
+patients at high risk for developing ovarian cancer, and
+ovarian cancer patients were assessed in a study by Dupont
+et al. which demonstrated that higher levels of YKL-40 were
+observed in stage I and stage II patients. Furthermore, YKL40 levels reliably predicted recurrent and advanced ovarian
+cancer in these study cohorts since increased levels were
+observed during advancement of disease [139] indicating
+that YKL-40 may represent a potential biomarker for early
+detection of ovarian cancer.
+1.11. Genetic Biomarkers. Ovarian cancer, as any other cancers, arises from cells that acquire and accumulate DNA
+sequence variations. Some of those sequence variations confer the cells a growth advantage and lead to their uncontrolled proliferation (tumorigenesis), unchecked migration
+(metastasis), and survival against various odds (drug resistance). The advance of sequencing technology is making
+it possible to uncover those genetic drivers and, thus,
+identify genetic biomarkers to aid early detection, disease
+subtyping, staging, and prediction of disease prognosis and
+selection of eﬀective therapy. The advancement in isolation
+of small number of circulating tumor cells will eventually
+make it possible to examine those genetic biomarkers early
+noninvasively.
+As the tip of iceberg, mutations in multiple genes involved in DNA damage repair, cell cycles, cell metabolism,
+cell adhesions, and other pathways have been reported in
+association with ovarian cancer. For example, germline
+mutations in BRCA1, BRCA2, and Rad51D are well known
+to increase ovarian cancer risk [142, 143]. Whole exome
+sequencing of 489 high grade serous ovarian cancers (stage
+II to IV) confirmed the involvement of BRCA1 and BRCA2,
+with 8%-9% of tumor containing germline mutation and 3%
+more containing somatic mutation in BRCA1 and BRCA2.
+The study further identified other recurrently mutated genes,
+
+10
+including TP53, RB1, NF1, FAT3, CS\MD3, GABRA6, and
+CDK12. Specifically, 96% of the 489 samples contain mutations in TP53 [144]. While TP53 mutations are prevalent
+in high grade serous cancers, KRAS and BRAF mutations
+are more frequent in low-grade subtypes [145]. CTNNB1
+(beta-catenin) mutations are common in endometrioid
+carcinomas, PICK3CA mutations are most frequent in
+clear cell carcinoma, and ARID1A (the AT-rich interactive
+domain 1A) mutations are often observed in both tumor
+types [146–148]. We have taken advantage of semiconductor
+sequencing technology, prepared DNA from 22 serous and
+endometrioid tumor samples (1 FFPE slide per patient), and
+sequenced 64 selected genes. With several thousandfold of
+coverage, we have identified 9 other gene variants that occur
+in 62%–94% of patients (Li and Suh, unpublished data).
+Whole transcriptome and exome sequencing revealed
+that DICER1 mutations occur at high frequency in nonepithelial ovarian cancers [149]. The mutations are clustered
+at the metal binding site of the RNase IIIb domain, which
+are critical for miRNA processing. As reviewed above in
+section, miRNA themselves are increasingly being considered
+as biomarkers for ovarian cancer development.
+
+2. Summary
+Despite all the conventional and current methods used to
+detect ovarian cancer development, such as radiographic
+imaging, invasive biopsies, tumor markers, and a combination of transvaginal ultrasounds with tumor markers,
+ovarian cancer remains the most common gynecological
+malignancy and has the highest mortality rate. The identification and validation of early detection biomarkers highly
+specific to ovarian cancer are needed to establish minimally
+invasive screening methods for detecting early onset of
+ovarian cancer. Evaluation of promising biomarkers for early
+detection opens new horizons in ovarian cancer detection
+and therapy [150]. The analysis of the human serum
+proteome has provided better biomarker candidates for early
+detection, an important goal, as early diagnosis improves the
+five-year survival rate over 90%. We discuss CA125, a tumor
+marker with high discriminative power even before the
+onset of symptoms, which has been demonstrated in many
+ovarian cancer studies especially in postmenopausal women.
+We note, however, that the increase in levels of CA125 in
+other types of cancer, endometriosis, ovulation, other benign
+ovarian diseases, as well as its low sensitivity in early stages,
+limits its potential as a single biomarker for ovarian cancer
+screening. Consequently, a multibiomarker panel aimed at
+augmenting the sensitivity and specificity of CA125, in
+which CA125 is used with HE4, mesothelin (Table 1) [141],
+CEA, VCAM-1, B7-H4, YKL-40, or diﬀerent combinations
+is under study for early detection. Of these, HE4 and
+mesothelin are the most promising candidates to date. Additionally, screening for germline mutations in BRCA1/BRCA2
+is also a promising method for early detection of ovarian
+cancer in current clinical practice since high risk populations
+with corresponding mutations could be genetically predisposed toward developing cancer. Prostasin (PRSS8), GSTT1,
+FOLR1, KLK6, KLK7, and ALDH1 are all currently under
+
+Journal of Oncology
+research and clinical trials (Table 2) and are also potential
+biomarkers for early detection of ovarian cancer. Mok et
+al. demonstrated the over-expression of PRSS8 in malignant
+ovarian epithelial cells and stroma with sensitivity and specificity of 92% and 94%, respectively, and with a significant
+decline in serum postoperative levels. Similarly, evaluation
+of GST functional polymorphisms (GSTT1, GSTM1) might
+help in detecting ovarian cancer at early stages, since they
+aﬀect susceptibility and progression of cancer. However,
+additional research is needed for confirmation of these
+possibilities. Also, considering the fact that carriers of low
+function GST genotypes (GSTT1 null, GSTM1 null) have a
+strong survival benefit, evaluation of GST polymorphisms
+could be promising biomarker for early detection of ovarian
+cancer. Similarly, over-expression of folate receptor-alpha
+(FOLR1) in 90%–95% nonmucinous tumors of epithelial
+origin, including epithelial ovarian carcinoma (90%–95%)
+and serous tumors, indicates the possibility of FOLR1 as an
+early detection biomarker and suggests the need for further
+research for confirmation. Several studies demonstrate the
+significance of KLK6 and KLK7 in ovarian cancer, both being
+highly expressed in ovarian malignant tumors from early
+to advanced stages; however, the levels of these proteins in
+serum samples analyzed at Hackensack University Medical
+Center had the opposite signature, showing peaks in stage
+I which declined toward advanced stages [85]. These data
+support the classification of KLK6/7 as early detection
+biomarkers. Similarly, small noncoding microRNAs acting
+as epigenetic regulators cause post transcriptional silencing
+of target genes and inhibit the activity of antioncogenic
+pathways promoting tumorigenesis; the aberrant expression
+of miRNAs has been demonstrated in several studies. H¨ausler
+et al. demonstrated higher expression of miR-21, miR-141,
+miR-200a, miR-200c, miR-200b, miR-203, miR-205, and
+miR-214 and showed similarity in miRNA profiling in exosomal microRNA from ovarian cancer patients, suggesting
+that miRNA profiling could be a promising biomarker for
+early detection of ovarian cancer, biopsy profiling, and for
+screening asymptomatic populations (Table 1) [140]. Studies
+have demonstrated that ALDH1-positive ovarian cancer cells
+have increased tumorigenicity and higher chemoresistance;
+therefore, it could be predicted that ALDH1, particularly in a
+marker set, could be a possible biomarker for early detection
+of ovarian carcinomas (Table 3).
+In conclusion, the identification of novel and robust
+biomarkers with higher specificity and sensitivity for early
+detection of ovarian cancer could significantly improve the
+overall survival rate of ovarian cancer patients. The promising biomarkers in this category include KLK6/7, GSTT1,
+FOLR1, ALDH1, and miRNAs, along with multibiomarker
+panels in combination with CA125, which is widely used in
+current practice.
+
+References
+[1] American Cancer Society, Cancer Facts & Figures 2012, American Cancer Society, Atlanta, Ga, USA, 2012.
+
+Journal of Oncology
+[2] C. S. Chu and S. C. Rubin, “Screening for ovarian cancer in
+the general population,” Best Practice and Research Clinical
+Obstetrics and Gynaecology, vol. 20, no. 2, pp. 307–320, 2006.
+[3] D. Badgwell and R. C. Bast Jr., “Early detection of ovarian
+cancer,” Disease Markers, vol. 23, no. 5-6, pp. 397–410, 2007.
+[4] I. J. Jacobs and U. Menon, “Progress and challenges in
+screening for early detection of ovarian cancer,” Molecular
+and Cellular Proteomics, vol. 3, no. 4, pp. 355–366, 2004.
+[5] K. R. Cho and L. M. Shih, “Ovarian cancer,” Annual Review
+of Pathology, vol. 4, pp. 287–313, 2009.
+[6] A. Antoniou, P. D. P. Pharoah, S. Narod et al., “Average
+risks of breast and ovarian cancer associated with BRCA1
+or BRCA2 mutations detected in case series unselected for
+family history: a combined analysis of 22 studies,” American
+Journal of Human Genetics, vol. 72, no. 5, pp. 1117–1130,
+2003.
+[7] A. C. Antoniou, A. P. Cunningham, J. Peto et al., “The
+BOADICEA model of genetic susceptibility to breast and
+ovarian cancers: updates and extensions,” British Journal of
+Cancer, vol. 98, no. 8, pp. 1457–1466, 2008.
+[8] S. Chen, E. S. Iversen, T. Friebel et al., “Characterization of
+BRCA1 and BRCA2 mutations in a large United States
+sample,” Journal of Clinical Oncology, vol. 24, no. 6, pp. 863–
+871, 2006.
+[9] S. A. Gayther, W. Warren, S. Mazoyer et al., “Germline mutations of the BRCA1 gene in breast and ovarian cancer families
+provide evidence for a genotype-phenotype correlation,”
+Nature Genetics, vol. 11, no. 4, pp. 428–433, 1995.
+[10] J. P. Struewing, P. Hartge, S. Wacholder et al., “The risk
+of cancer associated with specific mutations of BRCA1 and
+BRCA2 among Ashkenazi Jews,” The New England Journal of
+Medicine, vol. 336, no. 20, pp. 1401–1408, 1997.
+[11] R. C. Bast Jr., “Biomarkers for ovarian cancer: new technologies and targets to address persistently unmet needs,” Cancer
+Biomarkers, vol. 8, no. 4-5, pp. 161–166, 2010.
+[12] K. S. Suh, S. W. Park, A. Castro et al., “Ovarian cancer biomarkers for molecular biosensors and translational
+medicine,” Expert Review of Molecular Diagnostics, vol. 10,
+no. 8, pp. 1069–1083, 2010.
+[13] E. Høgdall, “Cancer antigen 125 and prognosis,” Current
+Opinion in Obstetrics and Gynecology, vol. 20, no. 1, pp. 4–
+8, 2008.
+[14] R. C. Bast Jr., T. L. Klug, E. S. John et al., “A radioimmunoassay using a monoclonal antibody to monitor the course
+of epithelial ovarian cancer,” The New England Journal of
+Medicine, vol. 309, no. 15, pp. 883–887, 1983.
+[15] R. C. Bast Jr., D. Badgwell, Z. Lu et al., “New tumor markers:
+CA125 and beyond,” International Journal of Gynecological
+Cancer, vol. 15, no. 6, supplement 3, pp. 274–281, 2005.
+[16] M. J. Duﬀy, J. M. Bonfrer, J. Kulpa et al., “CA125 in ovarian
+cancer: European group on tumor markers guidelines for
+clinical use,” International Journal of Gynecological Cancer,
+vol. 15, no. 5, pp. 679–691, 2005.
+ˇ
+ˇ snjar, and J.
+[17] S. Colakovi´
+c, V. Lukic¸, L. Mitrovic¸, S. Jelic¸, S. Suˇ
+Marinkovic¸, “Prognostic value of CA125 kinetics and halflife in advanced ovarian cancer,” International Journal of
+Biological Markers, vol. 15, no. 2, pp. 147–152, 2000.
+[18] B. J. D. Rein, S. Gupta, R. Dada, A. Agarwal, J. Safi, and C.
+Michener, “Potential markers for detection and monitoring
+of ovarian cancer,” Journal of Oncology, vol. 2011, Article ID
+475983, 17 pages, 2011.
+
+11
+[19] M. W. McIntosh, C. Drescher, B. Karlan et al., “Combining
+CA 125 and SMR serum markers for diagnosis and early
+detection of ovarian carcinoma,” Gynecologic Oncology, vol.
+95, no. 1, pp. 9–15, 2004.
+[20] R.C. Bast Jr., F.-J. Xu, Y.-H. Yu, S. Barnhill, Z. Zhang, and
+G. B. Mills, “CA 125: the past and the future,” International
+Journal of Biological Markers, vol. 13, no. 4, pp. 179–187,
+1998.
+[21] A. E. Guppy and G. J. S. Rustin, “CA125 response: can it
+replace the traditional response criteria in ovarian cancer?”
+Oncologist, vol. 7, no. 5, pp. 437–443, 2002.
+[22] J. Tcherkassova, C. Abramovich, R. Moro et al., “Combination of CA125 and RECAF biomarkers for early detection of
+ovarian cancer,” Tumor Biology, vol. 32, no. 4, pp. 831–838,
+2011.
+[23] R. G. Moore, D. S. McMeekin, A. K. Brown et al., “A novel
+multiple marker bioassay utilizing HE4 and CA125 for the
+prediction of ovarian cancer in patients with a pelvic mass,”
+Gynecologic Oncology, vol. 112, no. 1, pp. 40–46, 2009.
+[24] I. Jacobs, A. Gentry-Maharaj, M. Burnell et al., “Sensitivity
+of transvaginal ultrasound screening for endometrial cancer
+in postmenopausal women: a case-control study within the
+UKCTOCS cohort,” The Lancet Oncology, vol. 12, no. 1, pp.
+38–48, 2011.
+[25] U. Menon, A. Gentry-Maharaj, R. Hallett et al., “Sensitivity
+and specificity of multimodal and ultrasound screening for
+ovarian cancer, and stage distribution of detected cancers:
+results of the prevalence screen of the UK collaborative
+trial of ovarian cancer screening (UKCTOCS),” The Lancet
+Oncology, vol. 10, no. 4, pp. 327–340, 2009.
+[26] M. Comamala, M. Pinard, C. Th´eriault et al., “Downregulation of cell surface CA125/MUC16 induces epithelialto-mesenchymal transition and restores EGFR signalling in
+NIH:OVCAR3 ovarian carcinoma cells,” British Journal of
+Cancer, vol. 104, no. 6, pp. 989–999, 2011.
+[27] C. Th´eriault, M. Pinard, M. Comamala et al., “MUC16
+(CA125) regulates epithelial ovarian cancer cell growth,
+tumorigenesis and metastasis,” Gynecologic Oncology, vol.
+121, no. 3, pp. 434–443, 2011.
+[28] O. Dorigo and J. S. Berek, “Personalizing CA125 levels for
+ovarian cancer screening,” Cancer Prevention Research, vol. 4,
+no. 9, pp. 1356–1359, 2011.
+[29] S. J. Skates, P. Mai, N. K. Horick et al., “Large prospective
+study of ovarian cancer screening in high-risk women:
+CA125 cut-point defined by menopausal status,” Cancer
+Prevention Research, vol. 4, no. 9, pp. 1401–1408, 2011.
+[30] I. J. Jacobs, S. Skates, A. P. Davies et al., “Risk of diagnosis
+of ovarian cancer after raised serum CA 125 concentration:
+a prospective cohort study,” British Medical Journal, vol. 313,
+no. 7069, pp. 1355–1358, 1996.
+[31] C. Y. Muller, “Doctor, should I get this new ovarian cancer
+test-OVA1?” Obstetrics and Gynecology, vol. 116, no. 2, pp.
+246–247, 2010.
+[32] F. R. Ueland, C. P. Desimone, L. G. Seamon et al., “Eﬀectiveness of a multivariate index assay in the preoperative
+assessment of ovarian tumors,” Obstetrics and Gynecology,
+vol. 117, no. 6, pp. 1289–1297, 2011.
+[33] I. Hellstrom and K. E. Hellstrom, “SMRP and HE4 as
+biomarkers for ovarian carcinoma when used alone and in
+combination with CA125 and/or each other,” Advances in
+Experimental Medicine and Biology, vol. 622, pp. 15–21, 2008.
+[34] I. Helistr¨om, J. Raycraft, M. Hayden-Ledbetter et al., “The
+HE4 (WFDC2) protein is a biomarker for ovarian carcinoma,” Cancer Research, vol. 63, no. 13, pp. 3695–3700, 2003.
+
+12
+[35] M. Montagnana, E. Danese, S. Giudici et al., “HE4 in ovarian
+cancer: from discovery to clinical application,” Advances in
+Clinical Chemistry, vol. 55, pp. 1–20, 2011.
+[36] R. G. Moore, M. C. Miller, P. Disilvestro et al., “Evaluation
+of the diagnostic accuracy of the risk of ovarian malignancy
+algorithm in women with a pelvic mass,” Obstetrics and
+Gynecology, vol. 118, no. 2, pp. 280–288, 2011.
+[37] X. Chang, X. Ye, L. Dong et al., “Human epididymis protein 4
+(HE4) as a serum tumor biomarker in patients with ovarian
+carcinoma,” International Journal of Gynecological Cancer,
+vol. 21, no. 5, pp. 852–858, 2011.
+[38] J. Li, S. Dowdy, T. Tipton et al., “HE4 as a biomarker for
+ovarian and endometrial cancer management,” Expert Review
+of Molecular Diagnostics, vol. 9, no. 6, pp. 555–566, 2009.
+[39] R. Molina, J. M. Escudero, J. M. Aug´e et al., “HE4 a novel
+tumour marker for ovarian cancer: comparison with CA
+125 and ROMA algorithm in patients with gynaecological
+diseases,” Tumour Biology, vol. 32, no. 6, pp. 1087–1095,
+2011.
+[40] R. G. Moore, A. K. Brown, M. C. Miller et al., “The use of
+multiple novel tumor biomarkers for the detection of ovarian
+carcinoma in patients with a pelvic mass,” Gynecologic
+Oncology, vol. 108, no. 2, pp. 402–408, 2008.
+[41] J. M. Escudero, J. M. Auge, X. Filella, A. Torne, J. Pahisa,
+and R. Molina, “Comparison of serum human epididymis
+protein 4 with cancer antigen 125 as a tumor marker in
+patients with malignant and nonmalignant diseases,” Clinical
+Chemistry, vol. 57, no. 11, pp. 1534–1544, 2011.
+[42] Z. Yurkovetsky, S. Skates, A. Lomakin et al., “Development
+of a multimarker assay for early detection of ovarian cancer,”
+Journal of Clinical Oncology, vol. 28, no. 13, pp. 2159–2166,
+2010.
+[43] R. Lu, X. Sun, R. Xiao, L. Zhou, X. Gao, and L. Guo, “Human
+epididymis protein 4 (HE4) plays a key role in ovarian cancer
+cell adhesion and motility,” Biochemical and Biophysical
+Research Communications, vol. 419, no. 2, pp. 274–280, 2012.
+[44] A. J. Li, “New biomarkers for ovarian cancer: OVA1 and
+ROMA in diagnosis selective use of these new tests may
+lead to better outcomes for women with adnexal masses or
+epithelial ovarian cancer,” Contemporary Ob/Gyn, vol. 57, no.
+4, 2012.
+[45] F. Li, R. Tie, K. Chang et al., “Does risk for ovarian
+malignancy algorithm excel human epididymis protein 4
+and ca125 in predicting epithelial ovarian cancer: a metaanalysis,” BMC Cancer, vol. 12, article 258, 2012.
+[46] M. A. Karlsen, N. Sandhu, C. Høgdall et al., “Evaluation of
+HE4, CA125, risk of ovarian malignancy algorithm (ROMA)
+and risk of malignancy index (RMI) as diagnostic tools of
+epithelial ovarian cancer in patients with a pelvic mass,”
+Gynecologic Oncology, vol. 127, no. 2, pp. 379–383, 2012.
+[47] R. Hassan, R. J. Kreitman, I. Pastan, and M. C. Willingham,
+“Localization of mesothelin in epithelial ovarian cancer,”
+Applied Immunohistochemistry and Molecular Morphology,
+vol. 13, no. 3, pp. 243–247, 2005.
+[48] R. Hassan and M. Ho, “Mesothelin targeted cancer immunotherapy,” European Journal of Cancer, vol. 44, no. 1, pp. 46–53,
+2008.
+[49] N. Scholler, B. Garvik, M. Hayden-Ledbetter, T. Kline, and N.
+Urban, “Development of a CA125-mesothelin cell adhesion
+assay as a screening tool for biologics discovery,” Cancer
+Letters, vol. 247, no. 1-2, pp. 130–136, 2007.
+[50] A. Rump, Y. Morikawa, M. Tanaka et al., “Binding of ovarian
+cancer antigen CA125/MUC61 to mesothelin mediates cell
+
+Journal of Oncology
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+adhesion,” The Journal of Biological Chemistry, vol. 279, no.
+10, pp. 9190–9198, 2004.
+K. A. Lowe, C. Shah, E. Wallace et al., “Eﬀects of personal
+characteristics on serum CA125, mesothelin, and HE4 levels
+in healthy postmenopausal women at high-risk for ovarian
+cancer,” Cancer Epidemiology Biomarkers and Prevention, vol.
+17, no. 9, pp. 2480–2487, 2008.
+C. Y. Huang, W. F. Cheng, C. N. Lee et al., “Serum mesothelin
+in epithelial ovarian carcinoma: a new screening marker and
+prognostic factor,” Anticancer Research, vol. 26, no. 6, pp.
+4721–4728, 2006.
+D. Badgwell, Z. Lu, L. Cole et al., “Urinary mesothelin
+provides greater sensitivity for early stage ovarian cancer than
+serum mesothelin, urinary hCG free beta subunit and urinary hCG beta core fragment,” Gynecologic Oncology, vol.
+106, no. 3, pp. 490–497, 2007.
+M. C. Chang, C. A. Chen, P. J. Chen et al., “Mesothelin enhances invasion of ovarian cancer by inducing MMP-7 through
+MAPK/ERK and JNK pathways,” Biochemical Journal, vol.
+442, no. 2, pp. 293–302, 2012.
+E. P. Diamandis, A. Scorilas, S. Fracchioli et al., “Human
+kallikrein 6 (hK6): a new potential serum biomarker for
+diagnosis and prognosis of ovarian carcinoma,” Journal of
+Clinical Oncology, vol. 21, no. 6, pp. 1035–1043, 2003.
+G. M. Yousef and E. P. Diamandis, “Expanded human tissue
+kallikrein family—a novel panel of cancer biomarkers,”
+Tumor Biology, vol. 23, no. 3, pp. 185–192, 2002.
+G. M. Yousef and E. P. Diamandis, “The new human tissue
+kallikrein gene family: structure, function, and association to
+disease,” Endocrine Reviews, vol. 22, no. 2, pp. 184–204, 2001.
+C. A. Borgo˜no, I. P. Michael, and E. P. Diamandis, “Human
+tissue kallikreins: physiologic roles and applications in
+cancer,” Molecular Cancer Research, vol. 2, no. 5, pp. 257–280,
+2004.
+A. Pavlopoulou, G. Pampalakis, I. Michalopoulos, and G.
+Sotiropoulou, “Evolutionary history of tissue kallikreins,”
+PLoS ONE, vol. 5, no. 11, Article ID e13781, 2010.
+O. A. Stone, C. Richer, C. Emanueli et al., “Critical role of
+tissue kallikrein in vessel formation and maturation: implications for therapeutic revascularization,” Arteriosclerosis,
+Thrombosis, and Vascular Biology, vol. 29, no. 5, pp. 657–664,
+2009.
+P. Dominek, P. Campagnolo, M. H. Zadeh et al., “Role of
+human tissue kallikrein in gastrointestinal stromal tumour
+invasion,” British Journal of Cancer, vol. 103, no. 9, pp. 1422–
+1431, 2010.
+C. A. Borgo˜no and E. P. Diamandis, “The emerging roles of
+human tissue kallikreins in cancer,” Nature Reviews Cancer,
+vol. 4, no. 11, pp. 876–890, 2004.
+K. Oikonomopoulou, K. K. Hansen, M. Saifeddine et al.,
+“Proteinase-mediated cell signalling: targeting proteinaseactivated receptors (PARs) by kallikreins and more,” Biological Chemistry, vol. 387, no. 6, pp. 677–685, 2006.
+Y. Dong, A. Kaushal, L. Bui et al., “Human kallikrein 4
+(KLK4) is highly expressed in serous ovarian carcinomas,”
+Clinical Cancer Research, vol. 7, no. 8, pp. 2363–2371, 2001.
+C. V. Obiezu, S. J. C. Shan, A. Soosaipillai et al., “Human
+kallikrein 4: quantitative study in tissues and evidence for its
+secretion into biological fluids,” Clinical Chemistry, vol. 51,
+no. 8, pp. 1432–1442, 2005.
+C. V. Obiezu, A. Scorilas, D. Katsaros et al., “Higher human
+kallikrein gene 4 (KLK4) expression indicates poor prognosis
+of ovarian cancer patients,” Clinical Cancer Research, vol. 7,
+no. 8, pp. 2380–2386, 2001.
+
+Journal of Oncology
+[67] C. V. Obiezu and E. P. Diamandis, “Human tissue kallikrein
+gene family: applications in cancer,” Cancer Letters, vol. 224,
+no. 1, pp. 1–22, 2005.
+[68] Y. Dong, A. Kaushal, M. Brattsand, J. Nicklin, and J. A.
+Clements, “Diﬀerential splicing of KLK5 and KLK7 in epithelial ovarian cancer produces novel variants with potential as
+cancer biomarkers,” Clinical Cancer Research, vol. 9, no. 5, pp.
+1710–1720, 2003.
+[69] S. J. C. Shan, A. Scorilas, D. Katsaros, and E. P. Diamandis,
+“Transcriptional upregulation of human tissue kallikrein 6
+in ovarian cancer: clinical and mechanistic aspects,” British
+Journal of Cancer, vol. 96, no. 2, pp. 362–372, 2007.
+[70] N. Emami and E. P. Diamandis, “Utility of kallikrein-related
+peptidases (KLKs) as cancer biomarkers,” Clinical Chemistry,
+vol. 54, no. 10, pp. 1600–1607, 2008.
+[71] E. P. Diamandis, G. M. Yousef, A. R. Soosaipillai et al.,
+“Immunofluorometric assay of human kallikrein 6 (zyme/
+protease M/neurosin) and preliminary clinical applications,”
+Clinical Biochemistry, vol. 33, no. 5, pp. 369–375, 2000.
+[72] E. L. Ashby, P. G. Kehoe, and S. Love, “Kallikrein-related
+peptidase 6 in Alzheimer’s disease and vascular dementia,”
+Brain Research, vol. 1363, pp. 1–10, 2010.
+[73] I. J. Jacobs, S. J. Skates, N. MacDonald et al., “Screening
+for ovarian cancer: a pilot randomised controlled trial,” The
+Lancet, vol. 353, no. 9160, pp. 1207–1210, 1999.
+[74] U. Kuzmanov, N. Jiang, C. R. Smith, A. Soosaipillai, and
+E. P. Diamandis, “Diﬀerential N-glycosylation of kallikrein
+6 derived from ovarian cancer cells or the central nervous
+system,” Molecular and Cellular Proteomics, vol. 8, no. 4, pp.
+791–798, 2009.
+[75] R. S. Henkhaus, U. K. B. Roy, D. Cavallo-Medved, B. F.
+Sloane, E. W. Gerner, and N. A. Ignatenko, “Caveolin-1
+mediated expression and secretion of Kallikrein 6 in colon
+cancer cells,” Neoplasia, vol. 10, no. 2, pp. 140–148, 2008.
+[76] M. Talieri, E. P. Diamandis, D. Gourgiotis, K. Mathioudaki,
+and A. Scorilas, “Expression analysis of the human kallikrein
+7 (KLK7) in breast tumors: a new potential biomarker for
+prognosis of breast carcinoma,” Thrombosis and Haemostasis,
+vol. 91, no. 1, pp. 180–186, 2004.
+[77] L. G. Kyriakopoulou, G. M. Yousef, A. Scorilas et al.,
+“Prognostic value of quantitatively assessed KLK7 expression
+in ovarian cancer,” Clinical Biochemistry, vol. 36, no. 2, pp.
+135–143, 2003.
+[78] H. Tanimoto, L. J. Underwood, K. Shigemasa et al., “The stratum corneum chymotryptic enzyme that mediates shedding
+and desquamation of skin cells is highly overexpressed in
+ovarian tumor cells,” Cancer, vol. 86, no. 10, pp. 2074–2082,
+1999.
+[79] T. Kishi, L. Grass, A. Soosaipillai, C. Shimizu-Okabe, and
+E. P. Diamandis, “Human kallikrein 8: immunoassay development and identification in tissue extracts and biological
+fluids,” Clinical Chemistry, vol. 49, no. 1, pp. 87–96, 2003.
+[80] L. M. Shih, R. Salani, M. Fiegl et al., “Ovarian cancer specific
+kallikrein profile in eﬀusions,” Gynecologic Oncology, vol. 105,
+no. 2, pp. 501–507, 2007.
+[81] S. C. L. Koh, K. Razvi, Y. H. Chan et al., “The association
+with age, human tissue kallikreins 6 and 10 and hemostatic
+markers for survival outcome from epithelial ovarian cancer,”
+Archives of Gynecology and Obstetrics, vol. 284, no. 1, pp. 183–
+190, 2011.
+[82] D. P´epin, Z. Q. Shao, G. Hupp´e et al., “Kallikreins 5, 6 and 10
+diﬀerentially alter pathophysiology and overall survival in an
+ovarian cancer xenograft model,” PLoS ONE, vol. 6, no. 11,
+Article ID e26075, 2011.
+
+13
+[83] E. P. Diamandis, G. M. Yousef, L. Y. Luo, A. Magklara,
+and C. V. Obiezu, “The new human kallikrein gene family:
+implications in carcinogenesis,” Trends in Endocrinology and
+Metabolism, vol. 11, no. 2, pp. 54–60, 2000.
+[84] H. S. Shvartsman, K. H. Lu, J. Lee et al., “Overexpression of
+kallikrein 10 in epithelial ovarian carcinomas,” Gynecologic
+Oncology, vol. 90, no. 1, pp. 44–50, 2003.
+[85] U. R. Jag, R. Gharbaran, T. Tanaka et al., “Kallikrein family
+proteases KLK6 and KLK7 are early detection and diagnostic
+biomarkers for serous and papillary serous subtypes of
+ovarian cancer,” Cancer Biomarkers. In press.
+[86] J. X. Yu, L. Chao, and J. Chao, “Prostasin is a novel human
+serine proteinase from seminal fluid. Purification, tissue
+distribution, and localization in prostate gland,” The Journal
+of Biological Chemistry, vol. 269, no. 29, pp. 18843–18848,
+1994.
+[87] J. X. Yu, L. Chao, D. C. Ward, and J. Chao, “Structure and
+chromosomal localization of the human prostasin (PRSS8)
+gene,” Genomics, vol. 32, no. 3, pp. 334–340, 1996.
+[88] G. M. Verghese, M. F. Gutknecht, and G. H. Caughey, “Prostasin regulates epithelial monolayer function: cell-specific
+Gpld1-mediated secretion and functional role for GPI anchor,” American Journal of Physiology, vol. 291, no. 6, pp.
+C1258–C1270, 2006.
+[89] S. Friis, S. Godiksen, J. Bornholdt et al., “Transport via the
+transcytotic pathway makes prostasin available as a substrate
+for matriptase,” The Journal of Biological Chemistry, vol. 286,
+no. 7, pp. 5793–5802, 2011.
+[90] Y. Y. Fu, W. L. Gao, M. Chen, K. X. Chai, Y. L. Wang, and L.
+M. Chen, “Prostasin regulates human placental trophoblast
+cell proliferation via the epidermal growth factor receptor
+signaling pathway,” Human Reproduction, vol. 25, no. 3, pp.
+623–632, 2010.
+[91] S. C. Mok, J. Chao, S. Skates et al., “Prostasin, a potential
+serum marker for ovarian cancer: identification through
+microarray technology,” Journal of the National Cancer
+Institute, vol. 93, no. 19, pp. 1458–1464, 2001.
+[92] F. P. Costa, E. L. Batista Jr., A. Zelmanowicz et al., “Prostasin,
+a potential tumor marker in ovarian cancer—a pilot study,”
+Clinics, vol. 64, no. 7, pp. 641–644, 2009.
+[93] G. Sun, J. Qin, Y. Qiu et al., “Microarray analysis of gene
+expression in the ovarian cancer cell line HO-8910 with
+silencing of the ZNF217 gene,” Molecular Medicine Reports,
+vol. 2, no. 5, pp. 851–855, 2009.
+[94] M. Chen, L. M. Chen, C. Y. Lin, and K. X. Chai, “The
+epidermal growth factor receptor (EGFR) is proteolytically
+modified by the Matriptase-Prostasin serine protease cascade
+in cultured epithelial cells,” Biochimica et Biophysica Acta, vol.
+1783, no. 5, pp. 896–903, 2008.
+[95] M. Rahilly, P. J. Carder, A. Al Nafussi, and D. J. Harrison,
+“Distribution of glutathione S-transferase isoenzymes in
+human ovary,” Journal of Reproduction and Fertility, vol. 93,
+no. 2, pp. 303–311, 1991.
+[96] S. S. Coughlin and I. J. Hall, “Glutathione S-transferase polymorphisms and risk of ovarian cancer: a HuGE review,”
+Genetics in Medicine, vol. 4, no. 4, pp. 250–257, 2002.
+[97] A. Beeghly, D. Katsaros, H. Chen et al., “Glutathione Stransferase polymorphisms and ovarian cancer treatment
+and survival,” Gynecologic Oncology, vol. 100, no. 2, pp. 330–
+337, 2006.
+[98] K. P. Economopoulos, T. N. Sergentanis, and N. F. Vlahos,
+“Glutathione S-transferase M1, T1, and P1 polymorphisms
+and ovarian cancer risk: a meta-analysis,” International
+
+14
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+Journal of Oncology
+Journal of Gynecological Cancer, vol. 20, no. 5, pp. 732–737,
+2010.
+D. M. Townsend, K. D. Tew, and H. Tapiero, “The importance
+of glutathione in human disease,” Biomedicine and Pharmacotherapy, vol. 57, no. 3, pp. 145–155, 2003.
+R. E. J. Howells, C. W. E. Redman, K. K. Dhar et al., “Association of glutathione S-transferase GSTM1 and GSTT1 null
+genotypes with clinical outcome in epithelial ovarian cancer,”
+Clinical Cancer Research, vol. 4, no. 10, pp. 2439–2445, 1998.
+R. E. J. Howells, T. Holland, K. K. Dhar et al., “Glutathione Stransferase GSTM1 and GSTT1 genotypes in ovarian cancer:
+association with p53 expression and survival,” International
+Journal of Gynecological Cancer, vol. 11, no. 2, pp. 107–112,
+2001.
+C. C. McIlwain, D. M. Townsend, and K. D. Tew, “Glutathione S-transferase polymorphisms: cancer incidence and
+therapy,” Oncogene, vol. 25, no. 11, pp. 1639–1648, 2006.
+K. D. Tew, Y. Manevich, C. Grek, Y. Xiong, J. Uys, and D.
+M. Townsend, “The role of glutathione S-transferase P in
+signaling pathways and S-glutathionylation in cancer,” Free
+Radical Biology and Medicine, vol. 51, no. 2, pp. 299–313,
+2011.
+L. A. Dainty, J. I. Risinger, C. Morrison et al., “Overexpression
+of folate binding protein and mesothelin are associated with
+uterine serous carcinoma,” Gynecologic Oncology, vol. 105,
+no. 3, pp. 563–570, 2007.
+L. E. Kelemen, “The role of folate receptor α in cancer development, progression and treatment: cause, consequence or
+innocent bystander?” International Journal of Cancer, vol.
+119, no. 2, pp. 243–250, 2006.
+Y. L. Chen, M. C. Chang, C. Y. Huang et al., “Serous ovarian
+carcinoma patients with high alpha-folate receptor had
+reducing survival and cytotoxic chemo-response,” Molecular
+Oncology, vol. 6, no. 3, pp. 360–369, 2012.
+G. M. van Dam, G. Themelis, L. M. A. Crane et al., “Intraoperative tumor-specific fluorescence imaging in ovarian
+cancer by folate receptor-α targeting: first in-human results,”
+Nature Medicine, vol. 17, no. 10, pp. 1315–1319, 2011.
+Y. Yuan, D. A. Nymoen, H. P. Dong et al., “Expression of
+the folate receptor genes FOLR1 and FOLR3 diﬀerentiates
+ovarian carcinoma from breast carcinoma and malignant
+mesothelioma in serous eﬀusions,” Human Pathology, vol. 40,
+no. 10, pp. 1453–1460, 2009.
+M. Wu, W. Gunning, and M. Ratnam, “Expression of folate
+receptor type α in relation to cell type, malignancy, and
+diﬀerentiation in ovary, uterus, and cervix,” Cancer Epidemiology Biomarkers and Prevention, vol. 8, no. 9, pp. 775–782,
+1999.
+E. Basal, G. Z. Eghbali-Fatourechi, K. R. Kalli et al.,
+“Functional folate receptor alpha is elevated in the blood of
+ovarian cancer patients,” PLoS ONE, vol. 4, no. 7, Article ID
+e6292, 2009.
+S. Markert, S. Lassmann, B. Gabriel et al., “Alpha-folate receptor expression in epithelial ovarian carcinoma and nonneoplastic ovarian tissue,” Anticancer Research, vol. 28, no.
+6A, pp. 3567–3572, 2008.
+K. R. Kalli, A. L. Oberg, G. L. Keeney et al., “Folate receptor
+alpha as a tumor target in epithelial ovarian cancer,” Gynecologic Oncology, vol. 108, pp. 619–626, 2008.
+L. M. Crane, H. J. Arts, M. van Oosten et al., “The eﬀect
+of chemotherapy on expression of folate receptor-alpha in
+ovarian cancer,” Cellular Oncology, vol. 35, no. 1, pp. 9–18,
+2012.
+
+[114] S. Miotti, M. Bagnoli, A. Tomassetti, M. I. Colnaghi, and
+S. Canevari, “Interaction of folate receptor with signaling
+molecules lyn and Gα(i-3) in detergent-resistant complexes
+from the ovary carcinoma cell line IGROV1,” Journal of Cell
+Science, vol. 113, no. 2, pp. 349–357, 2000.
+[115] M. T. M. van Jaarsveld, J. Helleman, E. M. J. J. Berns, and
+E. A. C. Wiemer, “MicroRNAs in ovarian cancer biology and
+therapy resistance,” International Journal of Biochemistry and
+Cell Biology, vol. 42, no. 8, pp. 1282–1290, 2010.
+[116] M. V. Iorio, R. Visone, G. Di Leva et al., “MicroRNA
+signatures in human ovarian cancer,” Cancer Research, vol.
+67, no. 18, pp. 8699–8707, 2007.
+[117] D. D. Taylor and C. Gercel-Taylor, “MicroRNA signatures of
+tumor-derived exosomes as diagnostic biomarkers of ovarian
+cancer,” Gynecologic Oncology, vol. 110, no. 1, pp. 13–21,
+2008.
+[118] X. Hu, D. M. Macdonald, P. C. Huettner et al., “A miR-200
+microRNA cluster as prognostic marker in advanced ovarian
+cancer,” Gynecologic Oncology, vol. 114, no. 3, pp. 457–464,
+2009.
+[119] H. Yang, W. Kong, L. He et al., “MicroRNA expression profiling in human ovarian cancer: miR-214 induces cell survival
+and cisplatin resistance by targeting PTEN,” Cancer Research,
+vol. 68, no. 2, pp. 425–433, 2008.
+[120] Z. Li, S. Hu, J. Wang et al., “MiR-27a modulates MDR1/Pglycoprotein expression by targeting HIPK2 in human
+ovarian cancer cells,” Gynecologic Oncology, vol. 119, no. 1,
+pp. 125–130, 2010.
+[121] B. Chang, G. Liu, F. Xue et al., “ALDH1 expression correlates
+with favorable prognosis in ovarian cancers,” Modern Pathology, vol. 22, no. 6, pp. 817–823, 2009.
+[122] K. D. Steﬀensen, A. B. Alvero, Y. Yang et al., “Prevalence of
+epithelial ovarian cancer stem cells correlates with recurrence
+in early-stage ovarian cancer,” Journal of Oncology, vol. 2011,
+Article ID 620523, 12 pages, 2011.
+[123] I. A. Silva, S. Bai, K. McLean et al., “Aldehyde dehydrogenase
+in combination with CD133 defines angiogenic ovarian
+cancer stem cells that portend poor patient survival,” Cancer
+Research, vol. 71, no. 11, pp. 3991–4001, 2011.
+[124] C. N. Landen Jr., B. Goodman, A. A. Katre et al., “Targeting
+aldehyde dehydrogenase cancer stem cells in ovarian cancer,”
+Molecular Cancer Therapeutics, vol. 9, no. 12, pp. 3186–3199,
+2010.
+[125] K. Penumatsa, S. L. Edassery, A. Barua, M. J. Bradaric,
+and J. L. Luborsky, “Diﬀerential expression of aldehyde
+dehydrogenase 1a1 (ALDH1) in normal ovary and serous
+ovarian tumors,” Journal of Ovarian Research, vol. 3, no. 1,
+article 28, 2010.
+[126] S. Deng, X. Yang, H. Lassus et al., “Distinct expression levels
+and patterns of stem cell marker, aldehyde dehydrogenase
+isoform 1 (ALDH1), in human epithelial cancers,” PLoS
+ONE, vol. 5, no. 4, Article ID e10277, 2010.
+[127] J. Kurebayashi, N. Kanomata, T. Moriya, Y. Kozuka, M.
+Watanabe, and H. Sonoo, “Preferential antitumor eﬀect
+of the Src inhibitor dasatinib associated with a decreased
+proportion of aldehyde dehydrogenase 1-positive cells in
+breast cancer cells of the basal B subtype,” BMC Cancer, vol.
+10, article 568, 2010.
+[128] M. Chatterjee and M. A. Tainsky, “Autoantibodies as biomarkers for ovarian cancer,” Cancer Biomarkers, vol. 8, no.
+4-5, pp. 187–201, 2010.
+[129] C. Li, D. Sasaroli, X. Chen et al., “Tumor vascular biomarkers:
+new opportunities for cancer diagnostics,” Cancer Biomarkers, vol. 8, no. 4-5, pp. 253–271, 2010.
+
+Journal of Oncology
+[130] R. J. Buckanovich, D. Sasaroli, A. O’Brien-Jenkins et al.,
+“Tumor vascular proteins as biomarkers in ovarian cancer,”
+Journal of Clinical Oncology, vol. 25, no. 7, pp. 852–861, 2007.
+[131] K. L. Abbott, “Glycomic analysis of ovarian cancer: past,
+present, and future,” Cancer Biomarkers, vol. 8, no. 4-5, pp.
+273–280, 2010.
+[132] H. J. An and C. B. Lebrilla, “A glycomics approach to the discovery of potential cancer biomarkers,” Methods in Molecular
+Biology, vol. 600, pp. 199–213, 2010.
+[133] C. D. Roberson, S. Atay, C. Gercel-Taylor, and D. D. Taylor,
+“Tumor-derived exosomes as mediators of disease and potential diagnostic biomarkers,” Cancer Biomarkers, vol. 8, no. 45, pp. 281–287, 2010.
+[134] E. Nowosinska, S. Avril, I. Murray, T. Szyszko, and N. Avril,
+“FDG-PET/CT as a molecular biomarker in ovarian cancer,”
+Cancer Biomarkers, vol. 8, no. 4-5, pp. 167–175, 2010.
+[135] Y. H. Lin and H. F. Yang-Yen, “The osteopontin-CD44
+survival signal involves activation of the phosphatidylinositol
+3-kinase/Akt signaling pathway,” The Journal of Biological
+Chemistry, vol. 276, no. 49, pp. 46024–46030, 2001.
+[136] I. Simon, D. Katsaros, I. Rigault de la Longrais et al., “B7H4 is over-expressed in early-stage ovarian cancer and is
+independent of CA125 expression,” Gynecologic Oncology,
+vol. 106, no. 2, pp. 334–341, 2007.
+[137] I. Simon, S. Zhuo, L. Corral et al., “B7-H4 Is a novel membrane-bound protein and a candidate serum and tissue biomarker for ovarian cancer,” Cancer Research, vol. 66, no. 3,
+pp. 1570–1575, 2006.
+[138] J. H. Kim, S. J. Skates, T. Uede et al., “Osteopontin as
+a potential diagnostic biomarker for ovarian cancer,” The
+Journal of the American Medical Association, vol. 287, no. 13,
+pp. 1671–1679, 2002.
+[139] J. Dupont, M. K. Tanwar, H. T. Thaler et al., “Early detection
+and prognosis of ovarian cancer using serum YKL-40,”
+Journal of Clinical Oncology, vol. 22, no. 16, pp. 3330–3339,
+2004.
+[140] S. F. M. H¨ausler, A. Keller, P. A. Chandran et al., “Whole
+blood-derived miRNA profiles as potential new tools for
+ovarian cancer screening,” British Journal of Cancer, vol. 103,
+no. 5, pp. 693–700, 2010.
+[141] C. A. Shah, K. A. Lowe, P. Paley et al., “Influence of ovarian
+cancer risk status on the diagnostic performance of the
+serum biomarkers mesothelin, HE4, and CA125,” Cancer
+Epidemiology Biomarkers and Prevention, vol. 18, no. 5, pp.
+1365–1372, 2009.
+[142] S. R. Lakhani, S. Manek, F. Penault-Llorca et al., “Pathology
+of ovarian cancers in BRCA1 and BRCA2 carriers,” Clinical
+Cancer Research, vol. 10, no. 7, pp. 2473–2481, 2004.
+[143] C. Loveday, C. Turnbull, E. Ramsay et al., “Germline mutations in RAD51D confer susceptibility to ovarian cancer,”
+Nature Genetics, vol. 43, no. 9, pp. 879–882, 2011.
+[144] D. Bell, A. Berchuck, M. Birrer et al., “Integrated genomic
+analyses of ovarian carcinoma,” Nature, vol. 474, no. 7353,
+pp. 609–615, 2011.
+[145] G. Singer, R. Oldt, Y. Cohen et al., “Mutations in BRAF and
+KRAS characterize the development of low-grade ovarian
+serous carcinoma,” Journal of the National Cancer Institute,
+vol. 95, no. 6, pp. 484–486, 2003.
+[146] J. Palacios and C. Gamallo, “Mutations in the β-catenin gene
+(CTNNB1) in endometrioid ovarian carcinomas,” Cancer
+Research, vol. 58, no. 7, pp. 1344–1347, 1998.
+
+15
+[147] K. T. Kuo, T. L. Mao, S. Jones et al., “Frequent activating
+mutations of PIK3CA in ovarian clear cell carcinoma,”
+American Journal of Pathology, vol. 174, no. 5, pp. 1597–1601,
+2009.
+[148] K. C. Wiegand, S. P. Shah, O. M. Al-Agha et al., “ARID1A
+mutations in endometriosis-associated ovarian carcinomas,”
+The New England Journal of Medicine, vol. 363, no. 16, pp.
+1532–1543, 2010.
+[149] A. Heravi-Moussavi, M. S. Anglesio, S.-W. G. Cheng et
+al., “Recurrent somatic DICER1 mutations in nonepithelial
+ovarian cancers,” The New England Journal of Medicine, vol.
+366, no. 3, pp. 234–242, 2012.
+[150] B. M. Nolen and A. E. Lokshin, “Screening for ovarian
+cancer: old tools, new lessons,” Cancer Biomarkers, vol. 8, no.
+4-5, pp. 177–186, 2010.
+
+

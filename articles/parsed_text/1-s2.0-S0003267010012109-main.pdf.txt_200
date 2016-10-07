@@ -1,0 +1,200 @@
+Analytica Chimica Acta 681 (2010) 4148
+
+Contents lists available at ScienceDirect
+
+Analytica Chimica Acta
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / a c a
+
+Proteomic identication of salivary transferrin as a biomarker for early detection
+of oral cancer
+Yu-Jen Jou a,b,f, Chia-Der Lin c,d,1, Chih-Ho Lai e, Chao-Hsien Chen a, Jung-Yie Kao f, Shih-Yin Chen g,
+Ming-Hsui Tsai c,d, Su-Hua Huang b,, Cheng-Wen Lin a,b,h,
+
+a Department of Medical Laboratory Science and Biotechnology, China Medical University, Taichung, Taiwan
+b Department of Biotechnology, College of Health Science, Asia University, Wufeng, Taichung, Taiwan
+c Department of Otolaryngology, School of Medicine, China Medical University, Taichung, Taiwan
+d Graduate Institute of Clinical Medical Science, School of Medicine, China Medical University, Taichung, Taiwan
+e Department of Microbiology, School of Medicine, China Medical University, Taichung, Taiwan
+f Institute of Biochemistry, National Chung Hsing University, Taichung, Taiwan
+g Graduate Institute of Chinese Medical Science, Department of Laboratory Medicine, China Medical University Hospital, Taichung, Taiwan
+h Clinical Virology Laboratory, Department of Laboratory Medicine, China Medical University Hospital, Taichung, Taiwan
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 25 June 2010
+Received in revised form
+18 September 2010
+Accepted 20 September 2010
+Available online 25 September 2010
+
+Keywords:
+Oral squamous cell carcinoma
+Two-dimensional gel electrophoresis
+Matrix-assisted laser desorption/ionization
+time-of-ight mass spectrometry
+Salivary transferrin
+Receiver-operating characteristics curve
+Early detection
+
+Oral cancer has a low ve-year survival rate. Early detection of oral cancer could reduce the mortality and
+morbidity associated with this disease. Saliva, which can be sampled non-invasively and is less complex
+than blood, is a good potential source of oral cancer biomarkers. Proteomic analysis of saliva from oral
+cancer patients and control subjects was performed to identify salivary biomarkers of early stage oral
+cancer in humans. The protein prole of pooled salivary samples from patients with oral squamous cell
+carcinoma (OSCC) or OSCC-free control subjects was analyzed using two-dimensional gel electrophoresis
+(2DE) and matrix-assisted laser desorption/ionization time-of-ight mass spectrometry (MALDI-TOF MS)
+analyses. Potential biomarkers were veried by Western blotting and ELISA assays. Transferrin levels were
+elevated in the saliva of OSCC patients as determined using 2DE followed by MALDI-TOF MS and conrmed
+by MALDI-TOF/TOF MS, Western blotting and ELISA. The increase in salivary transferrin levels in OSCC
+patients strongly correlated with the size and stage of the tumor. The area under the receiver-operating
+characteristics curves showed that salivary transferrin-based ELISA was highly specic, sensitive and
+accurate for the early detection of oral cancer. We have identied salivary transferrin as a biomarker for
+the detection of early stage oral cancer. This nding provides a promising basis for the development of a
+non-invasive diagnostic test for early stage oral cancer.
+
+Crown Copyright  2010 Published by Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Oral cancer accounts for 23% of all malignancies [1]. There
+are more than 300,000 patients newly diagnosed with oral can-
+cer annually worldwide [2]. Squamous cell carcinoma accounts
+for 90% of these cases [3]. Common risk factors for oral cancer
+include tobacco, alcohol and chewing betel quid. The risks are
+synergistic and might result in large areas of mucosal change or
+stimulate carcinogenesis in the oral cavity [4,5]. Therefore, oral
+cancer patients carry a high risk of developing a secondary can-
+
+ Co-corresponding author.
+ Corresponding author at: Department of Medical Laboratory Science and
+Biotechnology, China Medical University, No. 91, Hsueh-Shih Road, Taichung 404,
+Taiwan. Tel.: +886 4 22053366; fax: +886 4 22057414.
+E-mail address: cwlin@mail.cmu.edu.tw (C.-W. Lin).
+
+1 Co-rst author.
+
+cer in the upper aerodigestive tract [69]. In accordance with the
+multi-step theory of carcinogenesis, oral cancer develops from pre-
+malignant lesions and causes serial histological and clinical changes
+[10]. Clinically, premalignant lesions might present as leukoplakia
+or erythroplakia, but histologically these lesions have various man-
+ifestations such as hyperkeratosis, dysplasia, or even carcinoma
+[10].
+
+The ve-year survival rate of patients suffering from oral can-
+cer is as low as 50%, and has not improved signicantly in recent
+decades, despite advances in surgery, radiotherapy and chemother-
+apy [1113]. The expected survival rate for patients with advanced
+staged oral cancer is far lower than that of laryngeal or nasopharyn-
+geal carcinoma, even for those patients achieving complete clinical
+remission after local therapy [14]. Early detection of oral mucosal
+lesions followed by appropriate treatment can increase the recov-
+ery rate to 8090% [12]. Consequently, early diagnosis of malignant
+or premalignant lesions could reduce the mortality and morbidity
+associated with oral cancer.
+
+0003-2670/$  see front matter. Crown Copyright  2010 Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.aca.2010.09.030
+
+42
+
+Y.-J. Jou et al. / Analytica Chimica Acta 681 (2010) 4148
+
+Clinical examination and biopsy are the standard procedures to
+determine the nature of oral mucosa lesions. Clinical examination
+includes a thorough head, neck and intraoral visual examina-
+tion and palpation of the oral cavity. Although the oral cavity is
+amenable to direct examination, oral cancer is often not detected
+until a late stage [14,15]. Biopsy of suspicious lesions remains
+the gold standard to determine the nature of an oral lesion. The
+location from which the biopsy sample is taken is crucial in
+the histopathological verication of oral cancer but selecting this
+location correctly is often difcult because of the non-uniform
+appearance of cancerous and precancerous lesions. Biopsies are
+also associated with patient discomfort. Other clinically available
+techniques, such as vital tissue staining with toluidine blue and
+exfoliative cell collection for cytology or molecular analysis, have
+been developed to aid the early recognition of malignant lesions.
+These tests have variable false-positive and false-negative rates [3].
+There are currently no effective methods to screen for oral can-
+cer. The identication of tumor biomarkers is an essential rst
+step in the development of effective early detection systems for
+malignant oral lesions, especially in at-risk populations. Proteomics
+is a well-established strategy for the discovery of biomarkers
+for human diseases. In the case of oral cancer, saliva is a good
+candidate for analysis for the identication of biomarkers [16].
+Whole saliva is composed of the secretions of the major and
+minor salivary glands and gingival crevicular uid [17]. Compared
+with blood sampling or biopsy, the use of saliva for oral cancer
+screening is advantageous because it is easier, less invasive and
+better tolerated by patients. Signicant increase of salivary solu-
+ble CD44 (solCD44) levels has been identied in head and neck
+squamous cell carcinoma (HNSCC) patients compared with nor-
+mal controls [18]. Comprehensive analysis of salivary parameters
+shows that secretory immunoglobulin A, 8-oxoguanine DNA glyco-
+sylase, phosphorylated-Src and mammary serine protease inhibitor
+(Maspin) are lower, while insulin growth factor I, metallopro-
+teinases MMP-9, carbonyls and Cyclin D1 (CycD1) are higher in
+OSCC patients [19,20]. Recent, proteomic analysis of saliva samples
+from OSCC patients and matched healthy subjects using capillary
+reversed-phase liquid chromatography with quadruple time-of-
+ight (LC-Q-TOF) mass spectrometry indicated ve candidate OSCC
+biomarkers (M2BP, MRP14, CD59, prolin, and catalase), being suc-
+cessfully validated using immunoassays on an independent set of
+OSCC patients and matched healthy subjects [21]. However, these
+identied candidate OSCC biomarkers have no signicant relation-
+ship with tumor size, stage and recurrence.
+
+In this study, we intended to identify salivary biomarkers of
+early stage oral cancer using two-dimensional gel electrophore-
+sis (2DE) and mass spectrometry (MS). Salivary proteins which
+showed potential as oral cancer biomarkers were then validated
+by Western blotting and ELISA. We identied a statistically signi-
+cant correlation (P < 0.001) between salivary transferrin levels and
+the oral cancer tumor grade.
+
+2. Materials and methods
+
+2.1. Human subjects
+
+Unstimulated whole saliva was collected from patients with oral
+squamous cell carcinoma (OSCC) and OSCC-free patients at China
+Medical University Hospital (Taichung, Taiwan) during 20072008.
+Saliva collection protocols were approved by the Institutional
+Review Board of China Medical University Hospital (permission
+number DMR96-IRB-80), and informed consent was obtained from
+each subject. OSCC patients were diagnosed via biopsy. The inclu-
+sion criteria for OSCC patients required that the subjects be 20 years
+or older and immunocompetent, with a primary untreated oral
+
+cancer. The exclusion criteria for OSCC patients included previous
+chemotherapy or radiotherapy, previous oral surgery other than
+oral biopsy, and the inability to properly consent. The inclusion cri-
+teria for OSCC-free control individuals required that the subjects be
+20 years or older and immunocompetent. The exclusion criteria for
+OSCC-free control individuals included previous chemotherapy or
+irradiation, systemic conditions associated with immune dysfunc-
+tion such as diabetes, the presence of any oral mucosa lesions, and
+pregnancy or lactation. Five categories of subjects were included in
+the analysis: OSCC-free control subjects and OSCC patients with the
+tumor size (T) stages 14 according to the universal TNM staging
+system of the International Union against Cancer (UICC) [22].
+
+2.2. Collection of whole saliva
+
+The OSCC patients and OSCC-free control individuals enrolled
+in this study were instructed to abstain from smoking or con-
+suming alcohol for at least 24 h before the collection of saliva.
+They were instructed to brush their teeth and rinse their mouths
+by gargling with clean water before they went to sleep the day
+before collection. The collection procedure was always performed
+early in the morning (between approximately 6 and 8 a.m.). Partici-
+pants were prohibited from any food/water intake or teeth cleaning
+for 1 h before salivary collection. They were instructed to gargle
+and rinse their mouths with normal saline and to swallow the

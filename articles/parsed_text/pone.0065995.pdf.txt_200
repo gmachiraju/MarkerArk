@@ -1,0 +1,200 @@
+The Prognostic Role of BRAF Mutation in Metastatic
+Colorectal Cancer Receiving Anti-EGFR Monoclonal
+Antibodies: A Meta-Analysis
+
+.
+Zi-Xu Yuan1, Xiao-Yan Wang2, Qi-Yuan Qin1, De-Feng Chen1, Qing-Hua Zhong1, Lei Wang1,2*
+.
+Ping Wang1,2*
+
+, Jian-
+
+1 Department of Colorectal Surgery, The Sixth Affiliated Hospital of Sun Yat-Sen University, Guangzhou, Peoples Republic of China, 2 Gastrointestinal Disease Institute of
+Sun Yat-sen University, Guangzhou, Peoples Republic of China
+
+Abstract
+
+Background: BRAF mutation has been investigated as a prognostic factor in metastatic colorectal cancer (mCRC)
+undergoing anti-EGFR monoclonal antibodies (moAbs), but current results are still inconclusive. The aim of this meta-
+analysis was to evaluate the relationship between BRAF mutation status and the prognosis of mCRC patients treated with
+moAbs.
+
+Methods: Eligible studies were identified by systematically searching Pubmed, the Cochrane Library, Web of Knowledge,
+and OVID. Risk ratio (RR) for overall response rate (ORR), Hazard ratios (HRs) for Progression free survival (PFS) and Overall
+survival (OS) were extracted or calculated. Prespecified subgroup analyses were conducted in KRAS wild-type and in
+different study types. The source of between-trial variation was explored by sensitivity analyses. Quality assessment was
+conducted by the Haydens criteria.
+
+Results: A total of twenty one trials including 5229 patients were identified for the meta-analysis. 343 patients displayed
+BRAF mutations of 4616 (7.4%) patients with known BRAF status. Patients with BRAF wild-type (WT) showed decreased risks
+of progression and death with an improved PFS(HR 0.38, 95% confidence intervals 0.290.51) and an improved OS (HR 0.35
+[0.290.42]), compared to BRAF mutant. In KRAS WT population, there were even larger PFS benefit (HR 0.29[0.19,0.43]) and
+larger OS benefit (HR 0.26 [0.20,0.35]) in BRAF WT. A response benefit for BRAF WT was observed (RR 0.31[0.18,0.53]) in KRAS
+WT patients, but not observed in unselected patients (RR 0.76 [0.431.33]). The results were consistent in the subgroup
+analysis of different study types. Heterogeneity between trials decreased in the subgroup and explained by sensitivity
+analysis. No publication bias of ORR, PFS and OS were detected.
+
+Conclusions: The results indicate that BRAF mutant is a predictive biomarker for poor prognosis in mCRC patients
+undergoing anti-EGFR MoAbs therapy, especially in KRAS WT patients. Additional large prospective trials are required to
+confirm the predictive role of BRAF status.
+
+Citation: Yuan Z-X, Wang X-Y, Qin Q-Y, Chen D-F, Zhong Q-H, et al. (2013) The Prognostic Role of BRAF Mutation in Metastatic Colorectal Cancer Receiving Anti-
+EGFR Monoclonal Antibodies: A Meta-Analysis. PLoS ONE 8(6): e65995. doi:10.1371/journal.pone.0065995
+
+Editor: Todd W. Miller, Dartmouth, United States of America
+
+Received March 4, 2013; Accepted April 29, 2013; Published June 11, 2013
+Copyright:  2013 Yuan et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Funding: The study was supported by National Natural Science Foundation of China (NSFC) (grant no. 81072042, URL: http://www.gov.cn/banshi/qy/rlzy/2005-
+09/03/content_29011.htm) and supported by Chinese Ministry of Educations Doctor Station Foundation (grant no. 20120171110096, URL: http://www.moe.
+edu.cn/). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+* E-mail: leiwangyinghu@yahoo.com.cn (LW); wangjpgz@yahoo.com.cn (J-PW)
+. These authors contributed equally to this work.
+
+Introduction
+
+cancer
+
+is
+
+Colorectal
+
+the third mostly common human
+malignant tumor and is one major cause of cancer mortality
+in the western world [1]. Metastatic tumors account for 40% to
+50% of newly diagnosed patients
+[2]. The prognosis of
+metastatic colorectal cancer(mCRC) remains poor. The intro-
+duction of targeted Epidermal Growth Factor Receptor (EGFR)
+Monoclonal Antibodies
+(MoAbs), namely Cetuximab and
+Panitumumab, has distinctly improved Overall response rate
+(ORR), Progression free survival
+(PFS) and Overall survival
+(OS). EGFR is a transmembrane tyrosine kinase receptor,which
+
+angiogenesis
+
+the processes of proliferation,
+
+mediates
+and
+invasion of cancer cells
+[3]. However, only 10%20% of
+patients with mCRC can achieve benefits
+from anti-EGFR
+MoAbs [4]. EGFR expression is reported to be not correlated
+with clinical efficacy [5]. The benefit of targeted agents may
+attribute to the inhibition of its downstream signaling pathways,
+mainly RAS-RAF-MAPK and P3IK-PTEN-AKT [6]. Increas-
+ing evidences show that KRAS mutations at codons 12 and 13
+in mCRC are predictive biomarkers of resistance to anti-EGFR
+MoAbs [7]. But KRAS mutations account only for 35% to 45%
+of nonresponders [8].
+
+PLOS ONE | www.plosone.org
+
+1
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+Recently, BRAF mutation (.95% of BRAF point mutations
+occure at BRAF V600E [9]) is introduced to be associated with
+resistance to targeted agents [10]. BRAF protein, a serine-
+threonine kinase, is the principal downstream molecular of KRAS
+[11]. A meta-analysis by Bokemeyer C, et al, in 2012 [12] based
+on two RCTs (the OPUS and CRYSTAL trials) reported that in
+KRAS wild-type(WT) patients, adding cetuximab to chemother-
+apy was beneficial for BRAF WT patients, but not for BRAF
+mutant patients. Another systematic review by Mao C, et al, in
+2011 [13] found a response benefit for BRAF WT in KRAS WT
+patients, but
+for BRAF WT in
+unselected patients. And there is no meta-analysis for direct
+comparisons of PFS and OS between BRAF mutant and BRAF
+WT in mCRC patients using anti-EGFR MoAbs.
+
+found no response benefit
+
+Here we aimed to provide a comprehensive, unbiased pooled
+analysis including ORR (risk ratio [RR] in patients with mutant
+BRAF versus(vs) these with WT BRAF) for response, PFS and OS
+(hazard ratios [HR] in patients with WT BRAF vs mutant BRAF)
+for progression and survival in patients with mCRC receiving anti-
+EGFR MoAbs therapies.
+
+Materials and Methods
+
+Search Strategy
+
+(2) colorectal:
+
+(ie,
+
+colon,
+
+BRAF:
+
+(ie,
+rectal,
+
+(1) terms suggestive of
+
+We searched Pubmed, Web of Knowledge,
+
+the Cochrane
+library, and OVID without language limitation. The last search
+update was January 31, 2013. The search strategy mainly included
+BRAF or
+three parts:
+RAF).
+colorectal,
+rectum). (3) cancer: (ie, cancer, carcinoma, neoplasm,
+tumor, malignan*). Article types were restricted to clinical
+trials or Randomized Controlled Trials (RCT)
+in human. To
+ensure all related studies enrolled, we hand-searched several years
+of major journals such as ASCO (American Society of Clinical
+Oncology), ASCRS (American Society of Colon and Rectal
+Surgeons) and JCO (Journal of Clinical Oncology). The reference
+lists of primary studies and previous meta-analysis were scrutinized
+for additional publications.
+
+The full electronic searching strategy in Pubmed was as follow:
+(BRAF or BRAF*) and (colon* or rectal or colorectal
+or rectum) and (cancer or carcinom* or neoplas* or
+tumor or malignan* or crc); Article types were restricted to
+Clinical Trial and Randomized Controlled Trial.
+
+Inclusion and Exclusion Criteria
+
+The potential trials were screened for the following criteria: (1)
+patients with mCRC treated with cetuximab or panitumumab
+based therapy; (2) evalutaing BRAF mutations in the majority of
+patients and the number of patients with mutated BRAF was no
+less than one; (3) reported one or more indicators (including ORR,
+PFS and OS) to compare the prognosis of patients with WT BRAF
+to these with mutant BRAF; (4) retrospective trials, prospective
+trials, or randomized controlled trials. Trials evaluating progres-
+sion with time to tumor progression (TTP), when TTP was defined
+as the time from the initiation date of Cetuximab or Panitumumab
+containing therapy to the first radiographic evidence of disease
+progression or death, were also included. We exlcuded trials
+without complete data, trials still in progression, and these without
+full text articles online. When reports overlapped or repeated, we
+retrived the data with longest follow up.
+
+Data Extraction and Definitions
+
+Data were extracted including the first author, publication year,
+patient baseline characteristics, the number of patients analyzed in
+
+BRAF Mutation in Metastatic Colorectal Cancer
+

@@ -1,0 +1,200 @@
+invasive
+cancer
+
+All stages
+I/II cancer
+
+Stage III/IV
+
+invasive
+cancer
+
+Recurrent
+
+Stages I/II
+borderline
+
+tumor
+
+Stages III/IV
+
+borderline
+
+tumor
+
+Training set
+
+CA125 at cutoff  35 units/ml
+Model with three markers
+Model with three markers  CA125
+
+Test set
+
+CA125 at cutoff  35 units/ml
+Model with three markers
+Model with three markers  CA125
+
+Independent validation set
+
+97 (32/33)
+88 (29/33)
+97 (32/33)
+
+98 (45/46)
+91 (42/46)
+98 (45/46)
+
+68 (19/28)
+89 (25/28)
+100 (28/28)
+
+66 (19/29)
+83 (24/29)
+86 (25/29)
+
+64 (14/22)
+86 (19/22)
+100 (22/22)
+
+67 (18/27)
+89 (24/27)
+100 (27/27)
+
+70 (14/20)
+75 (15/20)
+80 (16/20)
+
+64 (18/28)
+82 (23/28)
+86 (24/28)
+
+100 (1/1)
+100 (1/1)
+100 (1/1)
+
+100 (1/1)
+100 (1/1)
+100 (1/1)
+
+80 (4/5)
+100 (5/5)
+100 (5/5)
+
+50 (4/8)
+100 (8/8)
+100 (8/8)
+
+Fixed specificity for healthy controls
+
+CA125 at cutoff  35 units/ml
+Model with three markers
+Model with three markers
+
+ CA125
+
+97 (61/63)
+97 (61/63)
+97 (61/63)
+
+76 (126/166)
+52 (86/166)
+45 (75/166)
+
+77 (106/138)
+78 (107/138)
+78 (108/138)
+
+65 (15/23)
+74 (17/23)
+74 (17/23)
+
+54 (19/35)
+74 (26/35)
+66 (23/35)
+
+87 (75/86)
+81 (70/86)
+85 (73/86)
+
+79 (11/14)
+71 (10/14)
+79 (11/14)
+
+33 (4/12)
+75 (9/12)
+50 (6/12)
+
+33 (1/3)
+33 (1/3)
+33 (1/3)
+
+67 (2/3)
+33 (1/3)
+33 (1/3)
+
+Fixed sensitivity for stage I/II invasive cancer
+
+CA125 at cutoff  11 units/ml
+Model with three markers
+Model with three markers
+
+ CA125
+
+52 (33/63)
+89 (56/63)
+94 (59/63)
+
+32 (53/166)
+35 (58/166)
+33 (55/166)
+
+88 (122/138)
+82 (113/138)
+82 (113/138)
+
+83 (19/23)
+83 (19/23)
+83 (19/23)
+
+74 (26/25)
+80 (28/35)
+71 (25/35)
+
+94 (81/86)
+86 (74/86)
+87 (75/86)
+
+93 (13/14)
+71 (10/14)
+86 (12/14)
+
+58 (7/12)
+75 (9/12)
+50 (6/12)
+
+* All stage I/II cancer included stage I/II invasive epithelial ovarian cancer and stage I/II borderline tumor.
+ 95% confidence intervals for CA125 at cutoff  11 units/ml, model with three markers, and model with three marker  CA125 were 39  65%, 78 95%, and 8598%, respectively.
+
+protein have been shown to be associated with an increased rate of
+malignant transformation of ovarian epithelium (29, 30). In addition,
+levels of cellular retinal binding proteins have been reported to be
+changed in ovarian cancer by oligonucleotide array analysis (31) and
+have been shown to be decreased in approximately one-third of
+ovarian cancers by immunohistochemistry (32).
+
+The carboxyl portion of inter- trypsin inhibitor, heavy chain H4,
+from which the m/z 3,272 biomarker is derived, has been shown to be
+a substrate for plasma kallikrein (33, 34). The fragment that we
+identified as a biomarker differs from the postulated fragment derived
+from cleavage by plasma kallikrein, suggesting a different protease is
+responsible for the generation of this biomarker. Kallikrein proteases
+consist of plasma kallikrein and tissue kallikreins, which have over-
+lapping substrate specificity (35). The tissue kallikreins are products
+of a large multigene family that includes prostate specific antigen
+(hK3), a tumor marker for prostate cancer. Gene expression of seven
+of the tissue kallikreins has been found to be up-regulated in ovarian
+cancer patients, and expression of hK6, hK10, and hK11 has been
+found to be increased in 50% of patients with ovarian cancer
+(36, 37).
+
+The identified proteins associated with the three biomarkers are all

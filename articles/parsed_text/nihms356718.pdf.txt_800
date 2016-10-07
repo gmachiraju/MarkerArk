@@ -1,0 +1,200 @@
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Nolen and Lokshin
+
+Page 5
+
+biomarkers (Table 2). With respect to network analysis, most ovarian cancer biomarkers fall
+into three major networks responsible for key aspects of cancer development (Table 3).
+Network 1 (70/157 = 45% of molecules) regulates invasion/metastasis, neoangiogenesis and
+immune responses; network 2 (24% of molecules) is responsible for DNA functions; and
+network 3 (14% of molecules) controls the cell cycle and inflammation. Of these multiple
+biomarkers, demonstrating strong association with ovarian cancer, the biomarkers with the
+highest informative value, singly or combined into multibiomarker panels, must be selected.
+In this selection process (feature selection), a two-pronged approach must be utilized
+considering both bioinformatics and the biological aspects of each biomarker or biomarker
+combination.
+
+Feature selection
+Biological considerations
+
+The selection of the most informative biomarkers represents the most crucial and
+challenging aspect of biomarker development. Prior to applying a bioinformatics-based
+feature selection, candidate biomarkers must be prioritized based on biological
+considerations that should include the following characteristics:
+
+
+
+
+
+
+
+A biomarker should demonstrate measurable alterations in noninvasive samples
+obtained from patients with early-stage or preclinical disease;
+Collectively, biomarkers should be informative for all histological and pathological
+subtypes of a given cancer. In the setting of ovarian cancer, this includes the
+histological types (e.g., serous, mucinous, endometrioid, clear cell and less
+common subtypes), and the pathologically distinct type I and II tumors (described
+in [62]);
+Individual biomarkers should be sufficiently reliable. The justification for a
+sufficiently high intraclass correlation index between temporal replicates depends
+on two factors: the magnitude of the intraclass correlation; and the degree of
+overlap, or difference in mean expression, for the distributions of that biomarker
+(i.e., between cases and controls). Specifically, the 95% confidence interval for the
+median difference between cases and controls should exclude 0 for a given
+biomarker to be considered in further analysis.
+
+Bioinformatics approaches
+
+Biomarkers prioritized based on biological considerations should be further filtered using
+bioinformatic approaches that rely on optimized feature selection of high-dimensional data.
+The rule of thumb for feature selection is that features must be discriminant and add
+information to existing biomarkers in the panel for the best separation of the two groups. In
+the context of ovarian (or any other) cancer, the additive information feature means that
+selected biomarkers should increase SN at the same high SP over CA-125 used alone.
+Feature selection algorithms can be divided into three categories: filters, wrappers or
+embedded methods [63]. A filter method ranks features based on an evaluation measure, and
+then selects a subset of features that are ranked highly (e.g., two sample t-test). Using this
+method, biomarkers were selected from Phase II to Phase III in a PLCO collaborative
+exercise [64]. A wrapper method searches for the best set of features by repeated selection
+and assessment of a subset of features using a classification algorithm. An example of a
+wrapper method is the approach utilized in our work based on a Metropolis algorithm with
+Monte Carlo simulation [51]. Embedded methods include feature selection inside of the
+classifier training process. For example, decision trees implicitly determine which features
+are more discriminant and use them in the learning of tree structures. Finally, the resulting
+combination should not only be sensitive and specific but also selective for a given
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A

@@ -1,0 +1,200 @@
+
+
+The Early Detection Research Network has outlined five phases required for
+successful biomarker development.
+A large number of candidate biomarkers for ovarian cancer have been identified
+in several bodily fluids, primarily serum, through the use of multiple
+technological platforms.
+
+ Multiplexed platforms permit the evaluation of large arrays of potential
+
+biomarkers at minimal time and sample volume requirements.
+
+Individual biomarkers of ovarian cancer: the trees
+
+
+
+
+
+
+
+Our review identified 160 proteins altered in the sera of ovarian cancer patients
+and healthy controls.
+The list of candidate biomarkers can be broken down on the basis of biological
+properties into the following functional groups presented in order of
+predominance: mediators of inflammation; acute-phase reactants; adhesion
+molecules and proteases; hormones; and growth and angiogenesis factors.
+The multiple functional groups represented by the array of biomarkers may be
+indicative of the multiple tumorigenic pathways involved in the development of
+ovarian cancer.
+
+Feature selection
+
+
+
+
+
+In the selection of candidate biomarkers for inclusion in diagnostic multimarker
+panels, proteins should be first prioritized based on the following biological
+characteristics: measurable alterations in noninvasive samples; informative for
+all histological and pathological subtypes; and temporal reliability.
+Specific considerations for biomarker selection include biomarker specificity for
+the various histological subtypes of ovarian cancer; biomarker specificity for
+
+Future Oncol. Author manuscript; available in PMC 2012 November 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Nolen and Lokshin
+
+Page 22
+
+type I and type II ovarian cancers; nonclassical biomarkers; and proteins
+observed to be decreased in ovarian cancer patients and those produced by
+extratumoral sources.
+Bioinformatic feature selection algorithms can be divided into three categories:
+filters, wrappers and embedded.
+
+
+
+Approaches & controversies in biologically based feature selection
+
+
+
+Several trends in ovarian cancer biomarker development challenge the premise
+that biomarkers must arise directly from tumor cells and exhibit elevated serum
+levels in patients versus controls: stroma-derived biomarkers; acute-phase
+reactants; and downregulated proteins.
+
+Biomarkers of different subtypes of ovarian cancer
+
+
+
+
+
+Specific biomarkers associated with the various histological subtypes of ovarian
+epithelial cancer may provide complementation and improved performance
+when assembled into diagnostic panels.
+Biomarkers associated with pathologically defined type II ovarian carcinomas
+are especially sought after, given the aggressive nature of these tumors.
+
+Selection of multimarker panels based on postdiagnostic samples
+
+
+
+A number of groups have reported promising results based on samples collected
+at or after the time of diagnosis.
+
+ Methods employed included immunoassay microarray, transcriptional profiling,
+
+multiplexed bead-based immunoassay, SELDI-TOF mass spectroscopy and a
+variety of bioinformatic analysis techniques.
+
+Multimarker panels in prediagnostic samples
+
+
+
+
+
+
+
+Several biomarkers including CA-125, HE4 and mesothelin have been evaluated
+in prediagnostic ovarian cancer sample with some indication of efficacy within 1
+year of diagnosis.
+A large multisite evaluation of prediagnostic biomarkers in conjunction with the
+PLCO Screening Trial identified several candidate biomarkers with measurable
+alterations between ovarian cancer patients and controls.
+No biomarker combination was identified that could outperform CA-125 alone
+for discrimination between the two groups.
+
+Conclusions

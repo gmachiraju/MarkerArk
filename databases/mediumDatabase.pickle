@@ -1,0 +1,101 @@
+(lp0
+S'blood'
+p1
+aS'blood plasma'
+p2
+aS'serum'
+p3
+aS'urine'
+p4
+aS'saliva'
+p6
+aS'amniotic fliud'
+p7
+aS'tears'
+p8
+aS'breast milk'
+p9
+aS'vitreous humor'
+p10
+aS'aqueous humor'
+p11
+aS'cerebrospinal fluid'
+p12
+aS'bile'
+p13
+aS'cerumen'
+p14
+aS'chyle'
+p15
+aS'lymph'
+p16
+aS'interstitial fluid'
+p17
+aS'sera'
+p18
+aS'ascites'
+p19
+aS'CSF'
+p20
+aS'sputum'
+p21
+aS'bone marrow'
+p22
+aS'synovial fluid'
+p23
+ag14
+aS'broncheoalveolar lavage fluid'
+p24
+aS'semen'
+p25
+aS'postatic fluid'
+p26
+aS"cowper's fluid"
+p27
+aS'pre-ejaculatory fluid'
+p28
+aS'female ejaculate'
+p29
+aS'sweat'
+p30
+aS'feces'
+p31
+aS'fecal matter'
+p32
+aS'hair'
+p33
+aS'cyst fluid'
+p34
+aS'pleural fluid'
+p35
+aS'peritoneal fluid'
+p36
+aS'pericardinal fluid'
+p37
+aS'chyme'
+p38
+aS'menses'
+p39
+aS'pus'
+p40
+aS'sebum'
+p41
+aS'vomit'
+p42
+aS'vaginal secretion'
+p43
+aS'stool water'
+p44
+aS'pancreatic juice'
+p45
+aS'pancreatic fluid'
+p46
+aS'lavage fluids'
+p47
+aS'bronchopulmonary aspirates'
+p48
+aS'blastocyl cavity fluid'
+p49
+aS'umbilical chord blood'
+p50
+a.

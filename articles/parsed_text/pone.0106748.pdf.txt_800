@@ -1,0 +1,200 @@
+Extramural vascular invasion
+
+Present
+
+Absent
+
+Biomarkers for Early Diagnosis of Colon Cancer
+
+Discovery series
+
+Validation series
+
+8 (8%)
+
+Tissue
+
+9 (13%)
+
+100 (100%)
+
+70 (100%)
+
+-
+
+-
+
+-
+
+-
+
+100 (100%)
+
+70 (100%)
+
+-
+
+19.6
+
+7 (7%)
+
+93 (93%)
+
+-
+
+31
+
+16 (22.9%)
+
+54 (77.1%)
+
+Serum
+
+16 (20%)
+
+44 (55%)
+
+22 (27.5%)
+
+14 (17.5%)
+
+70 (87.5%)
+
+10 (12.5%)
+
+28.8
+
+30 (37.5%)
+
+50 (62.5%)
+
+doi:10.1371/journal.pone.0106748.t001
+
+adjacent normal-tumor pairs) were excluded from the dataset after
+quality control. Thus, a final dataset of 246 arrays was used for
+subsequent analyses.
+
+Raw data were normalized using the Robust Multiarray
+Average algorithm [15] implemented in the affy package [16] of
+the Bioconductor suite (http://www.bioconductor.org) [17]. All
+statistical analysis were done with the R statistical computing
+software (http://www.r-project.org) [18].
+
+Before the differential expression analysis was performed, low-
+variant and Y-chromosome transcripts were removed from
+subsequent analyses. For the remaining probesets, regularized-
+Students t-tests were used to detect significant overexpression
+between adjacent normal (A) or tumor samples (T) and cancer-free
+mucosa (F). Bonferroni correction was applied to account for
+multiple hypothesis testing. In order to narrow down the initially
+obtained lists, candidate probesets were further filtered based on
+different criteria:
+low expression levels and low variability in
+cancer-free mucosa; large average fold change between T/F or A/
+F; and homogeneity of effects among multiple probes for the same
+gene, when available. Probesets that passed the filtering criteria
+were mapped to genes,
+information used for
+downstream analyses.
+
+the units of
+
+A prioritization procedure was performed to select the best
+candidate genes for validation using publicly available data [19
+24]. Criteria accounted for were related to reproducibility and
+specificity issues: observed reproducibility of
+the expression
+differences; very low levels of expression in blood tissue; and
+selection of genes with large expression in colon tissue when
+compared to other tissues according to GeneCards database
+(http://www.genecards.org) [25], though most genes were ex-
+pressed in multiple tissues. The gene expression dataset is available
+in the National Center for Biotechnology Informations Gene
+Expression Omnibus [26] with GEO series accession number
+GSE44076 and in the project website (http://www.colonomics.
+org).
+
+Technical and biological validation  RT-qPCR for
+expression assessment
+
+Expression levels of selected genes were assessed with RT-qPCR
+both for the discovery series and for an additional set of 104
+samples (70 paired adjacent normal/tumor tissues from colon
+
+cancer patients and 34 from cancer-free controls). These samples
+were collected between January 1996 and June 2011 following the
+same protocol and stored under the same conditions as the
+discovery series. cDNA was synthesized from the extracted mRNA
+with the transcription first strand cDNA synthesis kit (Roche
+Applied Science, Penzberg, Germany) following standard proce-
+dures.
+
+Two sets of primers were designed for each gene, and each set
+was assayed in duplicate. Three control genes were included in the
+assay: ACTB, TPT1, and UBC. ACTB was chosen based on the
+extensive previous literature pointing it as a suitable housekeeping
+gene for gene expression analyses in colon samples [2729]. UBC
+and TPT1 were selected based on the high stability of their
+expression levels across all samples in our array data (Figures S1
+and S2). Interestingly, they had also been previously postulated as
+potentially suitable housekeeping genes for gene expression assays
+in colon samples [29].
+
+Multiplexed RT-qPCRs assays were done using BioMark
+Dynamic Array 96696 Plates
+(Fluidigm Corporation, San
+Francisco, CA). Resulting images were analyzed with Fluidigm
+Biomark software using standard parameters. Raw qPCR data
+were processed with the HTqPCR package v1.10.0 [30]. Before
+the assessment of differential expression between different tissue
+types, the expression matrix was filtered for quality purposes. UBC
+was finally selected as the housekeeping control based on the
+stability of its threshold cycle values (Figure S2). Mann-Whitney
+tests were used to compare expression levels between cancer-free
+and adjacent normal samples and between cancer-free and tumor
+samples. Each set of primers was analyzed independently, and the
+set of primers that displayed the highest significant results in the
+analysis of differential expression was selected as a representative.
+
+Identification of serum biomarkers  proof of concept for
+screening validity
+
+To test
+
+the potential value for early detection,
+
+the most
+promising candidates from the biological validation were assayed
+in serum samples in a series of 80 colon cancer cases, 23 patients
+with adenoma and 77 cancer-free controls, all tested in duplicate
+to increase the precision of the experiment. Ten-milliliter samples
+of peripheral venous blood were collected from colon cancer cases,
+patients with adenomas and controls. After centrifuge for 15
+
+PLOS ONE | www.plosone.org
+
+4
+
+September 2014 | Volume 9 |
+
+Issue 9 | e106748
+
+minutes at 1000 rpm within 30 minutes of collection, serum was
+aliquoted and stored at 280uC. Commercial ELISA kits from Life
+Sciences Inc and R&D Systems, depending on availability, were
+used according to the manufacturers instructions to assess serum
+protein concentrations. All assays employ quantitative sandwich
+enzyme immunoassay technique. The concentration of
+target
+proteins in each sample was calculated from a standard curve run
+in duplicate in each plate. The scientists examining these serum
+samples were unaware of the patients diagnosis. A linear model
+adjusting for age, gender and potential batch effects was used to
+assess the statistical significance of the differential protein levels
+among groups. The association of markers with patient charac-
+teristics as age and gender, multiple epidemiological factors and
+tumor characteristics is shown in Table S1. Since some serum
+markers showed extreme values for a few subjects, a rank-based
+test was also performed. The results did not change in a relevant
+way and the p-values derived from the linear models are reported.
+The number of samples used was calculated to attain a 10%

@@ -1,0 +1,200 @@
+46.71
+41.32
+
+Median
+
+IQR
+
+31.93
+3.49
+
+33.27
+33.11
+29.82
+30.18
+37.98
+
+33.24
+30.02
+
+28.76
+33.70
+31.64
+28.32
+
+31.65
+34.90
+
+32.08
+30.85
+
+31.79
+31.73
+
+31.71
+36.25
+
+21.26
+38.48
+
+31.96
+33.30
+30.89
+27.05
+30.94
+
+47.60
+38.23
+29.96
+33.62
+32.03
+28.99
+26.62
+
+16.92-56.26
+2.89-4.05
+
+16.21-57.36
+17.28-57.67
+16.26-53.85
+16.72-54.64
+19.12-66.82
+
+17.59-58.35
+16.31-53.45
+
+18.95-55.37
+18.63-57.67
+16.01-58.68
+15.87-48.71
+
+16.88-55.85
+18.58-59.51
+
+17.29-56.94
+16.21-55.79
+
+16.88-55.40
+16.96-58.71
+
+16.94-55.80
+15.38-64.30
+
+12.13-40.81
+21.77-63.99
+
+16.93-56.33
+15.62-50.70
+17.19-47.46
+18.63-64.41
+11.95-41.49
+
+23.77-75.39
+18.48-67.05
+16.68-52.69
+17.46-64.93
+16.68-57.59
+15.65-51.78
+16.54-52.06
+
+Range
+
+1.15-426.86
+0.77-6.06
+
+1.15-324.35
+2.56-426.86
+1.42-330.24
+2.85-344.38
+4.29-294.48
+
+1.42-426.86
+1.15-344.38
+
+7.45-98.90
+1.15-426.86
+2.18-372.25
+1.42-282.03
+
+1.15-426.86
+2.18-282.03
+
+1.42-426.86
+1.15-330.24
+
+1.42-426.86
+1.15-324.35
+
+1.15-426.86
+3.14-328.88
+
+1.15-426.86
+2.18-344.38
+
+1.15-426.86
+5.04-160.48
+3.92-86.55
+5.90-172.51
+6.15-78.02
+
+7.22-241.07
+1.15-372.25
+1.42-344.38
+2.15-330.24
+2.39-274.28
+4.15-426.86
+2.18-235.45
+
+P
+
+N/A
+N/A
+.219
+
+.0794
+
+.001
+
+.4399
+
+.2389
+
+.0651
+
+.0984
+
+ .001
+
+.396
+
+ .001
+
+Abbreviations: IQR, interquartile range; N/A, not applicable; pro-SFTPB, prosurfactant protein B; SD, standard deviation.
+P values are for Satterthwaites unequal variance t test, unless otherwise marked.
+Nonparametric test.
+
+1.59 (95% CI, 1.36 to 1.87; P  .001) with a model AUC of 0.730 (95%
+CI, 0.680 to 0.775). The improvement in magnitude in discrimination
+attributable to pro-SFTPB is large compared with that of most lung
+cancer predictors.18 Of the 113 lung cancers, 96 (85.0%) were stage I or
+II. When the full model was estimated in these individuals, log-
+proSFTPB remained a statistically signicant predictor (OR, 2.195;
+95% CI, 1.679 to 2.870; P  .001) and signicantly improved the AUC
+compared with the nested model excluding log-proSFTPB (0.735 v
+0.659; P  .001).
+
+The mean and 90th percentile absolute error (observed minus
+predicted probabilities) in the model without log-proSFTPB were
+
+0.005 and 0.007; for the model with log-proSFTPB, they were 0.004
+and 0.010. For both models, the mean absolute errors in all deciles of
+model-predicted risk were less than 1% (Data Supplement). For the
+full model with log-proSFTPB versus the nested model without log-
+proSFTPB, the Brier scores were 0.0438 and 0.0448, and the boot-
+strap-biascorrected scores were 0.0442 and 0.0450, respectively.
+These statistics indicate that calibration was excellent in both models
+but slightly better in the model with log-proSFTPB.
+
+The magnitude of Cox model hazard ratios and CIs was similar to
+that of the ORs in the logistic models (Data Supplement). When the
+full Cox model was limited to lung cancers that were diagnosed more

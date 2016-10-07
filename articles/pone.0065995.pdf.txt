@@ -1,0 +1,4944 @@
+The Prognostic Role of BRAF Mutation in Metastatic
+Colorectal Cancer Receiving Anti-EGFR Monoclonal
+Antibodies: A Meta-Analysis
+
+.
+Zi-Xu Yuan1, Xiao-Yan Wang2, Qi-Yuan Qin1, De-Feng Chen1, Qing-Hua Zhong1, Lei Wang1,2*
+.
+Ping Wang1,2*
+
+, Jian-
+
+1 Department of Colorectal Surgery, The Sixth Affiliated Hospital of Sun Yat-Sen University, Guangzhou, Peoples Republic of China, 2 Gastrointestinal Disease Institute of
+Sun Yat-sen University, Guangzhou, Peoples Republic of China
+
+Abstract
+
+Background: BRAF mutation has been investigated as a prognostic factor in metastatic colorectal cancer (mCRC)
+undergoing anti-EGFR monoclonal antibodies (moAbs), but current results are still inconclusive. The aim of this meta-
+analysis was to evaluate the relationship between BRAF mutation status and the prognosis of mCRC patients treated with
+moAbs.
+
+Methods: Eligible studies were identified by systematically searching Pubmed, the Cochrane Library, Web of Knowledge,
+and OVID. Risk ratio (RR) for overall response rate (ORR), Hazard ratios (HRs) for Progression free survival (PFS) and Overall
+survival (OS) were extracted or calculated. Prespecified subgroup analyses were conducted in KRAS wild-type and in
+different study types. The source of between-trial variation was explored by sensitivity analyses. Quality assessment was
+conducted by the Haydens criteria.
+
+Results: A total of twenty one trials including 5229 patients were identified for the meta-analysis. 343 patients displayed
+BRAF mutations of 4616 (7.4%) patients with known BRAF status. Patients with BRAF wild-type (WT) showed decreased risks
+of progression and death with an improved PFS(HR 0.38, 95% confidence intervals 0.290.51) and an improved OS (HR 0.35
+[0.290.42]), compared to BRAF mutant. In KRAS WT population, there were even larger PFS benefit (HR 0.29[0.19,0.43]) and
+larger OS benefit (HR 0.26 [0.20,0.35]) in BRAF WT. A response benefit for BRAF WT was observed (RR 0.31[0.18,0.53]) in KRAS
+WT patients, but not observed in unselected patients (RR 0.76 [0.431.33]). The results were consistent in the subgroup
+analysis of different study types. Heterogeneity between trials decreased in the subgroup and explained by sensitivity
+analysis. No publication bias of ORR, PFS and OS were detected.
+
+Conclusions: The results indicate that BRAF mutant is a predictive biomarker for poor prognosis in mCRC patients
+undergoing anti-EGFR MoAbs therapy, especially in KRAS WT patients. Additional large prospective trials are required to
+confirm the predictive role of BRAF status.
+
+Citation: Yuan Z-X, Wang X-Y, Qin Q-Y, Chen D-F, Zhong Q-H, et al. (2013) The Prognostic Role of BRAF Mutation in Metastatic Colorectal Cancer Receiving Anti-
+EGFR Monoclonal Antibodies: A Meta-Analysis. PLoS ONE 8(6): e65995. doi:10.1371/journal.pone.0065995
+
+Editor: Todd W. Miller, Dartmouth, United States of America
+
+Received March 4, 2013; Accepted April 29, 2013; Published June 11, 2013
+Copyright:  2013 Yuan et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Funding: The study was supported by National Natural Science Foundation of China (NSFC) (grant no. 81072042, URL: http://www.gov.cn/banshi/qy/rlzy/2005-
+09/03/content_29011.htm) and supported by Chinese Ministry of Educations Doctor Station Foundation (grant no. 20120171110096, URL: http://www.moe.
+edu.cn/). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+* E-mail: leiwangyinghu@yahoo.com.cn (LW); wangjpgz@yahoo.com.cn (J-PW)
+. These authors contributed equally to this work.
+
+Introduction
+
+cancer
+
+is
+
+Colorectal
+
+the third mostly common human
+malignant tumor and is one major cause of cancer mortality
+in the western world [1]. Metastatic tumors account for 40% to
+50% of newly diagnosed patients
+[2]. The prognosis of
+metastatic colorectal cancer(mCRC) remains poor. The intro-
+duction of targeted Epidermal Growth Factor Receptor (EGFR)
+Monoclonal Antibodies
+(MoAbs), namely Cetuximab and
+Panitumumab, has distinctly improved Overall response rate
+(ORR), Progression free survival
+(PFS) and Overall survival
+(OS). EGFR is a transmembrane tyrosine kinase receptor,which
+
+angiogenesis
+
+the processes of proliferation,
+
+mediates
+and
+invasion of cancer cells
+[3]. However, only 10%20% of
+patients with mCRC can achieve benefits
+from anti-EGFR
+MoAbs [4]. EGFR expression is reported to be not correlated
+with clinical efficacy [5]. The benefit of targeted agents may
+attribute to the inhibition of its downstream signaling pathways,
+mainly RAS-RAF-MAPK and P3IK-PTEN-AKT [6]. Increas-
+ing evidences show that KRAS mutations at codons 12 and 13
+in mCRC are predictive biomarkers of resistance to anti-EGFR
+MoAbs [7]. But KRAS mutations account only for 35% to 45%
+of nonresponders [8].
+
+PLOS ONE | www.plosone.org
+
+1
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+Recently, BRAF mutation (.95% of BRAF point mutations
+occure at BRAF V600E [9]) is introduced to be associated with
+resistance to targeted agents [10]. BRAF protein, a serine-
+threonine kinase, is the principal downstream molecular of KRAS
+[11]. A meta-analysis by Bokemeyer C, et al, in 2012 [12] based
+on two RCTs (the OPUS and CRYSTAL trials) reported that in
+KRAS wild-type(WT) patients, adding cetuximab to chemother-
+apy was beneficial for BRAF WT patients, but not for BRAF
+mutant patients. Another systematic review by Mao C, et al, in
+2011 [13] found a response benefit for BRAF WT in KRAS WT
+patients, but
+for BRAF WT in
+unselected patients. And there is no meta-analysis for direct
+comparisons of PFS and OS between BRAF mutant and BRAF
+WT in mCRC patients using anti-EGFR MoAbs.
+
+found no response benefit
+
+Here we aimed to provide a comprehensive, unbiased pooled
+analysis including ORR (risk ratio [RR] in patients with mutant
+BRAF versus(vs) these with WT BRAF) for response, PFS and OS
+(hazard ratios [HR] in patients with WT BRAF vs mutant BRAF)
+for progression and survival in patients with mCRC receiving anti-
+EGFR MoAbs therapies.
+
+Materials and Methods
+
+Search Strategy
+
+(2) colorectal:
+
+(ie,
+
+colon,
+
+BRAF:
+
+(ie,
+rectal,
+
+(1) terms suggestive of
+
+We searched Pubmed, Web of Knowledge,
+
+the Cochrane
+library, and OVID without language limitation. The last search
+update was January 31, 2013. The search strategy mainly included
+BRAF or
+three parts:
+RAF).
+colorectal,
+rectum). (3) cancer: (ie, cancer, carcinoma, neoplasm,
+tumor, malignan*). Article types were restricted to clinical
+trials or Randomized Controlled Trials (RCT)
+in human. To
+ensure all related studies enrolled, we hand-searched several years
+of major journals such as ASCO (American Society of Clinical
+Oncology), ASCRS (American Society of Colon and Rectal
+Surgeons) and JCO (Journal of Clinical Oncology). The reference
+lists of primary studies and previous meta-analysis were scrutinized
+for additional publications.
+
+The full electronic searching strategy in Pubmed was as follow:
+(BRAF or BRAF*) and (colon* or rectal or colorectal
+or rectum) and (cancer or carcinom* or neoplas* or
+tumor or malignan* or crc); Article types were restricted to
+Clinical Trial and Randomized Controlled Trial.
+
+Inclusion and Exclusion Criteria
+
+The potential trials were screened for the following criteria: (1)
+patients with mCRC treated with cetuximab or panitumumab
+based therapy; (2) evalutaing BRAF mutations in the majority of
+patients and the number of patients with mutated BRAF was no
+less than one; (3) reported one or more indicators (including ORR,
+PFS and OS) to compare the prognosis of patients with WT BRAF
+to these with mutant BRAF; (4) retrospective trials, prospective
+trials, or randomized controlled trials. Trials evaluating progres-
+sion with time to tumor progression (TTP), when TTP was defined
+as the time from the initiation date of Cetuximab or Panitumumab
+containing therapy to the first radiographic evidence of disease
+progression or death, were also included. We exlcuded trials
+without complete data, trials still in progression, and these without
+full text articles online. When reports overlapped or repeated, we
+retrived the data with longest follow up.
+
+Data Extraction and Definitions
+
+Data were extracted including the first author, publication year,
+patient baseline characteristics, the number of patients analyzed in
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+line of
+
+treatment,
+
+study design,
+
+the study, the number of patients with known BRAF mutation, the
+percentage of patients with Eastern Cooperative Oncology Group
+(ECOG) performance status #1point, the proportion of liver only
+metastasis,
+chemotherapy
+regimens, anti-EGFR MoAbs used and the response criteria. For
+clinical outcome, we collected the number of responders for
+calculating RRs and 95% estimation intevals for ORR. We also
+extracted HRs and 95% credibility intervals for PFS and OS. If
+separate HR was not provided, we estimated HR and its variance
+from published survival curves by previously described methods
+and models [14,15]. Adjusted HRs and estimation intervals were
+also collected when reported.
+
+Overall response included complete response (CR) and partial
+response (PR), non-response consisted of stable disease (SD) and
+progression disease (PD) according to the Response Evaluation
+Criteria in Solid Tumors
+(RECIST) [16] or World Health
+Organization (WHO) criteria [17]. PFS was defined as the time
+from the initiation date of anti-EGFR moAbs therapy to first
+evidence of disease progression or death of any cause, OS was
+defined as the time from the initiation date of anti-EGFR moAbs
+therapy to death of any cause. Outcome data were extracted
+separately in unselected population and in KRAS WT population.
+All data above were extracted by two independent investigators.
+When discrepancies existed, discussions were made to reach a
+consensus.
+
+Assessment of Study Quality
+
+For assessing the risk of bias in individual study, we used the
+Haydens criteria to assess the quality [18]. This is based on six
+domains of potential study biases which should be included in a
+review of prognostic studies: study participation, study attrition,
+measurement of prognostic factors, measurement of confounding
+variables, mesurement of outcomes, and analysis methods. The
+criteria is not scored, but we designed a scoring scale based on the
+Haydens criteria with some modifications to this study to quantize
+the assessment. The maximum score for each item was 2. Studies
+scoring 1012 were defined as high quality, while these scoring 0
+9 were considered low quality, just as previously defined by Maan
+ZN, et al. [19] (Table S1).
+
+Statistical Analysis
+
+We described statistics for baseline characteristics across eligible
+studies. A Risk ratio (RR) of ORR was calculated by the formula
+a=(azb)=c=(czd)
+(a, b represented for the numbers of
+responders and nonresponders in BRAF mutant; c,d represented
+for the numbers of responders and nonresponders in BRAF WT in
+the same arm ) [20]. A HR and its variance were used directly if
+the trials provided. If not appropriate for direct analysis, we
+converted a HR and variance according to previous reported
+methods [14,15]. When not reported, a HR was estimated
+indirectly from other statistics such as log rank p value or
+calculated from published Kaplan-Meier
+survival curves by
+methods and models previously mentioned [14,15,21]. A RR,1
+for response (BRAF mutation vs BRAF WT), and HRs,1 for PFS
+and OS (BRAF WT vs BRAF mutation) revealed poorer pognosis
+of patients with mutated BRAF over these with WT BRAF in anti-
+EGFR treatments.
+
+Between-trial heterogeneity was assessed by both Q2 statistic
+and I2 statistic for more reliability. For Q2 statistic, significant
+heterogeneity existed when p value was less than 0.10 [22]. For I2
+statistic, values above 50% were deemed to suggest
+large
+heterogeneity; values between 25%50% indicated modest het-
+erogeneity; values below 25% meant low heterogeneity [23]. But
+the values could be largely uncertain when few trials were pooled.
+
+PLOS ONE | www.plosone.org
+
+2
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+If the results of Q2 statistic and I2 statistic were conflicted, the
+conclusion of I2 statistic was adpoted. The effect sizes across trials,
+namely pooled HRs and RRs, were estimated using the fixed-
+effect model by Mantel-Haenszel method when no significant
+heterogeneity existed(X2 test: p$0.10). A random-effect model by
+Dersimonian and Laird method was adopted when there was a
+noted heterogeneity (X2 test: p,0.10) [22,24]. The source of
+heterogeneity was explored by sensitivity analysis when large
+heterogeneity was presented. All p values reported were two-sided.
+(P,0.05
+represented existing publication bias) and were reflected by visual
+symmetry of Beggs funnel plot on the natural logarithm of RRs or
+HRs [25].
+
+Publication bias were assessed by Eggers
+
+test
+
+Prespecified subgroup analysis was conducted in KRAS WT
+patients, as increasing evidence suggested KRAS mutation to be a
+predictor for resistance to anti-EGFR MoAbs therapy [26].
+Subgroup analysis was also conducted according to different study
+types such as retrospective, prospective trials and RCT in both
+unselected population and KRAS population, to explore whether
+the results of meta-analysis from different study types being
+consistent. Sensitivity analyses were performed to evaluate the
+stability of pooled results by deleting one trial each time. The
+source of heterogeneity was also explored when strong heteroge-
+neity between-trial existed. All the statistical analyses in the meta-
+analysis were performed with STATA software, version 11.0 (Stata
+Corporation, College Station, TX, USA, http://www.stata.com).
+
+Results
+
+Study Selection and Characteristics
+
+for
+
+records
+
+Total 318 potentially relevant
+
+retrieval were
+identified from Pubmed (n = 55), Web of Knowledge (n = 32),
+the Cochrane Library (n = 14), and OVID (n = 217). After reading
+headings and abstracts, 251 records were excluded. The remaining
+67 full-texts articles were assessed for eligibility. We excluded 51
+studies which did not meet eligibility criteria. Five additional trials
+were identified by manually searching the preference lists of
+previous meta-analysis, major meetings, primary studies and
+major journals. Finally, 21 eligible trials were included into the
+meta-analysis (Figure 1).
+
+based
+
+theapy,while
+
+used Panitumumab
+
+As for the line of chemotherapy, six trials [2732] used anti-
+EGFR MoAbs therapy as the first line, eight trials [3340] as
+$second line (second or higher line), three trials [4143] as $first
+line (including first, second and higher in the same trial), while four
+trials [4447] did not report the line of treatment. Fifteen trials
+[2733,3540,44,45] used cetuximab based therapies. One trial
+[43]
+trials
+[34,41,42,46,47] applied Cetuximab and Panitumumab in the
+same trial. Fifteen trials
+[28,31,32,3442,44,45,47] evaluated
+response according to RECIST criteria, three trials [27,29,30]
+according to WHO criteria,
+two trials [33,43] according to
+RECIST or WHO criteria in the same trial, while one trial [46]
+did not report response criteria. The 21 trials compared different
+types of eligible regimens. Four trials [2730] involved two arms in
+each trial, one trial [32] involved three arms. The most commonly
+applied regimen was Cetuximab plus Irinotecan (in eleven trials).
+For quality assessment, ten studies [2734,44,45] were within high
+quality scoring from 10 to 12, while eleven studies [3543,46,47]
+were within low quality scoring from 79 (Table 1).
+
+five
+
+Of these trials enrolled,
+
+fourteen trials [3337,3947] were
+retrospective trials. Five trials [2730,32] were RCTs. Two trials
+[31,38] were prospective trials (Table 2). A total of 5226 patients
+were analyzed. BRAF status was available among 4616 patients
+(88.3% of the total analyzed). 343 patients (7.4% of the patients
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+with known BRAF status) displayed BRAF mutations. The
+mutated site was mostly V600E mutation at the extron 15 of
+BRAF gene. Around 60% of patients enrolled were men and
+median age were 6173 years across trials. The majority of
+patients had good performance status with the proportion of
+ECOG/WHO score 01 point being more than 90%. Five trials
+[27,28,30,32,35] reported metastases confined to the liver only
+and the average percentage of liver only metastases was 24%
+(Table 2).
+
+Eighteen trials of 21 trials reported the numbers of responses:
+ten trials [28,32,35,3843,47] reported responses in unselected
+population, seven trials [27,30,33,34,36,37,45] reported responses
+in KRAS WT population, one trial [46] reported in both
+population. The remaining three trials [29,31,44] did not report
+the number of responses. As for HRs and estimation intervals of
+PFS and OS in all 21 trials, three trials [33,43,46] reported HRs
+and estimation intervals in both unselected patients and KRAS
+WT patients, while two trials [31,32] reported only in unselected
+population. Four trials [27,30,35,45] did not convert HRs as we
+wanted. Four
+[29,34,36,37] provided survival curves
+available for separately calculating HRs and variances for PFS
+and OS, to compare BRAF WT to BRAF mutant patients. Eight
+studies [28,3843,47] did not have sufficient data on HRs and
+estimation intervals for PFS and OS. (Table 3).
+
+trials
+
+Meta-analysis
+
+We performed three different meta-analyses (namely RR for
+ORR, HRs for PFS and OS) upon unselected patients, KRAS WT
+patients only, and different study types. Larger benefits were
+observed for BRAF WT patients, with an improved PFS (HR 0.38,
+95%CI [0.290.51], p,0.001, Figure 2B), albeit with differences
+across trials (Heterogeneity p = 0.018, I2 = 56.5%, random effect
+model, Figure 2B), comparing to BRAF mutant patients. In
+subgroup analysis of different study types, variation decreased to
+below 50% (Heterogeneity p = 0.108, I2 = 44.7%, random effect
+model, Figure 2B) across retrospective trials. There was also
+enough evidence of an improved OS for WT BRAF patients (HR
+[0.290.42], p,0.001, Figure 2C) with no significant
+0.35,
+differences between trials (Heterogeneity p = 0.170, I2 = 31.1%,
+fixed effect model, Figure 2C), comparing to BRAF mutation. But
+difference for ORR (RR 0.76, [0.43,1.33], p = 0.328) was not
+significant when comparing BRAF mutant to BRAF wild-type,
+with no significant heterogeneity across
+(Heterogeneity
+p = 0.099, I2 = 36.5%, random effect model, Figure 2A). No
+publication bias were found in the three pooled analysis above by
+Eggers test (ORR: p = 0.481, PFS: p = 0.185; OS: p = 0.691).
+Beggs Funnel plots of ORR, PFS, and OS were listed as Figure
+S1, Figure S2 and Figure S3.
+
+trials
+
+In the subgroup analysis of different study types in unselected
+population, we performed meta-analysis separately according to
+retrospective, prospective trials and RCT. And the results were
+mostly consistent with the overall
+findings.There were still
+benefits
+for BRAF WT patients on PFS in no matter
+retrospective trials (HR 0.35, [0.240.52], p,0.001, Figure 2B),
+prospective trial(HR 0.06, [0.010.37], p = 0.002, Figure 2B), or
+RCT (HR 0.48, [0.410.57], p,0.001, Figure 2B); and benefits
+for BRAF WT patients on OS in retrospective trials (HR 0.33,
+[0.250.44], p,0.001) with no significant variation (Heteroge-
+neity p = 0.119, I2 = 42.9%,
+fixed effect model, Figure 2C),
+prospective trial
+(HR 0.12, [0.030.50], Figure 2C), and RCT
+(HR 0.37, [0.290.48], p,0.001, Figure 2C). We still found no
+evidences of improvements for BRAF WT patients on ORR in
+no matter retrospective trials (RR 0.82 [0.341.94], p = 0.647)
+with
+p = 0.202,
+
+(Heterogeneity
+
+significant
+
+variation
+
+no
+
+PLOS ONE | www.plosone.org
+
+3
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+variation across studies (Heterogeneity p = 0.908, I2 = 0.0%, fixed
+effect model, Figure 3A). No publication bias existed in pooled
+analysis above by Eggers test (PFS: p = 0.368; OS: p = 0.071;
+ORR: p = 0.219)
+(Beggs Funnel plots were not posted in the
+article).
+
+In the subgroup analysis of different study types in KRAS
+WT patients, the findings of retrospective trials and RCT were
+mostly similar to the overall findings. Significant improvements
+on PFS for BRAF WT patients in both retrospective trials (HR
+0.26, [0.160.41], p,0.001, Figure 3B) and RCT (HR 0.43,
+[0.280.67], p,0.001, Figure 3B), and improved OS in both
+retrospective trials (HR 0.25, [0.180.34], p,0.001, Figure 3C)
+without considerable differences across
+(Heterogeneity
+p = 0.764, I2 = 0.0%, Figure 3C) and RCT (HR 0.31, [0.17
+0.56], p,0.001, Figure 3C) were observed. There were also
+ORR benefits for BRAF WT in retrospective trials (RR 0.20,
+[0.080.52], p = 0.001, Figure 3A) with no significant variation
+between trials (Heterogeneity p = 0.988, I2 = 0.0%, Figure 3A),
+and a benefit
+(RR 0.38 [0.200.73], p = 0.004,
+Figure 3A).
+
+in RCTs
+
+trials
+
+Discussion
+
+We performed the meta-analysis for the prognostic effects of
+anti-EGFR moAbs on mCRC patients with WT or mutant
+BRAF, which were based on the results of 21 eligible trials. The
+
+Figure 1. Flow Diagram for included and excluded studies.
+doi:10.1371/journal.pone.0065995.g001
+
+I2 = 27.2%, Figure 2A), prospective trial (RR 0.62, [0.048.44],
+Figure 2A), or RCT (RR 0.65,
+[0.251.67], p = 0.368,
+Figure
+(p = 0.022,
+I2 = 81.1%, Figure 2A)
+(only two RCTs were included into
+the meta-analysis, sensitivity analysis to explore the the source of
+heterogeneity between studies was listed in Table S2).
+
+heterogeneity
+
+significant
+
+with
+
+2A)
+
+trials
+
+We then performed meta-analysis of ORR, PFS and OS
+seperately in KRAS WT patients. There were a PFS benefit in
+BRAF WT (HR 0.29, [0.190.43], p,0.001), although there were
+considerable differences between the
+(Heterogeneity
+p = 0.033, I2 = 56.2%, random effect model, Figure 3B). In the
+subgroup analysis of retrospective trials, heterogeneity decreased
+to still above 50% (p = 0.059, I2 = 53.0%, Figure 3B). In sensitivity
+analysis, we tried to explore the source of heterogeneity from study
+quality, age and sex, but we didnt
+the source.
+Heterogeneity across trials may come from others (Table S2).
+We also conducted sensitivity analysis by deleting one study each
+time and the results were still consistent (results not provided in the
+study), which revealed the stability of the conclusion.There was
+also evidence of an OS benefit in BRAF WT patients (HR 0.26,
+[0.200.35], p,0.001 ) (BRAF WT vs BRAF mutant) without any
+suggestion of variation across trials (Heterogeneity p = 0.814,
+I2 = 0.0%, fixed effect model, Figure 3C), and there was also an
+ORR benefit
+in BRAF WT patients (RR 0.31 [0.180.53],
+p,0.001)
+(BRAF mutant vs BRAF WT), without considerable
+
+find out
+
+PLOS ONE | www.plosone.org
+
+4
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+Table 1. Trial characteristics.
+
+First author(year)
+
+Bokemeyer(2011)
+
+De Roock(2000)
+
+Anti-EGFR
+MoAbs
+
+C
+
+C
+
+Di Nicolantonio(2008)
+
+C or P
+
+Fornaro(2011)
+
+Modest(2010)
+
+Tol(2010)
+
+Van Cutsem(2011)
+
+Laurent-Puig(2009)
+
+Park(2011)
+
+Saridaki(2011)
+
+Wong(2011)
+
+Tveit(2011)
+
+Loupakis(2009)
+
+Spindler(2011)
+
+Cappuzzo(2008)
+
+Sartore-Bianchi(2009)
+
+Perrone(2009)
+
+Moroni(2005)
+
+Benvenuti(2007)
+
+Freeman(2008)
+
+Molinari(2009)
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C or P
+
+C
+
+C or P
+
+C or P
+
+P
+
+C or P
+
+Chemotherapy regimens
+
+Line of
+treatment
+
+1st and $2nd
+
+$2nd
+
+$2nd
+
+$2nd
+
+$2nd*
+
+$2nd#
+
+1st
+
+1st
+
+1st
+
+Arm1:FOLFOX-4;Arm2: FOLFOX-4+C
+C+chemo
+C alone,or C+IRI,or P alone
+C+IRI
+ArmA:C+CAPIRI; ArmB:C+CAPOX
+ArmA:C+CAP+OX+Beva; ArmB: CAP+OX+Bev
+Arm1:FOLFIRI; Arm2: FOLFIRI+C
+C+IRI, or C+FOLFIRI, or C alone
+C+OX, or C+IRI,or C+5-FU,or C alone
+C+IRI, or C+OX
+C+CAP+OX+Bev
+1st
+ArmA:FLOX;ArmB:FLOX+C; ArmC:FLOX(intermittent)+C 1st
+C+IRI
+C+IRI
+C+IRI, or C+OX, or C alone
+C+chemo
+C+IRI
+C+chemo, or P+chemo
+C alone,or P alone,or C+IRI-based chemo
+
+NR
+
+NR
+
+NR
+
+3rd
+
+$2nd
+
+$2nd
+
+1st and $2nd
+
+1st and $2nd
+
+Response criteria
+
+WHO
+
+RECIST or WHO
+
+RECIST
+
+RECIST
+
+RECIST
+
+WHO
+
+WHO
+
+RECIST
+
+RECIST
+
+RECIST
+
+RECIST
+
+RECIST
+
+RECIST
+
+RECIST
+
+RECIST
+
+NR
+
+RECIST
+
+RECIST
+
+RECIST
+
+P alone
+C+IRI, or P+IRI
+
+1st and $2nd
+
+RECIST or WHO
+
+NR
+
+RECIST
+
+Quality
+score
+
+11
+
+12
+
+11
+
+8
+
+10
+
+11
+
+10
+
+9
+
+9
+
+11
+
+11
+
+11
+
+10
+
+9
+
+8
+
+8
+
+9
+
+9
+
+7
+
+7
+
+8
+
+Abbreviations: C, Cetuximab; P, Panitumumab; IRI, irinotecan; OX, oxaliplatin; CAP, capecitabine; 5-Fu, 5-fluorouracil; Bev, bevacizumab; FOLFOX-4, folinic acid+5-Fu+OX;
+FOLFIRI, folinic acid+5-FU+IRI; CAPOX, CAP+ OX; CAPIRI, CAP+ IRI; FLOX, folinic acid+OX; chemo, chemotherapy.
+NR, Not reported; RECIST, the Response Evaluation Criteria in Solid Tumors; WHO, World Health Organization.
+1st, first line treatment, $2nd, second or or higher line treatment; 3rd, third line treatment.
+A* represented all patients but one received moAbs as a second or higher line treatment.
+A # represented all patients but three received moAbs as second or higher line treatment.
+doi:10.1371/journal.pone.0065995.t001
+
+overall rate of BRAF mutation (7.4%) was similar to previously
+reported series [48]. The results demonstrated that patients with
+BRAF WT had decreased risks of progression (PFS: HR 0.38,
+p,0.001) and death (OS: HR 0.35, p,0.001)
+than patients
+with BRAF mutant. However, evidence of increased response in
+patients with BRAF WT was not enough (p = 0.328) comparing
+to BRAF mutated patients. In the subgroup analysis of different
+study types, there were still benefits for PFS and OS, but also
+not enough evidence of a response benefit
+for BRAF WT
+patients. In KRAS WT patients, results showed patients with
+BRAF WT not only decreased the risks of progression (PFS:
+HR 0.29, p,0.001) and death (OS: HR 0.26, p,0.001), but
+also increased responses
+these with BRAF
+mutant. Results were still consisted in the subgoup analysis of
+differents study types. Differences decreased in subgroup analysis
+and the conclusions didnt change in the sensitivity analysis.
+
+(p,0.001) over
+
+Although a previous meta-analysis from Mao C, et al [13]
+demonstrates larger response benefit of anti-EGFR MoAbs in
+BRAF WT patients over BRAF mutant patients, they did not
+compare other indicators such as PFS and OS. Another published
+meta-analysis based on the OPUS and CRYSTAL trials from
+Bokemeyer C, et al, [12] indicates that adding Cetuximab to
+chemotherapy in mCRC is beneficial for BRAF WT patients, not
+for BRAF mutant patients. However, the study involves only two
+RCTs and is conducted only in KRAS WT patients. Direct
+comparison between BRAF mutant and BRAF WT on effects of
+
+MoAbs is also not reported. In this meta-analysis, we made direct
+comparison on effects of MoAbs between patients with mutant and
+WT BRAF. Generally speaking, our results confirmed that mCRC
+patients with BRAF mutant treated with MoAbs have poorer
+prognosis than these with BRAF WT, especially in KRAS WT
+population.
+
+We know the limitations of our meta-analysis. Firstly,
+retrospective trials were also included, which may cause selective
+bias. Secondly, only four trials reported HRs and variances as we
+wanted. We had to calculate or convert HRs and variances for
+other trials from reported survival curves, which may introduce
+unavoidable bias. Thirdly, size effects from retrospective and
+prospectived trials are unadjusted, whilst size effects from RCTs
+are adjusted by patient baseline characteristics. Because individual
+patient data was not available, we conducted meta-analysis based
+on unadjusted and adjusted estimations,which may introduce
+confounding bias. Finally, the first and second end points were
+incosistant across different trials, so we didnt define them in this
+review.
+
+Despite these limitations above, we confirm the conclusion that
+BRAF mutant is a predictive biomarker for poor prognosis in
+mCRC patients receiving anti-EGFR MoAbs therapy, especially
+in patients with KRAS WT. Therefore, screening for BRAF WT
+may promote the selection of potential mCRC patients whom will
+benefit from anti-EGFR moAbs.
+
+PLOS ONE | www.plosone.org
+
+5
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+s
+u
+t
+a
+t
+s
+
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+
+y
+l
+n
+o
+
+r
+e
+v
+i
+L
+
+x
+e
+S
+
+e
+g
+a
+
+n
+a
+i
+d
+e
+M
+
+n
+w
+o
+n
+k
+/
+n
+o
+i
+t
+a
+t
+u
+m
+F
+A
+R
+B
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+
+%
+(
+1
+
+0
+
+)
+
+%
+
+(
+s
+e
+s
+a
+t
+s
+a
+t
+e
+m
+
+)
+e
+l
+a
+m
+
+,
+
+%
+
+(
+
+)
+e
+g
+n
+a
+r
+(
+
+)
+n
+o
+i
+t
+a
+t
+u
+m
+F
+A
+R
+B
+%
+
+(
+
+s
+u
+t
+a
+t
+s
+
+F
+A
+R
+B
+
+)
+n
+(
+
+d
+e
+s
+y
+l
+a
+n
+a
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+n
+g
+i
+s
+e
+d
+
+y
+d
+u
+t
+S
+
+r
+a
+e
+y
+
+,
+r
+o
+h
+t
+u
+a
+
+t
+s
+r
+i
+F
+
+%
+1
+9
+
+R
+N
+
+R
+N
+
+%
+6
+9
+
+R
+N
+
+R
+N
+
+%
+7
+9
+
+R
+N
+
+R
+N
+
+R
+N
+
+%
+0
+0
+1
+
+%
+6
+9
+
+%
+5
+9
+
+%
+0
+9
+
+%
+7
+9
+
+R
+N
+
+R
+N
+
+%
+0
+0
+1
+
+%
+0
+0
+1
+
+R
+N
+
+R
+N
+
+%
+6
+2
+
+R
+N
+
+R
+N
+
+%
+3
+1
+
+%
+0
+4
+
+%
+1
+2
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+%
+9
+1
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+%
+4
+5
+
+%
+8
+5
+
+%
+1
+7
+
+%
+3
+6
+
+%
+2
+7
+
+%
+7
+5
+
+%
+1
+6
+
+R
+N
+
+%
+3
+6
+
+%
+0
+6
+
+%
+3
+5
+
+%
+9
+5
+
+%
+0
+6
+
+%
+4
+5
+
+%
+4
+6
+
+%
+5
+6
+
+%
+3
+6
+
+%
+1
+7
+
+%
+3
+6
+
+%
+0
+6
+
+%
+3
+6
+
+)
+2
+8
+
+4
+2
+(
+1
+6
+
+)
+6
+8
+
+2
+2
+(
+1
+6
+
+)
+5
+8
+
+6
+2
+(
+3
+6
+
+)
+2
+8
+
+0
+7
+(
+3
+7
+
+)
+7
+7
+
+2
+3
+(
+2
+6
+
+)
+4
+8
+
+9
+1
+(
+1
+6
+
+)
+R
+N
+(
+2
+6
+
+R
+N
+
+)
+8
+7
+
+9
+2
+(
+9
+5
+
+)
+3
+8
+
+3
+2
+(
+6
+6
+
+)
+7
+7
+
+3
+3
+(
+6
+5
+
+)
+5
+7
+
+4
+2
+(
+2
+6
+
+)
+9
+7
+
+1
+4
+(
+6
+6
+
+)
+2
+8
+
+8
+3
+(
+2
+6
+
+)
+9
+7
+
+9
+2
+(
+3
+6
+
+)
+5
+8
+
+6
+2
+(
+4
+6
+
+)
+8
+7
+
+6
+3
+(
+7
+5
+
+)
+5
+8
+
+1
+4
+(
+6
+6
+
+)
+4
+8
+
+9
+3
+(
+2
+6
+
+)
+5
+8
+
+9
+2
+(
+2
+6
+
+R
+N
+
+)
+
+%
+4
+(
+9
+0
+3
+/
+1
+1
+
+)
+
+%
+5
+(
+1
+6
+7
+/
+6
+3
+
+)
+
+%
+1
+1
+(
+9
+7
+/
+1
+1
+
+)
+
+%
+3
+1
+(
+2
+5
+/
+7
+
+)
+
+%
+2
+1
+(
+6
+4
+1
+/
+7
+1
+
+)
+
+%
+9
+(
+8
+1
+5
+/
+5
+4
+
+)
+
+%
+6
+(
+9
+9
+9
+/
+0
+6
+
+)
+
+%
+3
+(
+1
+7
+1
+/
+5
+
+)
+
+%
+7
+(
+1
+7
+/
+5
+
+)
+
+%
+7
+(
+2
+1
+1
+/
+8
+
+)
+
+%
+0
+1
+(
+9
+2
+/
+3
+
+)
+
+%
+2
+1
+(
+7
+5
+4
+/
+5
+5
+
+)
+
+%
+5
+1
+(
+7
+8
+/
+3
+1
+
+)
+
+%
+3
+(
+4
+9
+/
+3
+
+)
+
+%
+5
+(
+9
+7
+/
+4
+
+)
+
+%
+8
+(
+2
+3
+1
+/
+1
+1
+
+)
+
+%
+0
+1
+(
+1
+3
+/
+3
+
+)
+
+%
+3
+(
+0
+3
+/
+1
+
+)
+
+%
+3
+1
+(
+8
+4
+/
+6
+
+)
+
+%
+7
+(
+2
+6
+/
+4
+
+)
+
+%
+6
+(
+6
+3
+/
+2
+
+7
+3
+3
+
+3
+7
+7
+
+3
+1
+1
+
+4
+5
+
+6
+4
+1
+
+9
+5
+5
+
+8
+9
+1
+1
+
+3
+7
+1
+
+5
+7
+
+2
+1
+1
+
+0
+3
+
+6
+6
+5
+
+7
+8
+
+7
+0
+1
+
+5
+8
+
+2
+3
+1
+
+2
+3
+
+1
+3
+
+8
+4
+
+2
+6
+
+8
+3
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+T
+C
+R
+
+T
+C
+R
+
+T
+C
+R
+
+T
+C
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+P
+
+T
+C
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+P
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+R
+
+,
+
+i
+
+8
+0
+0
+2
+o
+n
+o
+t
+n
+a
+o
+c
+i
+N
+
+l
+
+i
+
+D
+
+1
+1
+0
+2
+,
+r
+e
+y
+e
+m
+e
+k
+o
+B
+
+,
+
+0
+1
+0
+2
+k
+c
+o
+o
+R
+
+e
+D
+
+,
+
+1
+1
+0
+2
+m
+e
+s
+t
+u
+C
+
+n
+a
+V
+
+,
+
+1
+1
+0
+2
+o
+r
+a
+n
+r
+o
+F
+
+0
+1
+0
+2
+,
+t
+s
+e
+d
+o
+M
+
+0
+1
+0
+2
+
+,
+l
+
+o
+T
+
+1
+1
+0
+2
+
+,
+i
+
+k
+a
+d
+i
+r
+a
+S
+
+1
+1
+0
+2
+k
+r
+a
+P
+
+,
+
+,
+
+1
+1
+0
+2
+g
+n
+o
+W
+
+1
+1
+0
+2
+,
+t
+i
+e
+v
+T
+
+9
+0
+0
+2
+,
+s
+i
+k
+a
+p
+u
+o
+L
+
+1
+1
+0
+2
+,
+r
+e
+d
+n
+p
+S
+
+l
+
+i
+
+9
+0
+0
+2
+
+,
+i
+
+i
+
+h
+c
+n
+a
+B
+-
+e
+r
+o
+t
+r
+a
+S
+
+,
+
+8
+0
+0
+2
+o
+z
+z
+u
+p
+p
+a
+C
+
+,
+
+9
+0
+0
+2
+e
+n
+o
+r
+r
+e
+P
+
+5
+0
+0
+2
+
+,
+i
+
+n
+o
+r
+o
+M
+
+7
+0
+0
+2
+
+,
+i
+t
+u
+n
+e
+v
+n
+e
+B
+
+,
+
+8
+0
+0
+2
+n
+a
+m
+e
+e
+r
+F
+
+9
+0
+0
+2
+
+,
+i
+r
+a
+n
+
+i
+l
+
+o
+M
+
+,
+
+i
+
+9
+0
+0
+2
+g
+u
+p
+-
+t
+n
+e
+r
+u
+a
+L
+
+.
+l
+
+a
+i
+r
+t
+
+l
+
+o
+r
+t
+n
+o
+c
+
+d
+e
+z
+i
+m
+o
+d
+n
+a
+r
+
+,
+
+T
+C
+R
+
+;
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+t
+o
+n
+
+,
+
+R
+N
+
+i
+
+:
+s
+n
+o
+i
+t
+a
+v
+e
+r
+b
+b
+A
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+2
+0
+0
+t
+.
+5
+9
+9
+5
+6
+0
+0
+e
+n
+o
+p
+
+.
+
+.
+l
+
+a
+n
+r
+u
+o
+j
+/
+1
+7
+3
+1
+0
+1
+
+.
+
+:
+i
+
+o
+d
+
+.
+
+d
+e
+d
+u
+l
+c
+n
+
+i
+
+i
+
+s
+e
+d
+u
+t
+s
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+i
+
+n
+a
+M
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+PLOS ONE | www.plosone.org
+
+6
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+*
+
+.
+
+)
+3
+6
+4
+
+8
+9
+1
+(
+3
+0
+3
+
+.
+
+.
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+C
+N
+
+R
+N
+
+R
+N
+
+*
+
+.
+
+)
+0
+0
+1
+
+1
+2
+(
+6
+4
+
+.
+
+.
+
+*
+
+.
+
+)
+0
+9
+0
+1
+
+9
+2
+1
+(
+5
+7
+3
+
+.
+
+.
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+*
+
+*
+
+*
+
+.
+
+)
+5
+6
+4
+
+5
+8
+1
+(
+3
+9
+2
+
+.
+
+.
+
+R
+N
+
+C
+N
+
+R
+N
+
+R
+N
+
+C
+N
+
+R
+N
+
+R
+N
+
+*
+
+.
+
+)
+6
+6
+
+3
+1
+(
+0
+3
+
+.
+
+.
+
+*
+
+.
+
+)
+4
+7
+3
+
+9
+1
+(
+3
+8
+
+.
+
+.
+
+.
+
+)
+5
+9
+3
+
+2
+1
+2
+(
+9
+8
+2
+
+.
+
+.
+
+C
+N
+
+R
+N
+
+R
+N
+
+.
+
+)
+3
+1
+6
+
+7
+8
+0
+(
+1
+3
+2
+
+.
+
+.
+
+*
+
+*
+
+.
+
+)
+5
+7
+5
+
+4
+4
+2
+(
+4
+7
+3
+
+.
+
+.
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+C
+N
+
+R
+N
+
+R
+N
+
+*
+
+.
+
+)
+3
+3
+2
+
+9
+3
+(
+5
+9
+
+.
+
+.
+
+.
+
+)
+8
+2
+6
+
+6
+6
+0
+(
+3
+0
+2
+
+.
+
+.
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+*
+
+*
+
+*
+
+*
+
+.
+
+,
+
+)
+2
+1
+6
+8
+3
+2
+(
+2
+8
+3
+
+.
+
+.
+
+R
+N
+
+C
+N
+
+R
+N
+
+R
+N
+
+C
+N
+
+R
+N
+
+R
+N
+
+*
+
+.
+
+)
+6
+9
+
+8
+2
+(
+1
+5
+
+.
+
+.
+
+.
+
+)
+4
+9
+0
+1
+
+6
+2
+(
+3
+6
+1
+
+.
+
+.
+
+.
+
+)
+9
+2
+2
+
+6
+5
+1
+(
+8
+0
+2
+
+.
+
+.
+
+.
+
+)
+9
+6
+3
+
+2
+5
+0
+(
+9
+3
+1
+
+.
+
+.
+
+C
+N
+
+R
+N
+
+R
+N
+
+C
+N
+
+R
+N
+
+C
+N
+
+R
+N
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+,
+t
+
+w
+F
+A
+R
+B
+
+;
+
+n
+o
+i
+t
+a
+t
+u
+m
+F
+A
+R
+B
+
+,
+t
+
+m
+F
+A
+R
+B
+
+;
+l
+
+a
+v
+r
+e
+t
+n
+
+i
+
+y
+t
+i
+l
+i
+
+i
+
+b
+d
+e
+r
+c
+
+,
+I
+
+C
+
+;
+
+e
+p
+y
+t
+d
+
+l
+i
+
+w
+S
+A
+R
+K
+
+,
+t
+
+w
+S
+A
+R
+K
+
+;
+
+o
+i
+t
+a
+r
+d
+r
+a
+z
+a
+h
+
+,
+
+R
+H
+
+;
+l
+
+i
+
+a
+v
+v
+r
+u
+s
+
+l
+l
+
+a
+r
+e
+v
+o
+
+,
+
+S
+O
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+2
+9
+/
+3
+3
+1
+m
+r
+A
+
+:
+
+2
+7
+/
+3
+4
+2
+m
+r
+A
+
+:
+
+6
+2
+3
+/
+4
+2
+1
+
+8
+6
+/
+2
+2
+
+R
+N
+
+R
+N
+
+R
+N
+
+:
+
+5
+/
+0
+1
+m
+r
+A
+
+:
+
+6
+/
+2
+2
+m
+r
+A
+
+4
+2
+/
+2
+
+1
+1
+/
+0
+
+R
+N
+
+R
+N
+
+R
+N
+
+9
+8
+2
+/
+3
+2
+1
+1
+m
+r
+A
+
+:
+
+7
+7
+2
+/
+9
+6
+1
+2
+m
+r
+A
+
+:
+
+:
+
+3
+3
+/
+5
+1
+m
+r
+A
+
+:
+
+6
+3
+/
+5
+2
+m
+r
+A
+
+0
+1
+1
+/
+2
+5
+
+4
+3
+/
+8
+
+R
+N
+
+R
+N
+
+R
+N
+
+4
+7
+/
+4
+2
+
+R
+N
+
+R
+N
+
+4
+8
+/
+4
+2
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+5
+/
+0
+
+5
+/
+0
+
+R
+N
+
+R
+N
+
+R
+N
+
+3
+1
+/
+0
+
+R
+N
+
+R
+N
+
+1
+1
+/
+0
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+5
+4
+/
+0
+1
+
+9
+0
+1
+/
+1
+6
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+)
+
+C
++
+B
+(
+m
+r
+A
+
+5
+7
+2
+/
+9
+3
+1
+
+:
+
+0
+9
+/
+8
+1
+
+5
+7
+/
+3
+1
+
+R
+N
+
+1
+2
+1
+/
+6
+2
+
+8
+2
+/
+8
+
+9
+2
+/
+0
+1
+
+1
+4
+/
+1
+1
+
+8
+5
+/
+3
+
+0
+1
+/
+2
+
+R
+N
+
+R
+N
+
+R
+N
+
+7
+/
+0
+
+4
+1
+/
+8
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+R
+N
+
+)
+
+C
++
+B
+(
+m
+r
+A
+
+6
+3
+/
+7
+
+:
+
+R
+N
+
+3
+/
+0
+
+4
+/
+0
+
+1
+1
+/
+0
+
+3
+/
+2
+
+1
+/
+0
+
+6
+/
+0
+
+4
+/
+1
+
+2
+/
+0
+
+i
+
+o
+n
+o
+t
+n
+a
+o
+c
+i
+N
+
+l
+
+i
+
+D
+
+r
+e
+y
+e
+m
+e
+k
+o
+B
+
+k
+c
+o
+o
+R
+
+e
+D
+
+.
+
+P
+D
+
+t
+s
+e
+d
+o
+M
+
+n
+e
+
+i
+l
+
+o
+J
+
+l
+
+o
+T
+
+o
+r
+a
+n
+r
+o
+F
+
+E
+m
+e
+s
+t
+u
+C
+
+n
+a
+V
+
+i
+
+g
+u
+P
+-
+t
+n
+e
+r
+u
+a
+L
+
+i
+
+k
+a
+d
+i
+r
+a
+S
+
+k
+r
+a
+P
+
+g
+n
+o
+W
+
+t
+i
+e
+v
+T
+
+s
+i
+k
+a
+p
+u
+o
+L
+
+o
+z
+z
+u
+p
+p
+a
+C
+
+l
+
+r
+e
+d
+n
+p
+S
+
+i
+
+i
+
+h
+c
+n
+a
+B
+
+i
+
+e
+r
+o
+t
+r
+a
+S
+
+e
+n
+o
+r
+r
+e
+P
+
+i
+
+n
+o
+r
+o
+M
+
+i
+t
+u
+n
+e
+v
+n
+e
+B
+
+n
+a
+m
+e
+e
+r
+F
+
+i
+r
+a
+n
+
+i
+l
+
+o
+M
+
+;
+l
+
+i
+
+a
+v
+v
+r
+u
+s
+e
+e
+r
+f
+n
+o
+i
+s
+s
+e
+r
+g
+o
+r
+p
+
+,
+
+S
+F
+P
+
+;
+
+e
+t
+a
+r
+
+e
+s
+n
+o
+p
+s
+e
+r
+
+l
+l
+
+a
+r
+e
+v
+o
+
+,
+
+R
+R
+O
+
+;
+
+d
+e
+t
+r
+e
+v
+n
+o
+c
+
+t
+o
+n
+
+,
+
+C
+N
+
+;
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+t
+o
+n
+
+,
+
+R
+N
+
+i
+
+:
+s
+n
+o
+i
+t
+a
+v
+e
+r
+b
+b
+A
+
+.
+l
+
+a
+i
+r
+t
+
+e
+m
+a
+s
+
+e
+h
+t
+
+n
+
+i
+
+s
+n
+e
+m
+g
+e
+r
+
+i
+
+t
+n
+e
+m
+t
+a
+e
+r
+t
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+d
+e
+t
+n
+e
+s
+e
+r
+p
+e
+r
+
+)
+
+i
+
+.
+s
+e
+d
+o
+b
+i
+t
+n
+a
+
+C
++
+B
+(
+m
+r
+A
+
+d
+n
+a
+
+A
+m
+r
+A
+
+,
+
+2
+m
+r
+A
+
+d
+n
+a
+
+1
+m
+r
+A
+
+l
+
+a
+n
+o
+l
+c
+o
+n
+o
+m
+
+,
+s
+b
+A
+o
+m
+
+;
+
+e
+p
+y
+t
+-
+d
+
+l
+i
+
+w
+F
+A
+R
+B
+
+.
+l
+
+e
+d
+o
+m
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+
+x
+o
+C
+
+y
+b
+
+s
+R
+H
+
+d
+e
+t
+s
+u
+d
+a
+
+j
+
+d
+e
+t
+n
+e
+s
+e
+r
+p
+e
+r
+
+*
+
+A
+
+3
+0
+0
+t
+.
+5
+9
+9
+5
+6
+0
+0
+e
+n
+o
+p
+
+.
+
+.
+l
+
+a
+n
+r
+u
+o
+j
+/
+1
+7
+3
+1
+0
+1
+
+.
+
+:
+i
+
+o
+d
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+t
+
+w
+S
+A
+R
+K
+
+s
+n
+e
+i
+t
+a
+p
+
+d
+e
+t
+c
+e
+l
+e
+s
+n
+U
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+t
+
+w
+S
+A
+R
+K
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+d
+e
+t
+c
+e
+l
+e
+s
+n
+U
+
+t
+
+w
+F
+A
+R
+B
+
+t
+
+m
+F
+A
+R
+B
+
+t
+
+w
+F
+A
+R
+B
+
+t
+
+m
+F
+A
+R
+B
+
+)
+t
+
+w
+s
+v
+
+t
+
+m
+F
+A
+R
+B
+(
+
+I
+
+C
+%
+5
+9
+
+d
+n
+a
+
+R
+H
+
+)
+t
+
+w
+s
+v
+
+t
+
+m
+F
+A
+R
+B
+(
+
+I
+
+C
+%
+5
+9
+
+d
+n
+a
+
+R
+H
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+t
+
+w
+S
+A
+R
+K
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+d
+e
+t
+c
+e
+l
+e
+s
+n
+U
+
+S
+O
+
+S
+F
+P
+
+)
+s
+b
+A
+o
+m
+h
+t
+i
+
+w
+d
+e
+t
+a
+e
+r
+t
+
+t
+
+m
+
+r
+o
+
+t
+
+w
+F
+A
+R
+B
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+l
+a
+t
+o
+t
+/
+s
+r
+e
+d
+n
+o
+p
+s
+e
+r
+(
+R
+R
+O
+
+r
+o
+h
+t
+u
+a
+
+t
+s
+r
+i
+F
+
+.
+
+C
+R
+C
+m
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+f
+o
+
+n
+o
+i
+s
+s
+e
+r
+g
+o
+r
+p
+
+d
+n
+a
+
+s
+t
+c
+e
+f
+f
+e
+
+t
+n
+e
+m
+t
+a
+e
+r
+t
+
+i
+
+n
+a
+M
+
+.
+
+3
+
+e
+l
+b
+a
+T
+
+PLOS ONE | www.plosone.org
+
+7
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+Figure 2. Forest plots of ORR, PFS, and OS in unselected
+(A) RR for overall
+patients in metastatic colorectal cancer.
+response rate (BRAF Mutant vs BRAF WT), random-effects model; (B)
+HR for progression free survival (BRAF WT vs BRAF Mutant), random-
+effects model; (C) HR for overall survival (BRAF WT vs BRAF Mutant),
+fixed-effects model.
+doi:10.1371/journal.pone.0065995.g002
+
+Figure 3. Forest plots of ORR, PFS and OS in KRAS Wild-type
+patients. (A) RR for overall response rate (BRAF Mutant vs BRAF WT),
+fixed-effects model; (B) HR for progression free survival (BRAF WT vs
+BRAF Mutant), random-effects model; (C) HR for overall survival (BRAF
+WT vs BRAF Mutant), fixed-effects model.
+doi:10.1371/journal.pone.0065995.g003
+
+PLOS ONE | www.plosone.org
+
+8
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+Supporting Information
+
+(TIF)
+
+Figure S1 Beggs funnel plot of ORR in BRAF mutant
+patients over these with BRAF wild-type (Eggers test:
+p = 0.481) in unselected patients.
+(TIF)
+
+Figure S2 Beggs funnel plot of PFS in BRAF mutant
+patients over these with BRAF wild-type (Eggers test:
+p = 0.185) in unselected patients.
+(TIF)
+
+Figure S3 Beggs funnel plot of OS in BRAF mutant
+patients over these with BRAF wild-type (Eggers test:
+p = 0.691) in unselected patients.
+
+Table S1 Assessment of study quality.
+(DOC)
+
+Table S2 Sensitivity analysis to explore the heterogene-
+ity between studies.
+(DOC)
+
+Author Contributions
+
+Conceived and designed the experiments: ZXY XYW DFC QYQ.
+Performed the experiments: ZXY XYW QYQ. Analyzed the data: ZXY
+XYW QYQ. Contributed reagents/materials/analysis tools: ZXY XYW
+QYQ QHZ. Wrote the paper: ZXY XYW DFC QHZ LW JPW.
+
+References
+
+1.
+
+Jemal A, Siegel R, Ward E, Murray T, Xu J, et al. (2007) Cancer statistics, 2007.
+CA Cancer J Clin 57: 4366.
+
+2. Ferlay J, Autier P, Boniol M, Heanue M, Colombet M, et al. (2007) Estimates of
+the cancer incidence and mortality in Europe in 2006. Ann Oncol 18: 581592.
+Jorissen RN, Walker F, Pouliot N, Garrett TP, Ward CW, et al.
+(2003)
+Epidermal growth factor receptor: mechanisms of activation and signalling. Exp
+Cell Res 284: 3153.
+
+3.
+
+4. Cunningham D, Humblet Y, Siena S, Khayat D, Bleiberg H, et al. (2004)
+Cetuximab monotherapy and cetuximab plus irinotecan in irinotecan-refractory
+metastatic colorectal cancer. N Engl J Med 351: 337345.
+
+5. Saltz LB, Meropol NJ, Loehrer PJ, Sr., Needle MN, Kopit J, et al. (2004) Phase
+II trial of cetuximab in patients with refractory colorectal cancer that expresses
+the epidermal growth factor receptor. J Clin Oncol 22: 12011208.
+
+6. Ciardiello F, Tortora G (2008) EGFR antagonists
+
+in cancer treatment.
+
+N Engl J Med 358: 11601174.
+
+7. Allegra CJ, Jessup JM, Somerfield MR, Hamilton SR, Hammond EH, et al.
+(2009) American Society of Clinical Oncology provisional clinical opinion:
+testing for KRAS gene mutations
+in patients with metastatic colorectal
+carcinoma to predict response to anti-epidermal growth factor receptor
+monoclonal antibody therapy. J Clin Oncol 27: 20912096.
+
+8. Linardou H, Dahabreh IJ, Kanaloupiti D, Siannis F, Bafaloukos D, et al. (2008)
+Assessment of somatic k-RAS mutations as a mechanism associated with
+resistance to EGFR-targeted agents: a systematic review and meta-analysis of
+studies in advanced non-small-cell lung cancer and metastatic colorectal cancer.
+Lancet Oncol 9: 962972.
+
+9. Frattini M, Ferrario C, Bressan P, Balestra D, De Cecco L, et al.
+
+(2004)
+Alternative mutations of BRAF, RET and NTRK1 are associated with similar
+but distinct gene expression patterns in papillary thyroid cancer. Oncogene 23:
+74367440.
+
+10. Tol J, Nagtegaal ID, Punt CJ (2009) BRAF mutation in metastatic colorectal
+
+cancer. N Engl J Med 361: 9899.
+
+11. Yan J, Roy S, Apolloni A, Lane A, Hancock JF (1998) Ras isoforms vary in their
+ability to activate Raf-1 and phosphoinositide 3-kinase. J Biol Chem 273:
+2405224056.
+
+12. Bokemeyer C, Van Cutsem E, Rougier P, Ciardiello F, Heeger S, et al. (2012)
+Addition of cetuximab to chemotherapy as first-line treatment for KRAS wild-
+type metastatic colorectal cancer: pooled analysis of the CRYSTAL and OPUS
+randomised clinical trials. Eur J Cancer 48: 14661475.
+
+13. Mao C, Liao RY, Qiu LX, Wang XW, Ding H, et al. (2011) BRAF V600E
+mutation and resistance to anti-EGFR monoclonal antibodies in patients with
+metastatic colorectal cancer: a meta-analysis. Mol Biol Rep 38: 22192223.
+
+14. Parmar MK, Torri V, Stewart L (1998) Extracting summary statistics to perform
+meta-analyses of the published literature for survival endpoints. Stat Med 17:
+28152834.
+
+15. Tierney JF, Stewart LA, Ghersi D, Burdett S, Sydes MR (2007) Practical
+methods for incorporating summary time-to-event data into meta-analysis.
+Trials 8: 16.
+
+16. Duffaud F, Therasse P (2000) [New guidelines to evaluate the response to
+
+treatment in solid tumors]. Bull Cancer 87: 881886.
+
+17. Miller AB, Hoogstraten B, Staquet M, Winkler A (1981) Reporting results of
+
+cancer treatment. Cancer 47: 207214.
+
+18. Hayden JA, Cote P, Bombardier C (2006) Evaluation of the quality of prognosis
+
+studies in systematic reviews. Ann Intern Med 144: 427437.
+
+19. Maan ZN, Maan IN, Darzi AW, Aggarwal R (2012) Systematic review of
+
+predictors of surgical performance. Br J Surg 99: 16101621.
+
+20. Lui KJ (2005) Interval estimation of
+
+the proportion ratio under multiple
+
+matching. Stat Med 24: 12751285.
+
+21. Higgins JP, Thompson SG, Deeks JJ, Altman DG (2003) Measuring
+
+inconsistency in meta-analyses. BMJ 327: 557560.
+
+22. Hedges LV, Pigott TD (2001) The power of statistical tests in meta-analysis.
+
+Psychol Methods 6: 203217.
+
+23. Higgins JP, Thompson SG (2002) Quantifying heterogeneity in a meta-analysis.
+
+Stat Med 21: 15391558.
+
+24. DerSimonian R, Laird N (1986) Meta-analysis in clinical trials. Control Clin
+
+Trials 7: 177188.
+
+25. Egger M, Davey Smith G, Schneider M, Minder C (1997) Bias in meta-analysis
+
+detected by a simple, graphical test. BMJ 315: 629634.
+
+26. Vale CL, Tierney JF, Fisher D, Adams RA, Kaplan R, et al. (2012) Does anti-
+EGFR therapy improve outcome in advanced colorectal cancer? A systematic
+review and meta-analysis. Cancer Treat Rev 38: 618625.
+
+27. Bokemeyer C, Bondarenko I, Hartmann JT, de Braud F, Schuch G, et al. (2011)
+Efficacy according to biomarker status of cetuximab plus FOLFOX-4 as first-
+line treatment for metastatic colorectal cancer: the OPUS study. Ann Oncol 22:
+15351546.
+
+28. Modest DP, Jung A, Moosmann N, Laubender RP, Giessen C, et al. (2012) The
+influence of KRAS and BRAF mutations on the efficacy of cetuximab-based
+first-line therapy of metastatic colorectal cancer: an analysis of the AIO KRK-
+0104-trial. Int J Cancer 131: 980986.
+
+29. Tol J, Dijkstra JR, Klomp M, Teerenstra S, Dommerholt M, et al. (2010)
+Markers for EGFR pathway activation as predictor of outcome in metastatic
+colorectal cancer patients treated with or without cetuximab. Eur J Cancer 46:
+19972009.
+
+30. Van Cutsem E, Kohne CH, Lang I, Folprecht G, Nowacki MP, et al. (2011)
+Cetuximab plus irinotecan, fluorouracil, and leucovorin as first-line treatment
+for metastatic colorectal cancer: updated analysis of overall survival according to
+tumor KRAS and BRAF mutation status. J Clin Oncol 29: 20112019.
+
+31. Wong NS, Fernando NH, Nixon AB, Cushman S, Aklilu M, et al. (2011) A
+phase II study of capecitabine, oxaliplatin, bevacizumab and cetuximab in the
+treatment of metastatic colorectal cancer. Anticancer Res 31: 255261.
+
+32. Tveit KM, Guren T, Glimelius B, Pfeiffer P, Sorbye H, et al. (2012) Phase III
+trial of cetuximab with continuous or intermittent fluorouracil, leucovorin, and
+oxaliplatin (Nordic FLOX) versus FLOX alone in first-line treatment of
+metastatic colorectal cancer: the NORDIC-VII study. J Clin Oncol 30: 1755
+1762.
+
+33. De Roock W, Claes B, Bernasconi D, De Schutter J, Biesmans B, et al. (2010)
+Effects of KRAS, BRAF, NRAS, and PIK3CA mutations on the efficacy of
+cetuximab plus chemotherapy in chemotherapy-refractory metastatic colorectal
+cancer: a retrospective consortium analysis. Lancet Oncol 11: 753762.
+
+34. Di Nicolantonio F, Martini M, Molinari F, Sartore-Bianchi A, Arena S, et al.
+(2008) Wild-type BRAF is required for response to panitumumab or cetuximab
+in metastatic colorectal cancer. J Clin Oncol 26: 57055712.
+
+35. Fornaro L, Baldi GG, Masi G, Allegrini G, Loupakis F, et al. (2011) Cetuximab
+plus irinotecan after irinotecan failure in elderly metastatic colorectal cancer
+patients: clinical outcome according to KRAS and BRAF mutational status. Crit
+Rev Oncol Hematol 78: 243251.
+
+36. Laurent-Puig P, Cayre A, Manceau G, Buc E, Bachet JB, et al. (2009) Analysis of
+PTEN, BRAF, and EGFR status in determining benefit from cetuximab therapy
+in wild-type KRAS metastatic colon cancer. J Clin Oncol 27: 59245930.
+
+37. Park JH, Han SW, Oh DY, Im SA, Jeong SY, et al. (2011) Analysis of KRAS,
+BRAF, PTEN, IGF1R, EGFR intron 1 CA status in both primary tumors and
+paired metastases in determining benefit from cetuximab therapy in colon
+cancer. Cancer Chemother Pharmacol 68: 10451055.
+
+38. Spindler KL, Pallisgaard N, Lindebjerg J, Frifeldt SK, Jakobsen A (2011) EGFR
+third-line
+
+related mutational status and association to clinical outcome of
+cetuximab-irinotecan in metastatic colorectal cancer. BMC Cancer 11: 107.
+
+39. Cappuzzo F, Varella-Garcia M, Finocchiaro G, Skokan M, Gajapathy S, et al.
+(2008) Primary resistance to cetuximab therapy in EGFR FISH-positive
+colorectal cancer patients. Br J Cancer 99: 8389.
+
+40. Perrone F, Lampis A, Orsenigo M, Di Bartolomeo M, Gevorgyan A, et al.
+(2009) PI3KCA/PTEN deregulation contributes to impaired responses to
+cetuximab in metastatic colorectal cancer patients. Ann Oncol 20: 8490.
+
+41. Moroni M, Veronese S, Benvenuti S, Marrapese G, Sartore-Bianchi A, et al.
+(2005) Gene copy number for epidermal growth factor receptor (EGFR) and
+clinical response to antiEGFR treatment in colorectal cancer: a cohort study.
+Lancet Oncol 6: 279286.
+
+PLOS ONE | www.plosone.org
+
+9
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+42. Benvenuti S, Sartore-Bianchi A, Di Nicolantonio F, Zanon C, Moroni M, et al.
+(2007) Oncogenic activation of the RAS/RAF signaling pathway impairs the
+response of metastatic colorectal cancers to anti-epidermal growth factor
+receptor antibody therapies. Cancer Res 67: 26432648.
+
+43. Freeman DJ, Juan T, Reiner M, Hecht JR, Meropol NJ, et al. (2008) Association
+of K-ras mutational status and clinical outcomes in patients with metastatic
+colorectal cancer receiving panitumumab alone. Clin Colorectal Cancer 7: 184
+190.
+
+44. Saridaki Z, Tzardi M, Papadaki C, Sfakianaki M, Pega F, et al. (2011) Impact of
+KRAS, BRAF, PIK3CA mutations, PTEN, AREG, EREG expression and skin
+rash in ./ = 2 line cetuximab-based therapy of colorectal cancer patients. PLoS
+One 6: e15980.
+
+45. Loupakis F, Ruzzo A, Cremolini C, Vincenzi B, Salvatore L, et al. (2009) KRAS
+codon 61, 146 and BRAF mutations predict resistance to cetuximab plus
+
+irinotecan in KRAS codon 12 and 13 wild-type metastatic colorectal cancer.
+Br J Cancer 101: 715721.
+
+46. Sartore-Bianchi A, Di Nicolantonio F, Nichelatti M, Molinari F, De Dosso S, et
+al. (2009) Multi-determinants analysis of molecular alterations for predicting
+clinical benefit to EGFR-targeted monoclonal antibodies in colorectal cancer.
+PLoS One 4: e7287.
+
+47. Molinari F, Martin V, Saletti P, De Dosso S, Spitale A, et al. (2009) Differing
+deregulation of EGFR and downstream proteins in primary colorectal cancer
+and related metastatic sites may be clinically relevant. Br J Cancer 100: 1087
+1094.
+
+48. Saridaki Z, Georgoulias V, Souglakos J (2010) Mechanisms of resistance to anti-
+in metastatic colorectal cancer.
+
+EGFR monoclonal antibody treatment
+World J Gastroenterol 16: 11771187.
+
+PLOS ONE | www.plosone.org
+
+10
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+

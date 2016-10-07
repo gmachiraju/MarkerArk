@@ -1,0 +1,1710 @@
+Cancer Medicine
+
+ORIGINAL RESEARCH
+
+Open Access
+
+Serum biomarkers reecting specic tumor tissue
+remodeling processes are valuable diagnostic tools for lung
+cancer
+Nicholas Willumsen1,*, Cecilie L. Bager1,*, Diana J. Leeming1, Victoria Smith2, Claus Christiansen1,
+Morten A. Karsdal1, David Dornan2 & Anne-Christine Bay-Jensen1
+1Biomarkers & Research, Nordic Bioscience A/S, DK-2730 Herlev, Denmark
+2Biology, Gilead Sciences Inc., Foster City, California 94404
+
+Keywords
+Extracellular matrix, lung cancer, protein
+ngerprint, remodeling, serum biomarkers,
+tumor tissue
+
+Correspondence
+Nicholas Willumsen, Biomarkers & Research,
+Nordic Bioscience A/S, Herlev Hovedgade
+207, DK-2730 Herlev, Denmark.
+Tel: +45 44 52 52 52; Fax: +45 44 52 52 51;
+E-mail: nwi@nordicbioscience.com
+
+Funding Information
+None declared.
+
+Received: 28 February 2014; Revised: 10
+June 2014; Accepted: 24 June 2014
+
+Cancer Medicine 2014; 3(5):11361145
+
+doi: 10.1002/cam4.303
+
+*The authors contributed equally to the
+paper.
+
+Abstract
+
+Extracellular matrix (ECM) proteins, such as collagen type I and elastin, and
+intermediate lament (IMF) proteins, such as vimentin are modied and dys-
+regulated as part of the malignant changes leading to disruption of tissue
+homeostasis. Noninvasive biomarkers that reect such changes may have a great
+potential for cancer. Levels of matrix metalloproteinase (MMP) generated frag-
+ments of type I collagen (C1M), of elastin (ELM), and of citrullinated vimentin
+(VICM) were measured in serum from patients with lung cancer (n = 40), gas-
+trointestinal cancer (n = 25), prostate cancer (n = 14), malignant melanoma
+(n = 7), chronic obstructive pulmonary disease (COPD) (n = 13), and idio-
+pathic pulmonary brosis (IPF) (n = 10), as well as in age-matched controls
+(n = 33). The area under the receiver operating characteristics (AUROC) was
+calculated and a diagnostic decision tree generated from specic cutoff values.
+C1M and VICM were signicantly elevated in lung cancer patients as compared
+with healthy
+cancers
+(AUROC = 0.83 P < 0.0001). A trend was detected when comparing lung can-
+cer with COPD+IPF. No difference could be seen for ELM. Interestingly, C1M
+and VICM were able to identify patients with lung cancer with a positive pre-
+dictive value of 0.9 and an odds ratio of 40 (95% CI = 8.7186, P < 0.0001).
+Biomarkers specically reecting degradation of collagen type I and citrullinat-
+ed vimentin are applicable for lung cancer patients. Our data indicate that
+biomarkers reecting ECM and IMF protein dysregulation are highly applicable
+in the lung cancer setting. We speculate that these markers may aid in diagnos-
+ing and characterizing patients with lung cancer.
+
+(AUROC = 0.98, P < 0.0001)
+
+and other
+
+controls
+
+Introduction
+
+Lung cancer is a signicant health issue and the leading
+cause of cancer death [1, 2]. The disease is divided into
+small cell lung cancer (SCLC) and nonsmall cell lung can-
+cer (NSCLC), with ~8 of 10 being NSCLC.
+
+Currently, 75% of
+
+lung cancers are diagnosed late,
+when tumors may be unresectable and treatment options
+limited resulting in a 5-year survival rate of only 10% [3,
+4]. No practical way of screening patients at risk of lung
+cancer exists [5] and detection of
+lung cancer mostly
+relies on imaging modalities
+computerized
+tomography (CT) scans, which is not optimal [6]. Thus,
+
+such as
+
+improved diagnosis of
+enhanced survival.
+
+lung cancer
+
+is
+
+essential
+
+for
+
+lung
+
+cancer
+
+Blood-based molecular biomarkers, which indicate that
+patients have
+and/or dene high-risk
+patients will have an enormous clinical potential. Unfor-
+tunately, the serum biomarkers currently in use for lung
+cancer are limited to monitoring [7] and no validated
+molecular biomarkers for the early detection of
+lung
+cancer exist despite several
+investigations carried out
+with this purpose [8].
+
+Tumor biology includes a complex dynamic interaction
+between tumor cells and the microenvironment that may
+lead to a loss of overall tissue homeostasis and promote
+
+1136
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd. This is an open access article under the terms of
+the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+tumor progression [9]. Consequently, biomarkers that
+reect such structural changes in the tissue as a whole, and
+not just tumor cell changes, may have a great potential.
+
+Novel noninvasive molecular cancer biomarkers may be
+identied by exploiting a technology based on the concept
+that tumor-associated proteases and tumor signature pro-
+teins, potentially combined with specic posttranslational
+modications, result in release of unique protein degrada-
+tion fragments to the circulation [10]. The protein frag-
+ments contain pathology-specic neoepitopes that may
+serve as specic cancer biomarker targets that most likely
+enter the circulation by diffusing into the leaky vascula-
+ture found in tumor tissue.
+
+In lung cancer, the intermediate lament (IMF) protein
+vimentin has been shown to be applicable for clinical
+pathology [11]. In addition, vimentin is regarded as a
+canonical marker for the epithelial-to-mesenchymal tran-
+sition (EMT) [12]. Vimentin has been identied as a sur-
+face and secreted protein [1315] and may be a target for
+proteolytic cleavage. Furthermore, vimentin has been
+shown to be a target for citrullination by peptidylarginine
+deiminase (PAD) enzymes which are activated during
+apoptosis and inammation [16, 17].
+
+and
+
+development. ECM remodeling
+
+Extracellular matrix (ECM) remodeling is another key
+event in cancer [18]. The ECM integrating and surround-
+ing malignant tumors is a central part of disease regula-
+tion
+involves
+increased and altered local production of ECM proteins
+(a phenomenon known as brosis or desmoplasia) as well
+as increased and altered ECM degradation by upregulated
+matrix metalloproteinase (MMP) activity [19]. Conse-
+quently, this leads to a different composition and quality
+of the ECM as compared to the normal homeostatic state
+[20].
+
+In this study, we investigated whether serum biomarkers
+reecting ECM and IMF remodeling/dysregulation could
+be used to differentiate lung cancer patients from healthy
+controls, other lung pathologies, and other cancer types. In
+detail, we measured specic protein ngerprints reecting
+MMP-degradation and citrullination of vimentin, MMP-
+degradation of type I collagen, the main component of the
+structural interstitial ECM, and MMP-degradation of elas-
+tin which provides elasticity to the lung tissue.
+
+Material and Methods
+
+Patient samples
+
+After
+informed consent and approval by appropriate
+Institutional Review Board/Independent Ethical Commit-
+tee, serum was collected from patients and age-matched
+healthy controls with no symptomatic or chronic dis-
+ease. Patient samples were obtained from the commer-
+cial vendors Asterand (Detroit, MI) and Proteogenex
+(Culver City, CA) and the healthy controls were a pool
+of samples from Asterand and another study population
+[21]. According to Danish law, it is not required to get
+ethical approval when measuring biochemical markers in
+previously collected samples; hence, there was no addi-
+tional ethical approval for this particular study. Demo-
+graphics and clinical proles are shown in Table 1.
+Samples were all collected, processed, and stored in a
+similar fashion until analyzed, and all analyses were per-
+formed blindly. Patient samples were collected prior to
+surgery. Tumor stage and histological type were classi-
+ed according to the criteria of
+the American Joint
+Committee on Cancer (AJCC) and International Union
+against Cancer (IUCC).
+
+Table 1. Patient demographics and clinical proles.
+
+Group
+
+Lung cancer, all
+SCLC
+NSCLC
+
+Adenocarcinoma
+Squamous cell carcinoma
+
+Gastrointestinal cancer (adenocarcinoma)
+Prostate cancer (adenocarcinoma)
+Malignant melanoma of the skin
+COPD1 (moderate/severe)
+IPF (FEV 6368%)
+Healthy controls
+
+No. of
+patients
+
+Gender, %
+females
+
+Tumor stage (n)
+
+Smoking status
+
+I
+
+II
+
+III
+
+IV
+
+Never
+
+Ever
+
+Unknown
+
+40
+8
+32
+16
+16
+25
+14
+7
+13
+10
+33
+
+25
+25
+25
+37.5
+12.5
+52
+0
+43
+77
+20
+52
+
+13
+2
+11
+4
+7
+4
+1
+1
+
+
+
+
+12
+1
+11
+6
+5
+10
+13
+5
+
+
+
+
+12
+4
+8
+6
+2
+10
+
+
+1
+
+
+
+
+3
+1
+2
+
+
+2
+1
+
+
+
+
+
+
+3
+
+
+3
+
+
+3
+5
+1
+
+
+12
+9
+
+
+35
+7
+28
+15
+13
+6
+6
+1
+1
+1
+
+
+2
+1
+1
+1
+
+
+14
+7
+6
+
+
+
+33
+
+Age, mean  SD (range)
+59  10 (4682)
+61  12 (4682)
+60  9 (4680)
+57  10 (4680)
+63  6 (5373)
+62  11 (3881)
+64  6 (5272)
+46  14 (3064)
+72  4 (6780)
+74  5 (6783)
+61  11 (4378)
+
+COPD, Chronic Obstructive Pulmonary Disease; FEV, Forced Expiratory Volume (in spirometer); IPF, Idiopathic Pulmonary Fibrosis; NSCLC, nonsmall
+cell lung cancer; SCLC, small cell lung cancer.
+1Hazard occupation.
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+1137
+
+Serum Biomarkers of Lung Cancer
+
+N. Willumsen et al.
+
+ELISA measurements and procedure
+
+The levels of MMP-degraded type I collagen (C1M) [22],
+MMP-degraded elastin (ELM) [23], and MMP-degraded
+citrullinated vimentin (VICM)
+[24] were assessed in
+serum samples using well
+characterized competitive
+enzyme-linked immunosorbent assay (ELISAs). The tar-
+gets were identied from in vitro and ex vivo studies and
+by use of mass spectrometry and all the biomarker assays
+are technically validated (see each reference for details).
+
+times
+
+in wash-buffer
+
+In brief, the assays were performed by dissolving a bioti-
+nylated synthetic target peptide in an optimized assay buf-
+fer that was added to a 96-well streptavidin coated plate,
+which then incubated for 30 min at 20C. The plate was
+washed ve
+(20 mmol/L Tris,
+50 mmol/L NaCl, pH 7.2) prior to addition of 20 lL target
+peptide calibrator or sample and 100 lL of a horseradish
+peroxidase-conjugated monoclonal antibody rose against
+the target peptide-sequence of interest. The plate incubated
+for 12 h at 20C or overnight at 4C, depending on the
+individual assay. The plate was washed ve times in wash-
+buffer and nally 100 lL tetramethylbenzinidine (Kem-En-
+Tec cat.438OH) was added and the plate was incubated for
+15 min at 20C in dark. The reaction was stopped by add-
+ing 100 lL of stopping solution (1% H2SO4) and the
+OD450650nm was measured.
+
+Statistical analysis
+
+The levels of the individual biomarkers in serum samples
+were compared using analysis of variance (ANOVA) test
+with Dunnetts test to adjust for multiple comparisons or
+an unpaired t-test on Log10 transformed data. Data are
+presented as Tukey box plots. The area under the receiver
+operating characteristics (AUROC) was calculated for
+each biomarker and for the biomarkers combined. A
+diagnostic decision tree was generated from specic cutoff
+values and analyzed using Fishers exact probability test
+and the chi-square test. Statistical analyses were per-
+formed using MedCalc Statistical Software v.12 (MedCalc
+Software, Ostend, Belgium) and GraphPad Prism v.6
+(GraphPad Software, La Jolla, CA). Results were consid-
+ered statistically signicant if P < 0.05.
+
+Results
+
+Extracellular matrix degradation and
+citrullinated vimentin degradation in serum
+from patients with various cancers and
+controlslung cancer stands out
+
+The levels of specic C1M, VICM, and ELM were mea-
+sured in serum from various cancer patients and healthy
+controls (Fig. 1A).
+
+C1M was signicantly elevated in all cancer types. The
+highest levels were reached in lung cancer patients with
+an average increase of eightfold (P < 0.0001) when com-
+pared to controls, and with the other cancer types having
+a two- to threefold average increase (P < 0.05) as com-
+pared to controls. Furthermore, lung cancer patients had
+signicantly higher levels of C1M when compared to the
+other cancer types (P < 0.050.0001).
+
+Together, these ndings indicate that altered collagen
+turnover is ongoing in cancer, with lung cancer having
+the highest levels of type I collagen degradation. This
+reects that alterations in the generation and degradation
+of collagens and release of specic protein fragments to
+the circulation are a pathological feature of cancer, espe-
+cially lung cancer.
+
+to
+
+compared
+
+For VICM, the levels were signicantly elevated only in
+lung cancer. The average increase was approximately ten-
+fold when
+controls
+(P < 0.0001) or the three other cancer types (P < 0.01
+0.0001). This nding indicates that citrullination and
+MMP-degradation of (secreted) vimentin and the release
+to the circulation is associated with lung cancer only and
+not other cancer types.
+
+either
+
+healthy
+
+Finally, no difference in the levels of ELM could be
+detected, indicating that alterations in the generation and
+release of these protein fragments to the circulation are not
+a pathological feature of the cancers analyzed in this study.
+Next, the AUROC was calculated as a measure of the
+diagnostic power of the biomarkers individually and com-
+bined. This was done for all lung cancer patients versus the
+healthy controls and for all lung cancers versus the other
+cancer types analyzed in this study combined (GI, prostate,
+and melanoma cancer) (Table 2). The results shows that
+when analyzing all lung cancer patients versus healthy con-
+trols the diagnostic power of C1M, and VICM individually
+were highly signicant with an AUROC of 0.97 and 0.85,
+respectively (P < 0.0001). The diagnostic power of ELM
+was somewhat poorer with an AUROC of 0.67 (P = 0.013).
+Interestingly, when combining C1M and VICM, a diagnos-
+tic power of 0.98 (P < 0.0001) was achieved, indicating
+that a complete discrimination between healthy controls
+and lung cancer patients is obtained. When the lung cancer
+patients were compared to the other cancers combined, the
+markers showed promising discriminative power as well.
+Here, C1M and VICM individually as well as C1M and
+VICM combined were highly signicant with AUROCs of
+0.81, 0.79, and 0.83, respectively (P < 0.001).
+
+Specicity of the markers for lung cancer as
+compared to other lung pathologies
+
+We wanted to address in more detail if the markers were
+specic for
+lung
+
+lung cancer as compared to other
+
+1138
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+(A)
+1000
+
+800
+
+600
+
+400
+
+200
+
+L
+m
+g
+n
+
+/
+
+C1M
+*
+****
+
+****
+
+****
+
+*
+
+*
+
+*
+
+VICM
+**
+
+**
+
+****
+
+****
+
+250
+
+200
+
+150
+
+100
+
+50
+
+L
+m
+g
+n
+
+/
+
+ELM
+
+80
+
+60
+
+40
+
+20
+
+L
+m
+g
+n
+
+/
+
+0
+
+Control
+Lung cancer
+
+Melanoma
+Prostate cancer
+GI cancer
+
+0
+
+Control
+Lung cancer
+
+Melanoma
+Prostate cancer
+GI cancer
+
+0
+
+Control
+Lung cancer
+
+Melanoma
+Prostate cancer
+GI cancer
+
+(B)
+800
+
+600
+
+400
+
+200
+
+L
+m
+g
+n
+
+/
+
+C1M
+
+VICM
+
+ELM
+
+200
+
+150
+
+L
+m
+g
+n
+
+/
+
+100
+
+50
+
+80
+
+60
+
+40
+
+20
+
+L
+m
+g
+n
+
+/
+
+0
+
+Lung cancer
+
+IPF
+
+COPD
+
+0
+
+Lung cancer
+
+IPF
+
+COPD
+
+0
+
+Lung cancer
+
+IPF
+
+COPD
+
+Figure 1. Levels of MMP-generated fragments of type I collagen (C1M), citrullinated vimentin (VICM), and elastin (ELM) in serum from: (A)
+patients with lung cancer (n = 40), gastrointestinal (GI) cancer (n = 25), prostate cancer (n = 14), malignant melanoma (n = 7), and healthy
+controls (n = 33); and (B) patients with lung cancer (n = 40), chronic obstructive pulmonary disease (COPD) (n = 13), idiopathic pulmonary
+brosis (IPF) (n = 10). In (B), healthy controls (n = 33) are illustrated by the dotted line (mean) and the gray area (2 SD). Controls were
+compared to each cancer type and lung cancer compared to the other cancer types and lung pathologies by Dunnetts ANOVA multiple
+comparisons test on Log10 transformed data. Signicance levels: *P < 0.05, ** P < 0.01, ****P < 0.0001.
+
+pathologies such as idiopathic pulmonary brosis (IPF)
+and chronic obstructive pulmonary brosis (COPD). For
+all the markers tested, no statistical difference could be
+detected between lung cancer and either COPD and IPF
+(Fig. 1B). However, clearly a trend toward increasing lev-
+els and a wider distribution of C1M and VICM was
+observed in lung cancer. Furthermore, when calculating
+the AUROC with respect to lung cancer versus other lung
+pathologies (i.e., IPF and COPD combined) (Table 2),
+the discrimination turned out signicant for C1M alone
+with an AUROC of 0.64 (P < 0.05), and for the combina-
+tion of C1M and VICM with an AUROC of 0.66
+(P < 0.05). This suggests that the markers may have an
+ability to distinguish between the two groups of
+lung
+
+diseases although with relatively poor accuracy. Together
+the ndings indicate that the markers reect lung pathol-
+ogy tissue turnover-dependent mechanisms in general,
+and that these mechanisms may be more pronounced in
+lung cancer (or a subgroup of lung cancers) as compared
+to the other lung pathologies (IPF + COPD) tested.
+
+The biomarker expression proles according
+to lung cancer subtype and tumor stage
+
+Lung cancer is divided into two major subtypes which are
+important in the clinical setting: SCLC and NSCLC. As
+there is a trend toward increasing levels and a wider dis-
+tribution of especially C1M and VICM levels in serum
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+1139
+
+Serum Biomarkers of Lung Cancer
+
+N. Willumsen et al.
+
+Table 2. Diagnostic power of the biomarkers for all lung cancers and for the nonsmall cell lung cancer subtype (NSCLC) calculated as the area
+under the receiver operating characteristic (AUROC).
+
+Biomarker
+
+AUROC
+
+95% CI
+
+Specicity %
+
+Sensitivity %
+
+P-value
+
+Lung cancers (all)
+Versus healthy controls
+
+C1M
+VICM
+ELM
+C1M + VICM
+
+Versus other cancers
+
+C1M
+VICM
+ELM
+C1M + VICM
+
+Versus other lung pathologies
+
+C1M
+VICM
+ELM
+C1M + VICM
+
+NSCLC
+Versus all others
+
+C1M
+VICM
+ELM
+C1M + VICM
+
+Versus other lung pathologies
+
+C1M
+VICM
+ELM
+C1M + VICM
+
+0.97
+0.85
+0.67
+0.98
+
+0.81
+0.79
+0.65
+0.83
+
+0.64
+0.59
+0.58
+0.66
+
+0.83
+0.84
+0.65
+0.88
+
+0.69
+0.66
+0.59
+0.72
+
+0.8950.994
+0.7520.926
+0.5430.784
+0.9561.0
+
+0.7140.891
+0.6880.872
+0.5380.751
+0.7360.924
+
+0.5110.758
+0.4550.709
+0.4500.705
+0.5220.795
+
+0.7510.913
+0.7680.920
+0.5180.776
+0.8230.940
+
+0.5450.803
+0.5150.778
+0.4500.722
+0.5860.835
+
+94
+100
+84
+100
+
+75
+93
+98
+91
+
+96
+78
+100
+96
+
+72
+86
+85
+71
+
+96
+78
+100
+87
+
+90
+65
+63
+90
+
+75
+63
+35
+65
+
+45
+56
+23
+45
+
+81
+69
+47
+94
+
+53
+63
+25
+56
+
+<0.0001
+<0.0001
+0.013
+<0.0001
+
+<0.0001
+<0.0001
+0.0157
+<0.0001
+
+0.046
+0.239
+0.265
+0.0225
+
+<0.0001
+<0.0001
+0.0254
+<0.0001
+
+0.013
+0.040
+0.237
+0.001
+
+levels between the lung cancer
+
+from the lung cancer population, the difference in bio-
+marker
+subtypes was
+assessed. When comparing SCLC and NSCLC we found
+that VICM (P < 0.001) was
+signicantly elevated in
+NSCLC as compared to SCLC with an average increase of
+threefold (Fig. 2A). Although no signicant difference
+could be detected with C1M (P = 0.142) on average a
+twofold increase was seen in NSCLC as compared to
+SCLC. For ELM no difference was detected. Overall, these
+ndings indicate that the tissue alterations assessed in this
+study is more pronounced in NSCLC as compared to
+SCLC. As shown in Table 2 when analyzing NSCLC ver-
+sus all other patients plus the healthy controls the diag-
+nostic power of C1M, and VICM individually were
+signicant with an AUROC of 0.83 and 0.84, respectively
+(P < 0.0001) and when combined (C1M + VICM) with
+an AUROC of 0.88 (P < 0.0001). Furthermore, NSCLC
+could be discriminated from other lung pathologies; when
+combining C1M and VICM an AUROC of 0.72 was
+obtained (P < 0.001).
+
+tool
+
+The tumor stage of disease is another important clin-
+in lung cancer cases. As illustrated in Fig-
+ical
+ure 2B, no signicant difference was detected between
+the different tumor stages. Thus, an association between
+
+stage and level of biomarkers could not be
+tumor
+detected in this
+the markers
+were elevated in all stages of the disease it may be sug-
+gested that they have potential as markers of early lung
+cancer.
+
+study. Furthermore, as
+
+Diagnostic decision tree for predicting the
+likelihood of having lung cancer
+
+In an attempt to produce a model for predicting the like-
+lihood of having lung cancer, a diagnostic decision tree
+was constructed. The initial split for being lung cancer
+positive was made at C1M >200 ng/mL and followed by
+VICM >27.5 ng/mL. The patient distribution and statis-
+tics according to this algorithm are illustrated in Figure 3
+and in Table 3. With a sensitivity of 45% and specicity
+of 98%, the two markers of C1M and VICM successfully
+identied a subpopulation of patients that with 90% cer-
+tainty (PPV 0.9) are positive for having lung cancer. This
+corresponds to 45% (18/40) of all
+lung cancer patient
+analyzed or 13% (18/140) of the tested population. This
+subgroup of patients with a high level of C1M and VICM
+as dened by the cutoff values described above had an
+odds ratio of 40 (95% CI 8.7186, P < 0.0001) suggesting
+
+1140
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+(A)
+800
+
+600
+
+L
+m
+/
+g
+n
+
+400
+
+200
+
+0
+
+(B)
+
+800
+
+600
+
+400
+
+200
+
+0
+
+L
+m
+g
+n
+
+/
+
+C1M
+
+SCLC
+
+NSCLC
+
+C1M
+
+I
+
+II
+
+III
+
+IV
+
+Lung cancer tumor stage
+
+200
+
+150
+
+L
+m
+g
+n
+
+/
+
+100
+
+50
+
+0
+
+200
+
+150
+
+L
+m
+g
+n
+
+/
+
+100
+
+50
+
+0
+
+VICM
+
+***
+
+SCLC
+
+NSCLC
+
+VICM
+
+I
+
+II
+
+III
+
+IV
+
+Lung cancer tumor stage
+
+L
+m
+g
+n
+
+/
+
+L
+m
+g
+n
+
+/
+
+80
+
+60
+
+40
+
+20
+
+0
+
+80
+
+60
+
+40
+
+20
+
+0
+
+ELM
+
+SCLC
+
+NSCLC
+
+ELM
+
+I
+
+II
+
+III
+
+IV
+
+Lung cancer tumor stage
+
+Figure 2. Levels of MMP-generated fragments of type I collagen (C1M), citrullinated vimentin (VICM), and elastin (ELM) in serum from lung
+cancer patients: (A) divided into small cell lung cancer (SCLC) (n = 8) and nonsmall cell lung cancer (NSCLC) (n = 32) and with the mean of the
+healthy controls (n = 33) illustrated by the dotted line 2 SD (gray area); and (B) divided into stage of the disease for both SCLC () and NSCLC
+() and with the mean illustrated by a horizontal
+line. Groups were compared using an unpaired t-test (A) and Dunnetts ANOVA multiple
+comparisons test (B) on Log10 transformed data. Signicance levels: ***P < 0.001.
+
+that when levels of C1M >200 ng/mL and VICM
+>27.5 ng/mL are detected in a patients blood sample, the
+probability of having lung cancer is 40 times that of not
+having lung cancer.
+
+Discussion
+
+We measured degradation products in serum of
+two
+ECM proteins: type I collagen (C1M) and elastin (ELM).
+Furthermore, we measured degradation products of cit-
+rullinated vimentin (VICM). The biomarker targets used
+in this study were identied from in vitro and ex vivo
+studies and by use of mass spectrometry. The background
+for choosing C1M and ELM was based on previous nd-
+ings from brosis-related diseases of the lung (IPF and
+COPD, [25]). VICM was chosen based on the role of
+
+vimentin as a marker of EMT. VICM has also been
+associated with brosis [24] and we speculated that it
+may be linked to cancer as well.
+
+C1M and VICM were signicantly elevated in lung can-
+cer as compared to controls and other cancer types. A
+trend was detected when comparing lung cancer with
+other lung pathologies. No difference could be seen for
+ELM. When separating the lung cancer subtypes SCLC
+and NSCLC,
+it was clear that the higher levels in the
+markers could be associated with NSCLC and for VICM
+the level in NSCLC patients was signicantly higher than
+any other group.
+
+Although this study is limited by a small sample size
+and lack of patient information, clearly, there seems to be
+potential for the biomarkers presented to be applied in
+the eld of
+lung cancer: C1M and VICM successfully
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+1141
+
+Serum Biomarkers of Lung Cancer
+
+N. Willumsen et al.
+
+Figure 3. Diagnostic decision tree for identifying lung cancer patients in the study current cohort. The tree (dark gray boxes) was constructed
+based on dened biomarker cutoff values for C1M (200 ng/mL) and VICM (27.5 ng/mL) that were determined by calculating the mean of the
+biomarker levels from all the samples measured (n = 140). Details on patient types in each of the tree branches are shown in the white boxes.
+OR, Odds Ratio for having lung cancer; PPV, positive predictive value of the test. Statistical details are shown in Table 3.
+
+Table 3. Probability of having lung cancer when C1M is >200 ng/mL and when C1M >200 ng/mL + VICM >27.5 ng/mL. Statistical details are
+calculated from the diagnostic decision tree.
+
+Biomarker
+
+C1M
+C1M + VICM
+
+OR
+
+10
+40
+
+95% CI
+
+4.224
+8.7186
+
+P-value
+
+<0.0001
+<0.0001
+
+Sensitivity (%)
+
+Specicity (%)
+
+60
+45
+
+87
+98
+
+PPV
+
+0.65
+0.9
+
+NPV
+
+0.85
+0.83
+
+LHR
+
+4.6
+22.5
+
+LHR, likelihood ratio; OR, odds ratio; PPV/NPV, positive/negative predictive value.
+
+identied a subpopulation of patients with lung cancer
+(Fig. 3). In addition, the markers were elevated in all
+stages of the disease indicating that they may have poten-
+tial as markers of early disease.
+
+This study is the rst to indicate that the release of
+high levels of citrullinated fragments of vimentin (VICM)
+to the circulation may be a specic signal for lung disease.
+This nding is supported by the association between cit-
+rullinations and smoking and induction of inammation
+[26] and in line with cigarette smoke exposure as the
+major risk factor for lung cancer. Unpublished data from
+our group clearly indicate that none of the biomarkers
+used in this study are inuenced by smoking.
+
+Type I collagen is present in most organs, but increased
+in the stroma of neoplastic tissue leading to desmoplasia
+[27, 28]. Furthermore, it is well known that an increased
+production of MMP is associated with cancer. This combi-
+nation may lead to a high degree of type I collagen
+degradation (C1M) in concordance with our ndings.
+
+C1M together with degradation products of other collagens
+have recently been found elevated in patients with pancre-
+atic ductal adenocarcinomas, a cancer characterized by
+severe desmoplasia [29] and elevated levels of circulating
+fragments of type I collagen have been found to be predic-
+tors of poor outcome in lung cancer [30, 31] as well as
+found elevated in several other cancers such as for instance
+head and neck cancer [32] and ovarian cancer [33, 34].
+C1M has also previously been found elevated in COPD
+and IPF patients [25], similar to our ndings, indicating
+that C1M may be a biomarker of several pulmonary dis-
+eases and suggesting that lessons may be learned from
+research in lung brotic diseases such as COPD [35] and
+IPF [36], which may benet development of novel biomar-
+kers for lung cancer (and vice versa). Pulmonary brosis
+and lung cancer share many pathological similarities; as a
+trend that is observed with lung cancer having higher levels
+of C1M and VICM as compared to pulmonary brosis,
+one might speculate that a higher degree of tissue turnover
+
+1142
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+(dynamic change) is observed in lung cancer tissue. This of
+course needs validation in a future study.
+
+Both COPD and IPF have been linked to lung cancer
+and whereas studies indicate that COPD is a risk factor
+for lung cancer and that COPD patients might have
+underlying lung cancer [37, 38], results are somewhat
+more contradictory for IPF [39]. Still, IPF have been
+described as a prognostic factor in NSCLC [40] and in a
+study by Nagai et al., lung cancer was found to be present
+in one-third of the IPF patients analyzed [41]. We specu-
+late that it might be possible that the two (10%) false
+positive lung cancer patients from the diagnostic decision
+tree (i.e., one IPF patient and one COPD patient), may
+have underlying undiagnosed lung cancer.
+
+is
+
+still not
+
+fully understood, however,
+
+The mechanism behind the degradation and modica-
+tion of the highly complex mixture of ECM and IMF pro-
+teins
+studies
+indicate that the composition of MMPs and thereby the
+degradation products may differ between lung cancer sub-
+types [4244]. As MMPs display diverse and sometimes
+opposite effects depending on tissue localization, cellular
+source, stage, and cancer subtype [45, 46] together this
+may contribute, in a complex manner additional to the
+complexity of the ECM and IMF status and to the differ-
+ences observed between patient subtypes in this study.
+
+Several serum-based lung cancer biomarkers are cur-
+rently available in the clinical setting; however, their use
+is of limited capacity and not recommended [8]. Many
+proteins have been studied as potential serum-based bio-
+markers for lung cancer. For instance, a panel of serum
+proteins (carcinoembryonic antigen, retinol-binding pro-
+tein, a1-antitrypsin, and squamous cell carcinoma anti-
+gen) has been shown to be of promising value in the
+clinical setting [47]. All markers are MMP driven, and
+consequently they may reect the activation or inhibition
+of specic MMPs in vivo which are needed in designing
+anti-MMP treatment strategies [48]. Furthermore,
+the
+role of citrullinations and PAD enzymes in cancer has
+made it relevant to test PAD inhibition as a treatment
+strategy [49, 50].
+
+In conclusion, this is the rst study to test biomarkers
+specically reecting ECM and IMF remodeling as diag-
+nostic tools for identifying lung cancer patients. We spec-
+ulate that noninvasive serum biomarkers as described,
+may aid in the diagnosis and characterization of patients
+with lung cancer in the future.
+
+Conict of Interest
+
+N. Willumsen, C. L. Bager, D. J. Leeming, M. A. Karsdal,
+and A. C. Bay-Jensen are employed at Nordic Bioscience
+A/S which is involved in the discovery and development
+of biochemical markers. C. Christiansen is Chairman of
+
+the Board of Nordic Bioscience A/S. C. Christiansen and
+M. A. Karsdal owns stocks at Nordic Bioscience. V. Smith
+and D. Dornan are employed at Gilead Sciences Inc.
+involved in drug development.
+
+References
+
+1. Siegel, R., D. Naishadham, and A. Jemal. 2013. Cancer
+
+statistics, 2013. CA Cancer J. Clin. 63:1130.
+
+2. Malvezzi, M., P. Bertuccio, F. Levi, V. C. La, and E. Negri.
+
+2013. European cancer mortality predictions for the year
+2013. Ann. Oncol. 24:792800.
+
+3. Verdecchia, A., S. Francisci, H. Brenner, G. Gatta, A.
+
+Micheli, L. Mangone, et al. 2007. Recent cancer survival in
+Europe: a 200002 period analysis of EUROCARE-4 data.
+Lancet Oncol. 8:784796.
+
+4. Foss, K. M., C. Sima, D. Ugolini, M. Neri, K. E. Allen, and
+G. J. Weiss. 2011. miR-1254 and miR-574-5p: serum-based
+microRNA biomarkers for early-stage non-small cell lung
+cancer. J. Thorac. Oncol. 6:482488.
+
+5. Hanash, S. M., C. S. Baik, and O. Kallioniemi. 2011.
+
+Emerging molecular biomarkersblood-based strategies to
+detect and monitor cancer. Nat. Rev. Clin. Oncol.
+8:142150.
+
+6. Gopal, M., S. E. Abdullah, J. J. Grady, and J. S. Goodwin.
+2010. Screening for lung cancer with low-dose computed
+tomography: a systematic review and meta-analysis of the
+baseline ndings of randomized controlled trials. J. Thorac.
+Oncol. 5:12331239.
+
+7. Greenberg, A. K., and M. S. Lee. 2007. Biomarkers for lung
+
+cancer: clinical uses. Curr. Opin. Pulm. Med 13:249255.
+
+8. Jantus-Lewintre, E., M. Uso, E. Sanmartin, and C. Camps.
+
+2012. Update on biomarkers for the detection of lung
+cancer. Lung Cancer 3:2129.
+
+9. Ungefroren, H., S. Sebens, D. Seidl, H. Lehnert, and
+
+R. Hass. 2011. Interaction of tumor cells with the
+microenvironment. Cell Commun. Signal. 9:18.
+
+10. Karsdal, M. A., E. Delvin, and C. Christiansen. 2011.
+
+Protein ngerprints  relying on and understanding the
+information of serological protein measurements. Clin.
+Biochem. 44:12781279.
+
+11. Pelosi, G., F. Melotti, A. Cavazza, G. Rossi, P.
+
+Maisonneuve, P. Graziano, et al. 2012. A modied
+vimentin histological score helps recognize pulmonary
+sarcomatoid carcinoma in small biopsy samples.
+Anticancer Res. 32:14631473.
+
+12. Satelli, A., and S. Li. 2011. Vimentin in cancer and its
+potential as a molecular target for cancer therapy. Cell.
+Mol. Life Sci. 68:30333046.
+
+13. Mor-Vaknin, N., A. Punturieri, K. Sitwala, and D. M.
+
+Markovitz. 2003. Vimentin is secreted by activated
+macrophages. Nat. Cell Biol. 5:5963.
+
+14. Xu, B., R. M. Waal de, N. Mor-Vaknin, C. Hibbard,
+
+D. M. Markovitz, and M. L. Kahn. 2004. The endothelial
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+1143
+
+Serum Biomarkers of Lung Cancer
+
+N. Willumsen et al.
+
+cell-specic antibody PAL-E identies a secreted form of
+vimentin in the blood vasculature. Mol. Cell. Biol.
+24:91989206.
+
+in human lungs and increases citrullination in BAL cells.
+Ann. Rheum. Dis. 67:14881492.
+
+27. Kauppila, S., F. Stenback, J. Risteli, A. Jukkola, and L.
+
+15. Steinmetz, N. F., C. F. Cho, A. Ablack, J. D. Lewis, and
+M. Manchester. 2011. Cowpea mosaic virus nanoparticles
+target surface vimentin on cancer cells. Nanomedicine.
+(Lond.) 6:351364.
+
+Risteli. 1998. Aberrant type I and type III collagen gene
+expression in human breast cancer in vivo. J. Pathol.
+186:262268.
+
+28. Kalluri, R., and M. Zeisberg. 2006. Fibroblasts in cancer.
+
+16. Kuna, A. T. 2012. Mutated citrullinated vimentin
+
+antibodies in rheumatoid arthritis. Clin. Chim. Acta
+413:6673.
+
+17. Vossenaar, E. R., and W. J. van Venrooij. 2004.
+
+Citrullinated proteins: sparks that may ignite the re in
+rheumatoid arthritis. Arthritis Res. Ther. 6:107111.
+
+18. Lu, P., V. M. Weaver, and Z. Werb. 2012. The
+extracellular matrix: a dynamic niche in cancer
+progression. J. Cell Biol. 196:395406.
+
+19. Kessenbrock, K., V. Plaks, and Z. Werb. 2010. Matrix
+
+metalloproteinases: regulators of the tumor
+microenvironment. Cell 141:5267.
+
+20. Karsdal, M. A., M. J. Nielsen, J. M. Sand, K. Henriksen,
+
+F. Genovese, A. C. Bay-Jensen, et al. 2013. Extracellular
+matrix remodeling: the common denominator in
+connective tissue diseases. Possibilities for evaluation and
+current understanding of the matrix as more than a
+passive architecture, but a key player in tissue failure.
+Assay Drug Dev. Technol. 11:7092.
+
+21. Dam, E. B., I. Byrjalsen, M. A. Karsdal, P. Qvist, and
+
+C. Christiansen. 2009. Increased urinary excretion of
+C-telopeptides of type II collagen (CTX-II) predicts
+cartilage loss over 21 months by MRI. Osteoarthritis
+Cartilage 17:384389.
+
+22. Leeming, D., Y. He, S. Veidal, Q. Nguyen, D. Larsen, M.
+
+Koizumi, et al. 2011. A novel marker for assessment of
+liver matrix remodeling: an enzyme-linked immunosorbent
+assay (ELISA) detecting a MMP generated type I collagen
+neo-epitope (C1M). Biomarkers 16:616628.
+
+23. Skjot-Arkil, H., R. E. Clausen, Q. H. Nguyen, Y. Wang, Q.
+Zheng, F. J. Martinez, et al. 2012. Measurement of MMP-9
+and -12 degraded elastin (ELM) provides unique
+information on lung tissue degradation. BMC Pulm. Med.
+12:34.
+
+24. Vassiliadis, E., C. P. Oliveira, M. R. vares-da-Silva,
+C. Zhang, F. J. Carrilho, J. T. Stefano, et al. 2012.
+Circulating levels of citrullinated and MMP-degraded
+vimentin (VICM) in liver brosis related pathology. Am.
+J. Transl. Res. 4:403414.
+
+Nat. Rev. Cancer 6:392401.
+
+29. Willumsen, N., C. L. Bager, D. J. Leeming, V. Smith,
+
+M. A. Karsdal, D. Dornan, et al. 2013. Extracellular matrix
+specic protein ngerprints measured in serum can
+seperate pancreatic cancer patients from healthy controls.
+BMC Cancer 13:554.
+
+30. Ylisirnio, S., M. L. Sassi, J. Risteli, T.
+
+Turpeenniemi-Hujanen, and A. Jukkola. 1999. Serum type
+I collagen degradation markers, ICTP and CrossLaps, are
+factors for poor survival in lung cancer. Anticancer Res.
+19:55775581.
+
+31. Ylisirnio, S., M. Hoyhtya, R. Makitaro, P. Paaakko, J.
+
+Risteli, V. L. Kinnula, et al. 2001. Elevated serum levels of
+type I collagen degradation marker ICTP and tissue
+inhibitor of metalloproteinase (TIMP) 1 are associated
+with poor prognosis in lung cancer. Clin. Cancer Res.
+7:16331637.
+
+32. Nurmenniemi, S., M. K. Koivula, P. Nyberg, T.
+
+Tervahartiala, T. Sorsa, P. S. Mattila, et al. 2012. Type I
+and III collagen degradation products in serum predict
+patient survival in head and neck squamous cell
+carcinoma. Oral Oncol. 48:136140.
+
+33. Jussila, T., S. Kauppila, M. Bode, J. Tapanainen, J.
+
+Risteli, L. Risteli, et al. 2004. Synthesis and maturation
+of type I and type III collagens in endometrial
+adenocarcinoma. Eur. J. Obstet. Gynecol. Reprod. Biol.
+115:6674.
+
+34. Santala, M., M. Simojoki, J. Risteli, L. Risteli, and A.
+Kauppila. 1999. Type Iand III collagen metabolites as
+predictors of clinical outcome in epithelial ovarian cancer.
+Clin. Cancer Res. 5:40914096.
+
+35. Salazar, L. M., and A. M. Herrera. 2011. Fibrotic response
+
+of tissue remodeling in COPD. Lung 189:101109.
+
+36. Vancheri, C. 2013. Common pathways in idiopathic
+
+pulmonary brosis and cancer. Eur. Respir. Rev.
+22:265272.
+
+37. Yao, H., and I. Rahman. 2009. Current concepts on the
+
+role of inammation in COPD and lung cancer. Curr.
+Opin. Pharmacol. 9:375383.
+
+25. Leeming, D. J., J. M. Sand, M. J. Nielsen, F. Genovese,
+
+38. Anthonisen, N. R., M. A. Skeans, R. A. Wise, J. Manfreda,
+
+F. J. Martinez, C. M. Hogaboam, et al. 2012. Serological
+investigation of the collagen degradation prole of patients
+with chronic obstructive pulmonary disease or idiopathic
+pulmonary brosis. Biomark. Insights 7:119126.
+
+26. Makrygiannakis, D., M. Hermansson, A. K. Ulfgren, A. P.
+Nicholas, A. J. Zendman, A. Eklund, et al. 2008. Smoking
+increases peptidylarginine deiminase 2 enzyme expression
+
+R. E. Kanner, and J. E. Connett. 2005. The effects of a
+smoking cessation intervention on 14.5-year mortality: a
+randomized clinical trial. Ann. Intern. Med. 142:233239.
+
+39. Archontogeorgis, K., P. Steiropoulos, A. Tzouvelekis, E.
+Nena, and D. Bouros. 2012. Lung cancer and interstitial
+lung diseases: a systematic review. Pulm. Med.
+2012:315918.
+
+1144
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+40. Goto, T., A. Maeshima, Y. Oyamada, and R. Kato. 2013.
+
+45. Martin, M. D., and L. M. Matrisian. 2007. The other side
+
+Idiopathic pulmonary brosis as a prognostic factor in
+non-small cell lung cancer. Int. J. Clin. Oncol. 19:266273.
+41. Nagai, A., A. Chiyotani, T. Nakadate, and K. Konno. 1992.
+
+of MMPs: protective roles in tumor progression. Cancer
+Metastasis Rev. 26:717724.
+
+46. Zucker, S., and J. Cao. 2010. Matrix metalloproteinases
+
+Lung cancer in patients with idiopathic pulmonary
+brosis. Tohoku J. Exp. Med. 167:231237.
+
+and cancer cell invasion/metastasis The tumor
+microenviroment. 2010:531554.
+
+42. Hida, Y., and J. Hamada. 2012. Differential expressions of
+
+47. Patz, E. F. Jr, M. J. Campa, E. B. Gottlin, I. Kusmartseva,
+
+matrix metalloproteinases, a disintegrin and
+metalloproteinases, and a disintegrin and
+metalloproteinases with thrombospondin motifs and their
+endogenous inhibitors among histologic subtypes of lung
+cancers. Anticancer Agents Med. Chem. 12:744752.
+
+43. Liu, D., J. Nakano, S. Ishikawa, H. Yokomise, M. Ueno,
+
+K. Kadota, et al. 2007. Overexpression of matrix
+metalloproteinase-7 (MMP-7) correlates with tumor
+proliferation, and a poor prognosis in non-small cell
+lung cancer. Lung Cancer 58:384391.
+
+44. Kerkela, E., R. la-aho, P. Klemi, S. Grenman, S. D.
+Shapiro, V. M. Kahari, et al. 2002. Metalloelastase
+(MMP-12) expression by tumour cells in squamous cell
+carcinoma of the vulva correlates with invasiveness, while
+that by macrophages predicts better outcome. J. Pathol.
+198:258269.
+
+X. R. Guan, and J. E. Herndon. 2007. Panel of serum
+biomarkers for the diagnosis of lung cancer. J. Clin.
+Oncol. 25:55785583.
+
+48. Zucker, S., J. Cao, and W. T. Chen. 2000. Critical
+
+appraisal of the use of matrix metalloproteinase inhibitors
+in cancer treatment. Oncogene 19:66426650.
+
+49. Slack, J. L., C. P. Causey, and P. R. Thompson. 2011.
+
+Protein arginine deiminase 4: a target for an epigenetic
+cancer therapy. Cell. Mol. Life Sci. 68:709720.
+
+50. Wang, Y., P. Li, S. Wang, J. Hu, X. A. Chen, J. Wu, et al.
+
+2012. Anticancer peptidylarginine deiminase (PAD)
+inhibitors regulate the autophagy ux and the mammalian
+target of rapamycin complex 1 activity. J. Biol. Chem.
+287:2594125953.
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+1145
+
+

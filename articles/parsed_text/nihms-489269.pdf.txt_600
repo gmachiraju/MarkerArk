@@ -1,0 +1,200 @@
+developed to select patients who may benefit from additional radiographic screening.
+Identifying a risk biomarker for developing lung cancer would further define the at-risk
+population, decrease the overall number of screening CTs conducted, and ultimately limit
+the downstream consequences of discovering these false positive nodules.
+
+Distinguishing benign from malignant lung nodules
+
+Diagnostic biomarkers that may assist in distinguishing a benign nodule from a malignant
+one would be invaluable. Depending on geographic location, up to 30% of indeterminate
+pulmonary nodules are ultimately found to have benign pathology when surgically resected
+(16). In the NLST, 24% of patients who underwent a diagnostic operation (mediastinoscopy,
+thoracoscopy, or thoracotomy) had benign disease (17). Thus, additional testing with a
+biomarker could decrease the number of surgical resections for ultimately benign disease.
+Current guidelines recommend that providers use models to assist with determining the
+likelihood that a particular nodule identified by CT scan is malignant and thus should be
+resected (18). However, as the use of low-dose CT for lung cancer screening evolves, better
+predictive models that incorporate biomarkers would assist the clinical provider in
+determining which patients have lung cancer. We recently validated a blood-based
+proteomic signature for lung cancer diagnosis and showed that it may provide added value
+to the clinical and imaging assessment of indeterminate lung nodules (19). Hopefully as
+biomarkers are developed, they will assist in identifying not only those individuals without
+malignancy but also help in determining those who are malignant and amenable to surgical
+resection.
+
+Current Status of Early Detection Biomarkers for Lung Cancer
+
+We will review the most recent advances made to date in the field of molecular biomarkers
+for risk assessment and diagnosis of lung cancer, as well as discuss the clinical use and
+limitations of different approaches.
+
+In an effort to identify the most relevant lung cancer biomarkers of early detection, we
+selected published reports from PubMed on the basis of the keywords biomarkers, risk,
+diagnosis, early detection, and lung cancer. To narrow our search, we further applied the
+following 2 filters. First, the proposed marker, or panel of markers, must be quantitatively
+measurable and its performance tested in at least one sample set of clinically relevant
+specimens. Second, the report adhered to the PRoBE biomarker validation guidelines
+discussed later. As a result, we have selected original reports summarized in Tables 1 to 3.
+We recognize the limitation of selection, outcome reporting, and publication biases.
+
+We have organized our report on the basis of specimen types, either tissue-based (Table 1)
+or biofluids-based markers. We have further subcategorized biofluids-based biomarkers into
+blood-based (Table 2), sputum, white blood cells, and peripheral blood cells (Table 3). The
+phases of biomarker development are assessed following the Early Detection Research
+Network (EDRN) classification (20). This classification was designed for biomarkers of
+early detection in the context of screening and therefore may not directly address phases of
+development of diagnostic biomarkers. These tables also include efforts from investigators
+to integrate biomarkers in models of risk prediction or diagnosis. The validation sets
+reported in the tables correspond to an attempt to test the biomarker (or signature) in a true
+
+Cancer Prev Res (Phila). Author manuscript; available in PMC 2013 July 25.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Hassanein et al.
+
+Page 4
+
+independent population, also described as clinical validation (4), to evaluate the performance
+of the test.
+
+Tissue-based candidate biomarkers
+
+Numerous studies have adapted large-scale analytic approaches to profile the full spectrum
+of molecular aberrations associated with lung cancer malignancy in tumors. These studies
+have yielded valuable information that has unraveled several key molecular events of lung
+cancer tumorigenesis, including mapping the genomic loci associated with high risk of
+developing lung cancer, hypermethylation of a number of tumor suppressor genes (2125),
+regions of chromosomal amplification (26, 27), mRNA expression variation (2831), the
+differential expression of several microRNAs (32), and the proteomic signature of invasive
+(33, 34) and preinvasive lesions in lung tissues (35, 36).
+
+Several research groups, including ours, have been testing genetic and proteomic alterations
+in surrogate tissues such as bronchial brushings and biopsies to determine the probability of
+having lung cancer (2527, 36, 37), see Table 1. While this approach requires
+bronchoscopy, molecular markers obtained from the airways may pair with the recently
+proven CT screening to provide additional benefit when evaluating individuals at high risk
+for lung cancer. Although much of the early biomarker discovery efforts have used fresh-
+frozen samples as a primary source, acquiring these specimens is costly and laborious.
+Because surgical pathology specimens stored as formalin-fixed, paraffin-embedded (FFPE)
+blocks are widely available, many researchers are attempting to profile genomic and
+proteomic aberrations in such specimens. Some of these aberrations include
+hypermethylation of genes (38) and microRNA (miRNA) expression (39), which can be
+successfully extracted as candidate biomarkers.
+
+miRNAs are a class of small noncoding RNA genes that are thought to regulate gene
+expression. They are abnormally expressed in several types of cancer (40, 41) and involved
+in a variety of biologic and pathologic processes with tissue specificity (41, 42) with the
+potential for clinical application (43). Another advantage of miRNA is that it is well
+preserved in formalin-fixed tissue, making it ideal for use in routinely processed material
+(44). Previous studies have identified differences in miRNA expression between squamous
+cell carcinoma and adenocarcinoma in lung cancer (32), as well as in other cancers (42, 43,
+45). The current trend toward using FFPE samples will allow for a greater number of
+available samples and thus will increase statistical power and generalization of results.
+
+Tissue-based biomarkers that reflect the molecular changes associated with specific
+histologic subtypes of nonsmall cell lung cancer (NSCLC) may provide the means to
+differentiate tumors originating in the lung from metastases from other organ sites.
+Furthermore, using immunohistochemical profiling of lung cancer tissue markers in
+conjunction with well-established histologic examination can provide more accurate
+subclassification of lung malignancies and thus may directly impact the clinical decision
+making of antitumor therapy. The molecular changes associated with progression from
+normal to malignant tissue may lead to the discovery of novel markers that can be detected
+in circulation or other biofluids. Limited access to early-stage tumor tissue samples, tumor
+heterogeneity combined with the complexity of the genome and the proteome, and the low
+abundance of potential biomarkers represent some of the challenges that translational
+researchers face when attempting to bring these biomarker candidates from the bench to the
+bedside.
+
+Therefore, the potential use of tissue-based biomarkers is highly dependent on the
+accessibility of the specimens and the robustness of the assay offered. FFPE samples are

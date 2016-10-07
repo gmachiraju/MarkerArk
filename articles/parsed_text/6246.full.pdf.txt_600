@@ -1,0 +1,200 @@
+sample were initially prefractionated using C4 reversed-phase LC. In total, 35 fractions were collected from each pooled sample and proteins in each fraction were reduced,
+alkylated, and digested using trypsin. The resulting peptides were analyzed using capillary LC-QqTOF MS/MS. B, database searching using Mascot was carried out to
+identify a total of 461proteins from OSCC subjects and 438 proteins from the matched control subjects. Most proteins (n = 409) overlap between the disease and control
+samples. However, 52 proteins were only found in OSCC, whereas 29 proteins were only identified in the healthy subjects. C, 2-DE patterns of WS proteins from the
+same pooled cancer and control subjects. The circled spots were identified to be PIGR, which is a down-regulated glycoprotein in OSCC.
+
+gel analysis. As shown in Fig. 1C, salivary PIGR was heavily
+glycosylated and exhibited a 2.1-fold decrease in OSCC
+patients.
+
+Twelve candidates showing up-regulated levels in OSCC
+(Supplementary Tables S1 and S2) were chosen for further
+validation because antibodies and ELISA assays for these
+proteins are commercially available. Table 1 summarizes the
+validation results between OSCC and matched controls for
+these proteins. ELISA was used for validation of M2BP,
+involucrin, histone H1, S100A12, and S100P, whereas immu-
+noblotting was used for validation of eight other proteins,
+including MRP14, CD59, catalase, profilin, moesin, hemato-
+poietic lineage cell-specific protein, and Ras-related protein
+Rab-7. Actin was used for normalization of densitometric
+signals in immunoblotting. Among these proteins, five poten-
+tial biomarkers showed significant differences (P V 0.006)
+between OSCC (n = 48) and matched healthy cohorts (n = 48).
+The normalized signals for these five potential biomarkers
+
+(M2BP, MRP14, CD59, catalase, and profilin) between the
+OSCC and matched healthy groups are presented in Fig. 2A.
+
+Discussion
+
+Oral carcinogenesis arises through a series of histopathologic
+stages from benign hyperplasia to dysplasia to carcinoma in situ
+followed by invasive squamous cell carcinoma. At
+the
+molecular level, the development of OSCC is a multistep
+process accompanied by genetic mutations and expression
+changes of many genes that
+lead to uncontrolled cellular
+growth (16, 17). The cellular and molecular heterogeneity of
+OSCC and the large number of genes potentially involved in
+oral carcinogenesis emphasize the importance of studying gene
+expression changes in a global scale by proteomics. This also
+suggested that multiple proteins (pathways) should be simul-
+taneously targeted as an effective strategy to diagnose or treat
+the disease.
+
+www.aacrjournals.org
+
+6249
+
+Clin Cancer Res 2008;14(19) October 1, 2008
+
+Imaging, Diagnosis, Prognosis
+
+Because oral cancer cells are immersed in the salivary milieu,
+the salivary proteomes from OSCC patients
+analysis of
+represents a potentially promising approach to finding poten-
+tial biomarkers for the disease. Saliva is an easily accessible
+fluid compared with tissue biopsies. Therefore, a large number
+of saliva samples can be collected and analyzed, and this
+should allow for a robust study design with sufficient statistical
+power to reveal true signatures characteristic of the disease.
+Furthermore, the identified protein biomarkers can be trans-
+lated into simple clinical assays, allowing the disease to be
+detected or monitored in a noninvasive body fluid. We have
+done in-depth analysis of the human salivary proteome using a
+combination of different separation techniques combined with
+QqTOF MS (18  20), and the data from WS have been
+deposited into the Saliva Proteome Knowledge Base for public
+access. We have also identified 84 N-glycosylated peptides
+representing 45 unique N-glycoproteins in WS using hydrazide
+chemistry and LC-MS/MS analysis of N-glycosylated peptides
+selectively released from the captured glycoproteins (21). In
+addition, a 3-year effort by the Human Salivary Proteome
+Project, a consortium of three research groups including the
+Scripps Research Institute/University of Rochester, the Univer-
+sity of California-San Francisco, and the University of
+California-Los Angeles/University of Southern California, has
+led to the identification of over 1,100 nonredundant proteins
+in human parotid and submandibular/sublingual secretions
+(22). With the successful compilation of the saliva proteome, a
+next step would be to identify potential diagnostic and/or
+prognostic biomarkers that could be used in a clinical context
+for disease detection and monitoring in saliva. For example,
+saliva proteome analysis of patients with primary Sjo grens
+syndrome (pSS) has suggested that pSS is associated with
+increased inflammatory proteins and decreased acinar proteins
+in saliva when compared with non-SS (23, 24). Current
+diagnosis of pSS requires salivary gland biopsy. However, if
+these newly discovered targets are successfully validated, a
+noninvasive diagnosis of pSS based on salivary biomarkers will
+be possible in the future.
+
+Subtractive proteomics refers to direct profiling of proteins
+expressed in samples from two cellular or pathologic states
+using multidimensional LC separation and data-dependent
+MS/MS analysis (25, 26). This method does not use gels or
+
+stable isotopes but simply quantifies proteins by counting the
+number of MS/MS spectra for the tryptic peptides identified for
+each proteins (27, 28). The quantitative measurement
+is
+because the number of MS/MS spectra of tryptic peptides
+identified for a given protein is correlated to its relative
+abundance in the sample. Although subtractive proteomics is
+imprecise compared with other quantitative MS such as stable
+isotope labeling methods,
+this approach is attractive for
+biomarker discovery mainly because of its inherent simplicity.
+Very little sample preparation before MS analysis is required,
+with no covalent labeling involved (29). Our study suggests
+that subtractive proteomics is a more feasible approach than 2-
+DE/MS in terms of revealing the OSCC-associated saliva
+proteins at differential levels. As shown in Fig. 1C, remarkably
+similar patterns between OSCC and control subjects were
+observed, although some faint protein spots showed differen-
+tial
+levels. The high abundance of salivary amylase and
+immunoglobulins undermined the analysis of low-abundance
+proteins in WS. Both glycogen precipitation and antibody
+binding were tested in our study to deplete amylase; however,
+the efficiency was low and depletion of many other proteins
+occurred as well (data not shown). On the contrary,
+the
+subtractive proteomics approach allowed the identification of
+many low-abundance proteins at differential levels and seems
+to be a more rational approach than 2-DE/MS for discovery of
+salivary protein biomarkers of human diseases.
+
+Many proteins at elevated levels in OSCC patients saliva
+(Supplementary Tables S1 and S3) have been previously
+associated with human cancers (e.g., squamous cell carcinoma
+antigen 2, calcyclin, Rho GDP dissociation inhibitor, heat
+shock 70-kDa protein 1, Annexin I, cathepsin G, peroxiredoxin
+II, thioredoxin, short palate, and lung and nasal epithelium
+carcinoma-associated protein; refs. 30  34). Apart from poten-
+tial clinical applications, these target proteins may contribute to
+an understanding of the molecular mechanism of the disease.
+Meanwhile, some of the salivary proteins were underexpressed
+in OSCC (Supplementary Tables S2 and S3). For instance,
+clusterin was found present in control but absent in OSCC by
+subtractive proteomic analysis. This secretory protein is involved
+in programmed cell death (apoptosis; ref. 35), and down-
+regulation of clusterin in esophageal squamous cell carcinoma
+and prostate cancer has been reported in previous studies (36, 37).
+
+Table 1. Immunoassay validation of salivary proteins differentially abundant in OSCC and healthy control
+subjects
+
+Protein
+
+Fold change (mean level)
+
+M2BP
+Profilin
+CD59
+MRP14
+Catalase
+Histone H1
+S100A12
+Ras-related protein Rab-7
+Moesin
+Involucrin
+S100P
+Hematopoietic lineage cell-specific protein
+
+1.99
+1.93
+2.45
+2.15
+2.07
+1.10
+1.01
+1.12
+1.19
+1.67
+1.24
+1.43
+
+P
+
+0.006
+0.0003
+0.00001
+0.000002
+0.0000005
+0.92
+0.82
+0.61
+0.32
+0.11
+0.05
+0.002
+
+Validation method
+
+ELISA
+Immunoblotting

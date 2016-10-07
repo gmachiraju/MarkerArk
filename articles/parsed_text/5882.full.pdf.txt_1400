@@ -1,0 +1,200 @@
+of high abundance in serum and are unlikely to be released by tumor
+cells. This limitation has been pointed out previously as being com-
+mon among studies using mass spectrometry based proteomic profil-
+ing (25, 26, 38). However, this is not purely a limitation of the mass
+spectrometry technological platforms, but rather reflects the limitation
+of high throughput sample preprocessing technologies that would
+allow us to examine subsets of the serum proteome without introduc-
+
+ing additional significant analytical variability. The use of sample
+prefractionation in addition to multiple array surfaces in this study is
+a first attempt in surface-enhanced laser desorption/ionization mass
+spectrometry based clinical proteomics for biomarker discovery.
+
+Two of the markers found in this study are cleavage products of
+precursor proteins and present in the serum at a fraction of the
+concentrations of their corresponding full-length proteins. Neither of
+these truncation products has been reported previously, indicating that
+they are new candidate markers. These markers may be the product of
+cleavage by one or more proteases, including plasma kallikrein, tissue
+kallikreins, matrix metalloproteases, or prostasin, a trypsin-like serine
+protease that was reported recently to be increased in cases of ovarian
+cancer (39). The proteases that generate these markers may them-
+selves act as markers that can be combined with those discovered here
+in a predictive model. More generally,
+the
+increasing body of evidence indicating alterations in the balance of
+protease and protease inhibitor activity in the serum and tissue of
+patients with cancer (40, 41). Preliminary results from additional
+immunoprecipitation pull-down analysis suggest that the forms and
+relative frequencies of posttranslational modifications of inter- tryp-
+sin inhibitor, heavy chain H4 and transthyretin may be associated with
+the ovarian cancer disease status (data not shown).
+
+these results support
+
+The use of proteomics to identify potential biomarkers has been
+explored previously for the detection of a number of cancers including
+prostate (13, 42 44), colon (45), bladder (46), breast (12), and ovarian
+(9, 17). For example, Petricoin et al. reported the use of self-organiz-
+ing map coupled with genetic algorithm to search through raw mass
+spectrum data for informative variables and to form clusters of train-
+
+Table 5 Comparison of distributions of serum levels of CA125 and the discovered biomarkers among 142 archived samples for independent validation using immunoassays for
+
+Diagnostic groups
+
+n
+
+Age
+
+mean  SD
+
+Healthy control
+Stage III/IV ovarian cancer
+Breast cancer
+Colon cancer
+Prostate cancer
+* P estimated by Mann-Whitney U test.
+
+41
+41
+20
+20
+20
+
+33  10
+59  11
+53  14
+70  15
+57  7
+
+apolipoprotein A1 and transthyretin
+
+Biomarker level (concentration) (mean  SD, median) and P
+
+CA125 (units/ml)
+17.9  23.0 (10.2)
+
+2387.9  4723.3 (426.6)
+
+13.4  13.0 (7.9)
+17.0  14.2 (10.9)
+13.1  21.2 (7.6)
+
+P
+
+Apolipoprotein A1 (mg/dl)
+
+P
+
+Transthyretin (mg/dl)
+
+P
+
+152.8  28.1 (154.3)
+121.5  41.9 (123.9)
+154.4  31.8 (145.9)
+144.2  39.7 (149.5)
+138.2  21.2 (136.1)
+
+0.0004
+0.77
+0.69
+0.02
+
+26.7  5.8 (25.1)
+19.8  7.1 (18.7)
+26.8  4.8 (26.4)
+22.4  5.1 (22.8)
+27.8  7.8 (29.8)
+
+0.00005
+0.51
+0.01
+0.22
+
+0.000000
+0.39
+0.86
+0.07
+
+5888
+
+OVARIAN CANCER BIOMARKERS FROM PROTEOMIC PROFILING
+
+ing samples as the basis of a predictive model. More recently, Kozak
+et al. (47) reported several panels of selected surface-enhanced laser
+desorption/ionization peaks for the detection of ovarian cancer. A
+number of these peaks and their expression patterns are consistent
+with those from our current or previous results (17).
+
+Biomarker discovery using clinical proteomics involves the simul-
+taneous analysis of expression levels of many proteins measured on a
+relatively few clinical samples. The difficulty in statistical analysis is
+complicated additionally by the possibility of nondisease-related bi-
+ases and variability in data from preanalytical and analytical variables
+and within-group heterogeneity associated with clinical samples. A
+major concern has always been whether the discovered biomarkers
+and the derived multivariate models are truly associated with the
+disease process. Recent reports examined and highlighted the danger
+of such issues (26, 38, 48). The current study had a number of features
+that were designed to alleviate the impact of these factors. First, only
+the intensities of detectable peaks were used in analysis, which in
+general are less sensitive to mass shift in raw spectrum data, and the
+discovered biomarkers are more likely to have an identifiable biolog-
+ical identity. Second, biomarker discovery and construction of pre-
+dictive models were done in two separate stages. During the discovery
+stage, only linear models were used to evaluate the informativeness of
+individual peaks. The bootstrap resampling was used to additionally
+ensure that the peak selection results are robust among multiple
+subpopulations. It was only after a small group of biomarkers had
+been selected and individually validated across the multiple data sets
+that the more complicated nonlinear unified maximum separability
+analysis predictive models were derived to combine the multiple
+markers. It would have been difficult to explain and validate the exact
+roles of individual inputs if we had started the peak selection directly
+with a complex nonlinear model using raw spectrum data. Third, in
+this study, the data sets from multiple sites were used separately to
+cross-validate discoveries from other data sets and to detect system-
+atic biases in data such as those because of differences in preanalytical
+sample processing procedures. This differs significantly from the
+approaches in which data from multiple sites are pooled together and
+then divided through randomization into (artificially made) identically
+distributed training and test data sets. Considering the high cost
+associated with post discovery validation, however, we believe that
+the conservative approach that we used is more close to the real
+clinical environment and appropriate for biomarker discovery through
+expression profiling. Finally,
+the identification of the discovered
+biomarkers allowed additional confirmation through immunoassay
+tests.
+
+Previous studies have illustrated the benefits of combining multiple
+markers and the longitudinal use of tumor markers in the detection of
+ovarian cancers (8, 49, 50). New biomarkers derived from proteomic
+analysis of clinical samples, once validated, may provide additional
+choices in the selection of an optimal panel of markers that, through
+a multivariate approach, would be capable of detecting early stage
+ovarian cancer in a more general population. Studies remain to be
+performed to evaluate these markers individually and in combination
+in larger populations and, most importantly, in preclinical samples
+from women with ovarian cancer obtained in screening trials. It
+should be pointed out, however, that intensity data from mass spectra
+measure the relative abundance of proteins. In this study, all of the
+surface-enhanced laser desorption/ionization data were generated un-
+der well-controlled conditions, with which we were able to demon-
+strate the performance of the combined three markers and their
+complementary value to CA125, using samples across multiple sites.
+The successful application of the multivariate predictive models to
+new clinical samples, however, will require additional work to assure
+the consistency of measured peak intensities between multiple runs
+
+and across different instruments and sites. Knowledge of the identities
+of the biomarkers will certainly help to expedite future development
+of assays.
+
+REFERENCES
+
+1. Jemal A, Thomas A, Murray T, Thun M. Cancer statistics, 2002. CA - Cancer J Clin
+

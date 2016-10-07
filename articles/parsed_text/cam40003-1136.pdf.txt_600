@@ -1,0 +1,200 @@
+citrullinated vimentin (VICM)
+[24] were assessed in
+serum samples using well
+characterized competitive
+enzyme-linked immunosorbent assay (ELISAs). The tar-
+gets were identied from in vitro and ex vivo studies and
+by use of mass spectrometry and all the biomarker assays
+are technically validated (see each reference for details).
+
+times
+
+in wash-buffer
+
+In brief, the assays were performed by dissolving a bioti-
+nylated synthetic target peptide in an optimized assay buf-
+fer that was added to a 96-well streptavidin coated plate,
+which then incubated for 30 min at 20C. The plate was
+washed ve
+(20 mmol/L Tris,
+50 mmol/L NaCl, pH 7.2) prior to addition of 20 lL target
+peptide calibrator or sample and 100 lL of a horseradish
+peroxidase-conjugated monoclonal antibody rose against
+the target peptide-sequence of interest. The plate incubated
+for 12 h at 20C or overnight at 4C, depending on the
+individual assay. The plate was washed ve times in wash-
+buffer and nally 100 lL tetramethylbenzinidine (Kem-En-
+Tec cat.438OH) was added and the plate was incubated for
+15 min at 20C in dark. The reaction was stopped by add-
+ing 100 lL of stopping solution (1% H2SO4) and the
+OD450650nm was measured.
+
+Statistical analysis
+
+The levels of the individual biomarkers in serum samples
+were compared using analysis of variance (ANOVA) test
+with Dunnetts test to adjust for multiple comparisons or
+an unpaired t-test on Log10 transformed data. Data are
+presented as Tukey box plots. The area under the receiver
+operating characteristics (AUROC) was calculated for
+each biomarker and for the biomarkers combined. A
+diagnostic decision tree was generated from specic cutoff
+values and analyzed using Fishers exact probability test
+and the chi-square test. Statistical analyses were per-
+formed using MedCalc Statistical Software v.12 (MedCalc
+Software, Ostend, Belgium) and GraphPad Prism v.6
+(GraphPad Software, La Jolla, CA). Results were consid-
+ered statistically signicant if P < 0.05.
+
+Results
+
+Extracellular matrix degradation and
+citrullinated vimentin degradation in serum
+from patients with various cancers and
+controlslung cancer stands out
+
+The levels of specic C1M, VICM, and ELM were mea-
+sured in serum from various cancer patients and healthy
+controls (Fig. 1A).
+
+C1M was signicantly elevated in all cancer types. The
+highest levels were reached in lung cancer patients with
+an average increase of eightfold (P < 0.0001) when com-
+pared to controls, and with the other cancer types having
+a two- to threefold average increase (P < 0.05) as com-
+pared to controls. Furthermore, lung cancer patients had
+signicantly higher levels of C1M when compared to the
+other cancer types (P < 0.050.0001).
+
+Together, these ndings indicate that altered collagen
+turnover is ongoing in cancer, with lung cancer having
+the highest levels of type I collagen degradation. This
+reects that alterations in the generation and degradation
+of collagens and release of specic protein fragments to
+the circulation are a pathological feature of cancer, espe-
+cially lung cancer.
+
+to
+
+compared
+
+For VICM, the levels were signicantly elevated only in
+lung cancer. The average increase was approximately ten-
+fold when
+controls
+(P < 0.0001) or the three other cancer types (P < 0.01
+0.0001). This nding indicates that citrullination and
+MMP-degradation of (secreted) vimentin and the release
+to the circulation is associated with lung cancer only and
+not other cancer types.
+
+either
+
+healthy
+
+Finally, no difference in the levels of ELM could be
+detected, indicating that alterations in the generation and
+release of these protein fragments to the circulation are not
+a pathological feature of the cancers analyzed in this study.
+Next, the AUROC was calculated as a measure of the
+diagnostic power of the biomarkers individually and com-
+bined. This was done for all lung cancer patients versus the
+healthy controls and for all lung cancers versus the other
+cancer types analyzed in this study combined (GI, prostate,
+and melanoma cancer) (Table 2). The results shows that
+when analyzing all lung cancer patients versus healthy con-
+trols the diagnostic power of C1M, and VICM individually
+were highly signicant with an AUROC of 0.97 and 0.85,
+respectively (P < 0.0001). The diagnostic power of ELM
+was somewhat poorer with an AUROC of 0.67 (P = 0.013).
+Interestingly, when combining C1M and VICM, a diagnos-
+tic power of 0.98 (P < 0.0001) was achieved, indicating
+that a complete discrimination between healthy controls
+and lung cancer patients is obtained. When the lung cancer
+patients were compared to the other cancers combined, the
+markers showed promising discriminative power as well.
+Here, C1M and VICM individually as well as C1M and
+VICM combined were highly signicant with AUROCs of
+0.81, 0.79, and 0.83, respectively (P < 0.001).
+
+Specicity of the markers for lung cancer as
+compared to other lung pathologies
+
+We wanted to address in more detail if the markers were
+specic for
+lung
+
+lung cancer as compared to other
+
+1138
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+(A)
+1000
+
+800
+
+600
+
+400
+
+200
+
+L
+m
+g
+n
+
+/
+
+C1M
+*
+****
+
+****
+
+****
+
+*
+
+*
+
+*
+
+VICM
+**
+
+**
+
+****
+
+****
+
+250
+
+200
+
+150
+
+100
+
+50
+
+L
+m
+g
+n
+
+/
+
+ELM
+
+80
+
+60
+

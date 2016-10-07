@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -eu
+here=${0%/*} name=${0##*/}
+export LD_LIBRARY_PATH="$here"/dist/stage/lib/dw${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}
+exec -a "$name" "$here"/sampler-dw.bin "$@"

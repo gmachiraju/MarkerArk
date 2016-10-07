@@ -1,0 +1,137 @@
+e2_idxs	e1_label	e2_label	sent_id	e1_idxs	doc_id	is_correct
+[23, 24, 25, 26]	MarkerName	Diseases	1	[14]	thing.txt	true
+[68, 69, 70, 71]	MarkerName	Diseases	1	[14]	thing.txt	false
+[73]	MarkerName	Abb	1	[14]	thing.txt	false
+[1, 2]	MarkerName	Diseases	5	[5]	thing.txt	true
+[34]	MarkerName	Abb	5	[5]	thing.txt	false
+[4]	MarkerName	Abb	13	[14]	thing.txt	true
+[15]	MarkerName	Abb	14	[23]	thing.txt	true
+[42]	MarkerName	Abb	14	[23]	thing.txt	true
+[2, 3, 4, 5]	MarkerName	Diseases	15	[9]	thing.txt	false
+[7]	MarkerName	Abb	15	[9]	thing.txt	false
+[2, 3, 4, 5]	MarkerName	Diseases	15	[11]	thing.txt	false
+[7]	MarkerName	Abb	15	[11]	thing.txt	false
+[32, 33]	MarkerName	Diseases	30	[18]	thing.txt	true
+[30]	MarkerName	Diseases	30	[18]	thing.txt	true
+[29, 30]	MarkerName	Diseases	31	[1]	thing.txt	true
+[32, 33, 34]	MarkerName	Diseases	35	[28]	thing.txt	false
+[17, 18]	MarkerName	Diseases	35	[28]	thing.txt	false
+[26]	MarkerName	Diseases	35	[28]	thing.txt	false
+[28]	MarkerName	Abb	35	[28]	thing.txt	false
+[36]	MarkerName	Abb	35	[28]	thing.txt	false
+[19]	MarkerName	Abb	36	[2]	thing.txt	true
+[38]	MarkerName	Abb	36	[2]	thing.txt	true
+[53]	MarkerName	Abb	36	[2]	thing.txt	true
+[26]	MarkerName	Abb	44	[4]	thing.txt	false
+[26]	MarkerName	Abb	44	[6]	thing.txt	false
+[26]	MarkerName	Abb	45	[12]	thing.txt	false
+[8]	MarkerName	Abb	47	[22]	thing.txt	false
+[16]	MarkerName	Abb	55	[28]	thing.txt	false
+[16]	MarkerName	Abb	55	[44]	thing.txt	false
+[7]	MarkerName	Abb	67	[29]	thing.txt	false
+[14, 15, 16, 17]	MarkerName	Diseases	98	[2]	thing.txt	true
+[6]	MarkerName	Diseases	116	[40]	thing.txt	false
+[8]	MarkerName	Abb	116	[40]	thing.txt	false
+[1, 2, 3, 4]	MarkerName	Diseases	122	[41]	thing.txt	false
+[6]	MarkerName	Abb	122	[41]	thing.txt	false
+[22]	MarkerName	Abb	130	[16]	thing.txt	true
+[10, 11, 12, 13]	MarkerName	Diseases	136	[6]	thing.txt	true
+[45, 46]	MarkerName	Diseases	136	[6]	thing.txt	false
+[10, 11, 12, 13]	MarkerName	Diseases	136	[25]	thing.txt	false
+[45, 46]	MarkerName	Diseases	136	[25]	thing.txt	true
+[10, 11, 12, 13]	MarkerName	Diseases	136	[81]	thing.txt	false
+[45, 46]	MarkerName	Diseases	136	[81]	thing.txt	false
+[30]	MarkerName	Abb	140	[11]	thing.txt	false
+[7]	MarkerName	Abb	141	[1]	thing.txt	false
+[27]	MarkerName	Abb	141	[1]	thing.txt	false
+[6]	MarkerName	Abb	143	[19]	thing.txt	false
+[42]	MarkerName	Abb	143	[19]	thing.txt	true
+[23, 24, 25, 26]	MarkerName	Diseases	152	[12]	thing.txt	false
+[28]	MarkerName	Abb	152	[12]	thing.txt	false
+[1, 2, 3, 4]	MarkerName	Diseases	159	[34]	thing.txt	false
+[6]	MarkerName	Abb	159	[34]	thing.txt	false
+[1, 2, 3, 4]	MarkerName	Diseases	159	[47]	thing.txt	true
+[6]	MarkerName	Abb	159	[47]	thing.txt	true
+[57, 58]	MarkerName	Diseases	162	[37]	thing.txt	true
+[73, 74]	MarkerName	Diseases	162	[37]	thing.txt	true
+[54]	MarkerName	Diseases	162	[37]	thing.txt	false
+[16, 17]	MarkerName	Diseases	164	[31]	thing.txt	true
+[54, 55]	MarkerName	Diseases	164	[31]	thing.txt	true
+[24]	MarkerName	Abb	164	[31]	thing.txt	true
+[32]	MarkerName	Diseases	166	[13]	thing.txt	true
+[1]	MarkerName	Abb	167	[1]	thing.txt	false
+[28]	MarkerName	Abb	167	[1]	thing.txt	false
+[1]	MarkerName	Abb	167	[28]	thing.txt	false
+[28]	MarkerName	Abb	167	[28]	thing.txt	false
+[39]	MarkerName	Abb	170	[6]	thing.txt	true
+[39]	MarkerName	Abb	170	[22]	thing.txt	false
+[39]	MarkerName	Abb	170	[26]	thing.txt	true
+[22, 23]	MarkerName	Diseases	185	[13]	thing.txt	true
+[35, 36]	MarkerName	Diseases	187	[43]	thing.txt	true
+[18]	MarkerName	Abb	188	[10]	thing.txt	true
+[6, 7]	MarkerName	Diseases	189	[17]	thing.txt	true
+[26]	MarkerName	Abb	193	[29]	thing.txt	true
+[26]	MarkerName	Abb	193	[63]	thing.txt	false
+[11, 12]	MarkerName	Diseases	197	[27]	thing.txt	true
+[16]	MarkerName	Abb	202	[12]	thing.txt	true
+[31]	MarkerName	Abb	202	[12]	thing.txt	false
+[16]	MarkerName	Abb	202	[36]	thing.txt	false
+[31]	MarkerName	Abb	202	[36]	thing.txt	true
+[4]	MarkerName	Diseases	207	[18]	thing.txt	true
+[4]	MarkerName	Diseases	207	[20]	thing.txt	true
+[14]	MarkerName	Abb	210	[21]	thing.txt	true
+[14]	MarkerName	Abb	210	[25]	thing.txt	true
+[14]	MarkerName	Abb	210	[39]	thing.txt	false
+[14]	MarkerName	Abb	210	[51]	thing.txt	false
+[24]	MarkerName	Abb	212	[13]	thing.txt	true
+[24]	MarkerName	Abb	212	[41]	thing.txt	false
+[45, 46, 47, 48]	MarkerName	Diseases	223	[10]	thing.txt	false
+[12, 13, 14]	MarkerName	Diseases	223	[10]	thing.txt	false
+[23, 24, 25]	MarkerName	Diseases	223	[10]	thing.txt	false
+[10]	MarkerName	Abb	223	[10]	thing.txt	false
+[21]	MarkerName	Abb	223	[10]	thing.txt	false
+[43]	MarkerName	Abb	223	[10]	thing.txt	false
+[45, 46, 47, 48]	MarkerName	Diseases	223	[27]	thing.txt	false
+[12, 13, 14]	MarkerName	Diseases	223	[27]	thing.txt	false
+[23, 24, 25]	MarkerName	Diseases	223	[27]	thing.txt	false
+[10]	MarkerName	Abb	223	[27]	thing.txt	false
+[21]	MarkerName	Abb	223	[27]	thing.txt	false
+[43]	MarkerName	Abb	223	[27]	thing.txt	false
+[45, 46, 47, 48]	MarkerName	Diseases	223	[35]	thing.txt	false
+[12, 13, 14]	MarkerName	Diseases	223	[35]	thing.txt	false
+[23, 24, 25]	MarkerName	Diseases	223	[35]	thing.txt	false
+[10]	MarkerName	Abb	223	[35]	thing.txt	false
+[21]	MarkerName	Abb	223	[35]	thing.txt	false
+[43]	MarkerName	Abb	223	[35]	thing.txt	false
+[45, 46, 47, 48]	MarkerName	Diseases	223	[50]	thing.txt	false
+[12, 13, 14]	MarkerName	Diseases	223	[50]	thing.txt	false
+[23, 24, 25]	MarkerName	Diseases	223	[50]	thing.txt	false
+[10]	MarkerName	Abb	223	[50]	thing.txt	false
+[21]	MarkerName	Abb	223	[50]	thing.txt	false
+[43]	MarkerName	Abb	223	[50]	thing.txt	false
+[21]	MarkerName	Abb	249	[18]	thing.txt	false
+[12, 13, 14, 15]	MarkerName	Diseases	289	[2]	thing.txt	false
+[7]	MarkerName	Abb	300	[7]	thing.txt	false
+[8]	MarkerName	Diseases	305	[1]	thing.txt	false
+[11]	MarkerName	Diseases	305	[1]	thing.txt	false
+[19]	MarkerName	Diseases	334	[12]	thing.txt	true
+[16, 17, 18, 19]	MarkerName	Diseases	338	[1]	thing.txt	true
+[4]	MarkerName	Diseases	338	[1]	thing.txt	true
+[7, 8]	MarkerName	Diseases	354	[0]	thing.txt	true
+[2]	MarkerName	Diseases	358	[8]	thing.txt	true
+[2]	MarkerName	Diseases	358	[10]	thing.txt	true
+[2]	MarkerName	Diseases	358	[15]	thing.txt	true
+[23, 24, 25]	MarkerName	Diseases	366	[5]	thing.txt	true
+[23, 24, 25]	MarkerName	Diseases	366	[9]	thing.txt	true
+[23, 24, 25]	MarkerName	Diseases	366	[21]	thing.txt	false
+[7, 8]	MarkerName	Diseases	400	[4]	thing.txt	false
+[7, 8]	MarkerName	Diseases	400	[13]	thing.txt	false
+[9, 10, 11]	MarkerName	Diseases	410	[7]	thing.txt	false
+[14, 15, 16, 17]	MarkerName	Diseases	487	[9]	thing.txt	false
+[9]	MarkerName	Diseases	492	[4]	thing.txt	false
+[9]	MarkerName	Diseases	492	[14]	thing.txt	true
+[17, 18]	MarkerName	Diseases	498	[3]	thing.txt	true
+[17, 18]	MarkerName	Diseases	498	[6]	thing.txt	true
+[17, 18]	MarkerName	Diseases	498	[8]	thing.txt	true
+[2, 3]	MarkerName	Diseases	526	[16]	thing.txt	true
+[2, 3]	MarkerName	Diseases	526	[20]	thing.txt	true

@@ -1,0 +1,200 @@
+367896, containing a coagulation coactivator and kept at ambient temperature (20-25C)
+before centrifugation. They were centrifuged at 1500g at ambient temperature (20-25C)
+after 45 minutes and within 2 hours were aliquoted and snap frozen in liquid nitrogen and
+immediately stored at -80C. Of the 150 breast carcinoma patients, 32 were stage 1, 57 were
+stage 2A or 2B, 27 were stage 3A or 3B and stage information was not available for the
+remaining 34. Supplementary Table 1 contains detailed information on the 150 breast cancer
+patient samples including their histology, grading (Elston-Ellis), diameter (cm), pT, pTNM,
+stage and age. Clinical grades 1, 2 and 3, corresponding to 26, 62 and 56 patients,
+respectively, were included in this study. The clinical characteristics of the breast cancer
+patients are described later. Serum samples, obtained from Venice, Italy, from all patients
+were stored at -80C until further analysis. Our protocols have been approved by the review
+boards of the participating institutions.
+
+Measurement of ALCAM, CA15-3 and CEA in serum
+
+The concentration of ALCAM in serum was measured by using a highly sensitive and
+specific non-competitive sandwich-type ELISA, developed in our laboratory. The assay is
+based on mouse monoclonal antibody capture and biotinylated mouse monoclonal detection
+antibody (both obtained from R&D Systems, Minneapolis, MN). The assay has a detection
+limit of 0.05g/L and a dynamic range of up to 10g/L. Precision was less than 10% within
+the measurement range. Serum samples were analyzed in triplicate with inclusion of two
+quality control samples in every run. In addition, CA15-3 and CEA were measured using a
+commercially available automated ELISA kit (Elecsys CA15-3 and CEA Immunoassay,
+respectively; Roche Diagnostics, Indianapolis, IN). The upper limit of normal for CA15-3
+for this method is 30 U/mL and for CEA is 5 ng/mL.
+
+Data analysis and statistics
+
+The relationships between biomarkers and patient and tumor characteristics were examined
+with the Kruskal-Wallis test, a nonparametric method for examining differences among
+multiple groups. Spearman's rank correlation coefficient was used to assess the correlations
+among biomarkers. Logistic regression was performed to calculate the odds ratio (OR) that
+defines the relation between biomarkers and case or control status. OR were calculated on
+log-transformed biomarkers and were represented with their 95% confidence interval (95%
+CI) and two-sided p-values.
+
+To further evaluate the diagnostic usefulness of the markers for dichotomous classification,
+we considered receiver operating characteristic (ROC) curve analysis. For each ROC curve,
+we calculated the area under the curve (AUC). Bootstrap method was used to calculate the
+confidence intervals for AUC. The ROC analysis was first conducted on individual markers
+and then in combination, to explore the potential that a marker panel can lead to improved
+performance. We considered an algorithm that renders a single composite score using the
+linear predictor fitted from a binary regression model. This algorithm has been justified to be
+optimal under the linearity assumption20 in the sense that ROC curve is maximized (i.e.,
+best sensitivity) at every threshold value. Since an independent validation series was not
+available for this study, the predictive accuracy of the composite scores was evaluated based
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 4
+
+on re-sampling of the original data. All analyses were performed using Splus 8.0 software
+(Insightful Corp., Seattle WA).
+
+Results
+ALCAM ELISA Assay Development
+
+To ensure that the immunoassay was suitable for measuring clinical serum samples, the
+recovery, reproducibility, linearity, cross-reactivity and serum sample stability were
+examined. Recombinant human ALCAM protein was added into the general diluent
+(control), normal serum (male and female) and into serum of breast cancer patients at
+different concentrations, and measured with the ALCAM immunoassay. A recovery of
+90-100% was observed in these samples. The assay also showed negligible cross-reactivity
+to another adhesion molecule of the Ig-SF, B-cell adhesion molecule14, displayed excellent
+linearity with serial dilutions and showed < 10% CV for intra- and inter-assay variability
+studies (Supplementary Figure 2). Finally, the design of the stability study consisted of
+collecting serum at different time points (2 weeks, 4 weeks and fresh samples) and storing
+them at 4C, 20C and 80C. ALCAM levels were measured in these samples using the
+immunoassay. No difference was observed among the samples stored at the different
+temperature conditions and among the different time point collections, compared to the
+freshly obtained samples.
+
+Association of Biomarkers with Age
+
+Since cases and controls were not matched for age, we first explored if marker values
+differed by age. The comparisons between cases and controls were based on data from
+females only. While no change with age was observed for CA15-3 concentrations, the level
+of CEA appeared to increase with age for both cases and controls. With respect to ALCAM,
+there was a trend for marker level to increase with age for cases but not for controls (See
+Supplementary Figure 3).
+
+Correlations Among Biomarkers
+
+Spearman's rank correlation coefficients were used to assess the correlations among markers
+for female controls and cases, respectively, and the results are listed in Table 1. CEA
+appeared to be weakly correlated with ALCAM in both cases (Spearman r = 0.371, p <
+0.001) and controls (Spearman r = 0.348, p = 0.001), whereas CA15-3 was weakly
+correlated with ALCAM among cases only (Spearman r = 0.2, p = 0.015).
+
+Association of Biomarkers with Tumor Characteristics for Cases
+
+The association of ALCAM, CA15-3 and CEA with patient and tumor characteristics such
+as age, tumor diameter, ER and PgR status, grade, histology, ratio of lymph node positive
+(lpos) and total lymph nodes (ltot), menopausal status, and stage were examined. A
+significant association was obtained for the following clinicopathologic variables: age
+(<=50, 51-60, 61-70 and >70), menopausal status (pre- and post-menopausal), and stage (I,
+II, III). The distributions of each marker in cases for these variables are given in Table 2.
+Post-menopausal women displayed higher values of CEA and ALCAM (all p < 0.001). As
+well, levels of ALCAM were not significantly associated with stage whereas CEA and
+CA15-3 were. Finally, while a statistically significant p-value was not obtained for an
+association between ALCAM values and tumor grade, a general trend was observed with
+elevated ALCAM levels corresponding to increased tumor grade (Supplementary Figure 4).
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I

@@ -1,0 +1,200 @@
+line of
+
+treatment,
+
+study design,
+
+the study, the number of patients with known BRAF mutation, the
+percentage of patients with Eastern Cooperative Oncology Group
+(ECOG) performance status #1point, the proportion of liver only
+metastasis,
+chemotherapy
+regimens, anti-EGFR MoAbs used and the response criteria. For
+clinical outcome, we collected the number of responders for
+calculating RRs and 95% estimation intevals for ORR. We also
+extracted HRs and 95% credibility intervals for PFS and OS. If
+separate HR was not provided, we estimated HR and its variance
+from published survival curves by previously described methods
+and models [14,15]. Adjusted HRs and estimation intervals were
+also collected when reported.
+
+Overall response included complete response (CR) and partial
+response (PR), non-response consisted of stable disease (SD) and
+progression disease (PD) according to the Response Evaluation
+Criteria in Solid Tumors
+(RECIST) [16] or World Health
+Organization (WHO) criteria [17]. PFS was defined as the time
+from the initiation date of anti-EGFR moAbs therapy to first
+evidence of disease progression or death of any cause, OS was
+defined as the time from the initiation date of anti-EGFR moAbs
+therapy to death of any cause. Outcome data were extracted
+separately in unselected population and in KRAS WT population.
+All data above were extracted by two independent investigators.
+When discrepancies existed, discussions were made to reach a
+consensus.
+
+Assessment of Study Quality
+
+For assessing the risk of bias in individual study, we used the
+Haydens criteria to assess the quality [18]. This is based on six
+domains of potential study biases which should be included in a
+review of prognostic studies: study participation, study attrition,
+measurement of prognostic factors, measurement of confounding
+variables, mesurement of outcomes, and analysis methods. The
+criteria is not scored, but we designed a scoring scale based on the
+Haydens criteria with some modifications to this study to quantize
+the assessment. The maximum score for each item was 2. Studies
+scoring 1012 were defined as high quality, while these scoring 0
+9 were considered low quality, just as previously defined by Maan
+ZN, et al. [19] (Table S1).
+
+Statistical Analysis
+
+We described statistics for baseline characteristics across eligible
+studies. A Risk ratio (RR) of ORR was calculated by the formula
+a=(azb)=c=(czd)
+(a, b represented for the numbers of
+responders and nonresponders in BRAF mutant; c,d represented
+for the numbers of responders and nonresponders in BRAF WT in
+the same arm ) [20]. A HR and its variance were used directly if
+the trials provided. If not appropriate for direct analysis, we
+converted a HR and variance according to previous reported
+methods [14,15]. When not reported, a HR was estimated
+indirectly from other statistics such as log rank p value or
+calculated from published Kaplan-Meier
+survival curves by
+methods and models previously mentioned [14,15,21]. A RR,1
+for response (BRAF mutation vs BRAF WT), and HRs,1 for PFS
+and OS (BRAF WT vs BRAF mutation) revealed poorer pognosis
+of patients with mutated BRAF over these with WT BRAF in anti-
+EGFR treatments.
+
+Between-trial heterogeneity was assessed by both Q2 statistic
+and I2 statistic for more reliability. For Q2 statistic, significant
+heterogeneity existed when p value was less than 0.10 [22]. For I2
+statistic, values above 50% were deemed to suggest
+large
+heterogeneity; values between 25%50% indicated modest het-
+erogeneity; values below 25% meant low heterogeneity [23]. But
+the values could be largely uncertain when few trials were pooled.
+
+PLOS ONE | www.plosone.org
+
+2
+
+June 2013 | Volume 8 |
+
+Issue 6 | e65995
+
+If the results of Q2 statistic and I2 statistic were conflicted, the
+conclusion of I2 statistic was adpoted. The effect sizes across trials,
+namely pooled HRs and RRs, were estimated using the fixed-
+effect model by Mantel-Haenszel method when no significant
+heterogeneity existed(X2 test: p$0.10). A random-effect model by
+Dersimonian and Laird method was adopted when there was a
+noted heterogeneity (X2 test: p,0.10) [22,24]. The source of
+heterogeneity was explored by sensitivity analysis when large
+heterogeneity was presented. All p values reported were two-sided.
+(P,0.05
+represented existing publication bias) and were reflected by visual
+symmetry of Beggs funnel plot on the natural logarithm of RRs or
+HRs [25].
+
+Publication bias were assessed by Eggers
+
+test
+
+Prespecified subgroup analysis was conducted in KRAS WT
+patients, as increasing evidence suggested KRAS mutation to be a
+predictor for resistance to anti-EGFR MoAbs therapy [26].
+Subgroup analysis was also conducted according to different study
+types such as retrospective, prospective trials and RCT in both
+unselected population and KRAS population, to explore whether
+the results of meta-analysis from different study types being
+consistent. Sensitivity analyses were performed to evaluate the
+stability of pooled results by deleting one trial each time. The
+source of heterogeneity was also explored when strong heteroge-
+neity between-trial existed. All the statistical analyses in the meta-
+analysis were performed with STATA software, version 11.0 (Stata
+Corporation, College Station, TX, USA, http://www.stata.com).
+
+Results
+
+Study Selection and Characteristics
+
+for
+
+records
+
+Total 318 potentially relevant
+
+retrieval were
+identified from Pubmed (n = 55), Web of Knowledge (n = 32),
+the Cochrane Library (n = 14), and OVID (n = 217). After reading
+headings and abstracts, 251 records were excluded. The remaining
+67 full-texts articles were assessed for eligibility. We excluded 51
+studies which did not meet eligibility criteria. Five additional trials
+were identified by manually searching the preference lists of
+previous meta-analysis, major meetings, primary studies and
+major journals. Finally, 21 eligible trials were included into the
+meta-analysis (Figure 1).
+
+based
+
+theapy,while
+
+used Panitumumab
+
+As for the line of chemotherapy, six trials [2732] used anti-
+EGFR MoAbs therapy as the first line, eight trials [3340] as
+$second line (second or higher line), three trials [4143] as $first
+line (including first, second and higher in the same trial), while four
+trials [4447] did not report the line of treatment. Fifteen trials
+[2733,3540,44,45] used cetuximab based therapies. One trial
+[43]
+trials
+[34,41,42,46,47] applied Cetuximab and Panitumumab in the
+same trial. Fifteen trials
+[28,31,32,3442,44,45,47] evaluated
+response according to RECIST criteria, three trials [27,29,30]
+according to WHO criteria,
+two trials [33,43] according to
+RECIST or WHO criteria in the same trial, while one trial [46]
+did not report response criteria. The 21 trials compared different
+types of eligible regimens. Four trials [2730] involved two arms in
+each trial, one trial [32] involved three arms. The most commonly
+applied regimen was Cetuximab plus Irinotecan (in eleven trials).
+For quality assessment, ten studies [2734,44,45] were within high
+quality scoring from 10 to 12, while eleven studies [3543,46,47]
+were within low quality scoring from 79 (Table 1).
+
+five
+
+Of these trials enrolled,
+
+fourteen trials [3337,3947] were
+retrospective trials. Five trials [2730,32] were RCTs. Two trials
+[31,38] were prospective trials (Table 2). A total of 5226 patients
+were analyzed. BRAF status was available among 4616 patients
+(88.3% of the total analyzed). 343 patients (7.4% of the patients
+
+BRAF Mutation in Metastatic Colorectal Cancer
+
+with known BRAF status) displayed BRAF mutations. The
+mutated site was mostly V600E mutation at the extron 15 of
+BRAF gene. Around 60% of patients enrolled were men and
+median age were 6173 years across trials. The majority of
+patients had good performance status with the proportion of
+ECOG/WHO score 01 point being more than 90%. Five trials
+[27,28,30,32,35] reported metastases confined to the liver only
+and the average percentage of liver only metastases was 24%
+(Table 2).
+
+Eighteen trials of 21 trials reported the numbers of responses:
+ten trials [28,32,35,3843,47] reported responses in unselected
+population, seven trials [27,30,33,34,36,37,45] reported responses
+in KRAS WT population, one trial [46] reported in both
+population. The remaining three trials [29,31,44] did not report
+the number of responses. As for HRs and estimation intervals of
+PFS and OS in all 21 trials, three trials [33,43,46] reported HRs
+and estimation intervals in both unselected patients and KRAS

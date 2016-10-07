@@ -1,0 +1,200 @@
+
+LC-MS/MS analysis was done using a LC Packings nano-LC system
+(Dionex) with a nanoelectrospray interface (Protana) and QqTOF mass
+spectrometer (QSTAR XL, Applied Biosystems). A New Objective
+PicoTip tip (inner diameter, 8 mm) was used for electrospraying with
+the voltage at 1,850 V for online MS and MS/MS analyses. The samples
+
+were first loaded onto a home-packed C18 precolumn (300 Am 
+1 mm; particle size, 5 Am) and then injected onto a LC Packings
+PepMap C18 column (75 Am  150 mm; particle size, 5 Am) for
+
+nano-LC separation at a flow rate of 250 nL/min.
+
+Identification of the peptides and represented proteins was realized
+by using the Mascot database search engine (version 1.9; Matrix
+Science). All searches were done against the EBI human IPI database
+(version 2.0.1). In all searches, one missed tryptic cleavage was allowed,
+and a mass tolerance of 0.3 Da was set for the precursor and product
+ions. A Mascot score of >25 with P < 0.05 was considered a significant
+match. False-positive rates were determined using the method described
+in the Mascot manual. Briefly, false-positive rate was calculated by
+multiplying the number of false-positive identifications (hits to the
+decoy database constructed from randomized sequences) and dividing
+by the number of total identifications. The estimated false-positive rate
+was determined to be 2% or less.
+
+Two-dimensional gel electrophoresis. Two-dimensional gel electro-
+phoresis (2-DE) with Sypro-Ruby staining was used to map out the
+proteins in the same pooled saliva samples from either OSCC (n = 16)
+or matched control subjects (n = 16). The proteins in both samples
+were precipitated by cold ethanol at -20jC for overnight. Following
+centrifugation at 14,000  g for 20 min, the supernatants were removed
+and the pellets were washed with cold ethanol and then collected for
+total protein assay using a 2D Quant kit (Amersham). Briefly, 100 Ag of
+total proteins from each pooled samples were used for comparative
+2-DE analysis. Isoelectric focusing was done using immobilized pH
+gradient strips (11-cm long, pI 3  10 NL; Bio-Rad) on a Protean
+isoelectric focusing cell (Bio-Rad), and SDS-PAGE was done in 8% to
+16% precast gels on a Criterion Dodeca Cell (Bio-Rad). Fluorescent
+
+www.aacrjournals.org
+
+6247
+
+Clin Cancer Res 2008;14(19) October 1, 2008
+
+Imaging, Diagnosis, Prognosis
+
+Sypro-Ruby stain (Molecular Probes-Invitrogen) was used to visualize
+protein spots.
+
+Gel images were acquired and analyzed using PDQuest software
+(Bio-Rad). Initially, the images were filtered to remove small noise
+features without affecting the protein spot. After normalization of spot
+signals based on the total gel density, a matched set was created
+between the two-dimensional gel image of the OSCC and control
+samples. Protein spots were automatically detected and matched and
+subsequently manually reviewed. Finally, the relative levels of protein
+spots between the disease and control patients were determined.
+
+Immunoassays. ELISAs were done to determine the levels of s90K/
+Mac-2 binding protein (M2BP; IBL-Hamburg), histone H1 (ALPCO
+Diagnostics), and S100A9 and S100P (CycLex Co.) in saliva samples
+from OSCC and matched control subjects. Samples were analyzed, in
+duplicate, and the protein levels were determined according to
+calibration curves established from standards.
+
+Immunoblotting was also done to compare the protein levels
+between OSCC and matched control subjects. The antibodies used
+included MRP14 (S100A9), profilin (Cell Signaling), CD59 (Abcam),
+catalase (Abcam), Ras-related protein Rab-7 (Lab Vision), hematopoi-
+etic lineage cell  specific protein (Novus Biologicals, Polyclonal) and
+moesin (Abcam). Saliva samples from equal numbers of OSCC and
+control subjects were separated on a 4% to 12% NuPAGE gel
+(Invitrogen) at 150 V and then transferred to polyvinylidene difluoride
+membranes using an Invitrogen iBLOT transfer module. After saturating
+with 5% milk in TBS-Tween 20 buffer overnight at 4jC, the blots were
+sequentially incubated with primary antibody and horseradish perox-
+idase  conjugated IgG secondary antibody (Amersham). Finally, the
+bands were detected by enhanced chemiluminescence (Amersham)
+and quantified using the Scion Imaging software. Immunoblotting of
+actin in OSCC and control subjects was also done for normalization of
+densitometric signals.
+
+Statistical analysis. The Western blotting data for MRP14, CD59,
+profilin, and catalase were normalized against the corresponding actin
+levels from the same samples. The normalized values for MRP14,
+CD59, profilin, and catalase as well as the ELISA data for M2BP were
+used for further analysis. The reported P values were based on a
+nonparametric test using the Wilcoxon rank sum test.
+
+We built a logistic regression model and conducted receiver
+operating characteristic (ROC) curve analyses to evaluate overall
+predictive power of the combined five candidate protein biomarkers
+(M2BP, MRP14, CD59, profilin, and catalase). The optimal cut point
+was determined for each biomarker by identifying the value that yielded
+the maximum corresponding sensitivity and specificity. ROC curves
+were then plotted based on the set of optimal sensitivity and specificity
+values. Area under the curve was computed via numerical integration of
+the ROC curves. All statistical data analysis was done using the
+statistical software package R 2.5.0.
+
+We used leave-one-out cross-validation to validate the logistic
+regression model. The cross-validation strategy first removes one
+observation and then fits a logistic regression model
+from the
+remaining cases with all of the markers. Stepwise model selection is
+used for each of these models to remove variables that do not improve
+the model. Subsequently, we used the marker values for the case that
+was left out to compute a predicted class for that observation. The cross-
+validation error rate is then the number of samples predicted incorrectly
+divided by the number of samples.
+
+Results
+
+To discover target proteins that can serve as potential markers
+for OSCC detection, we used a subtractive proteomics approach
+to profile proteins in pooled saliva samples from 16 OSCC and
+16 healthy subjects. These cancer patients and healthy control
+subjects were very well matched in terms of gender (P = 1),
+ethnicity (P = 1), and age (P = 0.94) to minimize potential bias
+
+from these factors during the discovery phase. The total protein
+concentrations for each group were determined as 1.01 F 0.43
+mg/mL (OSCC, n = 16) and 1.07 F 0.59 mg/mL (control,
+n = 16; P = 0.74). Both pooled samples were initially
+prefractionated using reversed-phase LC, and subsequent in-
+solution tryptic digestion with LC-MS/MS of
+the resulting
+peptides allowed the identification of proteins in each collected
+fraction. As shown in Fig. 1A, the C4-LC profiles of intact saliva
+proteins from OSCC and healthy subjects are remarkably
+similar. We repeated the analysis of collected protein fractions
+using the same method and combined the searched results. In
+total, we identified 461 and 438 nonredundant proteins from
+both pooled samples, respectively,
+for OSCC and control
+samples and as shown in Fig. 1B. Most proteins (n = 409)
+overlap between the disease and control samples. However,
+52 proteins were found to be present in OSCC but are absent in
+the healthy control subjects (Supplementary Table S1), whereas
+29 proteins were found only in the healthy subjects but absent
+in OSCC patients (Supplementary Table S2). The proteins listed
+in both tables were all verified manually by examining the raw
+MS/MS spectra. Because our shotgun proteome analysis was
+done on the pooled cancer and control samples instead of the
+samples from individual subjects, we did not have the statistics
+for the spectral counting data. Some of the listed proteins were
+identified based on a single-peptide assignment. However, this
+study was based on accurate QqTOF MS analysis. Tandem mass
+spectra of peptides were obtained with better than 50 ppm
+mass accuracy and resolution routinely in excess of 5,000,
+providing very confident
+identification of proteins. Never-
+theless,
+these protein identifications need to be verified.
+We tested four proteins (CD59, involucrin, Ras-related protein
+Rab-7, and moesin) with single-peptide assignment. Their
+presence in OSCC saliva was all confirmed by immunoassays.
+As a comparison,
+the same pooled samples from OSCCs
+and matched controls were also profiled with 2-DE and
+remarkably similar patterns were observed (Fig. 1C). It has
+been challenging to produce decent
+two-dimensional gel
+patterns of WS proteins because WS contains amylase and
+immunoglobulins at extremely high abundance, which are very
+difficult to deplete.
+
+Among the large number of proteins that we found present in
+both OSCC and healthy subjects, many of them are differen-
+tially expressed as reflected by the differential number of MS/
+MS spectra (spectrum counting) observed from the shotgun
+proteomic analysis (Supplementary Table S3). For instance,
+MRP14 is a calcium-binding protein that has been implicated
+in different types of human cancers. From the two repeated
+analyses, 66 MS/MS spectra were observed for this specific
+protein in OSCCs, whereas only 18 MS/MS spectra were
+observed in healthy subjects. Further validation of MRP14 in a
+new patient cohort (n = 48 OSCCs; n = 48 controls) by
+immunoblotting confirmed that this protein is significantly
+overexpressed in saliva of patients with OSCC (Table 1).
+Conversely, polymeric-immunoglobulin receptor (PIGR; also
+known as hepatocellular carcinoma  associated protein TB6) is
+down-regulated in OSCC as reflected by the 24 MS/MS spectra
+observed in OSCC but 49 MS/MS spectra observed in healthy
+subjects. We were unable to validate this protein with immu-
+noassay due to unavailability of a commercial antibody. How-
+ever, down-regulation of PIGR in OSCC patients compared
+with healthy control subjects was verified by two-dimensional
+
+Clin Cancer Res 2008;14(19) October 1, 2008
+
+6248
+
+www.aacrjournals.org
+
+Salivary Protein Markers of OSCC
+
+Fig. 1. Subtractive proteomics and 2-DE profiling of proteins in pooled WS samples from 16 OSCC or 16 matched control subjects. A, the intact proteins in each pooled

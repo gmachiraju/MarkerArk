@@ -1,0 +1,300 @@
+
+1969
+
+Shen and Abate-Shen
+
+Figure 1. Progression pathway for human prostate cancer. Stages of progression are shown, together with molecular processes and
+genes/pathways that are likely to be significant at each stage. Adapted from Abate-Shen and Shen (2000).
+
+Prostatic intraepithelial neoplasia (PIN)
+and prostate cancer
+It is widely accepted that PIN represents a precursor for
+prostate cancer, although this relationship has not been
+demonstrated conclusively (Bostwick 1989; DeMarzo et al.
+2003). PIN is generally characterized at the histological
+level by the appearance of luminal epithelial hyperplasia,
+reduction in basal cells, enlargement of nuclei and nucleoli,
+cytoplasmic hyperchromasia, and nuclear atypia; in addition, high-grade PIN lesions generally display marked
+elevation of cellular proliferation markers (Bostwick
+1989; Shappell et al. 2004). In contrast with prostate cancer,
+however, basal cells are reduced in number in PIN, but are
+not absent.
+Although human prostate cancer displays significant
+phenotypic heterogeneity, >95% of prostate cancers are
+classified pathologically as adenocarcinoma, which has
+a strikingly luminal phenotype (Fig. 2). In biopsy specimens, prostate adenocarcinoma diagnosis can be confirmed by the absence of immunostaining using p63 and
+cytokeratin 5/14 antibodies, both of which detect basal
+
+cells (Humphrey 2007; Grisanzio and Signoretti 2008). In
+addition, a diagnosis of prostate cancer is supported by
+elevated immunostaining for a-methylacyl-CoA racemase (AMACR), a luminal marker that is overexpressed
+in carcinoma (Luo et al. 2002; Jiang et al. 2005; Humphrey
+2007). Similarly, prostate cancer arising in many mouse
+models displays a relatively luminal phenotype (Kim et al.
+2002d; X Ma et al. 2005). However, the overt histological
+appearance of prostate carcinoma in most genetically
+engineered mouse models often differs from that of
+typical human prostate cancer (Fig. 2).
+Subtypes of prostate cancer
+A notable difference between prostate cancer and other
+epithelial tumors, such as breast cancer, is the lack of
+distinguishable histopathological subtypes that differ in
+their prognosis or treatment response. The vast majority
+of prostate cancers correspond to acinar adenocarcinomas
+that express AR, while other categories of prostate
+cancer—such as ductal adenocarcinoma, mucinous carcinoma, and signet ring carcinoma—are extremely rare
+
+Figure 2. Histopathology of human and mouse
+prostate cancer. (A–D) Hematoxylin-eosin-stained
+sections of human prostate. (A) Benign normal
+tissue, with representative basal (bas) and luminal
+(lum) cells indicated. (B) PIN; arrows indicate
+regions of hyperplastic epithelium. (C) Well-differentiated adenocarcinoma. (D) Poorly differentiated adenocarcinoma. (E–H) Hematoxylin-eosinstained sections of anterior prostate from genetically engineered mouse models. (E) Normal
+tissue, with characteristic papillary tufting (arrowheads). (F) High-grade PIN. (G) Prostate carcinoma. (H) Prostate carcinoma with an invasive phenotype. We thank Dr. Robert Cardiff and Alexander Borowsky (School of Medicine,
+University of California at Davis) for providing images of human prostate specimens.
+
+1970
+
+GENES & DEVELOPMENT
+
+Molecular genetics of prostate cancer
+
+(Grignon 2004). Perhaps the most significant histological
+variant is neuroendocrine prostate cancer, which is generally classified as either small cell carcinoma or a carcinoid tumor, and represents <2% of prostate cancer cases
+(Grignon 2004). However, focal regions of neuroendocrine
+differentiation are more commonly observed in prostate
+adenocarcinoma, particularly following recurrence after
+prostatectomy and androgen deprivation therapy (Yuan
+et al. 2007; Komiya et al. 2009), and expression of the
+neuroendocrine marker chromogranin A is associated
+with the development of castration-resistant tumors
+and shortened time to disease recurrence (Kokubo et al.
+2005; Berruti et al. 2007). This prevalence of neuroendocrine differentiation after recurrence may be due to the
+lack of AR expression by neuroendocrine cells, which are
+inherently castration-resistant.
+While evidence of major subtypes of prostate cancer is
+lacking at the histopathological level, recent genomic
+analyses have provided increasing evidence for molecularly defined subtypes (Tomlins et al. 2008b; Palanisamy
+et al. 2010; Taylor et al. 2010). In particular, expression
+profiling analyses of prostate cancer specimens have not
+strictly defined molecular signatures associated with
+distinct cancer subtypes that specifically correlate with
+disease outcome (Singh et al. 2002; Lapointe et al. 2004;
+Tomlins et al. 2007b). However, oncogenomic pathway
+analyses that integrate analyses of gene expression, copy
+number alterations, and exon resequencing may provide
+a unified approach for distinguishing prostate cancer subtypes and stratifying patient outcome (Taylor et al. 2010).
+Furthermore, the existence of molecular subtypes has
+been supported by analyses of chromosomal rearrangements associated with prostate cancer; for example, prostate cancers containing the TMPRSS2-ERG translocation
+may be distinct from those that up-regulate SPINK1,
+which encodes a secreted trypsin inhibitor (Mehra et al.
+2007a; Tomlins et al. 2008b). Ongoing studies will undoubtedly assess whether these subtypes correlate with
+disease outcome or treatment response.
+Metastasis
+As noted above, although common sites of secondary
+metastasis for prostate cancer are lung, liver, and pleura,
+if prostate cancer metastasizes, it invariably goes to
+bone, where it forms characteristic osteoblastic lesions
+(Bubendorf et al. 2000; Logothetis and Lin 2005). Given
+the clinical importance of metastasis for patient outcome, the ability of prostate tumor cells to disseminate
+into the bone marrow and peripheral blood has been
+investigated in detail. Notably, a recent study showed
+that bona fide circulating tumor cells could be detected in
+the bone marrow of a significant proportion of patients
+with localized disease, suggesting that disseminated tumor cells have not attained full metastatic capability
+(Holcomb et al. 2008). Consistent with this interpretation, circulating tumor cells from patients with metastatic disease show multiple chromosomal rearrangements typical of advanced prostate cancer, consistent
+with genomic instability acquired during cancer progres-
+
+sion (Holcomb et al. 2008; Attard et al. 2009c; Leversha
+et al. 2009). However, the relationship of disseminated
+tumor cells to the formation of metastases remains unresolved, and the molecular factors that promote metastases of prostate cancer to bone are poorly defined.
+Mouse models of prostate cancer
+Xenograft models
+Traditionally, in vivo studies of prostate cancer have
+extensively used xenograft models of human prostate
+cancer, using cell lines or prostate tumors implanted into
+immunodeficient mice, either orthotopically into the
+prostate or transplanted onto the flank. For instance,
+xenografts derived from LNCaP cells have been used to
+generate genetically-related lines that vary in their androgen responsivity and metastatic potential (Thalmann
+et al. 2000). Similarly, several xenografts have been
+developed by transplantation of human prostate tumors,
+including the LuCaP and LAPC series, which display
+a spectrum of prostate cancer phenotypes (Ellis et al.
+1996; Craft et al. 1999b). Several of these human tissue
+xenografts have also given rise to prostate cancer cell
+lines, such as the VCaP line, which was derived from
+a bone metastasis (Korenchuk et al. 2001).
+Analyses of xenografts have yielded a vast amount of
+information about molecular mechanisms of prostate
+cancer, and have been useful for chemotherapeutic approaches. However, xenograft models are limited by a heterologous microenviroment (since human cells/tissues are
+grafted in mice), an inability to analyze stromal components (unless orthotopic grafting is employed), the lack of
+endogenous immune response (since the host mice are
+immunodeficient), and the lack of diversity of available
+established cell lines. In particular, the limited number of
+available prostate cancer cell lines is likely related to
+inherent difficulties in culturing luminal epithelial cells
+(Peehl 2005) (existing prostate cell lines have been reviewed
+in detail) (Sobel and Sadar 2005a,b). Of particular concern is
+that existing cell lines may have uncertain origins, as has
+been demonstrated for at least one ‘‘prostate’’ cell line that
+was actually derived from a bladder carcinoma line (van
+Bokhoven et al. 2001). Additionally, cell lines may have
+anomalous molecular properties (e.g., loss of AR expression
+and lack of TMPRSS2-ERG fusions) when compared with
+most human prostate tumors (Sobel and Sadar 2005a,b),
+which may limit their applicability. Nonetheless, xenograft
+systems remain popular for studies of chemotherapeutics,
+primarily due to their ease of use. Moreover, since they are
+of human origin, xenografts may be more likely to recapitulate molecular events involved in human prostate
+tumorigenesis than other experimental models.
+Tissue reconstitution models
+The tissue recombination and renal grafting methods
+originally developed to study epithelial–mesenchymal
+interactions during prostate organogenesis can be extended for investigation of prostate tumorigenesis in vivo.
+In particular, immortalized human and mouse prostate
+
+GENES & DEVELOPMENT
+
+1971
+
+Shen and Abate-Shen
+
+epithelial cell lines are available that can reconstitute
+benign prostate tissue with relatively normal histology
+following recombination with rodent embryonic urogenital mesenchyme and grafting into immunodeficient
+recipients (Hayward et al. 2001; Gao et al. 2004a; Jiang
+et al. 2010). Using such cell lines, gene expression can be
+directly manipulated in culture by overexpression or
+knockdown methods, followed by analysis of potential
+tumor phenotypes in vivo. Similarly, stromal components
+can also be investigated in tissue recombinants using
+immortalized urogenital mesenchyme cell lines to facilitate genetic manipulation (Shaw et al. 2006), or using
+carcinoma-associated fibroblasts (Olumi et al. 1999). Furthermore, this overall approach can been greatly extended
+by efficient lentiviral infection of dissociated prostate
+epithelial cells, followed by tissue recombination, allowing
+for overexpression and knockdown approaches for analysis
+of gene function (Xin et al. 2003, 2006; Zong et al. 2009).
+Finally, grafting methods can be used to evaluate the
+relative contribution of epithelial and stromal prostatic
+components for cancer progression (Kim et al. 2002a; Jeong
+et al. 2008), as well as to study cancer phenotypes in the
+prostate glands of mouse strains that display embryonic
+lethality, even prior to prostate formation (Wang et al.
+2000). Thus, tissue reconstitution methods represent powerful approaches to studying cancer mechanisms in both
+mouse and human prostates.
+Genetically engineered models
+The use of genetically engineered transgenic and knockout mice to produce autochthonous models of prostate
+cancer has represented a major avenue for prostate cancer
+investigations (Table 1). Most first-generation prostate
+cancer models used transgenes that overexpress potent
+viral oncogenes, resulting in highly aggressive disease
+that can often lead to metastatic cancer (Winter et al.
+2003; Kasper 2005). Among these models are the wellstudied TRAMP (transgenic adenocarcinoma of the prostate) mouse, which carries a minimal probasin promoter
+driving both SV40 large T and small t antigen (Greenberg
+et al. 1995), and the LADY models that use a larger
+probasin promoter and express large T antigen only
+(Masumori et al. 2001). However, transgenic mice that
+overexpress SV40 large T antigen typically have short
+latency, and develop cancer with features of neuroendocrine differentiation (Kaplan-Lefko et al. 2003; Shappell
+et al. 2004). Nonetheless, these first-generation models
+have provided numerous important insights into prostate
+cancer mechanisms.
+A second generation of prostate cancer models has used
+loss-of-function mutations in candidate genes implicated
+in the genesis of human prostate cancer (Table 1). Several
+popular models have employed null mutations in genes of
+interest, including Nkx3.1 and Pten (phosphatase and
+tensin homolog deleted from chromosome 10) (discussed
+below); for example, Nkx3.1; Pten double mutants show
+accelerated formation of high-grade PIN and invasive
+cancer (Kim et al. 2002d; Abate-Shen et al. 2003). Other
+commonly used models have employed conditional de-
+
+1972
+
+GENES & DEVELOPMENT
+
+letion mediated by the Pb-Cre4 transgene, which uses
+a modified probasin promoter (ARR2PB) to drive Cre
+expression in the prostate epithelium (Wu et al. 2001),
+although a potential concern is that this Cre allele also
+drives recombination in the stroma (X Wang and MM
+Shen, unpubl.). The Pb-Cre4 driver has been used by
+many laboratories for the conditional deletion of Pten as
+well as other genes of interest (Wang et al. 2003; Z Chen
+et al. 2005; Bruxvoort et al. 2007). Another popular Cre
+driver is the Nkx3.1-Cre knock-in allele, which expresses
+Cre recombinase specifically in the prostate epithelium,
+but also in several other tissues during embryogenesis
+(Stanfel et al. 2006; Lin et al. 2007; Thomsen et al. 2008;
+Zhang et al. 2008).
+Despite much recent progress, current genetically
+engineered models have several important limitations.
+First, constitutive conditional gene deletion systems
+generally result in deletion from early stages of prostate
+organogenesis, and cannot be initiated in the adult, or in
+a stochastic manner, as is the case with somatic mutations in human cancer. Thus, the development of an
+inducible gene targeting system that can be induced in
+adult prostate epithelium would allow the investigation
+of gene function in situations where normal prostate
+organogenesis would not proceed in the absence of the
+gene of interest. Recent publications have described the
+generation of tamoxifen-inducible Cre drivers that are
+likely to be suitable for such approaches (Luchman et al.
+2008; Ratnacaram et al. 2008; Birbach et al. 2009; Z Wang
+et al. 2009). Second, the use of a reversible transgene
+expression system, such as those driven by a tetracyclineregulated promoter, would allow the modeling of targeted
+therapeutic interventions on cancer growth, as well as
+potential acquisition of drug resistance and treatment
+failure. Such tetracycline-regulated models have been used
+successfully to investigate oncogene addiction in melanoma and mammary cancer models (Chin et al. 1999;
+Moody et al. 2002), but have not yet been employed in the
+prostate. Third, existing Cre drivers to investigate stromal
+function in prostate carcinogenesis are limited and nonspecific (Jackson et al. 2008), with the best available driver
+corresponding to the FSP1-Cre transgene (Bhowmick et al.
+2004). Fourth, all current prostate cancer models use
+androgen-dependent promoters to drive the cancer phenotype, either directly or indirectly, and thus are poorly suited
+to investigate the effects of modulating androgen levels,
+since androgen deprivation will simultaneously downregulate transgene expression. Finally, at present, there is
+no autochthonous model that reliably displays bone metastasis, which represents a major limitation in the study of
+advanced prostate cancer.
+Nonetheless, despite their limitations, analyses of
+genetically engineered mouse models of prostate cancer
+have significantly advanced our understanding of the
+molecular pathways of prostate cancer initiation, progression, and castration resistance. Additionally, investigations of genetically engineered mice have led to the
+identification of biomarkers that can predict disease
+recurrence, and have provided valuable preclinical resources for investigations of novel therapies and analyses
+
+Conditional loss-offunction models
+
+Loss-of-function models
+
+Gain-of-function
+transgenic models
+
+Type
+
+!/!
+
+and Nkx3.1flox/flox
+
+PB-Cre; Ptenflox/flox; p53flox/flox
+
+PSA-Cre-ERt2; Ptenflox/flox
+
+PB-Cre; Ptenflox/flox
+
+TMPRS-Erg; Pten+/!
+
+Pten+/!; p27!/! and Nkx3.1+/!; Pten+/!; p27+/!
+
+Nkx3.1+/!; Pten+/!
+
+Pten+/!
+
+Nkx3.1+/! and Nkx3.1
+
+iBraf* (Tet-BRAFV600E; Tyr-rtTA;
+Ink4a/Arf!/!)
+

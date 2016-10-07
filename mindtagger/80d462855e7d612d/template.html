@@ -1,0 +1,30 @@
+
+            <mindtagger mode="precision">
+
+              <template for="each-item">
+                
+         <strong>{{item.e1_label}} -- {{item.e2_label}}</strong>
+         
+                with probability <strong>{{item.probability | number:3}}</strong>
+                appeared in sentence {{item.sent_id}} of document {{item.doc_id}}:
+                <blockquote>
+                    <big mindtagger-word-array="item.words" array-format="json">
+                        
+         <mindtagger-highlight-words index-array="item.e1_idxs" array-format="json" with-style="background-color: yellow;"/>
+         <mindtagger-highlight-words index-array="item.e2_idxs" array-format="json" with-style="background-color: cyan;"/>
+         
+                    </big>
+                </blockquote>
+
+                <div>
+                  <div mindtagger-item-details></div>
+                </div>
+              </template>
+
+              <template for="tags">
+                <span mindtagger-adhoc-tags></span>
+                <span mindtagger-note-tags></span>
+              </template>
+
+            </mindtagger>
+            

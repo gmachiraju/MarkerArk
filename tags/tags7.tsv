@@ -1,0 +1,54 @@
+e2_idxs	e1_label	e2_label	sent_id	e1_idxs	doc_id	is_correct
+[9]	MATCHER	MATCHER	157	[0]	AGR2_blood_biomarker	false
+[13, 14, 15, 16]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[25, 26, 27, 28]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[8, 9]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[15, 16]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[27, 28]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[18]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[30]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[39]	MATCHER	MATCHER	4	[42]	AGR2_blood_biomarker	true
+[12, 13]	MATCHER	MATCHER	1	[4]	AGR2_blood_biomarker	true
+[8, 9]	MATCHER	MATCHER	2	[2]	AGR2_blood_biomarker	true
+[15, 16]	MATCHER	MATCHER	46	[3]	AGR2_blood_biomarker	true
+[20, 21]	MATCHER	MATCHER	47	[14]	AGR2_blood_biomarker	true
+[19, 20]	MATCHER	MATCHER	36	[10]	AGR2_blood_biomarker	UNKNOWN
+[11, 12]	MATCHER	MATCHER	35	[7]	AGR2_blood_biomarker	true
+[8, 9]	MATCHER	MATCHER	34	[0]	AGR2_blood_biomarker	true
+[25, 26]	MATCHER	MATCHER	34	[0]	AGR2_blood_biomarker	UNKNOWN
+[8, 9]	MATCHER	MATCHER	34	[13]	AGR2_blood_biomarker	UNKNOWN
+[25, 26]	MATCHER	MATCHER	34	[13]	AGR2_blood_biomarker	true
+[12, 13]	MATCHER	MATCHER	33	[0]	AGR2_blood_biomarker	true
+[12, 13]	MATCHER	MATCHER	33	[11]	AGR2_blood_biomarker	UNKNOWN
+[18]	MATCHER	MATCHER	129	[21]	AGR2_blood_biomarker	false
+[18]	MATCHER	MATCHER	129	[24]	AGR2_blood_biomarker	\N
+[10, 11, 12, 13]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[17, 18, 19, 20]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[12, 13]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[19, 20]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[8]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[15]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[25]	MATCHER	MATCHER	25	[2]	AGR2_blood_biomarker	\N
+[10, 11, 12, 13]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[17, 18, 19, 20]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[12, 13]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[19, 20]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[8]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[15]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[25]	MATCHER	MATCHER	25	[27]	AGR2_blood_biomarker	\N
+[10, 11, 12, 13]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[17, 18, 19, 20]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[12, 13]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[19, 20]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[8]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[15]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[25]	MATCHER	MATCHER	25	[33]	AGR2_blood_biomarker	\N
+[13]	MATCHER	MATCHER	80	[35]	AGR2_blood_biomarker	\N
+[13]	MATCHER	MATCHER	80	[41]	AGR2_blood_biomarker	\N
+[6, 7]	MATCHER	MATCHER	19	[3]	AGR2_blood_biomarker	\N
+[13, 14]	MATCHER	MATCHER	19	[3]	AGR2_blood_biomarker	\N
+[21, 22]	MATCHER	MATCHER	13	[3]	AGR2_blood_biomarker	\N
+[21, 22]	MATCHER	MATCHER	13	[8]	AGR2_blood_biomarker	\N
+[17, 18]	MATCHER	MATCHER	15	[3]	AGR2_blood_biomarker	true
+[18, 19]	MATCHER	MATCHER	16	[6]	AGR2_blood_biomarker	true
+[18, 19]	MATCHER	MATCHER	16	[31]	AGR2_blood_biomarker	true

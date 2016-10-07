@@ -1,0 +1,200 @@
+C1M
+VICM
+ELM
+C1M + VICM
+
+Versus other lung pathologies
+
+C1M
+VICM
+ELM
+C1M + VICM
+
+0.97
+0.85
+0.67
+0.98
+
+0.81
+0.79
+0.65
+0.83
+
+0.64
+0.59
+0.58
+0.66
+
+0.83
+0.84
+0.65
+0.88
+
+0.69
+0.66
+0.59
+0.72
+
+0.8950.994
+0.7520.926
+0.5430.784
+0.9561.0
+
+0.7140.891
+0.6880.872
+0.5380.751
+0.7360.924
+
+0.5110.758
+0.4550.709
+0.4500.705
+0.5220.795
+
+0.7510.913
+0.7680.920
+0.5180.776
+0.8230.940
+
+0.5450.803
+0.5150.778
+0.4500.722
+0.5860.835
+
+94
+100
+84
+100
+
+75
+93
+98
+91
+
+96
+78
+100
+96
+
+72
+86
+85
+71
+
+96
+78
+100
+87
+
+90
+65
+63
+90
+
+75
+63
+35
+65
+
+45
+56
+23
+45
+
+81
+69
+47
+94
+
+53
+63
+25
+56
+
+<0.0001
+<0.0001
+0.013
+<0.0001
+
+<0.0001
+<0.0001
+0.0157
+<0.0001
+
+0.046
+0.239
+0.265
+0.0225
+
+<0.0001
+<0.0001
+0.0254
+<0.0001
+
+0.013
+0.040
+0.237
+0.001
+
+levels between the lung cancer
+
+from the lung cancer population, the difference in bio-
+marker
+subtypes was
+assessed. When comparing SCLC and NSCLC we found
+that VICM (P < 0.001) was
+signicantly elevated in
+NSCLC as compared to SCLC with an average increase of
+threefold (Fig. 2A). Although no signicant difference
+could be detected with C1M (P = 0.142) on average a
+twofold increase was seen in NSCLC as compared to
+SCLC. For ELM no difference was detected. Overall, these
+ndings indicate that the tissue alterations assessed in this
+study is more pronounced in NSCLC as compared to
+SCLC. As shown in Table 2 when analyzing NSCLC ver-
+sus all other patients plus the healthy controls the diag-
+nostic power of C1M, and VICM individually were
+signicant with an AUROC of 0.83 and 0.84, respectively
+(P < 0.0001) and when combined (C1M + VICM) with
+an AUROC of 0.88 (P < 0.0001). Furthermore, NSCLC
+could be discriminated from other lung pathologies; when
+combining C1M and VICM an AUROC of 0.72 was
+obtained (P < 0.001).
+
+tool
+
+The tumor stage of disease is another important clin-
+in lung cancer cases. As illustrated in Fig-
+ical
+ure 2B, no signicant difference was detected between
+the different tumor stages. Thus, an association between
+
+stage and level of biomarkers could not be
+tumor
+detected in this
+the markers
+were elevated in all stages of the disease it may be sug-
+gested that they have potential as markers of early lung
+cancer.
+
+study. Furthermore, as
+
+Diagnostic decision tree for predicting the
+likelihood of having lung cancer
+
+In an attempt to produce a model for predicting the like-
+lihood of having lung cancer, a diagnostic decision tree
+was constructed. The initial split for being lung cancer
+positive was made at C1M >200 ng/mL and followed by
+VICM >27.5 ng/mL. The patient distribution and statis-
+tics according to this algorithm are illustrated in Figure 3
+and in Table 3. With a sensitivity of 45% and specicity
+of 98%, the two markers of C1M and VICM successfully
+identied a subpopulation of patients that with 90% cer-
+tainty (PPV 0.9) are positive for having lung cancer. This
+corresponds to 45% (18/40) of all
+lung cancer patient
+analyzed or 13% (18/140) of the tested population. This
+subgroup of patients with a high level of C1M and VICM
+as dened by the cutoff values described above had an
+odds ratio of 40 (95% CI 8.7186, P < 0.0001) suggesting
+

@@ -1,0 +1,200 @@
+Cancer Medicine
+
+ORIGINAL RESEARCH
+
+Open Access
+
+Serum biomarkers reecting specic tumor tissue
+remodeling processes are valuable diagnostic tools for lung
+cancer
+Nicholas Willumsen1,*, Cecilie L. Bager1,*, Diana J. Leeming1, Victoria Smith2, Claus Christiansen1,
+Morten A. Karsdal1, David Dornan2 & Anne-Christine Bay-Jensen1
+1Biomarkers & Research, Nordic Bioscience A/S, DK-2730 Herlev, Denmark
+2Biology, Gilead Sciences Inc., Foster City, California 94404
+
+Keywords
+Extracellular matrix, lung cancer, protein
+ngerprint, remodeling, serum biomarkers,
+tumor tissue
+
+Correspondence
+Nicholas Willumsen, Biomarkers & Research,
+Nordic Bioscience A/S, Herlev Hovedgade
+207, DK-2730 Herlev, Denmark.
+Tel: +45 44 52 52 52; Fax: +45 44 52 52 51;
+E-mail: nwi@nordicbioscience.com
+
+Funding Information
+None declared.
+
+Received: 28 February 2014; Revised: 10
+June 2014; Accepted: 24 June 2014
+
+Cancer Medicine 2014; 3(5):11361145
+
+doi: 10.1002/cam4.303
+
+*The authors contributed equally to the
+paper.
+
+Abstract
+
+Extracellular matrix (ECM) proteins, such as collagen type I and elastin, and
+intermediate lament (IMF) proteins, such as vimentin are modied and dys-
+regulated as part of the malignant changes leading to disruption of tissue
+homeostasis. Noninvasive biomarkers that reect such changes may have a great
+potential for cancer. Levels of matrix metalloproteinase (MMP) generated frag-
+ments of type I collagen (C1M), of elastin (ELM), and of citrullinated vimentin
+(VICM) were measured in serum from patients with lung cancer (n = 40), gas-
+trointestinal cancer (n = 25), prostate cancer (n = 14), malignant melanoma
+(n = 7), chronic obstructive pulmonary disease (COPD) (n = 13), and idio-
+pathic pulmonary brosis (IPF) (n = 10), as well as in age-matched controls
+(n = 33). The area under the receiver operating characteristics (AUROC) was
+calculated and a diagnostic decision tree generated from specic cutoff values.
+C1M and VICM were signicantly elevated in lung cancer patients as compared
+with healthy
+cancers
+(AUROC = 0.83 P < 0.0001). A trend was detected when comparing lung can-
+cer with COPD+IPF. No difference could be seen for ELM. Interestingly, C1M
+and VICM were able to identify patients with lung cancer with a positive pre-
+dictive value of 0.9 and an odds ratio of 40 (95% CI = 8.7186, P < 0.0001).
+Biomarkers specically reecting degradation of collagen type I and citrullinat-
+ed vimentin are applicable for lung cancer patients. Our data indicate that
+biomarkers reecting ECM and IMF protein dysregulation are highly applicable
+in the lung cancer setting. We speculate that these markers may aid in diagnos-
+ing and characterizing patients with lung cancer.
+
+(AUROC = 0.98, P < 0.0001)
+
+and other
+
+controls
+
+Introduction
+
+Lung cancer is a signicant health issue and the leading
+cause of cancer death [1, 2]. The disease is divided into
+small cell lung cancer (SCLC) and nonsmall cell lung can-
+cer (NSCLC), with ~8 of 10 being NSCLC.
+
+Currently, 75% of
+
+lung cancers are diagnosed late,
+when tumors may be unresectable and treatment options
+limited resulting in a 5-year survival rate of only 10% [3,
+4]. No practical way of screening patients at risk of lung
+cancer exists [5] and detection of
+lung cancer mostly
+relies on imaging modalities
+computerized
+tomography (CT) scans, which is not optimal [6]. Thus,
+
+such as
+
+improved diagnosis of
+enhanced survival.
+
+lung cancer
+
+is
+
+essential
+
+for
+
+lung
+
+cancer
+
+Blood-based molecular biomarkers, which indicate that
+patients have
+and/or dene high-risk
+patients will have an enormous clinical potential. Unfor-
+tunately, the serum biomarkers currently in use for lung
+cancer are limited to monitoring [7] and no validated
+molecular biomarkers for the early detection of
+lung
+cancer exist despite several
+investigations carried out
+with this purpose [8].
+
+Tumor biology includes a complex dynamic interaction
+between tumor cells and the microenvironment that may
+lead to a loss of overall tissue homeostasis and promote
+
+1136
+
+ 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd. This is an open access article under the terms of
+the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+
+N. Willumsen et al.
+
+Serum Biomarkers of Lung Cancer
+
+tumor progression [9]. Consequently, biomarkers that
+reect such structural changes in the tissue as a whole, and
+not just tumor cell changes, may have a great potential.
+
+Novel noninvasive molecular cancer biomarkers may be
+identied by exploiting a technology based on the concept
+that tumor-associated proteases and tumor signature pro-
+teins, potentially combined with specic posttranslational
+modications, result in release of unique protein degrada-
+tion fragments to the circulation [10]. The protein frag-
+ments contain pathology-specic neoepitopes that may
+serve as specic cancer biomarker targets that most likely
+enter the circulation by diffusing into the leaky vascula-
+ture found in tumor tissue.
+
+In lung cancer, the intermediate lament (IMF) protein
+vimentin has been shown to be applicable for clinical
+pathology [11]. In addition, vimentin is regarded as a
+canonical marker for the epithelial-to-mesenchymal tran-
+sition (EMT) [12]. Vimentin has been identied as a sur-
+face and secreted protein [1315] and may be a target for
+proteolytic cleavage. Furthermore, vimentin has been
+shown to be a target for citrullination by peptidylarginine
+deiminase (PAD) enzymes which are activated during
+apoptosis and inammation [16, 17].
+
+and
+
+development. ECM remodeling
+
+Extracellular matrix (ECM) remodeling is another key
+event in cancer [18]. The ECM integrating and surround-
+ing malignant tumors is a central part of disease regula-
+tion
+involves
+increased and altered local production of ECM proteins
+(a phenomenon known as brosis or desmoplasia) as well
+as increased and altered ECM degradation by upregulated
+matrix metalloproteinase (MMP) activity [19]. Conse-
+quently, this leads to a different composition and quality
+of the ECM as compared to the normal homeostatic state
+[20].
+
+In this study, we investigated whether serum biomarkers
+reecting ECM and IMF remodeling/dysregulation could
+be used to differentiate lung cancer patients from healthy
+controls, other lung pathologies, and other cancer types. In
+detail, we measured specic protein ngerprints reecting
+MMP-degradation and citrullination of vimentin, MMP-
+degradation of type I collagen, the main component of the
+structural interstitial ECM, and MMP-degradation of elas-
+tin which provides elasticity to the lung tissue.
+
+Material and Methods
+
+Patient samples
+
+After
+informed consent and approval by appropriate
+Institutional Review Board/Independent Ethical Commit-
+tee, serum was collected from patients and age-matched
+healthy controls with no symptomatic or chronic dis-
+ease. Patient samples were obtained from the commer-
+cial vendors Asterand (Detroit, MI) and Proteogenex
+(Culver City, CA) and the healthy controls were a pool
+of samples from Asterand and another study population

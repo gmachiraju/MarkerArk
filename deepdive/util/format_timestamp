@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+# format_timestamp -- Formats timestamp and duration since the last modified time of given file
+# > format_timestamp TIMESTAMP_FILE
+##
+set -eu
+
+# Based on: http://unix.stackexchange.com/a/27014/21080
+format_duration() {
+  local T=$1
+  if [[ $T -eq 0 ]]; then
+      echo "just now"
+  else
+      [[ $T -gt 0 ]] || let T=$((0 - T))
+      local D=$((T/60/60/24))
+      local H=$((T/60/60%24))
+      local M=$((T/60%60))
+      local S=$((T%60))
+      [[ $D -le 0 ]] || printf ' %dd' $D
+      [[ $H -le 0 ]] || printf ' %dh' $H
+      [[ $M -le 0 ]] || printf ' %dm' $M
+      [[ $S -le 0 ]] || printf ' %ds' $S
+  fi
+}
+
+[[ $# -gt 0 ]] || usage "$0" "Missing TIMESTAMP_FILE"
+
+for file; do
+    [[ -e "$file" ]] || continue
+    ts=$(date -r "$file" -Iseconds 2>/dev/null || date -r "$file" +%FT%T%z)
+    nsecs=$(( $(date +%s) - $(date -r "$file" +%s) ))
+    dur=$(format_duration $nsecs)
+    echo "$ts (${dur## } ago)"
+    exit
+done
+echo N/A

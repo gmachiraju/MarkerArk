@@ -1,0 +1,200 @@
+
+4540
+
+ 2013 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Surfactant Protein B and Lung Cancer
+
+Table 3. Logistic Regression Prediction Model With Log-Transformed Pro-SFTPB Predicting Lung Cancer in the Pan-Canadian Early Detection of
+
+Lung Cancer Study (n  2,233)
+
+Predictor Variables
+
+Age (per year)
+Sex (male v female)
+BMI (kg/m2)
+Personal history of cancer (yes v no)
+Pneumonia (yes v no)
+Family history of cancer (yes v no)
+FEV1 ratio of predicted
+Cigarettes smoked per day
+Smoking duration
+Log-proSFTPB
+Model constant
+
+OR
+
+1.023
+0.592
+0.957
+1.379
+1.341
+1.412
+0.270
+1.010
+1.034
+2.220
+
+95% CI
+
+0.978 to 1.070
+0.391 to 0.897
+0.912 to 1.005
+0.684 to 2.780
+0.876 to 2.055
+0.923 to 2.160
+0.091 to 0.804
+0.991 to 1.030
+0.989 to 1.082
+1.727 to 2.853
+
+P
+
+.326
+.013
+.077
+.369
+.177
+.112
+.019
+.292
+.142
+ .001
+
+Beta Coefcients
+
+0.0226304
+.5239236
+.0439466
+0.3215962
+0.2936113
+0.344805
+1.310217
+0.0102629
+0.0336636
+0.7975728
+6.948646
+
+Abbreviations: BMI, body mass index; FEV1 ratio of predicted, forced expiratory volume in one second % predicted; OR, odds ration; pro-SFTPB,
+prosurfactant protein B.
+
+than 1 year and more than 2 years after study entry, the hazard ratios
+for log-proSFTPB were 1.875 (95% CI, 1.346 to 2.610; P  .001;
+number of subjects with lung cancer, 53), and 1.650 (95% CI, 1.028 to
+2.649; P  .038; number of subjects with lung cancer, 26).
+
+For the CARET Study, pro-SFTPB levels were signicantly
+higher among NSCLC cases compared with controls (P  .001) and
+receiver operating characteristic analysis yielded an AUC of 0.683
+(95% CI, 0.604 to 0.761; Table 4 and Data Supplement for clinical
+characteristics). In terms of histologic subgroups, pro-SFTPB levels
+were signicantly increased in adenocarcinoma, but not in squamous
+cell carcinoma compared with matched controls. In multivariable
+logistic regression analysis, the risk of NSCLC increased along with the
+ .001,
+pro-SFTPB concentration gradient in the CARET set (Ptrend
+adjusted for matching variables; Table 4). The risk of NSCLC also
+increased per quintile increase (OR, 1.77 [95% CI, 1.35 to 2.33] ad-
+justed for matching variables; OR, 1.64 [95% CI, 1.22 to 2.20] adjusted
+for matching variables, pack-years, years since quitting smoking, as-
+bestos exposure, and BMI).
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+y
+t
+i
+
+v
+
+i
+t
+i
+
+s
+n
+e
+S
+
+Model with pro-SFTPB (log-transformed),
+AUC = 0.741
+Model without pro-SFTPB, AUC = 0.669
+Line of identity
+
+0
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1-Specificity
+
+Fig 2. Area under the receiver operating characteristic curves (AUCs) for the full
+in the Pan-
+
+model with and without prosurfactant protein B (pro-SFTPB)
+Canadian Early Detection of Lung Cancer Study.
+
+DISCUSSION
+
+Our study demonstrates that plasma pro-SFTPB is signicantly and
+independently associated with lung cancer and adds to lung cancer
+prediction beyond that contributed by established risk factors in two
+independent cohorts. Furthermore, pro-SFTPB was associated with
+early-stage (I and II) lung cancer and with lung cancers diagnosed
+more than 1 year after plasma collection, suggesting its potential utility
+in predicting early-stage NSCLC tumors that may be amenable to
+surgical resection.
+
+The precise mechanism by which circulating pro-SFTPB lev-
+els become increased in individuals at risk for NSCLC is unknown.
+Surfactant proteins are transcriptionally regulated by thyroid tran-
+scription factor 1 (TTF-1)/NK2 homeobox 1 (NKX2-1), which
+plays a crucial role in lung development.19 TTF-1/NKX2-1 is mark-
+edly increased in regions of lung parenchyma undergoing regener-
+ation and repair.20 In addition, increased expression of TTF-1/
+NKX2-1 in alveolar type II cells has been found to induce dose-
+dependent alterations in alveolar morphology, epithelial cell
+hyperplasia, emphysema, and pulmonary inammation.21 It is also
+possible that circulating pro-SFTPB is a biomarker of lung condi-
+tions that predispose to lung cancer such as chronic obstructive
+pulmonary disease. In the Pan-Can Study, in which lung function
+data were carefully measured, the inclusion of FEV1 did not mate-
+rially alter the overall ndings, suggesting an alternate explanation.
+Additional studies will be needed to understand the mechanisms
+and pathways leading to increased plasma expression of pro-
+SFTPB in those who develop NSCLC.
+
+Our sample size and number of outcome events were ade-
+quate to nd statistically signicant results regarding the relation-
+ship between plasma levels of pro-SFTPB and lung cancer risk,
+provide effect estimates with precise CIs, and demonstrate signi-
+cant incremental improvement in prediction. However, because
+more than 75% of the lung cancer cases diagnosed in the Pan-Can
+Study were adenocarcinomas, we could not adequately evaluate
+whether the relationship between pro-SFTPB and lung cancer risk
+differed across different histologic tumor subtypes. In the CARET
+Study, which proportionately had more cases of squamous cell
+
+www.jco.org
+
+ 2013 by American Society of Clinical Oncology
+
+4541
+
+Sin et al
+
+I

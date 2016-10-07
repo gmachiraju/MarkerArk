@@ -1,0 +1,744 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 95, pp. 1189111896, September 1998
+Medical Sciences
+
+Aberrant methylation of p16INK4a is an early event in lung cancer
+and a potential biomarker for early diagnosis
+
+(p16 methylationysputumyNNKysquamous cell carcinoma)
+
+STEVEN A. BELINSKY*, KRISTEN J. NIKULA*, WILLIAM A. PALMISANO*, RUTH MICHELS, GENO SACCOMANNO,
+EDWARD GABRIELSON, STEPHEN B. BAYLIN, AND JAMES G. HERMAN
+*Lovelace Respiratory Research Institute, Lung Cancer Program, P.O. Box 5890, Albuquerque, NM 87185; St. Marys Hospital, 2635 North 7th, Grand Junction,
+CO 81501; and Johns Hopkins University Medical Institutions, The Johns Hopkins Comprehensive Cancer Center, 424 North Bond Street, Baltimore, MD 21231
+
+Communicated by Philip Hanawalt, Stanford University, Stanford, CA, July 29, 1998 (received for review January 9, 1998)
+
+The p16INK4a (p16) tumor suppressor gene
+ABSTRACT
+can be inactivated by promoter region hypermethylation in
+many tumor types including lung cancer, the leading cause of
+cancer-related deaths in the U.S. We have determined the
+timing of this event in an animal model of lung carcinogenesis
+and in human squamous cell carcinomas (SCCs). In the rat,
+94% of adenocarcinomas induced by the tobacco specific
+carcinogen 4-methylnitrosamino-1-(3-pyridyl)-1-butanone
+were hypermethylated at the p16 gene promoter; most impor-
+tant, this methylation change was frequently detected in
+precursor lesions to the tumors: adenomas, and hyperplastic
+lesions. The timing for p16 methylation was recapitulated in
+human SCCs where the p16 gene was coordinately methylated
+in 75% of carcinoma in situ lesions adjacent to SCCs harboring
+this change. Moreover, the frequency of this event increased
+during disease progression from basal cell hyperplasia (17%)
+to squamous metaplasia (24%) to carcinoma in situ (50%)
+lesions. Methylation of p16 was associated with loss of expres-
+sion in both tumors and precursor lesions indicating that both
+alleles were functionally inactivated. The potential of using
+assays for aberrant p16 methylation to identify disease andyor
+risk was validated by detection of this change in sputum from
+three of seven patients with cancer and 5 of 26 cancer-free
+individuals at high risk. These studies show for the first time
+that an epigenetic alteration, aberrant methylation of the p16
+gene, can be an early event in lung cancer and may constitute
+a new biomarker for early detection and monitoring of pre-
+vention trials.
+
+The p16INK4a (p16) tumor suppressor gene that maps to
+chromosome band 9p21, is inactivated in .70% of cell lines
+derived from all histologic types of human nonsmall cell lung
+cancers (NSCLCs) (1, 2) predominantly through homozygous
+deletion (1) or in association with aberrant promoter region
+hypermethylation (3). These inactivating events are conserved
+across species, with homozygous deletion and aberrant meth-
+ylation accounting for loss of p16 expression in 40% and 45%,
+respectively, of cell lines derived from rat lung tumors (4).
+Moreover, the methylated phenotype seen in the rat cell lines
+showed an absolute correlation with the detection of methyl-
+ation in primary tumors and the aberrant promoter region
+methylation was also detected in four of eight primary tumors
+from which the derived cell line had homozygous deletion of
+p16 (4). Thus, the methylation change may precede genetic
+instability within the CpG island of this gene.
+
+Several genetic abnormalities frequently present in human
+lung cancer have now been found throughout the respiratory
+tract of smokers (57). These include allelic loss, but not
+
+homozygous deletion, involving 9p21 in premalignant lesions
+from cancer and cancer-free patients (6, 7). This finding
+suggests that inactivation of the p16 gene by aberrant meth-
+ylation could represent a critical step in the genesis of NSCLC
+by allowing the uncontrolled clonal expansion of some of these
+premalignant lesions to cancer. The present investigation
+addresses this issue by defining when aberrant methylation of
+the p16 gene occurs during the development of lung carcinoma
+in an animal model, then extends these studies to the devel-
+opment of human squamous cell carcinoma (SCC). The find-
+ings link aberrant methylation of p16 to the earliest stages of
+respiratory carcinogenesis and demonstrate the potential use
+of this epigenetic change as a biomarker to identify persons at
+high risk or with lung neoplasia.
+
+MATERIALS AND METHODS
+
+Human and Rodent Tissue Samples. SCC and precursor
+lesions that included carcinoma in situ (CIS), squamous cell
+metaplasia with varying degree of atypia, and basal cell
+hyperplasia were obtained at surgical resection from patients
+at either Johns Hopkins Medical Institutions (Baltimore, MD)
+or St. Marys Hospital (Grand Junction, CO). In addition,
+biopsy samples were obtained through bronchoscopy of pa-
+tients at St. Marys Hospital being evaluated for lung cancer.
+Sputum was collected by standardized procedures (8) from
+patients at Johns Hopkins Medical Institutions being evaluated
+for possible lung cancer through referral from their primary
+care physician. Sputum was considered unsatisfactory for
+evaluation if alveolar lung macrophages were absent or if a
+marked inflammatory component was present that diluted the
+concentration of pulmonary epithelial cells. Adenocarcinomas
+and precursor lesions, adenomas and alveolar hyperplasias,
+were induced in F344yN rats by treatment with 4-methylni-
+trosamino-1-(3-pyridyl)-1-butanone (NNK) 3 times a week (50
+mgykg, i.p.) for 20 weeks (9). Alveolar type II cells (purity
+.80%) were isolated from vehicle-treated rats by protease
+digestion and centrifugal elutriation (9).
+
+Microdissection of Tumors and Precursor Lesions. Human
+SCCs and precursor lesions were obtained by three different
+sampling strategies: (i) CIS lesions sharing the same airway and
+adjacent to the SCC; (ii) CIS, squamous metaplasia with
+varying degree of cellular atypia, and basal cell hyperplasia
+found in either different airways or at different bronchial
+generations from the primary SCC at the time of lobe resec-
+tion; and (iii) CIS, squamous metaplasia, and basal cell hy-
+perplasia obtained by bronchoscopy independent of any tu-
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked advertisement in
+accordance with 18 U.S.C. 1734 solely to indicate this fact.
+ 1998 by The National Academy of Sciences 0027-8424y98y9511891-6$2.00y0
+PNAS is available online at www.pnas.org.
+
+Abbreviations: SCC, squamous cell carcinoma; CIS, carcinoma in situ;
+p16, p16INK4a; SCLC, small cell lung cancer; NSCLC, nonsmall cell
+lung cancer; NNK, 4-methylnitrosamino-1-(3-pyridyl)-1-butanone;
+Rb, retinoblastoma; NFP, neutral buffered formalin; MSP, methyla-
+tion-specific PCR.
+To whom all reprint requests should be addressed.
+
+11891
+
+11892 Medical Sciences: Belinsky et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+mor. Lung lobes obtained at resection and biopsies were fixed
+by perfusion or immersion in neutral buffered formalin (NFB),
+respectively. A portion of each lung tumor induced by NNK
+was frozen in liquid nitrogen and the remaining tumor and
+lung tissue fixed in NBF. All lung lobes from the treated rats
+were perfused with NBF, embedded in paraffin; 5-mm sections
+were cut, and stained with hematoxylin and eosin to identify
+precursor lesions. Lung lobes obtained from patients under-
+going resection were sampled as follows. The lung tissue
+surrounding the tumor was sampled extending in all directions
+toward the periphery of the lung lobe. Approximately eight
+separate pieces of tissues were embedded in paraffin, sec-
+tioned, and stained with hematoxylin and eosin to identify
+precursor lesions. Lung lesions were classified based on World
+Health Organization criteria. Sequential sections from biop-
+sies and lesions identified in resections were cut (510 mm),
+deparaffinized, and stained with toluidine blue to facilitate
+dissection. A 25-gauge needle attached to a tuberculin syringe
+was used to remove the lesions under a dissecting microscope.
+Because of the extensive contamination of some lesions with
+normal tissue (e.g., SCC, adenoma, alveolar hyperplasia) or
+the small size of some lesions, ,0.001 mm3, it was essential to
+include normal appearing cells to ensure that after bisulfite
+modification and column clean-up of the DNA template
+enough sample remained to conduct the methylation-specific
+PCR (MSP) assay as described below. Occasionally where the
+lesion was pure, of substantial size (.500 cells), and easily
+dissected from the basement membrane (e.g., CIS), it was
+possible to microdissect only the lesion itself. Thus, because the
+goal of the study was to determine whether p16 methylation
+was present in these lesions and not to quantitate methylation
+levels, microdissection was used to enrich the samples being
+examined for tumor or premalignant cells. Adenocarcinomas
+induced by NNK were not microdissected from fixed tissue,
+rather the frozen tissue that was comprised of tumor cells and
+normal appearing cells was used for analysis.
+
+Nucleic Acid Isolation and Methylation-Specific PCR. DNA
+was isolated from frozen tumors and sputum by digestion with
+Pronase in 1% SDS, followed by standard phenol-chloroform
+extraction and ethanol precipitation. DNA was prepared from
+microdissected tissue by the method of Levi et al. (10).
+
+The methylation state of the p16 gene was determined by the
+recently developed method of MSP (4, 11). Briefly, in MSP,
+genomic DNA is modified by treatment with sodium bisulfite,
+which converts all unmethylated cytosines to uracil, then to
+thymidine during the subsequent PCR step. Before PCR, the
+modified DNA is purified with the Wizard DNA purification
+system (Promega), desulfonated with NaOH, precipitated with
+ethanol, and finally resuspended in a Tris-EDTA buffer. Two
+sets of primers are used to amplify each region of interest: one
+pair recognizes a sequence in which CpG sites are unmethyl-
+ated (bisulfite modified to UpG), and the other recognizes a
+sequence in which CpG sites are methylated (unmodified by
+bisulfite). Primers are localized to regions containing frequent
+cytosines (to distinguish unmodified from modified DNA),
+and CpG pairs near the 39 end of the primers provide maximal
+discrimination in the PCR reaction between methylated and
+unmethylated DNA. Primer sequences have been described (4,
+11) and were localized to regions in and around the transcrip-
+tion start site of the p16 gene, a region shown to correlate with
+loss of gene expression (4, 11). PCR amplification was per-
+formed by using 150300 ng of treated DNA as the template.
+Two sets of primers were used at the same position, one set
+specific for DNA methylated at CpG sites, and one for fully
+unmethylated DNA. After bisulfite treatment, double-
+stranded DNA is no longer complementary, so the primer
+pairs designed amplified only the modified sense strand. PCR
+conditions have been described (4, 11). Forty cycles of ampli-
+fication were used in analysis of modified DNA from micro-
+dissected samples for p16 methylation. Negative controls were
+
+performed by using both sets of modified primers with un-
+treated DNA, to confirm that unmodified DNA could not be
+amplified in the event of incomplete bisulfite reactions. Prod-
+ucts were visualized on 2.0% agarose gels or 6% nondenatur-
+ing acrylamide gels. When the amount of DNA was not
+limiting (tumors and sputum samples), assays were repeated
+beginning with the bisulfite step. Otherwise, PCR reactions
+were generally conducted in duplicate on each modified DNA
+template.
+
+The MSP method has several advantages over that of
+conventional Southern hybridization. (i) Small amounts of
+DNA template can be used (,200 ng) compared with mg
+quantities of DNA needed for Southern hybridization and is
+thus amenable to using DNA obtained from fixed tissue. (ii)
+Because primers are designed that recognize either methylated
+or unmethylated alleles, contaminating normal tissue does not
+interfere with the ability to detect methylation. (iii) The
+sensitivity of this assay to detect methylated alleles in a
+background of unmethylated alleles is .1024 (11) that makes
+it ideal for identifying cells containing methylated alleles in a
+heterogeneous population of cells like those present in sputum.
+However, it is important to recognize that the MSP method is
+not intended to provide quantitative information on methyl-
+ation of a particular gene, but is a extremely sensitive assay for
+detecting methylation in the presence of contaminating normal
+tissue.
+
+Immunohistochemistry for Detecting p16 Protein. Tissue
+sections (45 microns) were deparaffinized and incubated in
+Antigen Retrieval Citra (BioGenex Laboratories, San Ramon,
+CA) at the recommended dilution and heated by steam for 30
+min. Slides were incubated overnight at 4C with mouse
+monoclonal anti-p16 (Neomarkers, Union City, CA) diluted to
+a final concentration of 4 mgyml. Slides were then rinsed and
+incubated with universal secondary antibody containing goat
+anti-mouse IgG (Ventana Medical Systems, Tucson, AZ) for
+30 min, developed with diaminobenzadine (Ventana Medical
+Systems) for 20 min, and counterstained with hematoxylin for
+1 min.
+
+RESULTS
+
+Methylation of p16 in NNK-Induced Lung Lesions. The
+development of pulmonary adenocarcinomas induced by NNK
+progress from focal hyperplasias of type II alveolar epithelial
+cells to adenomas and finally to carcinomas (9). The current
+study used a new sensitive PCR procedure (11), MSP, to
+examine the methylation state of the p16 gene in whole lung
+and type II cells from sham-exposed rats and in hyperplasias,
+adenomas, and carcinomas from rats treated with NNK. Only
+unmethylated p16 alleles were detected by MSP in whole lung
+and alveolar type II cells (Fig. 1) from sham-exposed rats.
+Methylation of the p16 gene was detected in 15 of 16 adeno-
+carcinomas, 4 of 6 adenomas, and 17 of 20 hyperplasias (see
+Fig. 1 for representative results). Unmethylated alleles were
+also simultaneously detected in these samples, because tumors
+and adenomas were contaminated with stromal and inflam-
+matory cells, or normal cells in the case of the epithelial
+hyperplasias. Photomicrographs (Fig. 2 AC) illustrate the
+morphologic features of the precursor lesions containing
+methylated p16 alleles. The adenomas exhibited minimal
+atypia and contained large numbers of neutrophils and mac-
+rophages within their luminal spaces and stroma. Epithelial
+hyperplasias were focal, consisted of a single layer of epithelial
+cells without atypia lining the septa, and did not disrupt the
+normal alveolar architecture.
+
+Methylation of p16 Is an Early Event in the Development of
+Human SCC. Examination of SCCs obtained by biopsy or
+through lobectomy revealed a marked propensity toward
+methylation of the p16 gene, with 11 of 18 of these randomly
+selected neoplasms showing this change (see Fig. 3B for
+
+Medical Sciences: Belinsky et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+11893
+
+FIG. 1. Detection of p16 methylation in hyperplasias, adenomas, and adenocarcinomas induced by NNK in the rat. Methylation is evident in
+hyperplasias from lanes 15 and 7, in adenomas from lanes 911 and 14, and in adenocarcinomas from lanes 1525. Unmethylated p16 alleles were
+present in all lesions due to contaminating normal tissue and in normal lung and alveolar type II cells. No methylated alleles are detected in modified
+DNA from normal lung (lanes 8 and 26) or alveolar type II cells (lane 27).
+
+representative results). Thus, the high incidence of p16 hyper-
+methylation makes this histologic form of NSCLC ideally
+suited for defining the timing for this change in the progression
+of human respiratory carcinogenesis. Human SCC (12) is
+thought to arise through a series of morphologic changes
+beginning with basal cell hyperplasia, leading to squamous
+metaplasia characterized by increasing severity of cellular
+atypia (dyplasia) to CIS, and ultimately to SCC. The first series
+of samples examined for p16 methylation were CIS lesions
+adjacent to SCCs. Ten of twelve sample pairs examined
+showed an absolute concordance, being either both methylated
+(six pairs) or unmethylated (four pairs) at the p16 locus (Fig.
+3A). Moreover, in two pairs where the CIS lesion was precisely
+microdissected excluding the basal lamina and normal appear-
+
+ing cells, only methylated p16 alleles were detected by MSP
+(Fig. 3A) substantiating the clonal nature of the change. The
+normal appearing bronchus adjacent to one of these SCCs also
+contained methylated p16 alleles, while normal lymphocytes
+within the field did not. In the two pairs with discordant results,
+one CIS lesion was methylated and the adjacent SCC unmeth-
+ylated, while the other CIS lesion was unmethylated and the
+adjacent SCC methylated. These latter two pairs illustrate that
+some SCCs can arise via pathways that either exclude the p16
+gene or inactivate this gene via homozygous deletion.
+
+The status of p16 was further characterized in lesions in
+airways from lobectomy cases or in biopsies obtained through
+bronchoscopy from persons undergoing evaluation for lung
+cancer. The eight biopsies collected were independent from
+any malignancy that was ultimately diagnosed and were com-
+prised of CIS, squamous metaplasia with varying degree of
+atypia, and hyperplastic epithelium. Thirteen SCCs, six of
+which harbored the p16 methylation change, premalignant
+lesions, and CIS were also obtained from 13 persons under-
+going lobectomies. In these surgical specimens, most prema-
+lignant lesions examined were from either different airways or
+at different bronchial generations from those harboring the
+primary SCC identified at the time of lobe resection. Three of
+the lesions arose from the same airway and same generation as
+
+FIG. 2. Rat and human lesions with p16 methylation. (A) Focal
+epithelial hyperplasia in the lung of a rat treated with NNK. Note the
+small size of the lesion and the lack of disruption of the normal alveolar
+architecture. (B) Higher magnification of the lesion in A. (C) Ade-
+noma in the lung of an NNK-treated rat. The epithelial cells exhibit
+minimal atypia. Note the large number of neutrophils and macro-
+phages within the luminal spaces and in the stroma (arrow points to
+one luminal aggregate of inflammatory cells). (D) Minimal basal cell
+hyperplasia of the bronchial epithelium in a human biopsy specimen.
+Note the normal appearing ciliated surface. (E) Squamous metaplasia
+with minimal atypia of the bronchial epithelium in a section obtained
+at lobectomy. This patient had a SCC distant from this site at the time
+of lobectomy. (F) Squamous metaplasia with moderate atypia of the
+bronchial epithelium obtained at lobectomy. This patient also had a
+SCC distant from this site at the time of lobectomy. (G) CIS of the
+bronchial epithelium in a human biopsy specimen.
+
+FIG. 3. Methylation of p16 in premalignant lesions, CIS, and SCC.
+(A) Lymphocytes microdissected from in and around the SCC con-
+stituted the normal (N) tissue for analysis. Other areas analyzed
+included normal appearing bronchus (NB) within the cancer field,
+adjacent CIS, and SCC obtained from three patients. (B) Precursor
+lesions and SCCs obtained through biopsy or lobectomy from several
+different cases. Lesions microdissected included basal cell hyperplasia
+(Hyper), squamous metaplasia (Meta), CIS, and SCC. Cell lines H249
+and U172 serve as positive controls for detecting unmethylated (U)
+and methylated (M) p16 alleles, respectively by MSP. A PCR product
+of the appropriate molecular weight (151 bp for U, 150 bp for M)
+indicates the presence of unmethylated andyor methylated p16 alleles
+in that sample.
+
+11894 Medical Sciences: Belinsky et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+the SCC. Thirty-five premalignant or CIS lesions were exam-
+ined from the two collections. Methylation of p16 (see Fig. 3B
+for representative results and Fig. 4 for summary of all results)
+was detected in 3 of 6 CISs (50%) and in 4 of 17 (24%)
+squamous metaplasias with minimal to moderate atypia (Fig.
+2 DG). The frequency of p16 methylation appeared less
+frequent in lower grade lesions being present in 2 of 12 (17%)
+lesions exhibiting minimal basal cell hyperplasia with a normal
+appearing ciliated surface (Fig. 2D and 3B). In contrast to the
+findings for CIS adjacent to established SCC, there was no
+apparent relationship between the methylation status of the
+cancers and the precursor lesions within the lobectomy cases.
+In total, at least one lesion was methylated at the p16 locus in
+10 of the 13 lobectomies examined.
+
+Protein Levels for p16 Correlate with Methylation Status in
+SCCs and Precursor Lesions. The relationship between p16
+methylation and expression was assessed through immunohis-
+tochemical analysis of 13 SCCs and 7 precursor lesions. There
+was concordance between methylation status and the detec-
+tion of protein in 18 of 20 samples. The two disconcordant
+samples, a SCC and adjacent CIS, were both unmethylated, but
+did not express any p16 protein. This lack of expression is most
+likely due to homozygous deletion of the p16 gene, a mecha-
+nism observed in primary lung tumors (13) and derived cell
+lines (1). Thus, in all other samples, methylation of the p16
+gene was associated with loss of p16 protein, while the opposite
+was observed in unmethylated lesions. Fig. 5 depicts some of
+the staining patterns observed. In a squamous metaplasia that
+was unmethylated at the p16 locus (Fig. 5A), 60% of the
+epithelial cell nuclei were positive for p16 protein. In contrast,
+complete lack of p16 staining was observed in a squamous
+metaplasia (Fig. 5B) that was methylated. All five of the SCCs
+in which no methylation of the p16 gene was detected showed
+abundant expression of the protein (Fig. 5C), a finding con-
+sistent with our previous studies demonstrating an apparent
+overexpression of this gene in tumors (14) or cell lines (4)
+where no methylation was detected. In four of seven methyl-
+ated SCCs there was a complete absence of the p16 protein
+(Fig. 5D). However, in some tumors, small focal areas of cells
+stained for the protein, a pattern also observed by Kratze et al.
+(15).
+
+Detection of Aberrant p16 Methylation in Exfoliated Cells
+Within Sputum. Premalignant cells shed from the airways or
+malignant cells from carcinomas can be recovered after spu-
+
+FIG. 4. Summary of the frequency for p16 methylation in prema-
+lignant lesions, CIS, SCC, and sputum samples. The frequency (ex-
+pressed as a percentage) for detecting p16 methylation is depicted for
+basal cell hyperplasia (Hyper), squamous metaplasia (Meta), CIS,
+SCC, and in sputum from cancer-free smokers and lung cancers.
+Above the bar graphs the total number of positive samples per total
+sample population for a specific lesion or population is indicated.
+
+FIG. 5.
+
+Immunohistochemistry to detect p16 protein in human lung
+lesions. (A) Immunohistochemical detection of p16 protein (brown
+nuclear staining) in an area of bronchiolar squamous metaplasia. (B)
+Lack of detectable p16 protein in an area of bronchiolar squamous
+metaplasia with marked atypia. (C) Strong nuclear p16 immunostain-
+ing in a SCC. (D) Lack of p16 protein in a SCC.
+
+tum induction. Thus, detecting aberrant methylation of p16 in
+these cells from radiographically cancer-free persons could be
+a biomarker for impending disease. This hypothesis was tested
+by analysis of sputum collected without prior knowledge of
+their medical history from 33 persons who smoked. Methylated
+p16 alleles were detected in DNA isolated from sputum of
+eight people (see Fig. 6 for representative results and Fig. 4 for
+summary of results). In contrast, no methylated p16 alleles
+were present in DNA from normal human bronchial epithelial
+cells obtained through bronchoscopy from three never smok-
+ers (see Fig. 6 for representative results). Three persons
+positive for p16 methylation were diagnosed with lung cancer
+at the time of sputum collection. The three tumors were
+classified as SCC, NSCLC (histology not specified), and a small
+cell lung cancer (SCLC). Cytologic examination of the sputum
+from the SCC and NSCLC cases revealed SCC cells and
+atypical cells, respectively, and the intensity of the signal for
+methylated p16 alleles was greatest from these two samples
+(one is shown in Fig. 4) compared with all other positive
+sputum samples. The marked difference in intensity of the
+methylated product between the eight positive sputum samples
+was not unexpected due to the fact that tumors located in the
+airways should exfoliate a relatively high number of cells,
+while the number of cells recovered in sputum from prema-
+lignant lesions harboring methylated alleles will vary consid-
+erably depending on the size and location of the lesion(s)
+within the lung. Cytology of the sputum from the patient with
+SCLC was ruled unsatisfactory due to the absence of alveolar
+macrophages; the fact that this person was diagnosed with a
+second tumor (NSCLC) 2 years after collection of the sputum
+analyzed was significant. In the five cancer-free cases that were
+positive for p16 methylation, cytology was classified as: (i)
+moderate atypia, (ii) marked atypical cells and suspicious for
+malignancy, (iii) negative, (iv) unsatisfactory, and (v) squa-
+mous metaplasia. The person with unsatisfactory cytology
+developed a SCLC 1 year later.
+
+Four persons whose sputum was negative for p16 methyl-
+ation had lung cancer at the time of sputum induction.
+However, only one of these tumors, a SCC, was diagnosed by
+sputum cytology. The 21 remaining persons whose sputum was
+negative for p16 methylation were classified by sputum cytol-
+ogy as negative in 14 persons, unsatisfactory in 5 persons, and
+
+Medical Sciences: Belinsky et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+11895
+
+FIG. 6. Methylation of p16 in sputum from smokers. Bisulfite modified DNA was amplified by primers specific to methylated or unmethylated
+alleles of the p16 gene as described. Unmethylated p16 alleles were detected in all 16 sputum samples and in DNA from normal human bronchial
+epithelial (NHBE) cells obtained from a never-smoker. The Calu1 cell line (positive control for p16 methylation) is completely methylated.
+Methylated alleles of p16 were observed in DNA from 4 cancer-free persons (lanes 3, 10, 13, and 14), 1 person diagnosed at the time of sputum
+induction with a SCLC (lane 2) who developed a NSCLC 2 years later, 1 smoker (lane 15) who was positive for lung cancer at the time of sputum
+induction, and in the positive control (Calu1). No methylation was observed in the negative control normal human bronchial epithelial cells. Samples
+negative for p16 methylation are shown in lanes 1, 49, 1112, and 16.
+
+marked atypia in 2 persons. Thus, classifying persons as cancer
+free was based on sputum cytology that appeared negative for
+malignant cells and a negative chest x-ray. Based on current
+hospital records, no additional lung tumors have been seen in
+this group of subjects over a follow-up period of 3 years since
+sputum collection.
+
+DISCUSSION
+
+This investigation demonstrates for the first time that inacti-
+vation of the p16 tumor suppressor gene by aberrant methyl-
+ation is an early and likely critical event in the development of
+NSCLC. Furthermore, consistent with the timing of this
+epigenetic alteration in the genesis of NSCLC, p16 methylation
+was detected in epithelial cells shed from the airways of some
+persons at risk for lung cancer. Thus, the detection of p16
+methylation in sputum could represent a new biomarker for
+early detection of respiratory neoplasia and a target for
+intervention strategies.
+
+The fact that hypermethylation of the p16 gene is likely an
+essential step for the evolution of many NSCLCs is substan-
+tiated by our results and others. Functional inactivation of the
+p16 gene in both tumors and precursor lesions was evident
+based on loss of p16 protein. Moreover, in the majority of
+samples examined, loss of expression appeared to be homog-
+enous, substantiating the clonal nature of the methylation
+event. Our studies did not attempt to elucidate whether loss of
+p16 function was due to methylation of both alleles or a
+combination of methylation and allelic loss. Both mechanisms
+have been documented (3). Several studies have corroborated
+our findings in tumors that methylation of the p16 gene is
+clearly associated with loss of gene transcription (3, 4, 16).
+Furthermore, the selective advantage of this epigenetic event
+for the loss of function of the cyclin D-retinoblastoma pathway
+in lung tumors appears to be identical to that for either
+homozygous deletion of p16 or retinoblastoma mutations.
+Thus, retinoblastoma mutations are common in SCLC, while
+p16 mutations or hypermethylation are rare; the opposite is
+true in NSCLC (2, 3, 17).
+
+A pivotal role for p16 methylation in the earliest stages of
+lung cancer is further substantiated by our finding of a high
+frequency for this change in alveolar hyperplasias and adeno-
+mas from NNK-treated rats. These precursor lesions have an
+extremely high conversion rate to adenocarcinomas in this
+carcinogenesis model (9). Our findings of p16 methylation in
+the putative stages for progression of human SCC also support
+a critical role for this molecular change in human cancer. The
+frequency for p16 methylation increased from the lowest to
+highest grade precursor lesions to SCC. Strikingly, the 50%
+incidence of p16 methylation in CIS, the precursor lesion
+thought to have the strongest likelihood of developing into
+SCC, paralleled findings in established SCCs. The strong
+
+concordance between SCCs and adjacent CIS lesions for p16
+methylation is also consistent with an important role for p16
+inactivation in tumor progression within a single site. The lack
+of concordance for p16 status between the SCCs and prema-
+lignant lesions at sites distant to the tumor is consistent with
+the epigenetic and genetic autonomy of multiple tumors in the
+same patient (18).
+
+The detection of p16 methylation in exfoliated cells within
+sputum from cancer-free smokers reaffirms the involvement of
+this genetic change in early respiratory carcinogenesis. Hyper-
+methylation of p16 has not been reported in normal tissue from
+unexposed individuals (3) and was not evident in normal
+human bronchial epithelial cells or peripheral lymphocytes
+(19), two of the major cell types within sputum. Direct
+comparison of sputum from current or former smokers to
+never smokers is technically difficult because never smokers
+produce very little sputum and the composition of the sample
+could also differ from that of a current or former smoker. The
+best control for our study was in fact sputum samples negative
+for p16 methylation. If a low background for methylation of
+this gene existed in normal lung tissue, it should have been
+detected by MSP in the majority of the sputum samples, and
+this was not the case. Further support for the lack of p16
+alterations in never smokers is provided by studies of loss of
+heterozygosity by Wistuba et al. (6) and Mao et al. (7). These
+studies examined .100 biopsies from 30 never smokers and
+found no evidence for loss of heterozygosity at the 9p21 locus
+where the p16 gene is located. This was in marked contrast to
+the frequent detection of allelic loss at this locus in biopsies
+from current and former smokers. Thus,
+it is likely that
+exfoliated cells from premalignant lesions or from established
+tumors within airways of persons at high risk for NSCLC
+account for the presence of the hypermethylated alleles in the
+positive sputum samples. The finding in one individual diag-
+nosed with SCLC and positive for p16 hypermethylation in the
+sputum at the time of diagnosis is particularly interesting
+because the p16 gene is rarely inactivated in this tumor type (2,
+3, 17). However, this individual was diagnosed with a separate
+NSCLC 2 years later, thus the methylation detected in sputum
+likely stemmed from cells exfoliated by the NSCLC or the
+precursor lesion from which it arose.
+
+The association of p16 gene hypermethylation with early
+stages of NSCLC and the detection of this change in sputum
+of patients at high risk for developing lung cancer create some
+exciting possibilities for approaching risk assessment, early
+detection, and prevention of this disease. However, several
+important relationships must be clarified in future studies. The
+exact relationship between the presence of the p16 methylation
+change and the risk for lung cancer must be established. After
+smoking cessation, molecular markers presumably indicative
+of high risk, such as loss of heterozygosity at chromosome loci
+commonly found in lung cancers (6, 7), are still detected at high
+
+11896 Medical Sciences: Belinsky et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+frequency in people with putative precursor lesions. Individ-
+uals with such changes do remain at an elevated risk for
+development of lung cancer (20). However, it is apparent that
+many lesions dispersed throughout the lungs of current smok-
+ers regress after smoking cessation (21). It will be critical to
+determine the relationship between p16 hypermethylation and
+the reversibility of these premalignant lesions. This informa-
+tion may emerge from monitoring individuals having p16
+methylation changes in sputum, but who stop smoking. If
+reversible, the detection of p16 methylation in sputum could be
+an excellent intermediate biomarker to monitor the efficacy of
+intervention therapy in high-risk, cancer-free persons.
+
+P16 methylation changes in sputum could also prove invalu-
+able as a marker for early detection, risk assessment, and
+monitoring clinical course. The MSP assay used in the present
+study detects methylation of p16 in 1 in 105 cells by primers
+designed to amplify only methylated alleles (9). Sputum cy-
+tology requires a skilled cytopathologist, while immunohisto-
+chemical methods to detect other markers (22, 23) rely on
+subtle differences in nuclear staining of cells often obscured by
+mucous. In fact, in the present study, three cases are described
+where cytology was either negative or unsatisfactory, yet p16
+hypermethylation was still detected. The impact of detecting
+p16 methylation in exfoliated cells from cancer-free smokers as
+a prognostic indicator will only be realized in prospective
+studies, but clearly this molecular change could provide a key
+biomarker for early detection and clinical trials in lung cancer.
+
+We thank Susan Middleton and Elma Perez for excellent technical
+assistance. The use of tissue samples was approved by the Joint
+Committee on Clinical Investigation of Johns Hopkins Medical Insti-
+tutions and St. Marys Hospital in accordance with the policies of the
+Department of Health and Human Services. All patients gave in-
+formed consent for the use of their tissue samples. This research was
+sponsored by the Office of Health and Biological Research, U.S.
+Department of Energy under cooperative agreement DE-FC04-
+96AL76406 and by National Institutes of Health Grant 5P50CA58184
+in facilities fully accredited by the American Association of Laboratory
+Animal Care. J.G.H. is also a V Foundation Scholar. S.B.B. and J.G.H.
+receive research funding and are entitled to sales royalties from Oncor,
+who is developing products related to research described in this paper.
+The terms of this arrangement have been reviewed and approved by
+the Johns Hopkins University in accordance with its conflict of interest
+policies.
+
+1. Kamb, A., Guis, N. A., Weaver-Feldhaus, J., Liu, Q., Harshman,
+K. Tavtigian, S. V., Stockert, E., Day, R. S., III, Johnson, B. E.
+& Skolnick, M. H. (1994) Science 8, 436440.
+
+2. Otterson, G. A., Kratze, R. A., Coxon, A., Kim, Y. W. & Kaye,
+
+F. J. (1994) Oncogene 9, 33753378.
+
+3. Merlo, A., Herman, J. G., Mao, L., Lee, D. J., Gabrielson, E.,
+Burger, P. C., Baylin, S. B. & Sidransky, D. (1995) Nat. Med. 1(7),
+686692.
+
+4. Swafford, D. S., Middleton, S. K., Palmisano, W. A., Nikula, K. J.,
+Tesfaigzi, J., Baylin, S. B., Herman, J. G. & Belinsky, S. A. (1997)
+Mol. Cell. Biol. 17, 13661374.
+
+5. Crowell, R. E., Gilliland, F. D., Temes, R. T., Harms, H. J., Neft,
+R. E., Heaphy, E., Auckley, D. H., Crooks, L. A., Jordan, S. W.,
+Samet, J. M., et al. (1996) Cancer Epidemiol. Biomarkers Prev. 5,
+631637.
+
+6. Wistuba, I. I., Lam, S., Behrens, C., Virmani, A. K., Fong, K. M.,
+LeRiche, J., Samet, J. M., Srivastava, S., Minna, J. D. & Gazdar,
+A. F. (1997) J. Natl. Cancer Inst. 89(18), 13661373.
+
+7. Mao, L., Lee, J. S., Kurie, J. M., Fan, Y. H., Lippman, S. M., Lee,
+J. J., Ro, J. Y., Broxson, A., Yu, R., Morice, R. C., et al. (1997)
+J. Natl. Cancer Inst. 89, 857862.
+
+8. Saccomano, G., Archer, V., Auerbach, O., Saunders, R. P. &
+
+Bennan, L. M. (1974) Cancer 33, 256270.
+
+9. Belinsky, S. A., Foley, J. F., White, C. M., Anderson, M. W. &
+
+Maronpot, R. R. (1990) Cancer Res. 50, 37723780.
+
+10. Levi, S., Urgano-Ispizua, A., Gill, R., Thomas, D. M., Gilbertson,
+T. J., Foster, C. & Marshall, C. J. (1991) Cancer Res. 51,
+34973502.
+
+11. Herman, J. G., Graff, J. R., Myohannen, S., Nelkin, B. D. &
+Baylin, S. B. (1996) Proc. Natl. Acad. Sci. USA 93, 98219826.
+12. Koss, L. G. (1992) Diagnostic Cytology and Its Histopathologic
+
+Bases. (Philadelphia: Lippincott), 4th Ed., Vol.1.
+
+13. Xiao, S., Daizong, L., Corson, J. M., Vijg, J. & Fletcher, J. A.
+
+(1995) Cancer Res. 55, 29682971.
+
+14. Belinsky, S. A., Swafford, D. S., Middelton, S. K., Kennedy, C. H.
+
+& Tesfaigzi, J. (1997) Carcinogenesis 18, 115120.
+
+15. Kratze, R. A., Greaten, T. M., Rubies, J. B., Maddaus, D. E.,
+Niewoehner, G. A., Niehans & Geradts, J. (1996) Cancer Res. 56,
+34153420.
+
+16. Otterson, G. A., Khleif, S. N., Chen, W., Coxon, A. B. & Kaye,
+
+F. J. (1995) Oncogene 11, 12111216.
+
+17. Shapiro, G. I., Edwards, C. D., Kobzik, L., Godleski, J., Richards,
+W., Sugarbaker, D. & Rollins, B. J. (1995) Cancer Res. 55,
+505509.
+
+18. Harpole, D. H., Herndon, J. E., Wolfe, W. G., Iglehart, J. D. &
+
+Marks, J. R. (1995) Cancer Res. 55, 5156.
+
+19. Herman, J. G., Civin, C. I., Issa, J.-P. J., Collector, M. I., Sharkis,
+
+S. J. & Baylin, S. B. (1997) Cancer Res. 57, 837841.
+
+20. Tong, L., Spitz, M. R., Fueger, J. J. & Amos, C. I. (1996) Cancer
+
+78, 10041010.
+
+21. Auerbach, O., Stout, A. P., Hammond, E. C. & Garfinkel, L.
+
+(1962) N. Eng. J. Med. 267, 119125.
+
+22. Anderson, M., Sladon, S., Michels, R., Davidson, L., Conwell, K.,
+II, Lechner, J., Franklin, W., Saccomanno, G. & Wiest, J. (1996)
+J. Cell Biochem. 64, 185190.
+
+23. Zhou, J., Jensen, S. M., Steinberg, S. M., Mulshine, J. L. &
+
+Linnoila, R. I. (1996) Lung Cancer 14, 8597.
+
+

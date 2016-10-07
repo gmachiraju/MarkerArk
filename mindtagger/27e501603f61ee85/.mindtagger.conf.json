@@ -1,0 +1,16 @@
+{
+    "items" : {
+        "file" : "items.csv",
+        "key_columns" : [
+            "ext_id"
+        ],
+        "storage" : "file"
+    },
+    "tags" : {
+        "file" : "tags.json",
+        "storage" : "file"
+    },
+    "template" : "template.html",
+    "title" : "27e501603f61ee85 Labeling task for estimating precision"
+}
+

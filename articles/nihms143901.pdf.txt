@@ -1,0 +1,4304 @@
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+NIH Public Access
+Author Manuscript
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+Published in final edited form as:
+Int J Cancer. 2009 July 1; 125(1): 914. doi:10.1002/ijc.24292.
+
+Activated Leukocyte Cell Adhesion Molecule: a Novel Biomarker
+for Breast Cancer
+
+Vathany Kulasingam1,2, Yingye Zheng3, Antoninus Soosaipillai2, Antonette E. Leon4,5,
+Massimo Gion5, and Eleftherios P. Diamandis1,2,6,*
+1Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON,
+Canada
+2Department of Pathology and Laboratory Medicine, Mount Sinai Hospital, Toronto, ON, Canada
+3The Fred Hutchinson Cancer Research Center, Seattle, Washington
+4Association ABO, Regional Hospital, AULSS12, Venice, Italy
+5Center for the Study of Biological Markers of Malignancy-Consortium Istituto Oncologico Veneto
+IRCCS, Regional Hospital, AULSS12, Venice, Italy
+6Department of Clinical Biochemistry, University Health Network and Toronto Medical
+Laboratories, Toronto, ON, Canada
+
+Abstract
+
+Activated leukocyte cell adhesion molecule (ALCAM) has been implicated in tumorigenesis. Our
+goal was to examine the levels of ALCAM, in addition to the classical breast cancer tumor
+markers carbohydrate antigen 15-3 (CA15-3) and carcinoembryonic antigen (CEA), in serum by
+quantitative ELISA for diagnosis in breast cancer patients. The three proteins were measured in
+serum of 100 healthy women, 50 healthy men and 150 breast carcinoma patients. The diagnostic
+sensitivity and specificity of the tests were calculated and the association of serum marker
+concentrations with various clinicopathologic variables was examined using nonparametric
+Kruskal-Wallis tests. Receiver operating characteristic (ROC) curves were used to evaluate the
+diagnostic performance of the biomarkers. ALCAM, with area under the curve (AUC) of 0.78
+[95% CI: 0.73, 0.84] outperformed CA15-3 (AUC= 0.70 [95% CI: 0.64, 0.76]) and CEA (AUC=
+0.63 [95% CI: 0.56, 0.70]). The incremental values of AUC for ALCAM over that for CA15-3
+were statistically significant (Delong test, p <0.05). Combining CA15-3 and ALCAM yielded a
+ROC curve with an AUC of 0.81 (95% CI [0.75, 0.87]). Serum ALCAM appears to be a new
+biomarker for breast cancer and may have value for disease diagnosis.
+
+Keywords
+
+ALCAM; breast cancer; immunoassay; immunoglobulin superfamily; tumor marker
+
+Introduction
+
+Over one million new breast cancer cases are diagnosed each year1. It is a heterogeneous
+disease with a wide range of histological, clinical and molecular presentations.
+Unfortunately, other than definitive diagnosis by biopsy and histopathology, no diagnostic
+or screening test is presently suitable for early detection of breast cancer2. The ability to
+
+*Corresponding Author: Eleftherios P. Diamandis, Department of Pathology and Laboratory Medicine, Mount Sinai Hospital, 600
+University Ave., Toronto, ON M5G 1X5, Tel: 416-586-8443; Fax: 416-586-8628; ediamandis@mtsinai.on.ca.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 2
+
+detect human malignancy via a simple blood test has long been a major objective in medical
+screening. Carbohydrate antigen 15-3 (CA15-3) and carcinoembryonic antigen (CEA),
+discovered more than two and four decades ago, respectively, are the most commonly used
+tumor markers for breast cancer3-5. CA15-3 and CEA levels in serum are recommended for
+monitoring therapy of advanced breast cancer2. However, these cancer biomarkers have
+proven to be ineffective in detecting the early stages of the disease due to low diagnostic
+sensitivity and specificity6-8. Clearly, new tumor markers are urgently needed for screening,
+diagnosis, prognosis or selection of therapy of breast cancer patients.
+
+We have previously performed an extensive proteomic analysis of tissue culture
+supernatants from three different breast cancer cell lines9. Over 1,000 proteins were
+identified in our proteomic analysis. Based on literature searches, from the top 100
+differentially expressed proteins (as defined by spectral counting), 46 of the molecules had
+been previously examined as a serological breast cancer marker. The remaining proteins
+were scrutinized to select proteins for further investigation that was found only in the
+conditioned media of breast cancer cell lines and absent in MCF-10A (semi-normal breast
+epithelial cell line). This filtering criterion resulted in 30 candidates for further analysis. Of
+these 30 candidates, 11 of them had reagents available to develop an immunoassay to
+measure the levels of these proteins in biological fluids. Analyzing the serum of healthy
+individuals and patients with breast cancer resulted in one promising candidate molecule:
+activated leukocyte cell adhesion molecule (ALCAM) (Supplementary Figure 1).
+
+Cell adhesion molecules are cell surface receptors that mediate cell-cell and cell-substrate
+interactions. These molecules can be grouped into four families: integrins, cadherins,
+selectins and the immunoglobulin superfamily (Ig-SF)10. Alterations in cellular adhesion
+and communication can contribute to uncontrolled cell growth11. In this respect, ALCAM is
+a type 1 transmembrane glycoprotein of the Ig-SF12. The molecular weight of ALCAM is
+65kDa but with N-glycosylation at 8 putative sites, the mature ALCAM molecule has a
+molecular weight of 110kDa13. Five extracellular Ig domains, a transmembrane region and a
+short cytoplasmic tail make up the ALCAM protein that resembles E-cadherin in motif-
+arrangement12. ALCAM mediates both heterophilic (ALCAM-CD6) and homophilic
+(ALCAM-ALCAM) cell-cell interactions14. The extracellular structures of ALCAM provide
+two structurally and functionally distinguishable modules, one involved in ligand binding (to
+CD6)15 and the other in avidity14, 16. Physiologically, ALCAM is expressed in activated
+leukocytes and neural, epithelial and hematopoietic progenitor cells17. Functionally,
+ALCAM may act as a cell surface sensor to register local growth saturation and to regulate
+cellular signaling and dynamic responses18. ALCAM-CD6 interaction is required for
+optimal activation of T-cells suggesting a possible ALCAM involvement in the
+immunologic response to tumor cells19. ALCAM may favor interactions between tumor and
+endothelial cells18.
+
+The aim of our study was to investigate if ALCAM, either alone, or in combination with the
+classical breast cancer biomarkers (CA15-3 and CEA) represent a new strategy for breast
+cancer diagnosis with high sensitivity and specificity in serum, using quantitative
+methodologies. The association between serum marker concentrations with various
+clinicopathologic parameters was also examined.
+
+Materials and Methods
+Patients and Specimens
+
+The clinical material used consisted of 150 serum samples from breast cancer patients (ages
+34 to 82 years; median, 62 years), 100 serum samples from normal, apparently healthy
+women (ages 24 to 56 years; median, 40 years), and as an additional control, 50 serum
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 3
+
+samples from normal healthy men (ages 23 to 61 years; median, 48 years). Serum samples
+from healthy subjects were obtained through the Preventive Medical Unit at Venice General
+Hospital. The subjects were asked to donate blood samples for studies on tumor biomarkers
+and then asked to fill out a complete patient form. Any subjects that had a history of any
+serious or chronic illnesses or neoplasms were eliminated from the sample collection. The
+breast carcinoma serum samples were obtained on the morning prior to surgery and prior to
+any treatment. Peripheral blood samples were drawn by venopuncture after overnight fasting
+between 8 and 8:30 AM. Serum was collected in a Becton Dickinson vacutainer, code n
+367896, containing a coagulation coactivator and kept at ambient temperature (20-25C)
+before centrifugation. They were centrifuged at 1500g at ambient temperature (20-25C)
+after 45 minutes and within 2 hours were aliquoted and snap frozen in liquid nitrogen and
+immediately stored at -80C. Of the 150 breast carcinoma patients, 32 were stage 1, 57 were
+stage 2A or 2B, 27 were stage 3A or 3B and stage information was not available for the
+remaining 34. Supplementary Table 1 contains detailed information on the 150 breast cancer
+patient samples including their histology, grading (Elston-Ellis), diameter (cm), pT, pTNM,
+stage and age. Clinical grades 1, 2 and 3, corresponding to 26, 62 and 56 patients,
+respectively, were included in this study. The clinical characteristics of the breast cancer
+patients are described later. Serum samples, obtained from Venice, Italy, from all patients
+were stored at -80C until further analysis. Our protocols have been approved by the review
+boards of the participating institutions.
+
+Measurement of ALCAM, CA15-3 and CEA in serum
+
+The concentration of ALCAM in serum was measured by using a highly sensitive and
+specific non-competitive sandwich-type ELISA, developed in our laboratory. The assay is
+based on mouse monoclonal antibody capture and biotinylated mouse monoclonal detection
+antibody (both obtained from R&D Systems, Minneapolis, MN). The assay has a detection
+limit of 0.05g/L and a dynamic range of up to 10g/L. Precision was less than 10% within
+the measurement range. Serum samples were analyzed in triplicate with inclusion of two
+quality control samples in every run. In addition, CA15-3 and CEA were measured using a
+commercially available automated ELISA kit (Elecsys CA15-3 and CEA Immunoassay,
+respectively; Roche Diagnostics, Indianapolis, IN). The upper limit of normal for CA15-3
+for this method is 30 U/mL and for CEA is 5 ng/mL.
+
+Data analysis and statistics
+
+The relationships between biomarkers and patient and tumor characteristics were examined
+with the Kruskal-Wallis test, a nonparametric method for examining differences among
+multiple groups. Spearman's rank correlation coefficient was used to assess the correlations
+among biomarkers. Logistic regression was performed to calculate the odds ratio (OR) that
+defines the relation between biomarkers and case or control status. OR were calculated on
+log-transformed biomarkers and were represented with their 95% confidence interval (95%
+CI) and two-sided p-values.
+
+To further evaluate the diagnostic usefulness of the markers for dichotomous classification,
+we considered receiver operating characteristic (ROC) curve analysis. For each ROC curve,
+we calculated the area under the curve (AUC). Bootstrap method was used to calculate the
+confidence intervals for AUC. The ROC analysis was first conducted on individual markers
+and then in combination, to explore the potential that a marker panel can lead to improved
+performance. We considered an algorithm that renders a single composite score using the
+linear predictor fitted from a binary regression model. This algorithm has been justified to be
+optimal under the linearity assumption20 in the sense that ROC curve is maximized (i.e.,
+best sensitivity) at every threshold value. Since an independent validation series was not
+available for this study, the predictive accuracy of the composite scores was evaluated based
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 4
+
+on re-sampling of the original data. All analyses were performed using Splus 8.0 software
+(Insightful Corp., Seattle WA).
+
+Results
+ALCAM ELISA Assay Development
+
+To ensure that the immunoassay was suitable for measuring clinical serum samples, the
+recovery, reproducibility, linearity, cross-reactivity and serum sample stability were
+examined. Recombinant human ALCAM protein was added into the general diluent
+(control), normal serum (male and female) and into serum of breast cancer patients at
+different concentrations, and measured with the ALCAM immunoassay. A recovery of
+90-100% was observed in these samples. The assay also showed negligible cross-reactivity
+to another adhesion molecule of the Ig-SF, B-cell adhesion molecule14, displayed excellent
+linearity with serial dilutions and showed < 10% CV for intra- and inter-assay variability
+studies (Supplementary Figure 2). Finally, the design of the stability study consisted of
+collecting serum at different time points (2 weeks, 4 weeks and fresh samples) and storing
+them at 4C, 20C and 80C. ALCAM levels were measured in these samples using the
+immunoassay. No difference was observed among the samples stored at the different
+temperature conditions and among the different time point collections, compared to the
+freshly obtained samples.
+
+Association of Biomarkers with Age
+
+Since cases and controls were not matched for age, we first explored if marker values
+differed by age. The comparisons between cases and controls were based on data from
+females only. While no change with age was observed for CA15-3 concentrations, the level
+of CEA appeared to increase with age for both cases and controls. With respect to ALCAM,
+there was a trend for marker level to increase with age for cases but not for controls (See
+Supplementary Figure 3).
+
+Correlations Among Biomarkers
+
+Spearman's rank correlation coefficients were used to assess the correlations among markers
+for female controls and cases, respectively, and the results are listed in Table 1. CEA
+appeared to be weakly correlated with ALCAM in both cases (Spearman r = 0.371, p <
+0.001) and controls (Spearman r = 0.348, p = 0.001), whereas CA15-3 was weakly
+correlated with ALCAM among cases only (Spearman r = 0.2, p = 0.015).
+
+Association of Biomarkers with Tumor Characteristics for Cases
+
+The association of ALCAM, CA15-3 and CEA with patient and tumor characteristics such
+as age, tumor diameter, ER and PgR status, grade, histology, ratio of lymph node positive
+(lpos) and total lymph nodes (ltot), menopausal status, and stage were examined. A
+significant association was obtained for the following clinicopathologic variables: age
+(<=50, 51-60, 61-70 and >70), menopausal status (pre- and post-menopausal), and stage (I,
+II, III). The distributions of each marker in cases for these variables are given in Table 2.
+Post-menopausal women displayed higher values of CEA and ALCAM (all p < 0.001). As
+well, levels of ALCAM were not significantly associated with stage whereas CEA and
+CA15-3 were. Finally, while a statistically significant p-value was not obtained for an
+association between ALCAM values and tumor grade, a general trend was observed with
+elevated ALCAM levels corresponding to increased tumor grade (Supplementary Figure 4).
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 5
+
+Association of Biomarkers with Breast Cancer
+
+The distributions of the 3 markers, as measured by immunoassays, in cases and controls, are
+shown in Figure 1. Distributions of the patients with breast cancer differed from controls
+(female or male) for ALCAM, but to a lesser degree for the other two markers. The median
+values of males and females were similar for all 3 markers. When comparing the ALCAM
+values between normal women (n = 100) and patients with breast cancer (n = 150) by the
+non-parametric Mann Whitney test (two-tailed), the medians were significantly different
+(median normals = 60 g/L; median cancer = 74 g/L; P<0.0001). For CA15-3, the medians
+were significantly different (median normals = 15 units/mL; median cancer = 21 units/mL;
+P<0.0001). Lastly for CEA, the medians were different (median normals = 1.3 g/L; median
+cancer = 1.9 g/L; P = 0.0003). The association of the markers with cancer was further
+considered with linear regression models of logarithm-transformed marker values as a
+function of clinical status (cancer vs non-cancer; females only) and age. Adjusting for age,
+the mean levels of log(CA15-3) and log(ALCAM) were significantly higher in cancer;
+levels of log(CEA) did not differ between cancer and controls.
+
+We also considered logistic regression models to further characterize the associations
+between markers and breast cancer, adjusting for age. Similar to the results from linear
+regression, we found that two individual markers, CA15-3 (OR=1.12, 95% CI [1.04,1.19])
+and ALCAM (OR=1.42, 95% CI [1.14,1.77]) univariately predicted breast cancer, but this
+was not the case for CEA (OR=0.99, 95% CI [0.95,1.05]). In a logistic regression model,
+which included age and all three markers, we found that CA15-3 and ALCAM
+independently predicted breast cancer. Results from the logistic regression models are given
+in Table 3.
+
+The Diagnostic Values of the Three Markers
+
+ROC curve analysis (Figure 2) was used to quantify the diagnostic value of the three
+markers. All three markers have AUC significantly better than 0.5, with ALCAM having the
+best performance (AUC=0.78, 95% CI [0.73,0.84]). The superiority of ALCAM over the
+other two markers was also evident when we considered sensitivities at fixed values of 90%
+and 80% specificities, respectively (Table 4). For example, at specificity of 80%, ALCAM
+yielded a sensitivity of 60%, compared with 48% for CA15-3. Likewise, at 90% specificity,
+ALCAM displayed higher sensitivity than CA15-3 and CEA. Combining CA15-3 and
+ALCAM, based on the linear predictors from a logistic regression model, yielded a ROC
+curve with an AUC of 0.81 (bootstrap 95% CI [0.75, 0.87]). Combining CA15-3, ALCAM
+and CEA did not result in any improvement in ROC curves compared to CA15-3 and
+ALCAM. Re-sampling methods which aimed to adjust for over-fitting21 did not yield
+substantially different results.
+
+Discussion
+
+Most primary cancers show loss of expression of adhesion molecules to allow for a critical
+step in metastasis to occur: detachment of the invading cell from its neighbors 22, 23.
+However, a number of potential reasons exist for observing elevated levels of adhesion
+molecules such as ALCAM in cancer patients versus normal individuals. First, increased
+homotypic intercellular adhesion (due to elevated levels of these molecules) may favor the
+metastatic process since cell aggregates, rather than single cells breaking away from the
+primary tumor, have a greater chance of survival in the circulation and of lodging in other
+organs24. Second, it is known that cell adhesion is necessary for the metastatic spread of
+cancer cells to new organs (secondary tumor establishment)23. As well, overproduction of
+adhesion molecules may disrupt the normally operative intercellular adhesion forces,
+allowing more cell movement and the adoption of a less ordered tissue architecture25. An
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 6
+
+illustration of this is CEA, a member of the Ig-SF that is expressed in a variety of secretory
+tissues26, 27. Interestingly, expression of CEA is increased in colon carcinomas and it may
+be important to processes of intercellular recognition28, 29. It has been suggested that this
+might either result in disturbance of normal intercellular adhesion or provide advantages in
+further steps of metastasis25 such as conceivably facilitating establishment of a secondary
+tumor23, 30.
+
+ALCAM expression has been explored in a number of different tumor types displaying a
+clear upregulation in some tumors and downregulation in others. In addition, variable levels
+of ALCAM expression have been found at different stages of tumor development in the
+same type of malignancies. In melanoma, ALCAM has been suggested to exhibit a role in
+cell invasion and neoplastic progression31. In prostate carcinoma, ALCAM gene was found
+upregulated in high Gleason grade prostate cancers compared to benign prostatic hyperplasia
+cases32. However, one study observed an upregulation of ALCAM in low-grade tumors 33.
+Yet, another study on prostate cancer found ALCAM to predict prostate-specific antigen
+(PSA) relapse17. In colon cancer, using IHC, no significant correlation with patient age,
+tumor grade, stage or nodal status and ALCAM expression was observed, but membranous
+ALCAM expression correlated significantly with shortened patient survival34.
+
+There have been a few studies investigating ALCAM expression in breast cancer. Low
+levels of ALCAM mRNA correlated with nodal involvement, high grade and worse
+prognosis35, 36. At the protein level, laser scanning cytometry and confocal microscopy
+showed that high levels of ALCAM correlated with small tumor diameter, low grade and the
+presence of hormone receptors, which supported the view that this adhesion molecule is a
+tumor suppressor with prognostic significance 12. However, an IHC analysis showed that
+high cytoplasmic ALCAM expression was associated with shortened patient disease-free
+survival37. Yet a further study found that ALCAM-ALCAM interactions between breast
+cancer cells were important for survival in the primary tumor and that a loss of ALCAM was
+associated with programmed cell death38. Finally, Ihnen et al discovered that patients with
+high ALCAM mRNA expression who did not receive chemotherapy tended to have a worse
+prognosis, suggesting that high ALCAM expression levels may be a marker for prediction of
+the response to adjuvant chemotherapy in breast cancer39. Indeed, the discordant data
+between RNA and protein levels of ALCAM in breast cancer and even discordance among
+different protein expression studies suggest the need for additional research to evaluate the
+role of ALCAM in breast cancer.
+
+The finding of decreased levels of ALCAM in breast cancer tissue compared to normal
+breast tissue is not contradictory to our results of elevated levels of ALCAM in serum of
+breast cancer patients. It is possible that ALCAM levels decrease in tissue but is elevated in
+serum. For example, although PSA gene transcription is down-regulated in prostate cancer,
+PSA protein levels in the circulation of prostate cancer patients increase due to disruption of
+the anatomic barriers between the glandular lumen and capillaries. In addition, our data of
+increased ALCAM levels in cancer versus healthy controls is in line with data about
+ALCAM expression in prostate and colon cancer and melanoma. It should also be noted that
+we are the first to report presence of ALCAM in serum of breast cancer patients. Until now,
+all studies regarding ALCAM expression have been performed at the transcript level or
+using IHC or confocal microscopy. In this study, we developed a robust and highly
+sensitivity immunoassay to measure ALCAM in biological fluids.
+
+It is generally agreed upon that no single cancer biomarker will provide all necessary
+information for optimal cancer diagnosis. The current trend is to focus on the identification
+of multiple biomarkers that can be used in combination. The present data provides evidence
+that serum ALCAM represents a novel biomarker for breast cancer. This biomarker displays
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 7
+
+higher diagnostic sensitivity for breast cancer than the currently used tumor markers CA15-3
+and CEA (Table 4). Moreover, among the 120/150 cancer patients examined who displayed
+normal levels of CA15-3 (< 30U/mL), 48 of them (40%) had elevated levels of ALCAM
+(values of 78 g/L or greater; the cut-off for 95% specificity). For this reason, CA15-3
+measurements will benefit from combining ALCAM measurements, to increase the
+diagnostic sensitivity of each of the markers alone. As well, assuming a 95% specificity, the
+statistical power of our study (n = >100 for both control and cases) will allow the detection
+of a 20% difference between mean values of ALCAM levels in breast cancer patients and
+controls. The difference between the ALCAM means in this study was >20%, within the
+power of our study. In addition, a correlation of elevated ALCAM levels with increasing age
+was observed in breast carcinoma patients (Table 2). However, there was no correlation
+between ALCAM levels and age of normal women (data not shown). This suggests that the
+difference in age between cases and controls is not a confounding factor in this study.
+
+In conclusion, we show evidence that serum ALCAM concentration represents a novel
+biomarker for breast carcinoma, which has potential utility as a diagnostic tool. The
+combination of ALCAM with CA15-3 improved the diagnostic sensitivity. It is important to
+note that both CA 15-3 and CEA levels in serum are related to tumour size and nodal
+involvement and are recommended by international bodies such as ASCO (American
+Society of Clinical Oncology) for monitoring therapy of advanced breast cancer; it is not
+recommended as a diagnostic marker for breast cancer. However, when evaluating the
+potential of a new marker such as the one presented in this study for breast cancer, a
+benchmark molecule is needed for comparison. Since the only markers available for breast
+cancer were CA 15-3 and CEA, both markers were used to compare the diagnostic
+discriminatory ability. Moreover, the availability of a reliable immunoassay, such as the one
+developed in this study, for measuring serum ALCAM may facilitate further studies to
+establish the clinical usefulness of this marker in breast cancer. For example, examining the
+levels of ALCAM in other serum samples such as those obtained from patients pre- and
+post-surgery as well as serial serum samples collected from patients undergoing therapy may
+be beneficial in evaluating the biomarker potential of ALCAM as a prognostic or predictive
+marker of therapy. Further validation studies that integrate ALCAM with imaging
+modalities, namely mammography, may reveal potential clinical utility of ALCAM for
+breast cancer.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+
+This work was supported by a collaborative research and development grant from the Natural Sciences and
+Engineering Research Council of Canada and Proteomic Methods Inc., and from a grant from the Ontario Institute
+for Cancer Research. In addition, this work was partly supported by ABO Project 2001, Italy.
+
+References
+
+1. Parkin DM, Pisani P, Ferlay J. Estimates of the worldwide incidence of 25 major cancers in 1990.
+
+Int J Cancer. 1999; 80(6):827841. [PubMed: 10074914]
+
+2. Harris L, Fritsche H, Mennel R, Norton L, Ravdin P, Taube S, Somerfield MR, Hayes DF, Bast RC
+
+Jr. American Society of Clinical Oncology 2007 update of recommendations for the use of tumor
+markers in breast cancer. J Clin Oncol. 2007; 25(33):52875312. [PubMed: 17954709]
+
+3. Kufe D, Inghirami G, Abe M, Hayes D, Justi-Wheeler H, Schlom J. Differential reactivity of a novel
+monoclonal antibody (DF3) with human malignant versus benign breast tumors. Hybridoma. 1984;
+3(3):223232. [PubMed: 6094338]
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 8
+
+4. Gold P, Freedman SO. Specific carcinoembryonic antigens of the human digestive system. J Exp
+
+Med. 1965; 122(3):467481. [PubMed: 4953873]
+
+5. Hilkens J, Buijs F, Hilgers J, Hageman P, Calafat J, Sonnenberg A, van der V. Monoclonal
+
+antibodies against human milk-fat globule membranes detecting differentiation antigens of the
+mammary gland and its tumors. Int J Cancer. 1984; 34(2):197206. [PubMed: 6206003]
+
+6. Lumachi F, Basso SM. Serum tumor markers in patients with breast cancer. Expert Rev Anticancer
+
+Ther. 2004; 4(5):921931. [PubMed: 15485325]
+
+7. Khatcheressian JL, Wolff AC, Smith TJ, Grunfeld E, Muss HB, Vogel VG, Halberg F, Somerfield
+MR, Davidson NE. American society of clinical oncology 2006 update of the breast cancer follow-
+up and management guidelines in the adjuvant setting. J Clin Oncol. 2006; 24(31):50915097.
+[PubMed: 17033037]
+
+8. Diamandis, EP.; Fritsche, HA.; Lilja, H.; Chan, DW.; Schwartz, MK. Tumor Markers: Physiology,
+
+Pathobiology, Technology, and Clinical Applications. Washington, DC.: AACC Press; 2002. p.
+33-63.
+
+9. Kulasingam V, Diamandis EP. Proteomics analysis of conditioned media from three breast cancer
+cell lines: a mine for biomarkers and therapeutic targets. Mol Cell Proteomics. 2007; 6(11):1997
+2011. [PubMed: 17656355]
+
+10. Johanning GL. Modulation of breast cancer cell adhesion by unsaturated fatty acids. Nutrition.
+
+1996; 12(11-12):810816. [PubMed: 8974109]
+
+11. Ofori-Acquah SF, King JA. Activated leukocyte cell adhesion molecule: a new paradox in cancer.
+
+Transl Res. 2008; 151(3):122128. [PubMed: 18279810]
+
+12. Jezierska A, Olszewski WP, Pietruszkiewicz J, Olszewski W, Matysiak W, Motyl T. Activated
+Leukocyte Cell Adhesion Molecule (ALCAM) is associated with suppression of breast cancer
+cells invasion. Med Sci Monit. 2006; 12(7):BR245BR256. [PubMed: 16810131]
+
+13. Denzinger T, Diekmann H, Bruns K, Laessing U, Stuermer CA, Przybylski M. Isolation, primary
+structure characterization and identification of the glycosylation pattern of recombinant goldfish
+neurolin, a neuronal cell adhesion protein. J Mass Spectrom. 1999; 34(4):435446. [PubMed:
+10226368]
+
+14. Swart GW. Activated leukocyte cell adhesion molecule (CD166/ALCAM): developmental and
+mechanistic aspects of cell clustering and cell migration. Eur J Cell Biol. 2002; 81(6):313321.
+[PubMed: 12113472]
+
+15. Bowen MA, Aruffo A. Adhesion molecules, their receptors, and their regulation: analysis of CD6-
+activated leukocyte cell adhesion molecule (ALCAM/CD166) interactions. Transplant Proc. 1999;
+31(1-2):795796. [PubMed: 10083342]
+
+16. van Kempen LC, Nelissen JM, Degen WG, Torensma R, Weidle UH, Bloemers HP, Figdor CG,
+
+Swart GW. Molecular basis for the homophilic activated leukocyte cell adhesion molecule
+(ALCAM)-ALCAM interaction. J Biol Chem. 2001; 276(28):2578325790. [PubMed: 11306570]
+
+17. Kristiansen G, Pilarsky C, Wissmann C, Kaiser S, Bruemmendorf T, Roepcke S, Dahl E,
+
+Hinzmann B, Specht T, Pervan J, Stephan C, Loening S, et al. Expression profiling of
+microdissected matched prostate cancer samples reveals CD166/MEMD and CD24 as new
+prognostic markers for patient survival. J Pathol. 2005; 205(3):359376. [PubMed: 15532095]
+18. Swart GW, Lunter PC, Kilsdonk JW, Kempen LC. Activated leukocyte cell adhesion molecule
+
+(ALCAM/CD166): signaling at the divide of melanoma cell clustering and cell migration? Cancer
+Metastasis Rev. 2005; 24(2):223236. [PubMed: 15986133]
+
+19. Zimmerman AW, Joosten B, Torensma R, Parnes JR, van Leeuwen FN, Figdor CG. Long-term
+engagement of CD6 and ALCAM is essential for T-cell proliferation induced by dendritic cells.
+Blood. 2006; 107(8):32123220. [PubMed: 16352806]
+
+20. McIntosh MW, Pepe MS. Combining several screening tests: optimality of the risk score.
+
+Biometrics. 2002; 58(3):657664. [PubMed: 12230001]
+
+21. Zheng Y, Katsaros D, Shan SJ, de la Longrais I, Porpiglia M, Scorilas A, Kim NW, Wolfert RL,
+
+Simon I, Li L, Feng Z, Diamandis EP. A multiparametric panel for ovarian cancer diagnosis,
+prognosis, and response to chemotherapy. Clin Cancer Res. 2007; 13(23):69846992. [PubMed:
+18056174]
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Kulasingam et al.
+
+Page 9
+
+22. Stoll BA. Biological mechanisms in breast cancer invasiveness: relevance to preventive
+
+interventions. Eur J Cancer Prev. 2000; 9(2):7379. [PubMed: 10830573]
+
+23. Sommers CL. The role of cadherin-mediated adhesion in breast cancer. J Mammary Gland Biol
+
+Neoplasia. 1996; 1(2):219229. [PubMed: 10887495]
+
+24. Updyke TV, Nicolson GL. Malignant melanoma cell lines selected in vitro for increased
+
+homotypic adhesion properties have increased experimental metastatic potential. Clin Exp
+Metastasis. 1986; 4(4):273284. [PubMed: 3791726]
+
+25. Benchimol S, Fuks A, Jothy S, Beauchemin N, Shirota K, Stanners CP. Carcinoembryonic antigen,
+
+a human tumor marker, functions as an intercellular adhesion molecule. Cell. 1989; 57(2):327
+334. [PubMed: 2702691]
+
+26. Bormer OP. Immunoassays for carcinoembryonic antigen: specificity and interferences. Scand J
+
+Clin Lab Invest. 1993; 53(1):19. [PubMed: 7680822]
+
+27. Nap M, Hammarstrom ML, Bormer O, Hammarstrom S, Wagener C, Handt S, Schreyer M, Mach
+
+JP, Buchegger F, von Kleist S. Specificity and affinity of monoclonal antibodies against
+carcinoembryonic antigen. Cancer Res. 1992; 52(8):23292339. [PubMed: 1559235]
+
+28. Soletormos G, Nielsen D, Schioler V, Skovsgaard T, Dombernowsky P. Tumor markers cancer
+
+antigen 15.3, carcinoembryonic antigen, and tissue polypeptide antigen for monitoring metastatic
+breast cancer during first-line chemotherapy and follow-up. Clin Chem. 1996; 42(4):564575.
+[PubMed: 8605674]
+
+29. Hostetter RB, Augustus LB, Mankarious R, Chi KF, Fan D, Toth C, Thomas P, Jessup JM.
+
+Carcinoembryonic antigen as a selective enhancer of colorectal cancer metastasis. J Natl Cancer
+Inst. 1990; 82(5):380385. [PubMed: 2304087]
+
+30. Behrens J. The role of cell adhesion molecules in cancer invasion and metastasis. Breast Cancer
+
+Res Treat. 1993; 24(3):175184. [PubMed: 8435473]
+
+31. van Kempen LC, van den Oord JJ, van Muijen GN, Weidle UH, Bloemers HP, Swart GW.
+
+Activated leukocyte cell adhesion molecule/CD166, a marker of tumor progression in primary
+malignant melanoma of the skin. Am J Pathol. 2000; 156(3):769774. [PubMed: 10702391]
+
+32. Stamey TA, Warrington JA, Caldwell MC, Chen Z, Fan Z, Mahadevappa M, McNeal JE, Nolley
+
+R, Zhang Z. Molecular genetic profiling of Gleason grade 4/5 prostate cancers compared to benign
+prostatic hyperplasia. J Urol. 2001; 166(6):21712177. [PubMed: 11696729]
+
+33. Kristiansen G, Pilarsky C, Wissmann C, Stephan C, Weissbach L, Loy V, Loening S, Dietel M,
+
+Rosenthal A. ALCAM/CD166 is up-regulated in low-grade prostate cancer and progressively lost
+in high-grade lesions. Prostate. 2003; 54(1):3443. [PubMed: 12481253]
+
+34. Weichert W, Knosel T, Bellach J, Dietel M, Kristiansen G. ALCAM/CD166 is overexpressed in
+colorectal carcinoma and correlates with shortened patient survival. J Clin Pathol. 2004; 57(11):
+11601164. [PubMed: 15509676]
+
+35. King JA, Ofori-Acquah SF, Stevens T, Al Mehdi AB, Fodstad O, Jiang WG. Activated leukocyte
+
+cell adhesion molecule in breast cancer: prognostic indicator. Breast Cancer Res. 2004;
+6(5):R478R487. [PubMed: 15318930]
+
+36. Davies SR, Dent C, Watkins G, King JA, Mokbel K, Jiang WG. Expression of the cell to cell
+
+adhesion molecule, ALCAM, in breast cancer patients and the potential link with skeletal
+metastasis. Oncol Rep. 2008; 19(2):555561. [PubMed: 18202807]
+
+37. Burkhardt M, Mayordomo E, Winzer KJ, Fritzsche F, Gansukh T, Pahl S, Weichert W, Denkert C,
+
+Guski H, Dietel M, Kristiansen G. Cytoplasmic overexpression of ALCAM is prognostic of
+disease progression in breast cancer. J Clin Pathol. 2006; 59(4):403409. [PubMed: 16484444]
+
+38. Jezierska A, Matysiak W, Motyl T. ALCAM/CD166 protects breast cancer cells against apoptosis
+
+and autophagy. Med Sci Monit. 2006; 12(8):BR263BR273. [PubMed: 16865058]
+
+39. Ihnen M, Muller V, Wirtz RM, Schroder C, Krenkel S, Witzel I, Lisboa BW, Janicke F, Milde-
+
+Langosch K. Predictive impact of activated leukocyte cell adhesion molecule (ALCAM/CD166) in
+breast cancer. Breast Cancer Res Treat. 2008
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+Kulasingam et al.
+
+Page 10
+
+Non-Standard Abbreviations
+
+ALCAM
+AUC
+CI
+CV
+ELISA
+ER
+Ig-SF
+OR
+PgR
+PSA
+ROC
+
+activated leukocyte cell adhesion molecule
+
+area under the curve
+
+confidence interval
+
+coefficient of variation
+
+Enzyme-linked immunosorbent assay
+
+estrogen receptor
+
+immunoglobulin superfamily
+
+odds ratio
+
+progesterone receptor
+
+prostate-specific antigen
+
+receiver operating characteristic
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+t
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+Kulasingam et al.
+
+Page 11
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Figure 1.
+Distribution of markers A) ALCAM, B) CA15-3 and C) CEA in the three groups (normal
+female, normal male and breast carcinoma) examined by an immunoassay specific to the
+molecule. The solid horizontal line indicates the median value for each of the groups. The
+dotted horizontal line indicates the cut-off values to discriminate cancer from control
+subjects A) ALCAM: 78 g/L, 95% specificity cut-off; B) CA15-3: 30 U/mL and C) CEA:
+5 ng/mL.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+Kulasingam et al.
+
+Page 12
+
+I
+
+t
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Figure 2.
+ROC curves for the three markers (CA15-3, CEA, ALCAM).
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+ 
+
+l
+
+1
+e
+b
+a
+T
+
+Kulasingam et al.
+
+Page 13
+
+s
+e
+s
+a
+c
+ 
+d
+n
+a
+
+ 
+s
+l
+o
+r
+t
+n
+o
+c
+ 
+e
+l
+a
+m
+e
+f
+ 
+r
+o
+f
+ 
+s
+r
+e
+k
+r
+a
+m
+3
+
+ 
+
+ 
+
+g
+n
+o
+m
+a
+
+ 
+s
+t
+n
+e
+i
+c
+i
+f
+f
+e
+o
+c
+ 
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+ 
+k
+n
+a
+r
+ 
+s
+'
+
+n
+a
+m
+r
+a
+e
+p
+S
+
+s
+e
+s
+a
+C
+
+s
+l
+o
+r
+t
+n
+o
+C
+ 
+e
+l
+a
+m
+e
+F
+
+M
+A
+C
+L
+A
+
+A
+E
+C
+
+3
+-
+5
+1
+A
+C
+
+M
+A
+C
+L
+A
+
+A
+E
+C
+
+3
+-
+5
+1
+A
+C
+
+1
+
+*
+1
+7
+3
+
+.
+
+0
+
+*
+2
+
+.
+
+0
+
+1
+
+*
+8
+4
+3
+
+.
+
+0
+
+2
+8
+0
+
+.
+
+0
+
+M
+A
+C
+L
+A
+
+1
+
+*
+1
+6
+1
+
+.
+
+0
+
+1
+
+1
+
+1
+9
+0
+
+.
+
+0
+-
+
+A
+E
+C
+
+1
+
+3
+-
+5
+1
+A
+C
+
+5
+0
+
+.
+
+0
+ 
+<
+*p
+
+ 
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Kulasingam et al.
+
+Page 14
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+t
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+*
+
+1
+3
+Q
+
+ 
+
+l
+
+2
+e
+b
+a
+T
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+n
+a
+i
+
+ 
+
+d
+e
+M
+M
+A
+C
+L
+A
+
+*
+
+1
+3
+Q
+
+n
+a
+i
+
+ 
+
+d
+e
+M
+A
+E
+C
+
+*
+
+1
+3
+Q
+
+n
+a
+i
+
+ 
+
+d
+e
+M
+3
+-
+5
+1
+A
+C
+
+s
+t
+n
+e
+i
+t
+a
+P
+ 
+f
+
+O
+#
+
+ 
+
+s
+e
+s
+a
+c
+ 
+r
+o
+f
+ 
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+ 
+r
+o
+m
+u
+t
+ 
+
+y
+b
+ 
+s
+n
+o
+i
+t
+u
+b
+
+i
+r
+t
+s
+i
+
+d
+ 
+r
+e
+k
+r
+a
+M
+
+0
+0
+
+.
+
+7
+
+0
+0
+
+.
+
+6
+6
+
+0
+5
+
+.
+
+1
+1
+
+0
+0
+
+.
+
+7
+7
+
+0
+0
+
+.
+
+9
+
+5
+2
+
+.
+
+8
+
+0
+0
+
+.
+
+6
+
+0
+5
+
+.
+
+9
+
+0
+0
+
+.
+
+5
+7
+
+0
+0
+
+.
+
+2
+8
+
+1
+0
+0
+
+.
+
+0
+<
+
+0
+0
+
+.
+
+6
+6
+
+0
+0
+
+.
+
+8
+7
+
+1
+0
+0
+
+.
+
+0
+<
+
+5
+2
+
+.
+
+1
+1
+
+0
+0
+
+.
+
+2
+7
+
+0
+0
+
+.
+
+8
+
+0
+0
+
+.
+
+4
+7
+
+0
+5
+
+.
+
+1
+1
+
+0
+0
+
+.
+
+2
+7
+
+5
+7
+
+.
+
+8
+
+0
+5
+
+.
+
+9
+
+0
+5
+
+.
+
+8
+
+0
+5
+
+.
+
+9
+
+8
+8
+
+.
+
+0
+
+0
+0
+
+.
+
+2
+7
+
+0
+0
+
+.
+
+6
+7
+
+4
+6
+
+.
+
+0
+
+0
+0
+
+.
+
+4
+8
+
+0
+0
+
+.
+
+4
+7
+
+9
+0
+
+.
+
+0
+
+9
+5
+
+.
+
+0
+
+9
+9
+
+.
+
+0
+
+5
+7
+
+.
+
+0
+
+6
+9
+
+.
+
+0
+
+6
+5
+
+.
+
+0
+
+8
+9
+
+.
+
+0
+
+1
+6
+
+.
+
+0
+
+6
+8
+
+.
+
+0
+
+0
+1
+
+.
+
+1
+
+7
+0
+
+.
+
+1
+
+4
+8
+
+.
+
+0
+
+8
+0
+
+.
+
+1
+
+6
+8
+
+.
+
+0
+
+9
+5
+
+.
+
+1
+
+2
+8
+
+.
+
+1
+
+2
+0
+
+.
+
+2
+
+2
+6
+
+.
+
+2
+
+1
+0
+
+.
+
+0
+
+3
+0
+
+.
+
+1
+
+4
+1
+
+.
+
+2
+
+1
+0
+0
+
+.
+
+0
+<
+
+8
+4
+
+.
+
+1
+
+5
+7
+
+.
+
+1
+
+7
+4
+
+.
+
+2
+
+4
+0
+0
+
+.
+
+0
+
+0
+7
+
+.
+
+1
+
+0
+0
+
+.
+
+2
+
+4
+
+.
+
+0
+
+7
+6
+
+.
+
+1
+
+7
+9
+
+.
+
+1
+
+2
+7
+
+.
+
+0
+
+1
+1
+
+.
+
+5
+
+6
+0
+
+.
+
+6
+
+4
+3
+
+.
+
+4
+
+2
+1
+
+.
+
+6
+
+5
+3
+
+.
+
+5
+
+6
+0
+
+.
+
+6
+
+6
+3
+
+.
+
+0
+2
+
+8
+7
+
+.
+
+1
+2
+
+0
+9
+
+.
+
+8
+1
+
+2
+9
+
+.
+
+2
+2
+
+1
+3
+
+.
+
+0
+
+0
+3
+
+.
+
+1
+2
+
+1
+6
+
+.
+
+0
+2
+
+2
+9
+
+.
+
+0
+
+3
+9
+
+.
+
+5
+
+6
+6
+
+.
+
+4
+
+0
+2
+
+.
+
+7
+1
+
+6
+4
+
+.
+
+9
+1
+
+2
+3
+
+.
+
+0
+1
+
+0
+4
+
+.
+
+3
+2
+
+6
+3
+
+.
+
+5
+
+0
+2
+
+.
+
+6
+
+2
+1
+
+.
+
+8
+
+3
+4
+
+.
+
+5
+
+3
+0
+0
+
+.
+
+0
+
+4
+3
+
+.
+
+1
+2
+
+8
+4
+
+.
+
+1
+2
+
+5
+5
+
+.
+
+0
+
+5
+4
+
+.
+
+1
+2
+
+6
+4
+
+.
+
+1
+2
+
+7
+2
+
+.
+
+0
+
+6
+3
+
+4
+3
+
+0
+4
+
+0
+4
+
+0
+3
+
+3
+0
+1
+
+2
+3
+
+7
+5
+
+7
+2
+
+9
+
+1
+3
+
+s
+u
+t
+a
+t
+s
+ 
+l
+a
+s
+u
+a
+p
+o
+n
+e
+M
+
+*
+*
+e
+u
+l
+a
+v
+
+ 
+
+p
+
+0
+5
+=
+<
+
+0
+6
+-
+1
+5
+
+0
+7
+-
+1
+6
+
+e
+g
+A
+
++
+0
+7
+
+*
+*
+e
+u
+l
+a
+v
+
+ 
+
+p
+
+e
+g
+a
+t
+S
+
+e
+r
+p
+
+t
+s
+o
+p
+
+I
+
+I
+I
+
+I
+I
+I
+
+*
+*
+e
+u
+l
+a
+v
+
+ 
+
+p
+
+e
+v
+i
+t
+a
+g
+e
+n
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+u
+l
+a
+v
+
+ 
+
+p
+
+R
+g
+P
+
+R
+E
+
+1
+ 
+e
+v
+i
+t
+a
+g
+e
+N
+
+1
+ 
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+u
+l
+a
+v
+
+ 
+
+p
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+e
+l
+b
+a
+i
+r
+a
+v
+
+ 
+l
+a
+c
+i
+n
+i
+l
+c
+ 
+a
+ 
+
+d
+n
+a
+ 
+r
+e
+k
+r
+a
+m
+ 
+a
+ 
+
+n
+e
+e
+w
+t
+e
+b
+
+ 
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+a
+ 
+e
+h
+t
+ 
+
+g
+n
+i
+t
+s
+e
+t
+ 
+r
+o
+f
+ 
+t
+s
+e
+t
+ 
+s
+i
+l
+l
+a
+
+W
+
+-
+l
+a
+k
+s
+u
+r
+K
+ 
+c
+i
+r
+t
+e
+m
+a
+r
+a
+p
+n
+o
+n
+
+ 
+l
+a
+b
+o
+l
+g
+m
+o
+r
+f
+ 
+
+ 
+
+d
+e
+t
+u
+p
+m
+o
+c
+ 
+:
+e
+u
+l
+a
+v
+
+ 
+
+*p
+*
+
+)
+1
+Q
+
+(
+ 
+e
+l
+i
+t
+n
+e
+c
+r
+e
+p
+
+ 
+
+h
+t
+
+5
+2
+
+ 
+e
+h
+t
+ 
+
+d
+n
+a
+ 
+)
+3
+Q
+
+(
+ 
+e
+l
+i
+t
+n
+e
+c
+r
+e
+p
+
+ 
+
+h
+t
+
+5
+7
+
+ 
+e
+h
+t
+ 
+
+n
+e
+e
+w
+t
+e
+b
+
+ 
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+
+ 
+e
+h
+t
+ 
+f
+l
+a
+h
+
+ 
+e
+n
+o
+
+ 
+s
+a
+ 
+
+d
+e
+t
+u
+p
+m
+o
+c
+ 
+:
+e
+g
+n
+a
+r
+ 
+e
+l
+i
+t
+r
+a
+u
+q
+r
+e
+t
+n
+i
+-
+i
+
+m
+e
+s
+ 
+,
+
+1
+3
+Q
+
+*
+
+Kulasingam et al.
+
+Page 15
+
+Results from logistic regression models
+
+Table 3
+
+Univariate *
+95% CI
+
+OR
+
+Multivariate**
+95% CI
+OR
+
+Marker
+
+CA15-3
+
+CEA
+
+1.12
+
+0.99
+
+(1.04,1.19)
+
+(0.95,1.05)
+
+ALCAM 1.42
+
+(1.14,1.77)
+
+1.09
+
+0.94
+
+1.39
+
+(1.02,1.18)
+
+(0.89,1.00)
+
+(1.09,1.78)
+
+*
+
+logistic model with logarithm of the marker and age as predictors.
+
+**
+
+logistic model with logarithm of all three markers and age as predictors.
+
+OR, odds ratio; CI, confidence interval.
+
+I
+
+ 
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+ 
+
+l
+
+4
+e
+b
+a
+T
+
+Kulasingam et al.
+
+Page 16
+
+y
+t
+i
+v
+i
+t
+i
+s
+n
+e
+S
+
+I
+C
+%
+
+ 
+
+5
+9
+
+y
+t
+i
+c
+i
+f
+i
+c
+e
+p
+S
+%
+
+ 
+
+0
+8
+
+I
+C
+%
+
+ 
+
+5
+9
+
+y
+t
+i
+c
+i
+f
+i
+c
+e
+p
+S
+%
+
+ 
+
+0
+9
+
+I
+C
+%
+
+ 
+
+5
+9
+
+C
+U
+A
+
+)
+3
+6
+
+.
+
+0
+
+,
+
+2
+3
+
+.
+
+0
+(
+
+)
+1
+4
+
+.
+
+0
+
+,
+
+2
+2
+
+.
+
+0
+(
+
+)
+3
+7
+
+.
+
+0
+
+,
+
+8
+4
+
+.
+
+0
+(
+
+)
+0
+8
+
+.
+
+0
+
+,
+
+4
+5
+
+.
+
+0
+(
+
+8
+4
+
+.
+
+0
+
+2
+3
+
+.
+
+0
+
+0
+6
+
+.
+
+0
+
+7
+6
+
+.
+
+0
+
+)
+4
+4
+
+.
+
+0
+
+,
+
+9
+1
+
+.
+
+0
+(
+
+)
+1
+3
+
+.
+
+0
+
+,
+
+2
+1
+
+.
+
+0
+(
+
+)
+7
+5
+
+.
+
+0
+
+,
+
+8
+3
+
+.
+
+0
+(
+
+)
+4
+6
+
+.
+
+0
+
+,
+
+9
+3
+
+.
+
+0
+(
+
+2
+3
+0
+
+.
+
+2
+2
+0
+
+.
+
+7
+4
+0
+
+.
+
+2
+5
+0
+
+.
+
+)
+6
+7
+
+.
+
+0
+
+,
+
+4
+6
+
+.
+
+0
+(
+
+)
+0
+7
+
+.
+
+0
+
+,
+
+6
+5
+
+.
+
+0
+(
+
+)
+4
+8
+
+.
+
+0
+
+,
+
+3
+7
+
+.
+
+0
+(
+
+)
+7
+8
+
+.
+
+0
+
+,
+
+5
+7
+
+.
+
+0
+(
+
+0
+7
+
+.
+
+0
+
+3
+6
+
+.
+
+0
+
+8
+7
+
+.
+
+0
+
+1
+8
+
+.
+
+0
+
+r
+e
+k
+r
+a
+M
+
+3
+-
+5
+1
+A
+C
+
+A
+E
+C
+
+M
+A
+C
+L
+A
+
+*
+d
+e
+n
+i
+b
+m
+o
+C
+
+M
+A
+C
+L
+A
+ 
+d
+n
+a
+ 
+
+3
+-
+5
+1
+A
+C
+
+ 
+f
+o
+
+ 
+
+n
+o
+i
+t
+a
+n
+i
+b
+m
+o
+c
+ 
+r
+a
+e
+n
+i
+l
+ 
+:
+d
+e
+n
+i
+b
+m
+o
+C
+
+*
+
+s
+r
+e
+k
+r
+a
+m
+o
+i
+
+b
+ 
+r
+o
+f
+ 
+s
+i
+s
+y
+l
+a
+n
+a
+C
+O
+R
+
+ 
+
+Int J Cancer. Author manuscript; available in PMC 2013 August 14.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+t
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+

@@ -1,0 +1,200 @@
+Imaging, Diagnosis, Prognosis
+
+Salivary Proteomics for Oral Cancer Biomarker Discovery
+Shen Hu,1Martha Arellano,1Pinmanee Boontheung,2 JianghuaWang,1Hui Zhou,1
+Jiang Jiang,1David Elashoff,7 RogerWei,1Joseph A. Loo,2,3,4 and DavidT. Wong1,3,5,6
+
+Abstract Purpose:This study aims to explore the presence of informative protein biomarkers in the human
+saliva proteome and to evaluate their potential for detection of oral squamous cell carcinoma
+(OSCC).
+Experimental Design: Whole saliva samples were collected from patients (n = 64) with OSCC
+and matched healthy subjects (n = 64). The proteins in pooled whole saliva samples of
+patients with OSCC (n = 16) and matched healthy subjects (n = 16) were profiled using shotgun
+proteomics based on C4 reversed-phase liquid chromatography for prefractionation, capillary
+reversed-phase liquid chromatography with quadruple time-of-flight mass spectrometry, and
+Mascot sequence database searching. Immunoassays were used for validation of the candidate
+biomarkers on a new group of OSCC (n = 48) and matched healthy subjects (n = 48). Receiver
+operating characteristic analysis was exploited to evaluate the diagnostic value of discovered
+candidate biomarkers for OSCC.
+Results: Subtractive proteomics revealed several salivary proteins at differential levels between
+the OSCC patients and matched control subjects. Five candidate biomarkers were successfully
+validated using immunoassays on an independent set of OSCC patients and matched
+healthy subjects. The combination of these candidate biomarkers yielded a receiver operating
+characteristic value of 93%, sensitivity of 90%, and specificity of 83% in detecting OSCC.
+Conclusion: Patient-based saliva proteomics is a promising approach to searching for
+OSCC biomarkers. The discovery of these new targets may lead to a simple clinical tool for the
+noninvasive diagnosis of oral cancer. Long-term longitudinal studies with large populations of
+individuals with oral cancer and those who are at high risk of developing oral cancer are needed
+to validate these potential biomarkers.
+
+Oral cancer, predominantly oral squamous cell carcinoma
+(OSCC), is a high-effect local disease in the oral cavity affecting
+over 300,000 people worldwide annually (1, 2). The American
+Cancer Society estimated that more than 30,000 new cases of
+oral cancer were diagnosed in 2006, representing f3% of all
+malignancies in men and 2% of all malignancies in women (3).
+
+Authors Affiliations: 1Oral Biology and Medicine Division and Dental Research
+Institute, School of Dentistry, 2Department of Chemistry and Biochemistry,
+3Jonsson Comprehensive Cancer Center, 4Department of Biological Chemistry,
+David Geffen School of Medicine, 5Division of Head and Neck Surgery/
+Otolaryngology, School of Medicine, 6Henry Samueli School of Engineering and
+Applied Science, and 7Department of Biostatistics, School of Public Health,
+University of California at Los Angeles, Los Angeles, California
+Received 12/2/07; revised 6/16/08; accepted 6/18/08.
+Grant support: USPHS grants R03-DE017144 (S. Hu), R21-CA122806 (S. Hu),
+R01DE15970 (D.T.Wong), and R01DE17170 (D.T.Wong).
+Note: Supplementary data for this article are available at Clinical Cancer Research
+Online (http://clincancerres.aacrjournals.org/).
+The costs of publication of this article were defrayed in part by the payment of page
+charges. This article must therefore be hereby marked advertisement in accordance
+with 18 U.S.C. Section 1734 solely to indicate this fact.
+Requests for reprints: Shen Hu, Dental Research Institute, School of Dentistry,
+University of California at Los Angeles, CHS 63-070, 10833 Le Conte Avenue, Los
+Angeles, CA 90095. Phone: 310-206-8834; E-mail: shu@dentistry.ucla.edu or
+David T. Wong, Dental Research Institute, School of Dentistry, University of
+California at Los Angeles, CHS 73-017, 10833 Le Conte Avenue, Los Angeles, CA
+90095; E-mail: dwong@dentistry.ucla.edu.
+
+F 2008 American Association for Cancer Research.
+doi:10.1158/1078-0432.CCR-07-5037
+
+Patients with OSCC often present with symptoms at a late
+stage, and there is a high recurrence rate after treatment,
+especially in those with neck lymph node metastasis. The
+overall 5-year survival rates for oral cancer have remained low
+and are essentially unchanged during the past few decades (4,
+5). Delayed detection is likely to be a primary reason for the
+high morbidity rate of oral cancer patients, and this supports
+the imperative need for sensitive biomarkers to improve early
+detection of oral cancers.
+
+Currently, oral cancer diagnosis depends on a thorough oral
+examination, usually by a dentist or other qualified health
+care provider, for possible signs and symptoms of the disease.
+If an exam shows an abnormal area in the oral cavity, a small
+tissue biopsy may be removed for a pathologist to check
+for cancer cells under a microscope. Scientists are searching
+for biomarkers in saliva, an easy-to-obtain body fluid, for
+noninvasive detection of oral cancer. For instance, mitochon-
+drial DNA mutation and aberrant promoter hypermethylation
+of cancer-related genes are common in head and neck/oral
+cancer. Detection of these genetic alterations in saliva may be
+useful for diagnosis and monitoring of the disease (6  9). We
+have identified seven salivary mRNAs that can discriminate
+OSCCs from matched control subjects (10). Validation of this
+set of signature on a large patient population is currently
+being done in a multicenter trial. Last, several studies have
+investigated the use of salivary proteins as potential diagnostic
+markers for oral cancer (11  14). Elevated levels of salivary
+
+Clin Cancer Res 2008;14(19) October 1, 2008
+
+6246
+
+www.aacrjournals.org
+
+Translational Relevance
+
+By using patient-based saliva proteomics, this study has
+shown that informative protein biomarkers are present in
+oral cancer patients saliva that can be used for potential
+detection of the disease. Because it is very simple to collect
+and process saliva fluids, the discovery of these biomarkers
+may lead to a useful clinical tool for noninvasive diagnosis
+of oral cancer in the future. Large-scale clinical trials are
+needed for further testing those potential biomarkers
+on new populations of individuals with oral cancer and
+those who are at high risk for developing oral cancer. Novel
+diagnostic devices will also be developed for fast
+and high-throughput measurement of these biomarkers in
+cancer patients saliva.
+
+soluble CD44 were shown in the majority of OSCC and could
+distinguish cancer from benign disease with high specificity
+(11). Three tumor markers, cytokeratin 19 fragment Cyfra21-
+1, tissue polypeptide antigen, and cancer antigen 125, were
+found significantly elevated in the saliva of OSCC patients,
+and combined use of
+these markers resulted in similar
+diagnostic value to those obtained when measuring them in
+the sera of OSCC patients (12). The level of p53 autoantibody
+in saliva was also found correlated with its serum levels in
+OSCC and analysis of p53 antibody in saliva may offer a
+specific method for detection of a subset of OSCC with p53
+aberrations (13). Considering that these candidate biomarkers
+were discovered at an individual basis, their predicting power
+for OSCC detection is limited. Our study is aimed for the
+identification of a panel of candidate biomarkers, which may
+collectively improve the sensitivity and specificity for detecting
+OSCC.
+
+The purpose of this present study is to discover and validate
+differentially expressed proteins in saliva from patients with
+OSCC that could serve as potential biomarkers for OSCC
+detection. By using a subtractive proteomics approach to profile
+salivary proteins from oral cancer and matched healthy subjects
+followed by immunoassay validation, we have revealed a
+panel of candidate protein biomarkers for potential detection
+of OSCC.
+
+Materials and Methods
+
+Patients and saliva samples.
+
+In total, 128 participants, including
+64 OSCC patients and 64 control subjects, were recruited for this study.
+The cancer and control groups were completely matched in terms of
+gender (P = 1) and ethnicity (P = 1). The mean ages for OSCC patients
+and healthy controls were 54.0 and 46.9 y (P = 0.006, Students t test),
+respectively. The sex distribution in OSCC or control groups was 20:44
+(female:male), and the smoking history was matched by determining
+the pack per year history (P = 0.65). All of the OSCC patients were
+recently diagnosed and had not received any prior treatment in the
+form of chemotherapy, radiotherapy, surgery, or alternative remedies
+before sample collection. All the subjects involved in this study signed
+the institutional review board  approved consent form. None of these
+subjects had a history of prior malignancy,
+immunodeficiency,
+autoimmune disorders, hepatitis, or HIV infection.
+
+Salivary Protein Markers of OSCC
+
+A well-defined and standardized protocol was used for collection,
+storage, and processing of all the samples under the exactly same
+conditions. Unstimulated whole saliva (WS) samples were collected
+between 9 a.m. and 10 a.m. with prior mouth rinsing with water (15).
+The donors were asked to abstain from eating, drinking, smoking, or
+using oral hygiene products for at
+least 1 h before collection.
+
+The samples, once collected, were centrifuged at 2,600  g for 15
+min at 4jC to remove debris and cells. The supernatant was then
+removed and protease inhibitors were included in the collected samples
+to ensure preservation of the protein integrity. The samples were
+immediately aliquoted into smaller volumes and stored at -80jC.
+To avoid the effects of protein degradation, the samples that had been
+thawed were not reused.
+
+Shotgun proteome analysis. Shotgun proteomics based on reversed-
+phase liquid chromatography (LC) off-line prefractionation of intact
+proteins and subsequent LC-tandem mass spectrometry (LC-MS/MS)
+analysis of proteolyzed peptides was used for profiling of saliva
+proteins from OSCC or matched control subjects. The total protein
+concentration in each sample was measured using a 2D Quant kit
+(GE Healthcare). We then pooled equal amount of WS proteins from
+16 OSCC patients or 16 control subjects, respectively,
+for the
+comparative analysis.
+
+Both pooled OSCC and control samples (100 Ag proteins in total
+each) were separated by LC (HP1100, Agilent Technologies) using a
+Vydac C4 RP column (particle size, 5 Am; 250  2.1 mm inner
+diameter; The Nest Group, Inc.) at a flow rate of 250 AL/min. This
+allowed for 35 fractions collected from each pooled sample (1 fraction
+per minute). The proteins in each fraction were reduced with DTT
+(10 mmol/L, 1 h), alkylated with iodoacetamide (55 mmol/L, 1 h),
+and digested by trypsin (60 ng trypsin for each fraction) at 37jC for
+overnight. The resulting peptide digests were dried, reconstituted in
+0.1% formic acid, and then analyzed by online capillary LC-quadruple
+time-of-flight (QqTOF) MS.
