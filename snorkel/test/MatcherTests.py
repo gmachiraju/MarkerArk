@@ -18,20 +18,23 @@ class TestMatchers(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
-        sleep(1)
+        sleep(1)  # TODO: Fix sentence parser so that this hack not necessary!
         cls.sp._kill_pserver()
     
     def test_dictionary_match(self):
-
+        # TODO
         pass
 
     def test_union(self):
+        # TODO
         pass
 
     def test_concat(self):
+        # TODO
         pass
 
     def test_regex_match(self):
+        # TODO
         pass
 
     def test_slot_fill_match(self):

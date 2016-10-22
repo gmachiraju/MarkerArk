@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-set -eu
-: ${DEPENDSDIR:?path to the directory that keeps dependency information is required}
-: ${DEPENDS_PREFIX:?path to the directory that holds installed dependencies is required}
-msg() { echo "mindbender $*"; }
-error() { echo >&2 "Missing dependency: $*"; false; }
-

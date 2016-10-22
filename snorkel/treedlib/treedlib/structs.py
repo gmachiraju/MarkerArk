@@ -107,12 +107,7 @@ def corenlp_to_xmltree_sub(s, dep_parents, rid=0):
   if i >= 0:
     for k,v in filter(lambda t : type(t[1]) == list and len(t[1]) == N, s.iteritems()):
       if v[i] is not None:
-        try:
-          attrib[singular(k)] = ''.join(c for c in
-                                        str(v[i])
-                                        if ord(c) < 128)
-        except:
-          print "Ignoring bad char"
+        attrib[singular(k)] = ''.join(c for c in str(v[i]) if ord(c) < 128)
 
     # Add word_idx if not present
     if 'word_idx' not in attrib:

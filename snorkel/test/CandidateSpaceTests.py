@@ -18,7 +18,7 @@ class TestCandidateSpace(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
-        sleep(1)
+        sleep(1)  # TODO: Fix sentence parser so that this hack not necessary!
         cls.sp._kill_pserver()
     
     def test_ngrams(self):

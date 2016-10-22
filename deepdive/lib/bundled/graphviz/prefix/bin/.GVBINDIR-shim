@@ -1,4 +1,0 @@
-#!/bin/sh -e
-here=`dirname "$0"`; here=`cd "$here" && pwd`
-export GVBINDIR="$here"/../lib/graphviz
-exec "$here/../bin.actual/${0##*/}" "$@"

@@ -1,9 +1,0 @@
-build_timestamp='2016-04-26T15:21:44+00:00'
-build_os=Linux
-build_os_release=3.13.0-40-generic
-build_os_version='#69-Ubuntu SMP Thu Nov 13 17:53:56 UTC 2014'
-build_machine=x86_64
-build_hostname=testing-worker-linux-docker-babe303d-3437-linux-5.prod.travis-ci.org
-version=v0.8.0-79-g28a58de
-version_long=v0.8.0-79-g28a58de
-version_commit=28a58de9eaf92ef16c4777b007ef2d16cb7f0548

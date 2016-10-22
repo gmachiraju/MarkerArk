@@ -1,0 +1,100 @@
+#!/usr/bin/env bash
+# DeepDive
+# Usage: deepdive COMMAND [ARG]...
+#
+# To enable bash completion for deepdive commands, run:
+# $ source $(deepdive whereis installed etc/deepdive_bash_completion.sh)
+#
+##
+# Generated: 2015-06-19
+set -eu
+
+if ! [[ "${DEEPDIVE_SHELL:-}" -ef "$0" ]]; then
+    Self=$(readlink -f "$0" 2>/dev/null || {
+        # XXX readlink -f is only available in GNU coreutils
+        cd $(dirname -- "$0")
+        n=$(basename -- "$0")
+        if [ -L "$n" ]; then
+            L=$(readlink "$n")
+            if [ x"$L" != x"${L#/}" ]; then
+                echo "$L"; exit
+            else
+                cd "$(dirname -- "$L")"
+                n=$(basename -- "$L")
+            fi
+        fi
+        echo "$(pwd -P)/$n"
+    })
+    Here=$(dirname "$Self")
+
+    # Keep a backup of some environment variables
+    for v in PATH LANGUAGE LANG LC_ALL LC_COLLATE LC_CTYPE LC_MESSAGES LC_MONETARY LC_NUMERIC LC_TIME
+    do  vbak=DEEPDIVE_ORIG_$v
+          declare -p $v    &>/dev/null || continue
+        ! declare -p $vbak &>/dev/null || continue
+        export "$vbak=${!v}"
+    done
+
+    # Setup environment
+    unset CDPATH
+    export DEEPDIVE_HOME=${Here%/bin}
+
+    #  ensure the user's language/locale setting have minimal impact on
+    #  DeepDive's behavior (Ideally, something like C.UTF-8 should be used, but
+    #  there's no such thing yet, so here's American imperialism: en_US.UTF-8
+    #  See: https://sourceware.org/glibc/wiki/Proposals/C.UTF-8)
+    unset LANGUAGE LANG LC_COLLATE LC_MESSAGES LC_MONETARY LC_NUMERIC LC_TIME
+    export LC_ALL=en_US.UTF-8
+
+    #  make sure DeepDive utilities are on PATH
+    PATH="$DEEPDIVE_HOME/util:$DEEPDIVE_HOME/bin:$DEEPDIVE_HOME/lib/bundled/.all/bin:$PATH"
+    export PATH
+
+    #  make sure virtualenv in Python is available
+    PATH="$DEEPDIVE_HOME/lib/bundled/python-virtualenv/prefix/bin:$PATH"
+
+    #  make sure ddlib in Python is available
+    PYTHONPATH="$DEEPDIVE_HOME"/lib/python:"${PYTHONPATH:+:$PYTHONPATH}"
+    export PYTHONPATH
+
+    export DEEPDIVE_SHELL=$0
+fi
+
+
+# Process common options
+while getopts "C:" o; do
+    case $o in
+        C) export DEEPDIVE_APP=$OPTARG ;;
+    esac
+done
+shift $(($OPTIND - 1))
+
+# show usage with deepdive version at the first line
+usage_with_version() {
+    . "$DEEPDIVE_HOME"/.build-info.sh
+    echo "# DeepDive ($version)"
+    usage "$0" "$@" | tail -n +2
+    [[ $# -eq 0 ]]
+}
+
+# Process input arguments
+[ $# -gt 0 ] || {
+    usage_with_version "No COMMAND given" || true
+    echo
+    deepdive-help | sed -n '/^# Available COMMANDs/,$p'
+    false
+}
+Cmd=$1; shift
+
+
+# Check if it's a valid command
+exe=deepdive-"$Cmd"
+if type "$exe" &>/dev/null; then
+    set -- "$exe" "$@"
+else
+    usage_with_version "$Cmd: invalid COMMAND"
+fi
+
+
+# Run given command under this environment
+exec "$@"

@@ -1,0 +1,6492 @@
+NADH-CoQ - Nicotinamide adenine dinucleotide reduced form coenzyme Q reductase
+Nicotinamide adenine dinucleotide (phosphate) + arginine adenosine diphosphate -ribosyltransferase
+Deoxy adenosine triphosphate (deoxy guanosine triphosphate)-deoxyribonucleic acid purinetransferase purinetransferase
+Nicotinamide adenine dinucleotide (phosphate) <sup>+</sup> arginine adenosine diphosphate -ribosyltransferase
+[Hydroxymethylglutaryl-coenzyme A reductase (reduced nicotinamide adenine dinucleotide phosphate)] kinase
+Nicotinamide adenine dinucleotide (phosphate) ^+^ arginine adenosine diphosphate -ribosyltransferase
+ATP - Mitochondrial adenosine triphosphate synthase subunit c
+MCAD - Medium chain acyl coenzyme A dehydrogenase
+CDw75 - Cluster of differentiation antigen (workshop) 75
+[Isocitrate dehydrogenase (nicotinamide adenine dinucleotide phosphate +)] kinase
+SCAD - Short chain acyl coenzyme A dehydrogenase
+Nicotinamide adenine dinucleotide (NAD) (+) dinitrogen-reductase adenosine diphosphate-D-ribosyltransferase
+Nicotinamide adenine dinucleotide reduced form coenzyme Q reductase
+[Hydroxymethylglutaryl-coenzyme A reductase (reduced nicotinamide adenine dinucleotide phosphate)]-phosphatase
+LCAD - Long chain hydroxyacyl coenzyme A dehydrogenase
+Adenosine triphosphate-dependent H(4) niccotinamide adenine dinucleotide (P)OH dehydratase
+Nicotinamide adenine dinucleotide (+) diphthamide adenosine diphosphate-ribosyltransferase
+Very long chain fatty acyl-coenzyme A synthase
+Paired basic amino acid residue cleaving enzyme
+CALLA - Common acute lymphoblastic leukemia antigen
+Reduced nicotinamide adenine dinucleotide phosphate (NADPH)-ferrihemoprotein reductase
+CD45 - Cluster of differentiation antigen 45
+CD26 - Cluster of differentiation antigen 26
+CALLA - Common acute lymphoblastic leukaemia antigen
+c-ALL - Common acute lymphoblastic leukemia antigen
+CD73 - Cluster of differentiation antigen 73
+NAD - Fatty alcohol-nicotinamide adenine nucleotide oxidoreductase
+CD10 - Cluster of differentiation antigen 10
+CD13 - Cluster of differentiation antigen 13
+c-ALL - Common acute lymphoblastic leukaemia antigen
+Rubredoxin-nicotinamide adenine dinucleotide phosphate + reductase
+CK-3c - Creatine kinase isoform 3c
+Mitochondrial adenosine triphosphate synthase subunit c
+Nicotinamide adenine dinucleotide (phosphate) + nucleosidase
+C3 convertase of the classic pathway
+Long chain acyl coenzyme A dehydrogenase
+Reduced nicotinamide adenine dinucleotide phosphate-ferrihemoprotein reductase
+C5 convertase of the classic pathway
+CKMB - Creatine kinase MB isoenzyme
+C5 convertase of the alternative pathway
+Lactic dehydrogenase isoenzyme, M2 H2 fraction
+Reduced nicotinamide adenine dinucleotide phosphate peroxidase
+Adenosine diphosphate-dependent medium-chain acyl-coenzyme A hydrolase
+Short chain acyl coenzyme A dehydrogenase
+Enzyme I of the phosphotransferase system
+Rubredoxin-nicotinamide adenine dinucleotide phosphate <sup>+</sup> reductase
+Medium chain acyl coenzyme A dehydrogenase
+Nicotinamide adenine dinucleotide (phosphate) (NAD(P))<sup>+</sup> nucleosidase
+Reduced nicotinamide adenine dinucleotide phosphate:quinone reductase
+Ferredoxin-nicotinamide adenine dinucleotide phosphate ^+^ reductase
+Nicotinamide adenine dinucleotide (phosphate) ^+^ nucleosidase
+Active complement enzyme of terminal pathway
+Reduced nicotinamide adenine dinucleotide phosphate dehydrogenase
+Nicotinamide adenine dinucleotide phosphate ^+^ transhydrogenase
+Enzyme II of the phosphotransferase system
+Cluster of differentiation antigen (workshop) 75
+Ferredoxin-nicotinamide adenine dinucleotide phosphate + reductase
+PG1 - Serum fundic pepsinogen 1
+CKMM - Creatine kinase MM isoenzyme
+Very long chain fatty acyl-CoA synthase
+Active complement enzyme of classic pathway
+Nicotinamide adenine dinucleotide <sup>+</sup> adenosine diphosphate-ribosyltransferase
+Nicotinamide adenine dinucleotide phosphate + transhydrogenase
+CK-3a - Creatine kinase isoform 3a
+Deoxyribonucleic acid-(apurinic or apyrimidinic site) lyase
+Nicotinamide adenine dinucleotide (phosphate) (NAD(P))+ nucleosidase
+CK-3b - Creatine kinase isoform 3b
+C3 convertase of the alternative pathway
+UMP - Uridyl monophosphate hydrolase 1
+CKBB - Creatine kinase BB isoenzyme
+Nicotinamide adenine dinucleotide + adenosine diphosphate-ribosyltransferase
+Nicotinamide adenine dinucleotide (phosphate) <sup>+</sup> nucleosidase
+Active complement enzyme of alternative pathway
+CK-2a - Creatine kinase isoform 2a
+Lactic dehydrogenase isoenzyme, M3 H fraction
+RBC - Red blood cell cholinesterase
+CK-2b - Creatine kinase isoform 2b
+Rubredoxin-nicotinamide adenine dinucleotide phosphate ^+^ reductase
+Nicotinamide adenine dinucleotide phosphate <sup>+</sup> transhydrogenase
+Nicotinamide adenine dinucleotide ^+^ adenosine diphosphate-ribosyltransferase
+Nicotinamide adenine dinucleotide dinitrogen-reductase adenosine diphosphate-D-ribosyltransferase
+Long chain hydroxyacyl coenzyme A dehydrogenase
+Alkaline phosphatase isoenzyme, liver fraction 2
+Alkaline phosphatase isoenzyme, liver fraction 1
+Aspergillus niger var macrosporus aspartic proteinase
+Guanosine diphosphate (GDP) mannose 4,6 dehydratase
+Coagulant protein of Russell's viper venom
+Aspergillus niger var. macrosporus aspartic proteinase
+Nicotinamide adenine dinucleotide (phosphate) (NAD(P))^+^ nucleosidase
+Ferredoxin-nicotinamide adenine dinucleotide phosphate <sup>+</sup> reductase
+Activated blood coagulation factor XIV
+HTGL - Hepatic triglyceride lipase
+Nicotinamide adenine dinucleotide + kinase
+Ferredoxin-nicotinamide adenine dinucleotide + reductase
+Cytidine diphosphate (CDP) diacylglycerol pyrophosphatase
+Cytidine diphosphate (CDP) acylglycerol arachidonyltransferase
+Guanosine triphosphate (GTP) cyclohydrolase II
+Guanosine triphosphate (GTP) cyclohydrolase I
+UDP - Uridyl diphosphate glucose-4-epimerase
+Pseudomonas sp pepstatin-insensitive carboxyl proteinase
+Creatine kinase isoenzyme, CK2 fraction
+Lactic dehydrogenase isoenzyme, M<sub>2</sub>H<sub>2</sub> fraction
+T200 - T-cell lineage 200
+UMP - Uridyl monophosphate synthase
+Cytidine diphosphate (CDP) ribitol ribitolphosphotransferase
+Uridine diphosphate (UDP) glucose dehydrogenase
+Adenosine diphosphate (ADP)-dependent medium-chain-acyl-CoA hydrolase
+Lactic dehydrogenase isoenzyme, H>4< fraction
+alpha,alpha-Trehalose-phosphate synthase uridine diphosphate -forming
+Creatine kinase isoenzyme, CK<sub>3</sub> fraction
+Cluster of differentiation antigen 45
+C1r - Complement component 1r
+Nicotinamide adenine dinucleotide + nucleosidase
+Nicotinamide adenine dinucleotide <sup>+</sup> pyrophosphatase
+Uridine diphosphate (UDP) glucose 4-epimerase
+Lactic acid dehydrogenase isoenzyme 3
+Lactic acid dehydrogenase isoenzyme 2
+Lactic acid dehydrogenase isoenzyme 1
+Lactic acid dehydrogenase isoenzyme 5
+Lactic acid dehydrogenase isoenzyme 4
+Amylase + lipase + protease
+NAP - Neutrophil acid phosphatase
+Fatty alcohol-nicotinamide adenine nucleotide oxidoreductase
+Cytidine diphosphate (CDP) diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+Lactic dehydrogenase isoenzyme, M>4< fraction
+Ribonucleic acid-directed ribonucleic acid polymerase
+Ferredoxin-nicotinamide adenine dinucleotide ^+^ reductase
+Ribonucleic acid-directed deoxyribonucleic acid polymerase
+Cytidine diphosphate (CDP) diacylglycerol-serine O-phosphatidyl-transferase
+PSA - Prostate specific antigen
+Cytidine diphosphate (CDP) glycerol pyrophosphatase
+Lactic dehydrogenase isoenzyme, H4 fraction
+Pregnancy associated plasma protein A
+Lactic dehydrogenase isoenzyme, MH3 fraction
+Cytidine diphosphate (CDP) glucose 4,6-dehydratase
+Guanosine diphosphate (GDP) mannose dehydrogenase
+Deoxyribonucleic acid-directed deoxyribonucleic acid polymerase
+Creatine kinase isoenzyme, CK>2< fraction
+Adenosine diphosphate (ADP) phosphoglycerate phosphatase
+Adenosine diphosphate (ADP) sugar pyrophosphatase
+ECT - Eosinophil cationic protein
+Cytidine diphosphate (CDP) glycerol glycerophosphotransferase
+Reduced nicotinamide adenine dinucleotide phosphate
+Proto-oncogene tyrosine-protein kinase receptor RET
+DNA-(apurinic or apyrimidinic site) lyase
+Lactic dehydrogenase isoenzyme, MH<sub>3</sub> fraction
+Uridine diphosphate (UDP) glucose 4,6-dehydratase
+Rubredoxin-nicotinamide adenine dinucleotide + reductase
+Acyl CoA cholesterol O acyltransferase
+Alkaline phosphatase isoenzyme, intestinal fraction
+Nicotinamide adenine dinucleotide ^+^ synthase
+Common acute lymphoblastic leukemia antigen
+Deoxyribonucleic acid-directed ribonucleic acid polymerase
+Uridine diphosphate (UDP) glucose-hexose-1-phosphate uridylyltransferase
+N-Formyl methionylaminoacyl-transfer ribonucleic acid deformylase
+LCAT - Lecithin cholesterol acyltransferase
+Cytosine diphosphate (CDP) diacylglycerol-inositol 3-phosphatidyltransferase
+Heat labile alternate pathway factor
+Uridine diphosphate (UDP) glucuronate 5'-epimerase
+OPRT - Orotic acid phosphoribosyltransferase
+Lactic dehydrogenase isoenzyme, H<sub>4</sub> fraction
+SGPT - Glutamate pyruvate transaminase
+Pancrelipase + amylase + lipase
+Reduced nicotinamide adenine dinucleotide kinase
+Rubredoxin-nicotinamide adenine dinucleotide ^+^ reductase
+Uridine diphosphate (UDP) galactopyranose mutase
+Adenosine triphosphate (ATP) citrate (pro-3S)-lyase
+Uridine diphosphate (UDP) glucuronate 4-epimerase
+Alkaline phosphatase isoenzyme, lung fraction
+Muscle phosphorylase a and b
+Nicotinamide adenine dinucleotide <sup>+</sup> kinase
+Nicotinamide adenine dinucleotide <sup>+</sup> synthase
+Uridine diphosphate (UDP) galacturonate decarboxylase
+Creatine kinase isoenzyme, CK<sub>1</sub> fraction
+Adenosine monophosphate (AMP) thymidine kinase
+LCA - Leukocyte common antigen
+GST - Glutathione S transferase
+Common acute lymphoblastic leukaemia antigen
+Cluster of differentiation antigen 10
+[Hydroxymethylglutaryl-coenzyme A reductase (NADPH)] kinase
+Acid phosphatase isoenzyme, prostatic fraction
+SAH - S-Adenosyl homocysteine hydrolase
+Alkaline phosphatase isoenzyme, placental fraction
+Nicotinamide adenine dinucleotide ^+^ kinase
+Creatine kinase isoenzyme, MB fraction
+Creatine kinase isoenzyme, CK1 fraction
+T-PA - tissue-type plasminogen activator
+LCA - Leucocyte common antigen
+Cytidine diphosphate (CDP) abequose epimerase
+Adenosine diphosphate (ADP) ribose pyrophosphatase
+Lactic dehydrogenase isoenzyme, M4 fraction
+Transfer ribonucleic acid-pseudouridine synthase I
+Cluster of differentiation antigen 73
+TAP - Total acid phosphatase
+SGOT - Glutamate oxaloacetate transaminase
+Rubredoxin-nicotinamide adenine dinucleotide <sup>+</sup> reductase
+Macromolecular creatine kinase, type 2
+Macromolecular creatine kinase, type 1
+Creatine kinase isoenzyme, CK3 fraction
+Creatine kinase isoenzyme, CK>1< fraction
+Uridine diphosphate (UDP) glucuronate decarboxylase
+Acetyl coenzyme A alpha-glucosaminide N-acetyltransferase
+NAP - Neutrophil alkaline phosphatase
+Uridine diphosphate (UDP)-N-acetylmuramoylalanyl-D-glutamate-2,6 diaminopimelate ligase
+Adenosine diphosphate-dependent short-chain-acyl-coenzyme A hydrolase
+Guanosine diphosphate mannose 4,6 dehydratase
+Adenosine diphosphate (ADP)-ribosyl-[dinitrogen reductase] hydrolase
+TRAP - Tartrate-resistant acid phosphatase
+Nicotinamide adenine dinucleotide ^+^ pyrophosphatase
+Alkaline phosphatase isoenzyme, liver fraction
+Russel'viper venom factor X activator
+Acid phosphatase isoenzyme, tartrate-sensitive fraction
+EoCP - Eosinophil cationic protein
+Nicotinamide adenine dinucleotide + synthase
+Lactic dehydrogenase isoenzyme, M<sub>3</sub>H fraction
+Snake venom factor V activator
+Calcium/calmodulin-dependent protein kinase type II
+Nicotinamide adenine dinucleotide + pyrophosphatase
+C1s - Complement component 1s
+Creatine kinase isoenzyme, CK>3< fraction
+Creatine kinase isoenzyme, CK<sub>2</sub> fraction
+PNP - Purine nucleoside phosphorylase
+Uridine diphosphate (UDP) arabinose 4-epimerase
+Reduced nicotinamide adenine dinucleotide peroxidase
+NSE - Neurone specific enolase
+Adenosine diphosphate (ADP) thymidine kinase
+Alkaline phosphatase isoenzyme, renal fraction
+Alkaline phosphatase isoenzyme, bone fraction
+Creatine kinase isoenzyme, MM fraction
+Nicotinamide adenine dinucleotide ^+^ nucleosidase
+Reduced nicotinamide adenine dinucleotide dehydrogenase
+Neurosecretory granule protease cleaving pro-ocytocin/neurophysin
+UDP - Uridyl diphosphate glucosamine-4-epimerase
+Nicotinamide adenine dinucleotide <sup>+</sup> nucleosidase
+Creatine kinase isoenzyme, BB fraction
+Ferredoxin-nicotinamide adenine dinucleotide <sup>+</sup> reductase
+Lactic dehydrogenase isoenzyme, M<sub>4</sub> fraction
+Transfer ribonucleic acid (guanine-N^1^)-methyltransferase
+Ribosomal ribonucleic acid (guanine-N2)-methyltransferase
+Lactic dehydrogenase isoenzyme, M
+Lactic dehydrogenase isoenzyme, H
+Crotalus adamanteus serine protinase
+alpha>1< Anti-trypsin isotype ZZ
+deoxy cytidine triphosphate pyrophosphatase
+Bothrops atrox serine proteinase
+Cytidine diphosphate glucose 4,6-dehydratase
+Cytidine diphosphate diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+Cytochrome p450 CYP2B6 enzyme
+Microsomal P450 Flavoprotein-linked monooxygenase
+TPNH>2< cytochrome c reductase
+Immunoglobulin A-specific serine endopeptidase
+CK - Creatine kinase
+Acylcoenzyme A cholesterol acyltransferase
+Transfer ribonucleic acid (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+Phytanate coenzyme A ligase
+Uridine triphosphate (UTP)-hexose-1-phosphate uridylyltransferase
+RNA 3'-terminal phosphate cyclase
+Pseudotropine forming tropinone reductase
+Cytidine monophosphate (CMP)-N-acetylneuraminate-lactosylceramide alpha-2,3-sialyltransferase
+Uca pugilator collagenolytic proteinase
+Low-density lipoprotein receptor kinase
+Phosphorylase b kinase kinase
+Penicillium roqueforti neutral proteinase
+Transfer ribonucleic acid (guanine-N^7^)-methyltransferase
+Scytalidium aspartic proteinase B
+alpha<sub>1</sub> Anti-trypsin isotype SS
+Uridine diphosphate glucuronate 4-epimerase
+alpha<sub>1</sub> Anti-trypsin isotype SZ
+Cytidine diphosphate diacylglycerol-serine O-phosphatidyl-transferase
+Tritirachium album proteinase K
+Serum fundic pepsinogen 1
+H<sup>+</sup>-transporting adenosine triphosphate synthase
+Type III restriction enzyme
+TPNH<sub>2</sub> cytochrome c reductase
+Cytochrome p450 CYP4B1 enzyme
+Messenger ribonucleic acid (O^2^'-methyladenosine-N^6^)-methyltransferase
+Mucor pusillus aspartic proteinase
+Proline-transfer ribonucleic acid ligase
+Transfer ribonucleic acid (adenine-N<sup>6</sup>)-methyltransferase
+Type II DNA topoisomerase
+Guanosine triphosphate (GTP) pyrophosphokinase
+Serratia marcescens extracellular proteinase
+Uridine diphosphate galacturonate decarboxylase
+High lipase pancreatin preparation
+[Low-density lipoprotein receptor] kinase
+Glutaryl coenzyme A oxidase
+Cytochrome p450 CYP2J2 enzyme
+Armillaria mellea neutral proteinase
+Limulus clotting factor C
+Limulus clotting factor B
+Threonine-transfer ribonucleic acid ligase
+Cytochrome p450 CYP3A4 enzyme
+Cytosine triphosphate (CTP) synthase
+Branched-chain alpha-keto acid dehydrogenase
+Cytochrome p450 CYP4A11 enzyme
+Ribosomal ribonucleic acid endonuclease
+Vitamin K1 epoxide reductase
+Rubredoxin-nicotinamide adenine dinucleotide phosphate
+Uridine diphosphate glucuronate decarboxylase
+Bocillus thermoproteolyticus neutral proteinase
+Cytidine monophosphate (CMP)-N-acetylneuraminate-(alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide alpha-2,6-sialyltransferase
+Cytidine monophosphate (CMP)-N-acetylneuraminate-galactosyldiacyl-glycerol alpha-2,3-sialyltransferase
+Transfer ribonucleic acid (guanine-N<sup>2</sup>)-methyltransferase
+Adenosine triphosphate citrate (pro-3S)-lyase
+Creatine kinase isoform 2a
+Creatine kinase isoform 2b
+Methylmalonyl coenzyme A mutase
+[3-methyl-2-oxobutanoate dehydrogenase (lipoamide)] kinase
+MAO - Monoamine oxidase
+Uridine diphosphate-N-acetylmuramoylalanyl-D-glutamate-2,6 diaminopimelate ligase
+Thermophilic Streptomyces serine protease
+Uridine diphosphate (UDP)-N-acetylgalactosamine-4-sulfate sulphotransferase
+Starch (bacterial glycogen) synthase
+Cytidine monophosphate (CMP)-N-acetylneuraminate-N-acetyllactosaminide alpha-2,3-sialyltransferase
+Type I DNA topoisomerase
+Guanosine diphosphate (GDP)-4-dehydro-D-rhamnose reductase
+Guanine transfer ribonucleic acid-ribosyltransferase
+Factor D complement component
+Almond emulsin fucosidase I
+Alkaline phosphatase biliary isoenzyme
+Oxyuranus scutellotus prothrombin-activating proteinase
+Isoleucine-transfer ribonucleic acid ligase
+(Acetyl-coenzyme A carboxylase) kinase
+MVLK - Mevalonate kinase
+Myxobacter AL-1 proteinase II
+Adenosine diphosphate ribose pyrophosphatase
+Ribosomal ribonucleic acid (guanine-N^1^)-methyltransferase
+Acid phosphatase isoenzyme, total
+Cytidine monophosphate (CMP)-N-acetylneuraminate-beta-galactoside alpha-2,6-sialyltransferase
+Ribonucleic acid polymerase III
+Factor B complement component
+Uridine diphosphate (UDP)-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase
+Streptomyces griseus neutral proteinase
+[Isocitrate dehydrogenase (NADP+)] kinase
+Cytochrome p450 CYP8A1 enzyme
+Flavin mononucleotide (FMN) adenylyltransferase
+APRT - Adenosine phosphoribosyltransferase
+Ferredoxin-nicotinamide adenine dinucleotide phosphate
+Clostridium perfringens iota toxin
+Uridyl diphosphate-GlcNAc:lysosomal enzyme GlcNAc-1-phosphotransferase
+Vitamin K 2,3-epoxide reductase
+Iodothyronine outer ring monodeiodinase
+Calcium phospholipid protein kinase
+Ribosomal ribonucleic acid (guanine-N<sup>1</sup>)-methyltransferase
+H^+^-transporting adenosine triphospfate synthase
+Branched-chain oxo-acid dehydrogenase phosphatase
+Transfer ribonucleic acid (adenine-N1)-methyltransferase
+Tartrate labile acid phosphatase
+Transfer ribonucleic acid (guanine-N<sup>7</sup>)-methyltransferase
+TPI - Triosephosphate isomerase
+Paecilomyces varioti aspartic proteinase
+Creatine kinase MM isoenzyme
+Aeromonas proteolytica neutral proteinase
+Activated factor VII products
+Ribosomal ribonucleic acid (adenine-N^6^)-methyltransferase
+Uridine diphosphate (UDP)-N-acetylglucosamine pyrophosphorylase
+Alkaline phosphatase liver isoenzyme
+ALP - Alkaline phosphatase
+Yellow fever virus protease
+Interleukin-1 beta convertase precursor
+Branched-chain alpha-ketoacid dehydrogenase kinase
+LD - Lactate dehydrogenase
+Aspergillus saitoi aspartic proteinase
+Penicillium notatum extracellular proteinase
+Long-chain-fatty-acid acyl-carrier protein ligase
+Yeast fatty acid synthase
+Cellulose synthase uridine diphosphate-forming
+H^+^-transporting adenosine triphosphate synthase
+Adenosine deaminase binding protein
+O-succinylbenzoate coenzyme A ligase
+Transfer ribonucleic acid sulfurtransferase
+Streptococcus thermophilus intracellular proteinase
+Aspartate-transfer ribonucleic acid ligase
+[Pyruvate dehydrogenase (lipoamide)] kinase
+alpha1 Anti-trypsin isotype MM
+alpha1 Anti-trypsin isotype MS
+Transfer ribonucleic acid (adenine-N^6^)-methyltransferase
+alpha1 Anti-trypsin isotype MZ
+Alanine-transfer ribonucleic acid ligase
+Anthrax toxin lethal toxin
+E. coli protease I
+Methionyl-transfer ribonucleic acid formyltransferase
+Cytochrome p450 CYP19A1 enzyme
+GPX1 - Glutathione peroxidase
+Cytochrome p450 CYP2C19 enzyme
+Lactic dehydrogenase isoenzyme, MH
+Adenosine diphosphate (ADP) deaminase
+Type III site-specific deoxyribonuclease
+Messenger ribonucleic acid (guanine-N7)-methyltransferase
+Crotalus atrox metalloendopeptidase F
+Crotalus atrox metalloendopeptidase E
+Candida albicans aspartic proteinase
+Alkaline phosphatase bone isoenzyme
+Blood group H alpha-2-fucosyltransferase
+Cytochrome p450 CYP2C9 enzyme
+P-amylase - Pancreatic isoamylase
+Streptomyces glaucescens exocytoplasmic endodeoxyribonuclease
+Glutamate-transfer ribonucleic acid ligase
+Cytidine monophosphate (CMP)-N-acetylneuraminate-beta-galactoside alpha-2,3-sialyltransferase
+Acid phosphatase, non-prostatic fraction
+Cytidine diphosphate ribitol ribitolphosphotransferase
+RNase N>1< and N>2<
+alpha>1< Anti-trypsin isotype MM
+Acid phosphatase bone isoenzyme
+alpha>1< Anti-trypsin isotype SZ
+alpha>1< Anti-trypsin isotype SS
+N-Glycosyl-oligo-saccharide-glycoprotein N-acetylglucosaminyl transferase I
+Blood group Lewis alpha-4-fucosyltransferase
+Urinary fundic pepsinogen 1
+E. coli exonuclease III
+Deoxyribonucleic acid-3-methyladenine glycosylase I
+Dicarboxylate coenzyme A ligase
+Type II restriction enzyme
+Uridine diphosphate glucose-hexose-1-phosphate uridylyltransferase
+Transfer ribonucleic acid (adenine-N^1^)-methyltransferase
+alpha1 Anti-trypsin isotype ZZ
+Cytidine monophosphate (CMP)-N-acetylneuraminate-monosialoganglioside sialyltransferase
+[Hydroxymethylglutaryl-CoA reductase (NADPH)] kinase
+Candida lipolytica serine proteinase
+Oncogene protein PP60, V-SRC
+Streptomyces glaucescens exocytoplasmic endonuclease
+Clostridium perfringens alpha toxin
+Monoglucosyl diacylglycerol (1->2) glucosyltransferase
+Pseudomonas aeruginosa alkaline proteinase
+Reduced nicotinamide adenine dinucleotide
+Glycine rich beta glycoprotein
+Cytidine monophosphate (CMP)-N-acetylneuraminate-alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase
+Adenosine diphosphate-ribosyl-[dinitrogen reductase] hydrolase
+Peptide hormone inactivating endopeptidase
+Flavin-adenine dinucleotide (FAD) pyrophosphatase
+Guanosine monophosphate (GMP) reductase
+LDH - Lactate dehydrogenase
+Uridine diphosphate glucose 4,6-dehydratase
+Ribosomal ribonucleic acid (adenine-N<sup>6</sup>)-methyltransferase
+Uridine diphosphate (UDP) galacturonosyltransferase
+Mast cell protease 1
+Adenosine triphoshate (ATP) pyrophosphatase
+Ubiquinone cytochrome c oxidoreductase
+Adenosine diphosphate thymidine kinase
+TPNH2 cytochrome c reductase
+H+-transporting adenosine triphospfate synthase
+Propionyl coenzyme A carboxylase
+Epidermal growth factor-urogastrone receptor
+Ribonucleic acid polymerase II
+Long chain hydroxyacyl-CoA dehydrogenase
+Sea anemone protease A
+H<sup>+</sup>-transporting adenosine triphospfate synthase
+Nicotinamide adenine dinucleotide phosphate
+Glycogen synthase a kinase
+G6P - Glucose-6-phosphate dehydrogenase
+Prostaglandin-endoperoxide synthase isoform 2
+E. coli exonuclease V
+tRNA pseudouridylate synthase I
+Uridine triphosphate (UTP)-xylose-1-phosphate uridylyltransferase
+Guanosine triphosphate cyclohydrolase I
+Cytochrome p450 CYP21A2 enzyme
+Microbial neutral proteinase II
+Cytidine diphosphate glycerol pyrophosphatase
+Asparagine-transfer ribonucleic acid ligase
+Uridine diphosphate glucuronate 5'-epimerase
+Uridine diphosphate glucose dehydrogenase
+Ribosomal ribonucleic acid (adenosine-O<sup>2'</sup>)-methyltransferase
+Ribosomal ribonucleic acid (guanine-N<sup>2</sup>)-methyltransferase
+Serine-transfer ribonucleic acid ligase
+Messenger ribonucleic acid (O2'-methyladenosine-N6)-methyltransferase
+Adenosine triphosphate (ATP) phosphoribosyltransferase
+Valine-transfer ribonucleic acid ligase
+Anthrax toxin oedema factor
+AST - Aspartate transaminase
+Cytidine diphosphate (CDP)-4-dehydro-6-deoxyglucose reductase
+ACHE - Acetylcholine esterase
+Messenger ribonucleic acid guanylyltransferase
+Thermophilic Streptomyces serine proteinase
+Uridine diphosphate (UDP)-N-acetylmuramoylpentapeptide-lysine N<sup>6</sup>-alanyltransferase
+Ribosomal ribonucleic acid N-glycosylase
+Adenosine diphosphate sugar pyrophosphatase
+Cytochrome p450 CYP2D6 enzyme
+Putative (or punctuated) metalloproteinase-1
+Acid phosphatase prostatic isoenzyme
+Cytochrome p450 CYP2C enzyme
+Uridine diphosphate glucose 4-epimerase
+Creatine kinase MB isoenzyme
+Biotin-[propionyl-coenzyme A-carboxylase,(adenosine triphosphate-hydrolysing)] ligase
+Alkaline phosphatase intestine isoenzyme
+alpha>1< Anti-trypsin isotype MZ
+Methyl malonyl-coenzyme A epimerase
+Messenger ribonucleic acid (O<sup>2</sup>'-methyladenosine-N<sup>6</sup>)-methyltransferase
+Cysteine-transfer ribonucleic acid ligase
+ACE - Angiotensin-converting enzyme
+ADH - Alcohol dehydrogenase
+PK - Pyruvate kinase
+Inosine monophosphate (IMP) cyclohydrolase
+Ubiquinol cytochrome c reductase
+Guanosine monophosphate (GMP) synthase
+Deoxyribonucleic acid-3-methyladenine glycosylase II
+Transfer ribonucleic acid (guanosine-O^2'^)-methyltransferase
+Microtubule-associated protein 2 kinase
+Cytochrome p450 CYP2R1 enzyme
+Cytochrome p450 CYP3A7 enzyme
+Messenger ribonucleic acid (guanine-N^7^)-methyltransferase
+Alkaline phosphatase kidney isoenzyme
+Cytidine diphosphate abequose epimerase
+Uridine diphosphate-N-acetyl muramoylalanine-D-glutamate ligase
+Transfer ribonucleic acid (uracil-5)-methyltransferase
+Transfer ribonucleic acid (guanine-N<sup>1</sup>)-methyltransferase
+Type II site-specific deoxyribonuclease
+Benzoate coenzyme A ligase
+Ribonucleic acid polymerase I
+CPK - Creatine phosphokinase
+Uridine diphosphate arabinose 4-epimerase
+Cytochrome p450 CYP3A43 enzyme
+Uridine diphosphate (UDP)-4-amino-2-acetamido-2,4,6-trideoxy-glucose aminotransferase
+Transfer ribonucleic acid (cytosine-5)-methyltransferase
+Tyrosine-transfer ribonucleic acid ligase
+GDH - Glutamate dehydrogenase
+Deoxythymidine diphosphate-glucose 4,6 dehydratase
+Transfer ribonucleic acid (guanosine-O2')-methyltransferase
+Bacillus subtilis neutral proteinase
+Cytochrome p450 CYP2B1 enzyme
+Anthranilate coenzyme A ligase
+Creatine kinase isoform 3b
+Creatine kinase isoform 3c
+Creatine kinase isoform 3a
+Uridine diphosphate (UDP)-N-acetylgalactosamine-4-sulfate sulfotransferase
+Hydroxycinnamoyl coenzyme A-quinate transferase
+Endothelium-derived relaxing factor synthase
+Long chain acyl-CoA dehydrogenase
+Red blood cell cholinesterase
+Ribosomal ribonucleic acid (adenosine-O2')-methyltransferase
+Red cell neutral endopeptidase
+Uridine diphosphate (UDP)-N-acetylglucosamine 1-carboxyvinyltransferase
+Cytochrome p450 CYP5A1 enzyme
+Leucine specific serine proteinase
+ACP - Acid phosphatase
+Cytotoxic T-lymphocyte proteinase 2
+Cytotoxic T-lymphocyte proteinase 1
+IRT - Immunoreactive trypsin
+Transfer ribonucleic acid (guanosine-O<sup>2'</sup>)-methyltransferase
+Cytochrome p450 CYP4A22 enzyme
+Lysyl bond specific proteinase
+Type I site-specific deoxyribonuclease
+O-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyl transferase I
+Messenger ribonucleic acid (nucleoside-O^2^)'-methyltransferase
+Cytidine diphosphate acylglycerol arachidonyltransferase
+Myosin light-chain kinase phosphatase
+Penicillium janthinellum aspartic protease
+Isovaleryl coenzyme A dehydrogenase
+Tissue-type plasminogen activator preparation
+Arginine-transfer ribonucleic acid ligase
+Formate acetyltransferase activating enzyme
+Beta-alanine specific hGSH synthetase
+Acetyl coenzyme A acyltransferase
+Erythrocyte membrane aspartic proteinase
+Messenger ribonucleic acid (guanine-N<sup>7</sup>)-methyltransferase
+ALAT - Alanine aminotransferase
+Immunological enzyme or protein
+alpha<sub>1</sub> Anti-trypsin isotype ZZ
+Glycine-transfer ribonucleic acid ligase
+Methionine-transfer ribonucleic acid ligase
+Adenosine triphosphate (ATP) adenylyltransferase
+Uridine diphosphate galactopyranose mutase
+Guanosine triphosphate cyclohydrolase II
+Cytidine diphosphate diacylglycerol pyrophosphatase
+Cytosine diphosphate diacylglycerol-inositol 3-phosphatidyltransferase
+Scytalidium aspartic proteinase a
+Cytochrome p450 CYP3A enzyme
+Transfer ribonucleic acid (adenine-N6)-methyltransferase
+Skeletal muscle (SK) protease
+Inosine monophosphate (IMP) dehydrogenase
+Cytochrome p450 CYP3A5 enzyme
+Adenosine diphosphate (ADP)-glyceromanno-heptose 6-epimerase
+GGT - Gamma-glutamyl transferase
+Adenosine monophosphate (AMP) nucleosidase
+Phenylalanine-transfer ribonucleic acid ligase
+B. atrox coagulant enzyme
+ASAT - Aspartate aminotransferase
+HBD - Hydroxybutyrate dehydrogenase
+alpha>1< Anti-trypsin isotype MS
+Adenosine diphosphate phosphoglycerate phosphatase
+alpha1 Anti-trypsin isotype SZ
+alpha1 Anti-trypsin isotype SS
+Hepatic phosphorylase b kinase
+Anthrax toxin edema factor
+Gamma-D-glutamyl-L-diamino acid endopeptidase I
+Acyl coenzyme A dehydrogenase
+Type 5 acid phosphatase
+Leucine-transfer ribonucleic acid ligase
+Escherichia coli asparaginase II
+Tryptophan-transfer ribonucleic acid ligase
+Echis carnatus prothrombin-activating proteinase
+ODC - Orotidine-5'-monophosphate decarboxylase
+ADA - Adenosine deaminase
+Messenger ribonucleic acid (nucleoside-O<sup>2</sup>)'-methyltransferase
+Uridine triphosphate (UTP)-glucose-1-phosphate uridylyltransferase
+Lysine-transfer ribonucleic acid ligase
+Outer membrane protein 3B
+Staphylococcus aureus neutral proteinase
+H+-transporting adenosine triphosphate synthase
+UD - Uroporphyrinogen decarboxylase
+Alkaline phosphatase placental isoenzyme
+Carbamoyl phosphate synthetase 1
+Poly(adenosine diphosphate ribose) polymerase
+Glutaryl coenzyme A dehydrogenase
+N-4 cytosine-specific DNA methylase
+Guanosine diphosphate (GDP)-6-deoxy-D-talose dehydrogenase
+Transfer ribonucleic acid (guanine-N2)-methyltransferase
+Bitis gabonica serine proteinase
+Uridine diphosphate (UDP)-N-acetylglucosamine 4-epimerase
+ALT - Alanine aminotransferase
+Ribosomal ribonucleic acid (adenosine-O^2'^)-methyltransferase
+Transfer ribonucleic acid-uridine aminocarboxypropyltransferase
+Guanosine diphosphate mannose dehydrogenase
+Transfer ribonucleic acid isopentenyltransferase
+Cytochrome p450 CYP2A6 enzyme
+Transfer ribonucleic acid (guanine-N^2^)-methyltransferase
+E. coli periplasmic proteinase
+Uridine diphosphate (UDP)-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase
+Cytochrome p450 CYP1B1 enzyme
+Nicotinamide mononucleotide (NMN) nucleosidase
+Cytochrome p450 CYP1A2 enzyme
+Bacterial leader peptidase I
+Immunological enzymes and proteins
+UROD - Uroporphyrinogen decarboxylase
+Creatine kinase BB isoenzyme
+Glutamine-transfer ribonucleic acid ligase
+Cytochrome p450 CYP2C8 enzyme
+Cytidine monophosphate (CMP)-N-acetylneuraminate monooxygenase
+Transfer ribonucleic acid (guanine-N7)-methyltransferase
+Acyl CoA cholesterol acyltransferase
+Lactate dehydrogenase isoenzyme 1
+Lactate dehydrogenase isoenzyme 2
+Lactate dehydrogenase isoenzyme 3
+Lactate dehydrogenase isoenzyme 4
+Lactate dehydrogenase isoenzyme 5
+Brown recluse spider venom
+[Hydroxymethylglutaryl-coenzyme A reductase (NADPH)]-phosphatase
+Pseudomonas aeruginosa neutral metalloproteinase
+Tissue plasminogen activator preparation
+Cytidine diphosphate glycerol glycerophosphotransferase
+Cytotoxic t-lymphocyte proteinase 2
+alpha-Amino acid ester hydrolase
+Ribosomal ribonucleic acid (guanine-N1)-methyltransferase
+alpha<sub>1</sub> Anti-trypsin isotype MS
+alpha<sub>1</sub> Anti-trypsin isotype MZ
+Micrococcus caseolyticus neutral proteinase
+alpha<sub>1</sub> Anti-trypsin isotype MM
+Aspergillus oryzae aspartic proteinase
+Endothelium-derived relaxation factor-forming enzyme
+Cytochrome p450 CYP2A13 enzyme
+Transfer ribonucleic acid (guanine-N1)-methyltransferase
+TPI1 - Triosephosphate isomerase
+Adenosine triphoshate (ATP) deaminase
+Medium chain acyl-CoA dehydrogenase
+Uridine diphosphateglucosamine (UDP) 4-epimerase
+Adenosine monophosphate thymidine kinase
+AP endonuclease class I
+AP - Alkaline phosphatase
+E. coli exonuclease VI
+Cytidine diphosphate 4-dehydro-6-deoxyglucose reductase
+Chymotrypsin A and B
+Oncogene protein P21, RAS
+Uridyl monophosphate hydrolase 1
+Transfer ribonucleic acid-queuosine beta-mannosyltransferase
+Pseudomonas aeruginosa neutral proteinase
+Myxobacter AL-l proteinase I
+Aminoacyl-transfer ribonucleic acid hydrolase
+Hydroxymethylglutaryl coenzyme A reductase
+LPL - Lipoprotein lipase
+Cytochrome p450 CYP1A1 enzyme
+E. coli exonuclease I
+Yeast cysteine proteinase D
+Calf thymus ribonuclease H
+Cytochrome p450 CYP2E1 enzyme
+Uridine diphosphate (UDP)-N-acetylmuramoylpentapeptide-lysine N^6^-alanyltransferase
+Guanosine diphosphate (GDP) glucosidase
+Ribosomal ribonucleic acid (guanine-N^2^)-methyltransferase
+Aspergillus oryzae neutral proteinase
+Bacillus thermoproteolyticus neutral proteinase
+Messenger ribonucleic acid (nucleoside-O2)'-methyltransferase
+Cytochrome p450 CYP2S1 enzyme
+Ribosomal ribonucleic acid (adenine-N6)-methyltransferase
+G6PD - Glucose-6-phosphate dehydrogenase
+GSR - Glutathione reductase
+Proteinase I and II
+Type I restriction enzyme
+RNase N1 and N2
+Transfer ribonucleic acid adenylyltransferase
+Transfer ribonucleic acid (adenine-N<sup>1</sup>)-methyltransferase
+Diglucosyl diacylglycerol (DGlcDAG) synthase
+Histidine-transfer ribonucleic acid ligase
+Interleukin 1-beta converting enzyme
+Short chain acyl-CoA dehydrogenase
+Glutaminyl-transfer ribonucleic acid cyclotransferase
+Deoxyribonuclease + fibrinolysin
+Streptococcus peptidase A
+Yeast endopeptidase A
+Fibrin stabilising factor
+Erythronolide condensing enzyme
+Aspergillus nuclease S
+Lactate dehydrogenase isoenzyme
+Tropinone reductase II
+ADP-dependent medium-chain-acyl-CoA hydrolase
+Succinate-citramalate coenzyme A-transferase
+HK - Hexokinase
+Formyl-coenzyme A hydrolase
+Aspartic haemoglobinase I
+Brewer's yeast proteinase
+Glucose 1-phosphate thymidylyltransferase
+[Pyruvate formate-lyase]-activating enzyme
+Submandibular proteinase A
+Saccharomyces aspartic proteinase
+PFK - Phosphofructokinase
+Phytanic acid oxidase
+Cerebroside sulphatase A
+Cerebroside sulphatase B
+ATP citrate (pro-3S)-lyase
+Pancreatic endopeptidase E
+Transfer ribonucleic acid
+Fibrin stabilizing factor
+Phosphatidyl myo-inositol alpha-mannosyltransferase
+DNA-3-methyladenine glycosidase II
+Leucocyte proteinase 3
+Oncogene protein HER-2/neu
+Immunoglobulin A>1< proteinase
+Pteridine reductase 1
+Phosphofructokinase M subunit
+Matrix metalloproteinase 9
+Matrix metalloproteinase 8
+Matrix metalloproteinase 2
+DNA repair enzyme
+Peptide-N<sup>4</sup>-(N-acetyl-b-glucosaminyl) asparagine amidase
+Thiosulphate cyanide transsulphurase
+H<sup>+</sup>/K<sup>+</sup>-transporting adenosine triphosphatase
+Streptodornase + streptokinase
+Glucosyl-deoxyribonucleic acid beta-glucosyltransferase
+Phosphofructokinase L subunit
+Glutamyl endopeptidase II
+Acetyl-coenzyme A hydrolase
+Glycine-cytochrome c reductase
+NAD(+) dinitrogen-reductase ADP-D-ribosyltransferase
+Microbial aspartic proteinases
+Pro-opiomelanocortin converting enzyme
+H(2)-forming N5,N10-methylenetetrahydromethanopterin dehydrogenase
+Flavin-adenine dinucleotide pyrophosphatase
+Isovaleryl-coenzyme A dehydrogenase
+Tartronate semialdehyde reductase
+Acetoacetate-coenzyme A ligase
+Coagulation factor XIa
+Citrate coenzyme A-transferase
+Assimilatory nitrate reductase
+Neurone specific enolase
+Acid-coenzyme A ligase
+(1-hydroxycyclohexan-1-yl)acetyl-coenzyme A lyase
+Nepenthes aspartic proteinase
+ATP-dependent protease La
+Beta-adrenergic receptor kinase
+Leukocyte-membrane neutral endopeptidase
+O-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase II
+O-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase IV
+Dihydroxyacetone phosphate acyltransferase
+DNA-directed RNA polymerase
+Pantoate activating enzyme
+Formylmethanofuran tetrahydromethanopterin N-formyltransferase
+Aspartic hemoglobinase II
+UDP glucose 4,6-dehydratase
+H<sup>+</sup>-transporting ATP synthase
+Crotalus horridus metalloendopeptidase
+Deoxythymidine diphosphate-4-keto-rhamnose reductase
+Pancreatic amylase isoenzyme
+Flavin mononucleotide adenylyltransferase
+Mitochondrial intermediate peptidase
+Aspergillus oryzae ribonuclease
+Deoxyuridine triphosphate pyrophosphatase
+[Myosin heavy-chain] kinase
+Trimeresurus metalloendopeptidase II
+Ophio-amino acid oxidase
+Phosphatidylinositol phospholipase A2
+Deoxythymidine diphosphate-6-deoxy-L-talose dehydrogenase
+Adenosine triphoshate pyrophosphatase
+Atrial di-(tri-)peptidyl carboxylase
+Arachidonate-coenzyme A ligase
+Macromolecular creatine kinase
+Fatty acid w-hydroxylase
+Dipeptidyl peptidase IV
+[Pyruvate kinase] phosphatase
+Uridyl monophosphate synthase
+Bacillus macerans amylase
+[Pyruvate dehydrogenase (lipoamide)]-phosphatase
+Haemorrhagic metalloproteinase HT-2
+Methionine synthase cob
+Myosin adenosine triphosphatase
+S-Adenosylmethionine cleaving enzyme
+Guanosine monophosphate synthase
+O-succinylbenzoate CoA ligase
+Ubiquitin carboxy-terminal hydrolase
+Polyporus aspartic proteinase
+Glycerophosphoryl diester phosphodiesterase
+Dipeptidyl amino-peptidase IV
+Neutrophil alkaline phosphatase
+DNA glycosidase I
+ATP-dependent H(4)NAD(P)OH dehydratase
+Platelet-activating factor acetyltransferase
+Lysosomal carboxypeptidase B
+Lysosomal carboxypeptidase C
+Thiosulphate dithiol sulphurtransferase
+Deoxythymidine diphosphate-galactose dehydrogenase
+Rhodotorula aspartic proteinase
+Na+/K+-transporting adenosine triphosphatase
+RNA polymerase III
+Myxobacter b-lytic proteinase
+Factor V-activating proteinase
+N-Acyl mannosamine kinase
+NAD(P)<sup>+</sup> arginine ADP-ribosyltransferase
+Biotin-[acetyl-coenzyme A-carboxylase] ligase
+Raffinose raffinose alpha-galactosyltransferase
+Hydroxymethylglutaryl-coenzyme A synthase
+Biotin-[methylmalonyl-coenzyme A-carboxyltransferase] ligase
+Acetyl-coenzyme A acyltransferase
+Adenosine triphoshate deaminase
+DNA-3-methyladenine glycosylase II
+Thyroid aspartic proteinase
+Prohormone converting enzyme
+Dipeptidyl arylamidase III
+Folate-dependent ribothymidyl synthase
+Activated factor XI
+Messenger ribonucleic acid
+Phosphatidylglycerol membrane-oligosaccharide glycerophosphotransferase
+Activated factor VII
+Proteolytic enzyme agent
+Uridine diphosphate-N-acetylglucosamine dehydrogenase
+Aspergillus deoxyribonuclease K>1<
+T-cell lineage 200
+Wall-associated serine proteinase
+DNA glycosidase II
+Crayfish small-molecule proteinase
+ADP thymidine kinase
+Haemorrhagic proteinase IV
+Glucose phosphate isomerase
+Lauryl-[acyl-carrier protein] hydrolase
+Chondroitin ABC lyase
+Cerebroside sulfatase B
+Cerebroside sulfatase A
+Glycoprotein phospholipase D
+Cytidine monophosphate-N-acetylneuraminate-galactosyldiacyl-glycerol alpha-2,3-sialyltransferase
+Aspartic haemoglobinase II
+Sinapoylglucose sinapoylglucose O-sinapoyltransferase
+Salivary amylase isoenzyme
+Orotic acid phosphoribosyltransferase
+(R)-3-hydroxyacid ester dehydrogenase
+Palmitoyl-coenzyme A hydrolase
+Gentamicin acetyltransferase II
+Protein-S isoprenylcysteine O-methyltransferase
+N-Formyl methionylaminoacyl-tRNA deformylase
+V-SRC protein PP60
+NADPH-dependent carbonyl reductase
+Homocysteine-methyl tetrahydrofolate methyltransferase
+Signal peptidase II
+Methylamine glutamate methyltransferase
+Foot-and-mouth protease 3C
+CP - Ceruloplasmin
+Chondroitin sulphate lyase
+Guanosine diphosphate-4-dehydro-D-rhamnose reductase
+Isocitrate dehydrogenase kinase/phosphatase
+Citramalyl-coenzyme A lyase
+Succinic semialdehyde dehydrogenase
+Eosinophil cationic protein
+S-adenosyl-L-methionine precorrin-2 methyltransferase
+Ribonucleic acid uridylyltransferase
+Unsaturated acyl-CoA reductase
+Uridine diphosphate-N-acetylgalactosamine-4-sulfate sulfotransferase
+RAS protein P21
+Uridine diphosphate-N-acetylmuramate-alanine ligase
+Eosinophilic cationic protein
+Benzoyl-coenzyme A 3-monooxygenase
+Myosin light-chain kinase
+Uridine triphosphate-glucose-1-phosphate uridylyltransferase
+Staphylococcal cysteine proteinase
+Extracellular lactococcal proteinase
+Limulus clotting enzyme
+[3-methyl-2-oxobutanoate dehydrogenase (lipoamide)]-phosphatase
+Baker's yeast proteinase
+Aldehyde reductase 1
+Agkistrodon serine proteinase
+Papaya peptidase B
+Papaya peptidase I
+UDP-N-acetylmuramoylalanyl-D-glutamate-2,6 diaminopimelate ligase
+Staphylococcal serine proteinase
+Aspergillus DNase K1
+Recombinant agalsidase alfa
+GTP cyclohydrolase II
+Chondroitin ABC eliminase
+Lecithin cholesterol acyltransferase
+Oxidized PVA hydrolase
+Deoxyribonucleic acid topoisomerase
+(S)-methylmalonyl-coenzyme A hydrolase
+Papaya proteinase IV
+Linoleoyl-coenzyme A desaturase
+Glyceryl-ether cleaving enzyme
+Alanine glyoxylate aminotransferase
+H+-transporting ATP synthase
+Respiratory nitrate reductase
+Adenosine triphosphate phosphoribosyltransferase
+Bacterial Ca<sup>2+</sup>/Mg<sup>2+</sup> ATPase
+Yeast proteinase B
+Lactoyl-coenzyme A dehydratase
+Methylmalonyl-coenzyme A carboxyltransferase
+Thiosulfate dithiol sulfurtransferase
+Poly (glycerol-phosphate) alpha-glucosyltransferase
+Cinnamic acid 4-hydroxylase
+Haemorrhagic proteinase HR1A
+Pyrophosphate-dependent nucleoside kinase
+Long-chain-fatty-acid-coenzyme A ligase
+Xanthomonas aspartic proteinase
+Hemorrhagic metalloproteinase HT-2
+Branched-chain acyl-CoA dehydrogenase
+Peptide-N^4^-(N-acetyl-b-glucosaminyl) asparagine amidase
+Lipopolysaccharide glucosyltransferase II
+Aspergillus alkaline proteinase
+L-lactate dehydrogenase isoenzyme
+Physarum aspartic proteinase
+[Citrate (pro-3S)-lyase] ligase
+Neutrophil acid phosphatase
+Lymphocyte antigen CD45
+Reductase kinase kinase
+T>2<-induced deoxynucleotide kinase
+Acetate-coenzyme A ligase
+Rhizopus aspartic proteinase
+Sphingomyelin phosphodiesterase D
+Acetyl-coenzyme A carboxylase-phosphatase
+Teleost hatching enzyme
+Acyl-coenzyme A desaturase
+Coagulation factor X
+Dodecyl-[acyl-carrier protein] hydrolase
+Caffeoyl-coenzyme A O-methyltransferase
+Immunoglobulin A1 proteinase
+Uridyl diphosphate glucose-4-epimerase
+Corticosterone methyl oxidase
+Vitamin B>12r< reductase
+Glutamine phosphoribosylpyrophosphate amidotransferase
+Oxidised PVA hydrolase
+Yeast KEX2 protease
+Glutathione-dependent thiol:disulphide oxidoreductase
+Glucose fructose oxidoreductase
+Acetoacetyl-coenzyme A hydrolase
+Aspartic proteinase inhibitor
+Crossover junction endoribonuclease
+Butyrate-acetoacetate coenzyme A-transferase
+Thyroid peptide carboxypeptidase
+UDP-GlcNAc:lysosomal enzyme GlcNAc-1-phosphotransferase
+Complement factor Ba
+Deoxythymidine diphosphate-4-amino-4,6-dideoxy-D-glucose aminotransferase
+Acyl cholesterol acyltransferase
+Glycosphingolipid ceramide deacylase
+Malyl-coenzyme A lyase
+ATP-dependent serine proteinase
+Cytidine monophosphate-N-acetylneuraminate-alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase
+UK - Urokinase
+Diphthine ammonia ligase
+Protein methylase II
+Protein methylase IV
+Coenzyme F420 hydrogenase
+Vipera russelli proteinase
+Quercetin O3 methyltransferase
+Adenylic acid deaminase
+Coagulation factor IXa
+Phage SP>3< DNase
+Glutathione S transferase
+N-arginine dibasic convertase
+Immunoglobulin A<sub>1</sub> proteinase
+Biotin-[methylcrotonoyl-coenzyme A-carboxylase] ligase
+p-Nitrophenol conjugating enzyme
+Dodecenoyl -CoA delta-isomerase
+S-Adenosyl homocysteine hydrolase
+Sucrose phosphate synthase
+Lotus aspartic proteinase
+Dodecenoyl-coenzyme A delta-isomerase
+Anthocyanin 5-aromatic acyltransferase
+Phosphoenolpyruvate glycerone phosphotransferase
+Clinically relevant isoenzyme
+Pyrimidine deoxyribo-nucleoside 2'-hydroxylase
+alpha-Amylase S2 fraction
+Achromobacter iophogus collagenase
+Arabinogalactan endo-1,3-beta galactosidase
+Pyridine nucleotide transhydrogenase
+Hemorrhagic toxin II
+Leukocyte alkaline phosphatase
+Complement factor B
+Complement factor D
+Methylmalonyl-coenzyme A decarboxylase
+Diphosphate-purine nucleoside kinase
+N-acetylneuraminate 7-O(or 9-O)-acetyltransferase
+SK - Streptokinase
+DNA-directed DNA polymerase
+SChE - Pseudocholinesterase
+Acetyl activating enzyme
+Acetyl-coenzyme A acetyltransferase
+Uridine diphosphate-N-acetylglucosamine 1-carboxyvinyltransferase
+Polyethylene glycol dehydrogenase
+Coenzyme A-disulfide reductase
+Cytidine monophosphate-N-acetylneuraminate-(alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide alpha-2,6-sialyltransferase
+Hemorrhagic proteinase HR1A
+Gamete lytic enzyme
+Lens neutral proteinase
+Purine imidazole-ring cyclase
+Ca^2+^-transporting adenosine triphosphatase
+(R)-aromatic lactate dehydrogenase
+Dipeptidyl peptidase III
+Phylloquinone epoxide reductase
+Serratia marcescans nuclease
+Tartrate-resistant acid phosphatase
+Guanosine diphosphate glucosidase
+Uridine diphosphate-N-acetylmuramoylalanyl-D-glutamyl-lysine-D-alamyl-D-alanine ligase
+Uridine diphosphate-N-acetylglucosamine 4-epimerase
+Allene oxide synthase
+Leucocyte common antigen
+Dextran alpha-(1,2)-debranching enzyme
+Long-chain-enoyl-coenzyme A hydratase
+Cytidine monophosphate-N-acetylneuraminate-N-acetyllactosaminide alpha-2,3-sialyltransferase
+Acetoin ribose-5-phosphate transaldolase
+Acyl-[acyl-carrier protein] synthetase
+Haemorrhagic toxin II
+Deoxythymidine diphosphate-4-dehydrorhamnose 3,5-epimerase
+Alpha-methylacyl-coenzyme A racemase
+Adenosine triphosphate adenylyltransferase
+Arthrobacter serine proteinase
+O-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase III
+Orotidylic acid phosphorylase
+(Acetyl-CoA carboxylase) kinase
+Alpha-1,4 glucan:alpha-1,4-glucan 6-glucosyltransferase
+o-Dihydric phenol methyltransferase
+Myosin heavy-chain kinase
+Dipeptidyl carboxypeptidase II
+Activated factor IX
+UDP-N-acetyl muramoylalanine-D-glutamate ligase
+dTDPglucose 4,6 dehydratase
+Alternaria serine proteinase
+Alpha-1-antitrypsin isoform Z
+Citrate CoA ligase
+GTP cyclohydrolase I
+Citrate lyase ligase
+Sarcina neutral proteinase
+Aspergillus DNase K
+Sinapoylglucose choline O-sinapoyltransferase
+Escherichia freundii proteinase
+Chlorogenate glucarate O-hydroxycinnamoyltransferase
+Sinapoylglucose malate O-sinapoyltransferase
+Myelin PLP acyltransferase
+Guanosine 3',5'-polyphosphate synthase
+Dicarboxylate CoA ligase
+Histone deacetylase inhibitor
+Guanosine pentaphosphate phosphohydrolase
+Factor VIIa products
+Adenosine diphosphate deaminase
+Adenylyl-[glutamate-ammonia ligase] hydrolase
+Hygromycin B phosphotransferase
+Lymphocyte antigen CDw75
+Uridine diphosphate-sugar diphosphatase
+Phytanoyl-coenzyme A hydroxylase
+ADP-ribosyl-[dinitrogen reductase] hydrolase
+Tubulin tyrosine ligase
+Lactate oxidative decarboxylase
+Fibrinogen Oslo I
+NADPH-dependent M6P reductase
+H^+^/K^+^-transporting adenosine triphosphatase
+Muconate cycloisomerase II
+Isoprimeverose-producing oligoxyloglucan hydrolase
+Ribosomal ribonucleic acid
+Dipeptidyl peptidase I
+Glutamine transaminase K
+Glutamine transaminase L
+Dodecanoyl-[acyl-carrier protein] hydrolase
+Ubiquitin protein ligase
+Cytochrome bc1 complex
+Cytidine monophosphate-N-acetylneuraminate-monosialoganglioside sialyltransferase
+Mast cell tryptase
+Guanosine diphosphate-6-deoxy-D-talose dehydrogenase
+Fructose-1-phosphate aldolase B
+Tetrahymena aspartic proteinase
+Uridine diphosphate galacturonosyltransferase
+Bothrops metalloendopeptidase J
+Thrombin-antithrombin III complex
+Chondroitin sulfate lyase
+Uridyl diphosphate glucosamine-4-epimerase
+Uroporphyrinogen III methylase
+Mixed function oxygenase
+Carboxylic ester hydrolase
+Icosanoyl-coenzyme A synthase
+DNA-3-methyladenine glycosidase I
+Uridine diphosphateglucosamine 4-epimerase
+Trans-2-enoyl-coenzyme A reductase
+[Acyl carrier-protein] acetyltransferase
+Extended-spectrum beta lactamase
+Proteinase 3 antigen
+Signal peptidase I
+Clostridium histolyticum aminopeptidase
+Deoxythymidine diphosphate-4-amino-4,6-dideoxygalactose aminotransferase
+Creatine phosphokinase isoenzyme
+Citidine monophosphate-N-acylneuraminate phosphodiesterase
+Clearing factor lipase
+Mitochondrial processing peptidase
+Calcium/calmodulin-dependent protein kinase
+Uroporphyrinogen III decarboxylase
+Uridine monophosphate hydrolase
+Creatine kinase isoenzyme
+RNA polymerase II
+Bilirubin monoglucuronide transglucuronidase
+PG I2 dehydrogenase
+Deoxycytidine monophosphate deaminase
+(2-Aminoethyl) phosphonate aminotransferase
+Coagulation factor XIII
+Phosphogluconic acid dehydrogenase
+Coagulation factor XIIa
+Guanosine diphosphate-mannose 3,5-epimerase
+Streptomyces protease A
+Streptomyces protease B
+Picornavirus endopeptidase 3C
+Phosphoric monoester hydrolase
+Uroporphyrinogen I synthase
+Peptidyl-D-amino acid hydrolase
+Variant-surface-glycoprotein phospholipase C
+Phosphoribosyl-adenosine monophosphate cyclohydrolase
+Uridyl diphosphate-glucuronsyl transferase
+(S)-3-hydroxyacid ester dehydrogenase
+tRNA-pseudouridine synthase I
+CP - Caeruloplasmin
+Phenylalanine (histidine) aminotransferase
+N-carbamoyl-D-amino acid hydrolase
+Succinate-coenzyme Q reductase
+Polymorphonuclear neutrophil elastase
+Clostridium histolyticum collagenase
+Acyl-coenzyme A hydrolase
+Red cell angiotensinase
+Chemotaxis factor inhibitor
+Gamma-D-glutamyl-meso-diaminopimelate peptidase I
+Alpha-naphthyl acetate esterase
+Benzyl 2-methyl-3-hydroxybutyrate dehydrogenase
+Malate condensing enzyme
+[Myosin light-chain] kinase
+IgA-specific serine endopeptidase
+Activated Christmas Factor
+Deoxyribonucleic acid beta-glucosyltransferase
+Acetyl-CoA alpha-glucosaminide N-acetyltransferase
+Ribosomal neutral proteinase
+Endothelin-converting enzyme 1
+Citrate lyase deacetylase
+Bacteroides fragilis enterotoxin
+X-Prolyl dipeptidyl aminopeptidase
+Tritirachium alkaline proteinase
+Phosphoribosyl-adenosine triphosphate pyrophosphatase
+Nicotinamide mononucleotide nucleosidase
+Type IV collagenase
+Complement component 1s
+Complement component 1r
+Ornithine ketoacid aminotransferase
+Long-chain-fatty-acid luciferin-component ligase
+Cytidine monophosphate-N-acetylneuraminate-alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase
+Inosine monophosphate cyclohydrolase
+Streptococcal cysteine proteinase
+Cytochrome c oxidase
+Red cell enzyme
+Dolichol phosphate phosphatase
+Protein methylase III
+Choline esterase I
+Alkaline phosphatase isoenzyme
+Aspergillus deoxyribonuclease K
+Hemorrhagic toxin B
+Recombinant agalsidase beta
+Tartronate semialdehyde carboxylase
+Phytanoyl-coenzyme A alpha-hydroxylase
+Inosine monophosphate dehydrogenase
+Inactivated complement enzyme
+Cytidine monophosphate-N-acetylneuraminate-lactosylceramide alpha-2,3-sialyltransferase
+Methylene tetrahydrofolate reductase
+ACE - Acetylcholinesterase
+Phosphofructokinase F subunit
+[Hydroxymethylglutaryl-CoA reductase (NADPH)]-phosphatase
+Galactose-1-phosphate uridyl transferase
+Malate-coenzyme A ligase
+Quinoline-4-carboxylic acid 2-oxidoreductase
+Benzoyl-coenzyme A reductase
+Coenzyme A-glutathione reductase
+Rubredoxin-nicotinamide adenine dinucleotide
+Methylglutaconyl-coenzyme A hydratase
+Dipeptidyl tetrapeptide hydrolase
+Lactic acid dehydrogenase
+Cellulose synthase UDP-forming
+Isohexenylglutaconyl-coenzyme A hydratase
+Multicatalytic endopeptidase complex
+Achromobacter proteinase I
+[Ribonucleic acid-polymerase]-subunit kinase
+Citrate (pro-3S)-lyase thiolesterase
+Activated factor XII
+Gibberellin A44 oxidase
+Tagatose 1,6-diphosphate aldolase
+Multiple lysosomal hydrolases
+Diphosphate-dependent nucleoside kinase
+Leucostoma neutral proteinase
+Triphosphoric monoester hydrolase
+Sporotrichum proteinase I
+Bis (5'-guanosyl) tetraphosphatase
+Pancreatic elastase II
+Polyethylene glycol asparaginase
+Acyl-[acyl-carrier-protein] UDP-N-acetylglucosamine O-acyltransferase
+Hydrogenobyrinic acid-binding protein
+Crotalus adamanteus metalloendopeptidase
+Recombinant levo iduronidase
+Uridylyl removing enzyme
+Extracellular 'barrier' protein
+Dolichyl-diphosphate polyphosphate phosphotransferase
+Chondroitin AC eliminase
+Phytanic acid alpha-hydroxylase
+Acid phosphatase isoenzyme
+Bicyclic monoterpenol dehydrogenase
+Bornyl pyrophosphate hydrolase
+Immunoglobulin A1 protease
+Tryptophan side-chain alpha,beta-oxidase
+Lactic dehydrogenase isoenzyme
+Methionine glyoxylate transaminase
+Proprotein convertase 2
+Proprotein convertase 1
+NAD(P)-independent quinate dehydrogenase
+Adenosine monophosphate deaminase
+alpha,alpha-Trehalose-phosphate synthase UDP-forming
+Urinary plasminogen activator
+Physarum polycephalum ribonuclease
+DNA-3-methyladenine glycosylase I
+Thermostable carboxypeptidase 1
+Phospholipid-hydroperoxide glutathione peroxidase
+Ferredoxin nitrate reductase
+NAD(P)^+^ arginine ADP-ribosyltransferase
+m7 G(5')pppN pyrophosphatase
+Methanol 5-hydroxybenzimidazolylcobamide co-methyltransferase
+Sulphuric ester hydrolase
+O-Succinyl homoserine (thiol)-lyase
+Pseudomonas cytochrome oxidase
+Hepatic triglyceride lipase
+Phage SP3 DNase
+Ubiquitin carboxy-terminal esterase
+Diadenosine 5',5'''-P1,P4-tetraphosphate phosphorylase
+Hydroxymethylglutaryl-coenzyme A hydrolase
+Alpha-hydroxyglycine amidating dealkylase
+Phosphatidylinositol phospholipase A>2<
+Glutaryl-coenzyme A dehydrogenase
+Dephospho-coenzyme A kinase
+Biotin-coenzyme A ligase
+Leucocyte-membrane neutral endopeptidase
+Dipeptidyl peptidase II
+Acyl-[acyl-carrier-protein]-uridine diphosphate-N-acetylglucosamine O-acyltransferase
+Bornyl pyrophosphate synthase
+Cytidine monophosphate-N-acetylneuraminate monooxygenase
+White cell enzyme
+Cytidine monophosphate-N-acetylneuraminate-beta-galactoside alpha-2,3-sialyltransferase
+Methionine synthase reductase
+Homogentisic acid oxidase
+Ribonucleic acid-3'-phosphate cyclase
+Lipopolysaccharide glucosyltransferase I
+Methylated-deoxyribonucleic acid-protein-cysteine methyltransferase
+Vitamin B12r reductase
+Bacterial Ca2+/Mg2+ ATPase
+Low choriolytic enzyme
+D-Glutamate (D-aspartate) oxidase
+Choline esterase II
+Dibasic processing enzyme
+Purine nucleoside phosphorylase
+Uridine triphosphate-hexose-1-phosphate uridylyltransferase
+Phytanate CoA ligase
+LDL receptor kinase
+Ricinoleic acid synthase
+Dipeptidyl carboxypeptidase I
+Guanine insertion enzyme
+Dihydroxynaphthoic acid synthetase
+Hydroxy-acid oxidase B
+Hydroxy-acid oxidase A
+Glutamate pyruvate transaminase
+NAPH cytochrome-c2 reductase
+C3 proactivator convertase
+Tissue plasminogen activator
+Lymphocyte antigen CD13
+Lymphocyte antigen CD10
+Bacillus subtilis ribonuclease
+Guanosine 3',5'-bis(diphosphate) 3'-pyrophosphatase
+Prostate specific antigen
+Vacuolar aminopeptidase I
+Uridine diphosphate-N-acetylglucosamine pyrophosphorylase
+(Deoxy)nucleoside phosphate kinase
+Prostaglandin G/H synthase
+Acyl-coenzyme A oxidase
+beta-1,3-Oligoglucan:orthophosphate glucosyltransferase II
+Acetohydroxy acid isomeroreductase
+Dynein adenosine triphosphatase
+alpha-Amylase P3 fraction
+Bacterial Ca^2+^/Mg^2+^ ATPase
+Carbon monoxide oxygenase
+Acetyl-coenzyme A carboxylase
+Cytochrome p450 enzyme
+Deoxyribonucleic acid alpha-glucosyltransferase
+Glutamate carboxypeptidase II
+Deoxyribonucleic acid-deoxyinosine glycosidase
+Inositol polyphosphate 1-phosphatase
+Processing enhancing peptidase
+Plasminogen activator product
+Guanosine monophosphate reductase
+Long-chain fatty-acyl-CoA hydrolase
+Lysine pyruvate 6-aminotransferase
+alpha-Amylase S3 fraction
+Pyruvate dehydrogenase lipoamide-phosphatase
+Long-chain acyl-CoA dehydrogenase
+Uridine diphosphate-N-acetylmuramoyl-L-alanyl-D-glutamate-lysine ligase
+T2-induced deoxynucleotide kinase
+[Tau protein] kinase
+Glutaconyl-coenzyme A decarboxylase
+Phenylacetate CoA ligase
+Recombinant human hyaluronidase
+Poly (ribitol-phosphate) beta-glucosyltransferase
+H+/K+-transporting adenosine triphosphatase
+Chondroitin AC lyase
+Aspergillus nuclease S1
+Complex I dehydrogenase
+Aromatic amine dehydrogenase
+Glutamate decarboxylase 65
+Crotalus atrox metalloproteinase
+Glutathione-dependent thiosulfate reductase
+Methylmalonyl-coenzyme A mutase
+Glycinamide ribonucleotide synthetase
+Acyl-coenzyme A dehydrogenase
+Ferrihemoprotein P450 reductase
+Phosphoric diester hydrolase
+alpha-Amylase P2 fraction
+Aspergillus proteinase B
+Holliday junction nuclease
+Peptide-N4-(N-acetyl-b-glucosaminyl) asparagine amidase
+NAD azoferredoxin (ADP-ribose)transferase
+Fatty-acyl-coenzyme A synthase
+Phosphoribosyl pyrophosphate synthetase
+Lipoprotein signal peptidase
+MGlcDAG (1->2) glucosyltransferase
+Papaya proteinase Omega
+Total acid phosphatase
+Oxalate-coenzyme A ligase
+COMT - Catechol-o-methyltransferase
+Enzyme deficiency agent
+Leukocyte proteinase 3
+Citryl-coenzyme A lyase
+Hemorrhagic toxin C
+Hemorrhagic toxin E
+Hemorrhagic toxin F
+Inositol trisphosphate phosphomonoesterase
+Angiotensin converting enzyme
+[Acetyl-CoA carboxylase] kinase
+Cholest-5ene-3beta,7alpha-diol 3beta dehydrogenase
+N-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase IV
+N-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase II
+Metridium proteinase A
+Type I dehydrogenase
+NAD(P)+ arginine ADP-ribosyltransferase
+Hexokinase type IV
+gamma-Butyrobetaine, 2-oxoglutarate dioxygenase
+Gentamicin acetyltransferase 1
+Endothia aspartic proteinase
+Formamidopyrimidine-deoxyribonucleic acid glycosylase
+Cinnamic acid 2-hydroxylase
+GDPmannose 4,6 dehydratase
+Fatty acid thiokinase
+Isobutyryl-coenzyme A mutase
+Ca<sup>2+</sup>-transporting adenosine triphosphatase
+Sulfuric ester hydrolase
+Membrane Pro-X carboxypeptidase
+Citrate condensing enzyme
+Asparaginase polyethylene glycol
+Aminoglycoside acetyltransferase AAC(3)-I
+Aspergillus deoxyribonuclease K1
+Propionate-coenzyme A ligase
+Sorghum aspartic proteinase
+Anthranilate CoA ligase
+Pancreatic elastase I
+Desarginisated complement enzyme
+Long-chain-3-hydroxyacyl-coenzyme A dehydrogenase
+Mpx - Myeloperoxidase
+Uridine triphosphate-xylose-1-phosphate uridylyltransferase
+Recombinant alpha glucosidase
+Complement factor Bb
+Hemorrhagic proteinase IV
+Tyrosine arginine ligase
+Succinate-coenzyme A ligase
+Muconate cycloisomerase I
+Aryl hydrocarbon hydroxylase
+NAPH cytochrome-c>2< reductase
+Carbon monoxide dehydrogenase
+Anthraniloyl-coenzyme A monooxygenase
+Dephospho-[reductase kinase] kinase
+Lymphocyte antigen CD73
+Deoxycytidine triphosphate deaminase
+Cytosine triphosphate synthase
+Bile salt hydrolase
+Citrate lyase synthetase
+ADP-dependent short-chain-acyl-CoA hydrolase
+Creatine kinase isoform
+Peptidyl alpha-amidating enzyme
+H^+^-transporting ATP synthase
+Cytochrome c reductase
+Cytidine monophosphate-N-acetylneuraminate-beta-galactoside alpha-2,6-sialyltransferase
+Adenosine monophosphate nucleosidase
+Aspergillus DNase K>1<
+Entomophthora collagenolytic proteinase
+Ubiquitin calmodulin ligase
+Anthranilic acid adenylyltransferase
+Poliovirus protease 2A
+Fatty acyl-CoA reductase
+Haemorrhagic toxin B
+Haemorrhagic toxin C
+Haemorrhagic toxin F
+Haemorrhagic toxin E
+Thiosulfate cyanide transsulfurase
+Deoxythymidine diphosphate-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase
+Ketopantoyl lactone reductase
+Myxobacter beta-lytic proteinase
+Matrix metalloproteinase 10
+Matrix metalloproteinase 12
+Cytosol non-specific dipeptidase
+Phosphatidylinositol phospholipase A
+Phosphatidylinositol phospholipase C
+Pseudomonas serine proteinase
+Propionyl-coenzyme A carboxylase
+Aspartate phenylpyruvate aminotransferase
+Succinate-hydroxymethylglutarate coenzyme A-transferase
+Lysosomal protective protein
+Tissue-endopeptidase degrading collagenase-synthetic-substrate
+Serine-type D-Ala-D-Ala carboxypeptidase
+Streptomyces alkalophilic keratinase
+Microbial serine proteinases
+Benzoyl formate decarboxylase
+Glutamic acid-specific protease
+Trichophyton schoenleinii collagenase
+Phosphate pyrophosphate translocase
+Trimeresurus metalloendopeptidase A
+Trimeresurus metalloendopeptidase I
+Deoxythymidine monophosphate kinase
+Coagulation factor Xa
+Glutathione-dependent thiol:disulfide oxidoreductase
+Staphylococcal proteinase II
+(2-Aminoethyl) phosphonate-pyruvate aminotransferase
+Guanosine triphosphate pyrophosphokinase
+Lymphocyte antigen CD115
+Site-specific deoxyribonucleic acid-methyltransferase
+Hydroxymethylglutaryl-coenzyme A reductase
+Aspartic hemoglobinase I
+PGK - Phosphoglycerokinase
+Nicotinamide adenine dinucleotide
+Leucocyte alkaline phosphatase
+Hepatic glycogen synthetase
+Acetoacetyl-coenzyme A reductase
+T<sub>2</sub>-induced deoxynucleotide kinase
+Cinnamoyl-coenzyme A reductase
+Mercury (II) reductase
+Pancreatic DNase II
+Citrate cleavage enzyme
+Actinidia anionic protease
+AMP thymidine kinase
+Citramalate coenzyme A-transferase
+Benzoate CoA ligase
+Diglucosyl diacylglycerol synthase
+Malate dehydrogenase oxaloacetate-decarboxylating
+alpha-Amylase P1 fraction
+Glutamate oxaloacetate transaminase
+alpha-Amylase S1 fraction
+RNA adenylating enzyme
+Oxalyl-coenzyme A decarboxylase
+Ecoli cytoplasmic proteinase
+Ferredoxin-nicotinamide adenine dinucleotide
+Acetate coenzyme A-transferase
+Microsomal gamma-glutamyl carboxypeptidase
+Promastigote surface endopeptidase
+Glycogen (starch) synthase
+Sindbis virus protease
+Na<sup>+</sup>/K<sup>+</sup>-transporting adenosine triphosphatase
+Kidney-brush-border neutral proteinase
+Ferrihaemoprotein P450 reductase
+Phosphatidylcholine retinol O-acyltransferase
+Uridyl diphosphate galactose-4-epimerase
+Vitamin B<sub>12r</sub> reductase
+Alpha-pinene oxide lyase
+RNA-directed RNA polymerase
+Activated factor X
+Fatty acid desaturase
+Catechol l,2 dioxygenase
+Propionate coenzyme A-transferase
+Uroporphyrinogen III synthase
+N-Acetylneuraminic acid aldolase
+Uridine diphosphate-4-amino-2-acetamido-2,4,6-trideoxy-glucose aminotransferase
+Uridine diphosphate-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase
+Protein kinase c
+Itaconyl-coenzyme A hydratase
+Inosine triphosphate pyrophosphohydrolase
+Pronase enzyme B
+Uridine diphosphate-N-acetylglucosamine 2-epimerase
+Butyrate-coenzyme A ligase
+Diethyl 2-methyl-3-oxosuccinate reductase
+Xenobiotic ketone reductase
+Digestant enzyme preparation
+High choriolytic enzyme
+Rhinovirus protease 2A
+Protein methylase I
+RNA polymerase I
+N-Glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase III
+Succinyl-coenzyme A hydrolase
+Methylenetetrahydrofolate-transfer ribonucleic acid-
+Ca2+-transporting adenosine triphosphatase
+D-lactic acid dehydrogenase
+Tyrosine 3-monooxygenase kinase
+Recombinant urate oxidase
+Unsaturated acyl-CoA hydratase
+Aeromonas proteolytica aminopeptidase
+Complement component C1s
+Complement component C1r
+Uridine diphosphate-N-acetylmuramate dehydrogenase
+E.coli endonuclease IV
+NAPH cytochrome-c<sub>2</sub> reductase
+Uridine diphosphate (UDP)-N-acetylglucosamine-dolichyl-phosphate-N-acetylglucosaminephosphotransferase
+Pyrimidine dimer DNA-glycosylase
+RNA-directed DNA polymerase
+Zinc D-Ala-D-Ala carboxypeptidase
+Trichophyton mentagrophytes keratinase
+Prostaglandin D synthase
+Cis-2-enoyl-coenzyme A reductase
+Beta-glucogallin tetrakisgalloylglucose O-galloyltransferase
+Methyl malonyl-CoA epimerase
+Lignostilbene alpha beta-dioxygenase
+Escherichia coli asparaginase
+Glutathione-dependent thiosulphate reductase
+Lupinic acid synthase
+Aspergillus nuclease S>1<
+Cytochrome p-450 enzyme
+Indoleacetate lysine ligase
+Oxalate coenzyme A-transferase
+Quinaldic acid 4-oxidoreductase
+Na^+^/K^+^-transporting adenosine triphosphatase
+Glutarate-coenzyme A ligase
+alpha- and beta-Trypsin
+NAD(P)-dependent glyceraldehyde-3-phosphate dehydrogenase
+Glutaconate coenzyme A-transferase
+Coagulation factor VIIa
+Phage SP<sub>3</sub> DNase
+Post-proline cleaving enzyme
+Malonate coenzyme A-transferase
+NAD(+) diphthamide ADP-ribosyltransferase
+Formate dihydrofolate ligase
+Pyroglutamyl aminopeptidase II
+Formyl dihydrofolate synthase
+Deoxyribonucleic acid (cytosine-5)-methyltransferase
+Flavone/flavonol 7-O-beta-D-glucoside malonyltransferase
+Ribonucleic acid polymerase
+Zn(2+) G peptidase
+Leukocyte common antigen
+Adenosine diphosphate-glyceromanno-heptose 6-epimerase
+Papaya proteinase III
+Tetrahydromethanopterin S-methyltransferase
+Peptide alpha-N-acetyltransferase
+Tartrate decarboxylase
+Methylenetetrahydrofolate dehydrogenase
+Macrolide 2'-kinase
+Arginine-tRNA ligase
+DPN kinase
+Dimethylamine dehydrogenase
+Anthocyanidin O
+Flavonol 4'-O-methyltransferase
+Phosphoglycerol geranylgeranyltransferase
+Adenylylsulfate-ammonia adenylyltransferase
+Sulphite reductase
+Aralkylamine dehydrogenase
+Protopine 6-hydroxylase
+Glycoprotein gp63
+Lanosterol synthase
+tRNA (guanine-N1)-methyltransferase
+Carboxypeptidase H
+Carboxypeptidase N
+Carboxypeptidase M
+Carboxypeptidase C
+Carboxypeptidase B
+Carboxypeptidase A
+Carboxypeptidase G
+Carboxypeptidase E
+Carboxypeptidase D
+alpha-Ketoglutaric dehydrogenase
+Carboxypeptidase S
+Carboxypeptidase R
+Carboxypeptidase P
+Carboxypeptidase U
+Carboxypeptidase T
+Exodeoxyribonuclease VII
+Tryptophan 2,3-dioxygenase
+Aspergillopeptidase B
+Aspergillopeptidase A
+Streptococcal proteinase
+Malto-oligosyltrehalose synthase
+N-Acetyl-gamma-glutamyl-phosphate reductase
+All-trans-retinyl-palmitate hydrolase
+L-pipecolate oxidase
+Deoxydenylate kinase
+dCMP deaminase
+Putrescine oxidase
+Isomaltulose synthase
+Gamma-guanidinobutyraldehyde dehydrogenase
+Protease Pi
+Deoxyribodipyrimidine photo-lyase
+Dichloromethane dehalogenase
+Methionyl-tRNA formyltransferase
+Acyl-protein synthase
+Oligogalacturonide lyase
+Urishiol oxidase
+Ornithine transcarbamylase
+Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase
+Monoacylglycerol kinase
+Chondroitin-glucuronate 5-epimerase
+Acylpyruvate hydrolase
+Glycogen-synthase-D phosphatase
+Rubredoxin-NAD<sup>+</sup> reductase
+Agmatine 4-coumaroyltransferase
+Heparan N-sulfatase
+Cephalosporin-C deacetylase
+Deamido-NAD^+^ pyrophosphorylase
+Meprin A
+PAPS sulfotransferase
+Meprin B
+Insulin receptor
+Nicotinate dehydrogenase
+Steroid 21-hydroxylase
+Flavonol 3-O-methyltransferase
+Blasticidin-S deaminase
+Beta-galactosyl-N-acetylglucosaminylgalactosyl-glucosylceramide Beta-1,3-acetylglucosaminyltransferase
+Insulin-degrading enzyme
+CoA-disulfide reductase
+Cholate-CoA ligase
+rRNA (adenosine-O^2'^)-methyltransferase
+Acetoin dehydrogenase
+Streptodornase agent
+Glycoprotein O-fatty-acyltransferase
+Acid phosphatase
+Quinate O-hydroxycinnamoyltransferase
+Galactoside acetyltransferase
+Aminolevulinate aminotransferase
+D-Alanine:membrane-acceptor ligase
+Ca<sup>2+</sup>-transporting ATPase
+Desulphoglucosinolate sulphotransferase
+UDPglucose-apigenin beta-glucosyltransferase
+Uroporphyrin-III C-methyltransferase
+Sucrose 1F-fructosyltransferase
+Hydrogen:quinone oxidoreductase
+N6-Acetyl-beta-lysine aminotransferase
+UDPglucose-cellulose glucosyltransferase
+Lipophosphodiesterase II
+Zeatin O-beta-D-xylosyltransferase
+Formiminoglutamate deiminase
+Cyanidin-3-rhamnosylglucoside O
+Homoisocitrate dehydrogenase
+Enzyme variant
+DNA-deoxyinosine glycosidase
+rRNA (adenine-N^6^)-methyltransferase
+D-sorbitol dehydrogenase
+Isobutyraldoxime O-methyltransferase
+Aldoxime methyltransferase
+Tyrosine-ester sulphotransferase
+Ribonuclease U>2<
+di-trans,poly-cis-Undecaprenyl-diphosphate synthase
+Pyruvate oxidase
+Phosphoserine aminotransferase
+Lysyl aminopeptidase
+Proline hydroxylase
+Glucomannan 4-beta-mannosyltransferase
+NADP-cytochrome reductase
+Recombinant thrombin
+Prolyl-tRNA synthetase
+tRNA sulfurtransferase
+Acyl-phosphate-hexose phosphotransferase
+Quercetin-3,3'-bissulfate 7-sulfotransferase
+Aquacob(I)alamin adenosyltransferase
+Phospholipid-cholesterol acyltransferase
+L-Aminoadipate-semialdehyde dehydrogenase
+Trans-2-enoyl-CoA reductase
+Acetone-cyanohydrin lyase
+Acetaldehyde dehydrogenase
+NADPH-ferrihemoprotein reductase
+Pyrophosphate-serine phosphotransferase
+Neurotensin endopeptidase
+Acetyl-CoA carboxylase-phosphatase
+Histidine acetyltransferase
+Alpha,beta-diaminopropionate ammonia-lyase
+Polysaccharide depolymerase
+Uridine diphosphate
+Trimethylamine-N-oxide reductase
+Ketone-aldehyde mutase
+Diacylglycerol-sterol acyltransferase
+Carbon-sulphur lyase
+D-Alanylalanine synthetase
+L-Arabinonate dehydratase
+D-Lysopine dehydrogenase
+Phosphatidylserine synthase
+Heparin eliminase
+(2,3-dihydroxybenzoyl)adenylate synthase
+Alkylacetylglycerol acetylhydrolase
+Propionyl-CoA carboxylase
+Valine dehydrogenase
+Pyrophosphate-glycerol phosphotransferase
+Protoporphyrinogen oxidase
+Cytidyl cyclase
+ATP monophosphatase
+Cyclopentanone monooxygenase
+Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase
+Ephedrine dehydrogenase
+UDP-N-acetylglucosamine dehydrogenase
+Furoyl-CoA hydroxylase
+mRNA (nucleoside-O2)'-methyltransferase
+(fMet)-releasing enzyme
+Protocatechuate 4,5-dioxygenase
+Plasmalogen synthase
+alpha-1,4-Glucan-protein synthase
+Endopeptidase Clp
+delta<sup>3</sup>-cis-delta<sup>2</sup>-trans-enoyl-CoA isomerase
+Arylsulphate sulphotransferase
+Streptokinase preparation
+Glutamate-1-semialdehyde 2,1-aminomutase
+Palmitoyldihydroxy-acetone-phosphate reductase
+Asparaginase macrogol
+Acetylindoxyl oxidase
+Hexosephosphate aminotransferase
+Nucleoside-triphosphate-adenylate kinase
+Flavanone 3-dioxygenase
+Seryl-tRNA synthetase
+Alkaline phosphatase
+Alanine carboxypeptidase
+Quercetin O
+Xanthotoxol O-methyltransferase
+Alkylglycerol kinase
+Malic dehydrogenase
+Dihydroorotate oxidase
+Itaconate CoA-transferase
+Flavanone 3-hydroxylase
+Rosmarinate synthase
+Vanillyl-alcohol oxidase
+Porphyran sulphatase
+Galactinol synthase
+Cyclamate sulphohydrolase
+Aminopeptidase Co
+UDPglucose-zeatin 7-glucosyltransferase
+Tyrosine 2,3-aminomutase
+Ribonuclease U2
+Procollagen-lysine,2-oxoglutarate 5-dioxygenase
+Uridine kinase
+Adenosine nucleosidase
+C3PA ase
+DHAP synthase
+Peroxidation-inhibiting protein
+Deamido-NAD<sup>+</sup> pyrophosphorylase
+Long-chain aminoacylase
+Glucuronosyltransferase I
+Callose synthetase
+Phytate 6-phosphatase
+Isocitrate lyase
+Ribonuclease II
+Ribose-5-phosphate adenylyltransferase
+Mannose-6-phosphate isomerase
+Branched-dextran exo-1,2-alpha-glucosidase
+LDH isoenzyme
+Threonine synthase
+N-Sulphoglucosamine sulphohydrolase
+p-Cresol methylhydroxylase
+Nucleotide pyrophosphatase
+Spermidine aminopropyltransferase
+[Acyl-carrier-protein] malonyltransferase
+Glycerophospholipid arachidonoyl-transferase
+Dihydrodipicolinate synthase
+N-Acetylneuraminate O<sup>7</sup>-acetyltransferase
+Acetolactate decarboxylase
+Glycylpeptide N-tetradecanoyltransferase
+Cytochrome aa3
+Cysteinyl-glycine dipeptidase
+Stem bromelain
+Sulphinoalanine decarboxylase
+Kanamycin 6'-acetyltransferase
+Alkane 1-monooxygenase
+Oligosaccharide-diphosphodolichol diphosphatase
+Deoxyribodipyrimidine endonucleosidase
+Pancreatic isoamylase
+Smooth-muscle-myosin-light-chain kinase
+CMP-N-acetylneuraminate-alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase
+Flavonoid 3'-hydroxylase
+Orotidine-5'-phosphate decarboxylase
+Galactoside 3-fucosyltransferase
+Homocysteine desulfhydrase
+Protocatechuate 3,4-dioxygenase
+Retinal reductase
+Galacturan 1,4-alpha-galacturonidase
+Penicillin amidase
+Citrate (re)-synthase
+Taipan activator
+Heparin-glucosamine 3-O-sulfotransferase
+Trapping enzyme
+Galactocerebroside beta-galactosidase
+Protein-glutamine glutaminase
+UDP-N-acetylgalactosamine-4-sulfate sulfotransferase
+Propionate CoA-transferase
+Phosphatidylcholine-sterol acyltransferase
+Mannan endo-1,6-beta-mannosidase
+Lysine N6-hydroxylase
+Deoxycytidylate kinase
+Tryptophan-phenylpyruvate aminotransferase
+O-sialoglycoprotein endopeptidase
+Homocysteine methyltransferase
+Alkylglycerophosphoethanolamine phosphodiesterase
+Aralkylamine N-acetyltransferase
+Cyclamate sulfamatase
+Glycyl-glycine dipeptidase
+Glucan endo-1,2-beta-glucosidase
+CDPglucose pyrophosphorylase
+Oligosaccharide 4-alpha-D-glucosyltransferase
+NAD^+^ pyrophosphatase
+Diaminobutyrate-pyruvate aminotransferase
+D-(or L-)aminoacyl-dipeptidase
+NAD<sup>+</sup> synthase
+Ferredoxin-nitrite reductase
+Homogentisate oxygenase
+Cyclohexylamine oxidase
+Histaminase preparation
+Arylamine acetyltransferase
+Glyceryl-ether monooxygenase
+Lysine-2-oxoglutarate reductase
+Phlorizin hydrolase
+Sulphite dehydrogenase
+Kynurenine-oxoglutarate aminotransferase
+gamma GTP
+t-PA preparation
+Palmitoyl-CoA hydrolase
+Inulin fructotransferase
+Ceramide glucosyltransferase
+UDPglucose 4-epimerase
+Methylthioadenosine nucleosidase
+Peptidylamidoglycolate lyase
+Hydroxybutyrate-dimer hydrolase
+Dermatan-sulphate 5-epimerase
+Glycine formiminotransferase
+Tetrahydrodipicolinate succinylase
+Phosphoribosyl-ATP pyrophosphorylase
+Xyloglucan:xyloglucosyl transferase
+Aspartate beta-hydroxylase
+Sinapine esterase
+Tyrosylprotein sulfotransferase
+beta-Cyclopiazonate oxidocyclase
+DHCA-CoA ligase
+Creatine phosphokinase
+Lysine,2-oxoglutarate 5-dioxygenase
+Hydroxycyclohexanecarboxylate dehydrogenase
+tRNA (guanine-N^7^)-methyltransferase
+Bean endopeptidase
+Ammonia kinase
+(R,S)-tetrahydrobenzylisoquinoline N-methyltransferase
+Adenylosuccinate lyase
+Pantothenate kinase
+UDP-N-acetylmuramoylalanyl-D-glutamyl-lysine-D-alamyl-D-alanine ligase
+Dethiobiotin synthase
+Thymidine kinase
+Cyclohexanone dehydrogenase
+H<sup>+</sup>/K<sup>+</sup>-transporting ATPase
+Glutathione gamma-glutamylcysteinyltransferase
+Steroid 4,5-dioxygenase
+Xylan alpha-1,2-glucuronosidase
+Isohexenylglutaconyl-CoA hydratase
+alpha-Dextrin endo-1,6-alpha-glucosidase
+Carnitine decarboxylase
+Phosphatidate phosphatase
+Aminopeptidase Ey
+Thiocyanate isomerase
+Mannonate dehydrogenase
+Glutathione-CoA-glutathione transhydrogenase
+Thiol sulfotransferase
+Glucan 1,6-alpha-glucosidase
+Glycine benzoyltransferase
+Steroid N-acetylglucosaminyltransferase
+Ferredoxin-NADP^+^ reductase
+Benzoate 1,2-dioxygenase
+Protein-glucosylgalactosylhydroxylysine glucosidase
+H+-transporting ATPase
+Carboxymethyloxysuccinate lyase
+Tartrate epimerase
+N-benzyloxycarbonylglycine hydrolase
+Gly-Pro naphthylamidase
+Estradiol 17beta-dehydrogenase
+Polyol dehydrogenase
+L-Sorbose oxidase
+Glyceraldehyde-3-phosphate dehydrogenase
+L-rhamnonate dehydratase
+Alkanal monooxygenase
+Shikimate O-hydroxycinnamoyltransferase
+Pyroglutamyl-peptidase II
+Caffeate 3,4-dioxygenase
+Aconitate delta-isomerase
+Insulin reductase
+Gentamicin 2'-acetyltransferase
+Kyotorphin synthase
+Choline acetylase
+Pyruvate,water dikinase
+Inositol-1,4,5-trisphosphate 1-phosphatase
+UDP-N-acetylmuramoylpentapeptide-lysine N<sup>6</sup>-alanyltransferase
+Flavonol O
+Peptidoglycan beta-N-acetylmuramidase
+Putrescine carbamoyltransferase
+Butyleneglycol dehydrogenase
+N-Acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase
+alpha-1,3-Mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase
+DNA ligase
+Flavonol 3-sulphotransferase
+Guanidinoacetate methyltransferase
+Glucose-1-phosphate phosphodismutase
+N-acetylglucosaminyldiphosphoundecaprenol glucosyltransferase
+Spermidine dehydrogenase
+Pseudomonas elastase
+Thiamin pyridinylase
+Corticosteroid side-chain-isomerase
+CDPdiglyceride pyrophosphorylase
+Glycolipid 3-alpha-mannosyltransferase
+Glycine-tRNA ligase
+Glutamic dehydrogenase
+Chloridazon-catechol dioxygenase
+Crotonoyl-[acyl-carrier-protein] hydratase
+tRNA-queuosine beta-mannosyltransferase
+NAD+ synthetase
+Galactosylhydroxylysine glucosyltransferase
+Nicotinate glucosyltransferase
+Glycolipid 2-alpha-mannosyltransferase
+Methionyl-tRNA synthetase
+Ligninase I
+Sulphane reductase
+NADPH-dihydromyricetin reductase
+Sugar-1-phosphate adenylyltransferase
+Alpha-methylacyl-CoA racemase
+Gamma-GHA synthetase
+Tyrosine-tRNA ligase
+Acid esterase
+Triosephosphate dehydrogenase
+Galactogen 6-beta-galactosyltransferase
+Carboxypeptidase A2
+Hyaluronidase preparation
+Tetrahydrocolumbamine 2-O-methyltransferase
+Fructose-l-phosphate kinase
+Alanyl-tRNA synthetase
+Glutathione-homocystine transhydrogenase
+Globoside alpha-N-acetylgalactosaminyltransferase
+S-S rearrangase
+Coupling enzyme
+Aspartate 1-decarboxylase
+Acid phosphomonoesterase
+Adrenaline oxidase
+Glucuronylgalactosylproteoglycan beta-1,4-N-acetylgalactosaminyltransferase
+L-Ascorbate-cytochrome-b<sub>5</sub> reductase
+Unspecific monooxygenase
+Guanosine deaminase
+Inositol-3,4-bisphosphate 4-phosphatase
+erythro-3-Hydroxyaspartate dehydratase
+Glycosaminoglycan galactosyltransferase
+Galactarate dehydratase
+Prostaglandin-E2 9-ketoreductase
+Hydroxymandelonitrile lyase
+Alkylmercury lyase
+Glycerol-3-phosphate dehydrogenase
+Serine-sulphate ammonia-lyase
+tRNA (guanine-N2)-methyltransferase
+[Protein-PII] uridylyltransferase
+CMPsialate synthase
+Galactitol-1-phosphate 5-dehydrogenase
+tRNA (guanine-N<sup>1</sup>)-methyltransferase
+Pyrimidine transferase
+Sequoyitol dehydrogenase
+Perillyl-alcohol dehydrogenase
+Nocardicin-A epimerase
+Glutamate formiminotransferase
+Exodeoxyribonuclease III
+Leukotriene-B4 20-monooxygenase
+Glutamine-fructose-6-phosphate aminotransferase
+Cellobiose phosphorylase
+Glucan 1,6-alpha-isomaltosidase
+Spermine synthase
+UDPglucose-1,3-beta-D-glucan glucosyltransferase
+Diphosphoglycerate mutase
+Sulfoglucosamine sulfamidase
+Phosphoadenosine-phosphosulphate reductase
+Poly(ADP) polymerase
+Cellulose synthase
+Rubisco methyltransferase
+Glucosamine-6-phosphate isomerase
+Lipopolysaccharide N-acetylmannosaminouronosyltransferase
+Dihydroorotate dehydrogenase
+Serine protease
+Acid alpha-glucosidase
+trans-1,2-Dihydrobenzene-1,2-diol dehydrogenase
+Hydrogensulphite reductase
+Mannosyl-oligosaccharide glucosidase
+NAD<sup>+</sup> pyrophosphorylase
+Aminopeptidase YSCI
+Aldose mutarotase
+Succinyldiaminopimelate desuccinylase
+Thiol oxidase
+J protease
+Quercetin-3-sulphate 4'-sulphotransferase
+Glucose-1-phosphate guanylyltransferase
+Glycerol 2-phosphatase
+Cholestenone 5beta-reductase
+Hexaprenyldihydroxybenzoate methyltransferase
+CMP-N-acetylneuraminate-alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase
+Leucyl endopeptidase
+Cinnamyl-alcohol dehydrogenase
+Succinyl-beta-ketoacyl-CoA transferase
+Glutathione oxidase
+Acetylenecarboxylate hydratase
+Benzoyl-CoA reductase
+N<sup>6</sup>-Acetyl-beta-lysine aminotransferase
+N-Acylglucosamine-6-phosphate 2-epimerase
+UDP-N-acetylmuramate-alanine ligase
+beta-Hydroxyacyl dehydrogenase
+Tryptophan 2-monooxygenase
+Sorbitol-6-phosphate dehydrogenase
+Dolichyl-phosphate-mannose-protein mannosyltransferase
+Hydroxymandelonitrile glucosyltransferase
+Methionine adenosyltransferase
+N-Acetylneuraminate O4-acetyltransferase
+Monoterpenol acetyltransferase
+Erwinia L-asparaginase
+PEP carboxyphosphotransferase
+Citrate aldolase
+L-Pipecolate dehydrogenase
+Tauropine dehydrogenase
+rRNA (guanine-N2)-methyltransferase
+Serine-glyoxylate aminotransferase
+Aminoglycoside N<sup>3'</sup>-acetyltransferase
+CDPglycerol pyrophosphorylase
+Fatty-acyl-ethyl-ester synthase
+D-Amino-acid oxidase
+Acyl dehydrogenase
+Bifunctional enzyme
+Formic dehydrogenase
+Cholesterol monooxygenase
+IDH kinase/phosphatase
+Lactoylglutathione lyase
+NADH dehydrogenase
+Alkan-1-ol dehydrogenase
+Malonyl-CoA decarboxylase
+Orsellinate decarboxylase
+Isocitric dehydrogenase
+D-Fuconate dehydratase
+Cyanate lyase
+Endoproteinase Asp-N
+Tyrosine 3-monooxygenase
+Annexin A3
+Dolichyl-phosphate-glucose phosphodiesterase
+Cysteamine dioxygenase
+Anthraniloyl-CoA monooxygenase
+Ornithine decarboxylase
+Aliphatic nitrilase
+Cysteine synthase
+Chloroplast ATPase
+Tartronate O-hydroxycinnamoyltransferase
+Monoglyceride acyltransferase
+Acylneuraminate cytidylyltransferase
+Squalene monooxygenase
+Malyl-CoA synthetase
+Anthocyanidin O<sup>3</sup>-glucosyltransferase
+Selenophosphate synthase
+Phosphoethanolamine N-methyltransferase
+Carboxypeptidase S1
+Neutrophil myeloperoxidase
+Cucurbitacin delta
+Alpha glucosidase
+Isowillardiine synthase
+Xylan endo-1,3-beta-xylosidase
+Phosphoribosylaminoimidazolecarboxamide formyltransferase
+Pyrophosphate-fructose-6-phosphate 1-phosphotransferase
+Stromelysin 1
+Dihydroxy-3,5-cyclohexadiene-1,4-dicarboxylate dehydrogenase
+Coniferin beta-glucosidase
+beta-Glutamylphosphate reductase
+Watasemia-type luciferase
+tRNA cytidylyltransferase
+Undecaprenol kinase
+tRNA (guanosine-O^2'^)-methyltransferase
+Flavonol-3-O-glycoside xylosyltransferase
+Ornithine esterase
+D-Lactate dehydrogenase
+dTDPgalactose pyrophosphorylase
+RNase A
+Fumarate hydratase
+RNase D
+Glutamine acyltransferase
+RNase H
+RNase I
+RNase N
+RNase O
+Leucyl-tRNA synthetase
+Cysteine aminotransferase
+Glutamine-phenylpyruvate aminotransferase
+Cysteine-sulphinate decarboxylase
+Thioredoxin:3'-phospho-adenylylsulphate reductase
+Undecaprenyl-phosphate mannosyltransferase
+Glycerol-3-phosphate-glucose phosphotransferase
+Propanediol dehydratase
+Quinone oxidoreductase
+NRD convertase
+Heparin lyase
+(S)-cheilanthifoline synthase
+Aspartylglucosylamine deaspartylase
+Leucine acetyltransferase
+Hydroperoxide isomerase
+Plasma kallikrein
+Ophiophagus metalloendopeptidase
+Tryptamine N-methyltransferase
+mRNA (guanine-N7)-methyltransferase
+D-Arabinitol dehydrogenase
+CDP-diglyceride-inositol phosphatidyltransferase
+Adenylylsulfate kinase
+Phosphoribosylglycinamide formyltransferase
+N-acetylgalactosaminyltransferase II
+Quinolinate phosphoribosyltransferase
+Placental sulphatase
+N2-(4-Aminobutyryl)-L-lysine hydrolase
+Methionine S-methyltransferase
+Benzaldehyde lyase
+Sulochrin oxidase
+Nitrile hydratase
+Cathepsin IV
+Carnitine O-octanoyltransferase
+Isocitrate epimerase
+Anthocyanidin O3-glucosyltransferase
+Aspulvinone dimethylallyltransferase
+N-feruloylglycine deacylase
+Tetrahydrodipicolinate N-succinyltransferase
+Cyanohydrin glucosyltransferase
+Estrone sulfotransferase
+Palmitoyl-protein thioesterase
+Kynurenine 3-hydroxylase
+Sucrose-1,6-a-glucan 3(6)-alpha-glucosyltransferase
+Dihydroxyphenylalanine aminotransferase
+AMP deaminase
+Sulphite oxidase
+Spleen exonuclease
+Macrocin O-methyltransferase
+Rhodopsin kinase
+Acetylxylan esterase
+Glutamine-tRNA ligase
+Non-stereospecific dipeptidase
+Pancreatic lipase
+Achromopeptidase component
+Wax synthase
+T4HN reductase
+Leukotriene-B4 20-hydroxylase
+Tyrosine-ester sulfotransferase
+Cystine aminopeptidase
+Peptidyl-Asp metalloendopeptidase
+Methylquercetagetin 6-O-methyltransferase
+Demethylmacrocin O-methyltransferase
+NAD<sup>+</sup> synthetase
+Melilotate 3-monooxygenase
+Cyclohexadienyl dehydrogenase
+Hageman Factor
+Peptide N-myristoyltransferase
+Hydroxypyruvate reductase
+Fucose-1-phosphate guanylyltransferase
+Collagenase product
+ADPphosphoglycerate phosphatase
+NMN pyrophosphorylase
+Polypeptide N-acetylgalactosaminyltransferase
+Floridoside-phosphate synthase
+Heparosan-N-sulfate-glucuronate 5-epimerase
+Citraconate hydratase
+Hypoxanthine phosphoribosyltransferase
+Methane hydroxylase
+Procollagen-proline,2-oxoglutarate 3-dioxygenase
+Precorrin-6 methyltransferase
+Diphthine synthase
+Tryptophan decarboxylase
+Bisulfite reductase
+CMP-N-acetylneuraminate-beta-galactoside alpha-2,3-sialyltransferase
+Transin 2
+Theanine hydrolase
+Microbial metalloproteinases
+Protease A
+Phosphatidylcholine-dolichol acyltransferase
+Pteridine reductase
+Phenol sulfotransferase
+Succinate dehydrogenase
+Catechol oxidase
+Galactonolactone dehydrogenase
+Anthranilate 1,2-dioxygenase
+Peptidase A
+Glycosphingolipid deacylase
+Peptidase M
+Pantetheine-phosphate adenylyltransferase
+Biotin-[acetyl-CoA carboxylase]synthetase
+Orotate reductase
+N^2^-(4-Aminobutyryl)-L-lysine hydrolase
+Sialidase L
+Peptidase a
+Acylase I
+Pyridoxal dehydrogenase
+Apigenin O4'-methyltransferase
+Iduronate 2-sulphatase
+Anhydrotetracycline oxygenase
+Dihydrokaempferol 4-reductase
+FAPY-DNA glycosylase
+L-Asparagine amidohydrolase
+ATP deaminase
+PCP hydroxylase
+Acid metalloproteinase
+m<sup>7</sup>G(5')pppN pyrophosphatase
+Heparin-glucosamine 3-O-sulphotransferase
+Orotidine-5'-phosphate pyrophosphorylase
+D-arabinono-1,4-lactone oxidase
+Cellodextrin phosphorylase
+Glutamate-ethylamine ligase
+alpha-Ketoisovalerate hydroxymethyltransferase
+Peptidylprolyl isomerase
+GDP-4-keto-D-rhamnose reductase
+Flavonol 6-O-methyltransferase
+Hyaluronate lyase
+C3PA convertase
+Purine nucleosidase
+Manganese peroxidase
+L-Lactate dehydrogenase
+Prolyl endopeptidase
+Muramoyl-pentapeptide carboxypeptidase
+Imidazoleacetate-phosphoribosyldiphosphate ligase
+Mycocerosate synthase
+L-fucose isomerase
+Galactosylgalactosylglucosylceramide beta-D-acetyl-galactosaminyltransferase
+Glycerate kinase
+Methylaspartate ammonia-lyase
+Ubiquityl-calmodulin synthase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine synthetase
+Farnesol 2-isomerase
+Thiamin-diphosphate kinase
+Streptomycin 3''-kinase
+Factor XIII
+Tartronate sinapoyltransferase
+Myxobacter-a-lytic proteinase
+O-Carbamoyl-L-serine deaminase
+Kynurenine 3-monooxygenase
+Ribonuclease IX
+Flavonol O<sup>3</sup>-glucosyltransferase
+Sphingosine acyltransferase
+(S)-tetrahydroprotoberberine N-methyltransferase
+(R)-4-hydroxyphenyllactate dehydrogenase
+Caffeate o-methyltransferase
+Mannan 1,4-beta-mannobiosidase
+ITP pyrophosphohydrolase
+Ribonuclease IV
+Catechol methyltransferase
+Xyloglucan 4-glucosyltransferase
+Phosphoribosylformylglycinamidine cyclo-ligase
+Copper oxidase
+Acylsphingosine kinase
+Luciferin sulfotransferase
+Steroid sulphatase
+Prostaglandin-H>2< D-isomerase
+Xanthine oxidase
+Lipoate acetyltransferase
+(-)-borneol dehydrogenase
+Protein-lysine 6-oxidase
+Aspartate-tRNA ligase
+dTDP4-dehydrorhamnose reductase
+Pretyrosine dehydrogenase
+all-trans-Nonaprenyl-diphosphate synthase
+Ribosylnicotinamide kinase
+Benzoyl-CoA 3-hydroxylase
+Hamamelose kinase
+Cyanidin-3-rhamnosylglucoside O5-glucosyltransferase
+Pectate lyase
+Glycerophosphocholine phosphodiesterase
+Phytanoyl-CoA alpha-hydroxylase
+Phosphoenolpyruvate mutase
+UDPglucose-fructosephosphate glucosyltransferase
+Carbamoyl-serine ammonia-lyase
+Steroid sulfatase
+Deoxyhypusine hydroxylase
+dTDP4-keto-rhamnose reductase
+Tripeptidyl peptidase
+X-Pro dipeptidyl-peptidase
+Glutaminase II
+beta-1,3-Galactosyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase
+Tropinone reductase
+Aromatic-hydroxylamine acetyltransferase
+Cathepsin O2
+Alcohol sulfotransferase
+Pteroyl-poly-alpha-glutamate hydrolase
+Oleate hydratase
+Hydroxypyruvate isomerase
+Acetyl-CoA synthetase
+Ubiquitin-activating enzyme
+N<sup>2</sup>-(4-Aminobutyryl)-L-lysine hydrolase
+Amylopectin 6-glucanohydrolase
+Malate synthetase
+Long-chain-3-hydroxyacyl-CoA dehydrogenase
+Lactate dehydrogenase
+Nucleoside-triphosphate pyrophosphatase
+Peptidyl carboxyamidase
+p-Hydroxyphenyl-acetate 3-hydroxylase
+Acetylornithine deacetylase
+Aminoglycoside N6'-acetyltransferase
+Keratan-sulphate endo-1,4-beta-galactosidase
+Histone kinase
+alpha, alpha-Trehalase
+Arylsulphatase B
+Arylsulphatase C
+Arylsulphatase A
+Cyclamate sulfohydrolase
+(R)-Dehydropantoate dehydrogenase
+Isoflavone O
+Inosine phosphorylase
+Fumaric aminase
+NAD^+^ kinase
+Protocatechuate 4,5-oxygenase
+Argininosuccinate lyase
+Galactosylxylosylprotein 3-beta-galactosyltransferase
+Lactaldehyde dehydrogenase
+Threonine deaminase
+Phosphoribosyl-ATP pyrophosphatase
+D-Aspartate aminotransferase
+Ecdysone oxidase
+Bergaptol O-methyltransferase
+GTP pyrophosphokinase
+Cinnamoyl-CoA reductase
+Xylose isomerase
+Cystathionine beta-lyase
+Thymidylate synthase
+Chondroitin 6-sulphotransferase
+N-acetylglucosaminylphosphatidylinositol deacetylase
+Hypotaurine dehydrogenase
+CMP-N-acetylneuraminate-N-acetyllactosaminide alpha-2,3-sialyltransferase
+Cortisol sulfotransferase
+D-Lysopine synthase
+Butyrate-acetoacetate CoA-transferase
+Ureidoglycolate dehydrogenase
+Diiodophenylpyruvate reductase
+Micrococcal endonuclease
+Dihydrostreptomycin-6-phosphate 3'alpha-kinase
+Retinal oxidase
+Secondary-alcohol oxidase
+Cholesterol-binding proteinase
+Phylloquinone epoxidase
+Alkylglycerone-phosphate synthase
+Poly(A)-specific ribonuclease
+CMP-N-acylneuraminate phosphodiesterase
+Maltose phosphorylase
+CDPdiacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+Thioredoxin:3'-phospho-adenylylsulfate reductase
+Arginyi-tRNA synthetase
+Norreticuline N-methyltransferase
+Apiose reductase
+Precorrin-8X methylmutase
+DPN hydrolase
+Complement enzyme
+Lysine 2-monooxygenase
+Prephytoene-diphosphate synthase
+Aspartate alpha-decarboxylase
+Atrolysin E
+Atrolysin F
+Peptide hydrolase
+Atrolysin B
+Atrolysin C
+Cucurbitacin delta23-reductase
+Spermidine synthase
+Cysteine dioxygenase
+beta-Carotene 15,15'-dioxygenase
+sn-Glycerol-3-phosphate 1-galactosyltransferase
+Alginase II
+GDP-4-dehydro-D-rhamnose reductase
+Sucrose phosphorylase
+Alcohol dehydrogenase
+N-acetylglucosaminyltransferase V
+Skin tryptase
+(S)-tetrahydroberberine synthase
+Geranyl-diphosphate cyclase
+Aldose beta-D-fructosyltransferase
+Cyclamate sulfamidase
+Na<sup>+</sup>/K<sup>+</sup>-transporting ATPase
+N-acyl-D-amino-acid deacylase
+Ketosephosphate reductase
+Sucrose 1
+Streptogrisin A
+Galactolipid galactosyltransferase
+Flavonoid 3'-monooxygenase
+Citrate CoA-transferase
+Oleoyl-[acyl-carrier-protein] hydrolase
+N-(long-chain-acyl)ethanolamine deacylase
+Sucrose alpha-glucosidase
+D-Alanine-D-alanine ligase
+Selenide,water dikinase
+Adenosine kinase
+Glycoprotein endo-alpha-1,2-mannosidase
+Alpha-ketoaldehyde dehydrogenase
+Dihydrolipoamide succinyltransferase
+GSP synthetase
+Quercetin-3-sulfate 3'-sulfotransferase
+Lysine decarboxylase
+Gelatinase B
+Gelatinase A
+NAD(P)^+^ transhydrogenase
+Glucarolactone O-hydroxycinnamoyltransferase
+(+)-delta-cadinene synthase
+tRNA (guanosine-O<sup>2'</sup>)-methyltransferase
+Acetate thiokinase
+Isoorientin 3'-O-methyltransferase
+RNA-3'-phosphate cyclase
+tRNA-uridine isomerase
+Arabinosylindolylacetylinositol synthase
+Mucinaminylserine mucinaminidase
+D-alanyl-D-alanine carboxypeptidase
+Glutarate-CoA ligase
+Uronate dehydrogenase
+EF-edema factor
+Xyloglucan 6-xylosyltransferase
+Tetanus neurotoxin
+Glutamate dehydrogenase
+Monoterpenoid dehydrogenase
+Phosphopyruvate carboxylase
+(+)-sabinol dehydrogenase
+Isofloridoside-phosphate synthase
+Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,6N-acetylglucosaminyltransferase
+Protein-glutamate methyltransferase
+Deoxycytidylate hydroxymethyltransferase
+Aryl-alcohol oxidase
+Hyoscyamine (6S)-hydroxylase
+Methionine decarboxylase
+[RNA-polymerase]-subunit kinase
+Nicotinamide phosphoribosyltransferase
+Phosphoenolpyruvate kinase
+beta-1,3-Galactosyl-o-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase
+Phosphotriose isomerase
+Nitrous-oxide reductase
+Globotriosylceramide beta-1,6-N-acetylgalactosaminyltransferase
+Glycogen synthetase
+delta^24^-Sterol methyltransferase
+Ribulosebisphosphate carboxylase/oxygenase
+Guanine aminase
+Cucurbitacin delta^23^-reductase
+Debrancher enzyme
+Agmatine kinase
+Cysteine-conjugate beta-lyase
+Hydroxytryptophan decarboxylase
+Uroporphyrinogen decarboxylase
+Mannosidase II
+Stringent factor
+Malonate-semialdehyde dehydratase
+N-Methylalanine dehydrogenase
+GBG ase
+Reverse transcriptase
+Taxifolin 8-monooxygenase
+Sulfur dioxygenase
+Nicotinate-nucleotide adenylyltransferase
+Indolylacetyl-myo-inositol galactosyltransferase
+Non-specific cholinesterase
+Methylphosphothioglycerate phosphatase
+Relaxing enzyme
+Glycine acetyltransferase
+Acylmuramoyl-alanine carboxypeptidase
+Lactate aldolase
+L-Hydroxyaminoacid dehydratase
+Galactose-6-sulphate sulphatase
+Cysteine-conjugate transaminase
+Valine decarboxylase
+Asparagusate dehydrogenase
+Urokinase preparation
+Linoleoyl-CoA desaturase
+Biotin-CoA ligase
+Phosphoribosyldiphosphate 5-amidotransferase
+Dextran 1,6-alpha-isomaltotriosidase
+Aminoacyl-lysine dipeptidase
+Toluene 1,2-dioxygenase
+trans-Cinnamate 2-monooxygenase
+(S)-methylmalonyl-CoA hydrolase
+Haloalkane dehalogenase
+Nicotinamide-nucleotide amidase
+Phosphodiester hydrolase
+Carboxylate reductase
+Hydroxycinnamate 4-beta-glucosyltransferase
+Methylphenyltetrahydropyridine N-monooxygenase
+Adenine deaminase
+Dihydropteroate synthase
+Cypridina-type luciferase
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+(S)-2-Methylmalate dehydratase
+Trypsin preparation
+UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase
+Tyrosine hydroxylase
+Caffeoyl-CoA O-methyltransferase
+D-4-hydroxyphenylglycine aminotransferase
+Phosphoribosyl-anthranilate pyrophosphorylase
+Inosamine-phosphate amidinotransferase
+Flavonol 8-O-methyltransferase
+Noradrenalin N-methyltransferase
+Oleate desaturase
+Arabinan endo-1,5-alpha-L-arabinosidase
+Formaldehyde dehydrogenase
+N-carbamoylsarcosine amidohydrolase
+True cholinesterase
+Deoxyribonuclease II
+Wax-ester hydrolase
+Quercetin O^3^methyltransferase
+Deoxyribonuclease IV
+Acetylenedicarboxylate hydratase
+Pancreatic amylase
+Glycerophospholipid acyltransferase
+Valyl-tRNA synthetase
+Cystathionine gamma-lyase
+Phospholipase A>1<
+Methylmercaptan oxidase
+Glutamate 1-kinase
+Galactose-6-phosphate isomerase
+Beta-glucogallin O-galloyltransferase
+(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase
+Guanosine aminase
+Tyrosine phenol-lyase
+Collagenase agent
+Triose-phosphate isomerase
+S-Alkylcysteine lyase
+Lysine racemase
+Galactolipid:galactolipid acyltransferase
+Acetyl-CoA hydrolase
+Coniferyl-alcohol glucosyltransferase
+Pyridoxamine-oxaloacetate aminotransferase
+Acylcarnitine hydrolase
+Phenylethanolamine N-methyltransferase
+NAD+ synthase
+UDP-N-acetylglucosamine 2-epimerase
+Scopulariopsis proteinase
+Lactose synthase
+Trihydroxystilbene synthase
+Lipophosphodiesterase I
+(2s,3r)-Aldose dehydrogenase
+L-3-Aldonate dehydrogenase
+Dimethylaniline-N-oxide aldolase
+NTP polymerase
+Oxamic transcarbamylase
+p-Coumaroyl-CoA-agmatine N-p-coumaroyltransferase
+Thiolester hydrolase
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase
+Lipoprotein lipase
+Viomycin phosphotransferase
+Benzene hydroxylase
+NAD(P)<sup>+</sup> transhydrogenase
+N-(2,3-Dihydroxybenzoyl)serine synthetase
+Glutathione dehydrogenase
+Acetyl-CoA acylase
+Phosphodiesterase I
+Sphinganine-1-phosphate aldolase
+Squalene epoxidase
+Toluene dioxygenase
+Uracil phosphoribosyltransferase
+NAD^+^ pyrophosphorylase
+Alpha-1,4-glucan lyase
+Galactoside 3(4)-L-fucosyltransferase
+Stizolobate synthase
+Xanthine phosphoribosyltransferase
+Methylenetetrahydrofolate reductase
+Cytochrome-c-lysine methyltransferase
+Glucan 1,4-beta-glucosidase
+D-Glutamyl transpeptidase
+Anthranilate synthase
+Di-N-acetylchitobiosyl beta-N-acetylglucosaminidase
+Uridyl transferase
+Endo-xyloglucan transferase
+Trehalose synthase
+Formaldehyde dismutase
+CDP-4-dehydro-6-deoxyglucose reductase
+Sucrose synthase
+Nucleoside phosphoacylhydrolase
+Glucan 1,4-alpha-glucosidase
+Dolichol O-acyltransferase
+Codeinone reductase
+UMP pyrophosphorylase
+Amine dehydrogenase
+Precorrin-6Y methylase
+Glycine methyltransferase
+CPEP phosphonomutase
+Alpha-1,3-glucan synthase
+Tryptophanyl aminopeptidase
+Prostaglandin synthase
+Anthocyanidin O^3^-glucosyltransferase
+Fucosterol-epoxide lyase
+Adenosylmethionine cyclotransferase
+Asparagine-tRNA ligase
+Acetylglucosamine phosphomutase
+H<sup>+</sup>-transporting ATPase
+Malate synthase
+Phylloquinone reductase
+Galactosyltransferase I
+Glucarate dehydratase
+Homoglutathione synthetase
+Glucose-1,6-bisphosphate synthase
+Dihydrofolate synthase
+Mevalonate kinase
+Aminoglycoside N3'-acetyltransferase
+Dimethylglycine oxidase
+Lysine carbamoyltransferase
+Thiamin kinase
+Thymine 7-hydroxylase
+D-Xylulose reductase
+Fructose-2,6-bisphosphate 6-phosphatase
+Salicylate hydroxylase
+Mannose isomerase
+Cytochrome aa
+Tetrahydrodipicolinate N-acetyltransferase
+Endonuclease S1
+Aminoglycoside N^6'^-acetyltransferase
+NAD(P)+ nucleosidase
+Exopolygalacturonate lyase
+Phosphonoacetate hydrolase
+Serine(threonine)protein kinase
+Phenylalanine decarboxylase
+Medicinal enzyme
+Glutamine-synthetase adenylyltransferase
+Hexadecanol dehydrogenase
+Arachidonate 15-lipoxygenase
+UDP-N-acetylenol-pyruvoylglucosamine reductase
+Chitobiosyldiphosphodolichol alpha-mannosyltransferase
+Heme synthetase
+Angiotensinase C
+AP-4-A phosphorylase
+Cob(I)alamin adenosyltransferase
+Sialate O-acetylesterase
+Pyridoxine 4-oxidase
+Cystathionine gamma-synthase
+Phenylalanine 4-monooxygenase
+CMP-sialate hydrolase
+Heparitin sulfotransferase
+Coumarate reductase
+Aryl-alcohol dehydrogenase
+Oxalyl-CoA decarboxylase
+Tubulin N-acetyltransferase
+Oestradiol 17alpha-dehydrogenase
+Tyrosine decarboxylase
+Anaphylatoxin inactivator
+Trihydroxypterocarpan dimethylallyltransferase
+Succinic dehydrogenase
+L-Ascorbate-cytochrome-b>5< reductase
+Diacylglycerol lipase
+Teichoic-acid synthase
+GMP reductase
+Sphingosine beta-galactosyltransferase
+Dynein ATPase
+Chitin synthase
+Ornithine-oxo-acid aminotransferase
+Histaminase agent
+NEC 2
+NEC 1
+Diaminopropionate ammonia-lyase
+Glycine dehydrogenase
+Isonocardicin synthase
+Pyrroline-5-carboxylate reductase
+Mannosyltransferase II
+Ubiquinone reductase
+Glycosidase inhibitor
+beta-Alanine-pyruvate aminotransferase
+Hydrogen-sulfide acetyltransferase
+Cholesterol desmolase
+Cholestenol delta-isomerase
+Bile-salt sulfotransferase
+Lysosomal elastase
+Aldehyde oxidase
+Leukocyte elastase
+ADPsugar phosphorylase
+Glycoprotein N-palmitoyltransferase
+Luteolin methyltransferase
+Procollagen galactosyltransferase
+Phosphagen phosphokinase
+Cellulose 1,4-beta-cellobiosidase
+Carboxypeptidase KEX1
+Imidazoleacetate 4-monooxygenase
+Hyaluronidase agent
+Glutathionylspermidine synthase
+Phosphoribosylformylglycinamidine synthetase
+Galactonate dehydratase
+Threonine-tRNA ligase
+mRNA (guanine-N^7^)-methyltransferase
+Phosphorylcholine-glyceride transferase
+Pyridoxal oxidase
+Exoribonuclease II
+Thetin-homocysteine methyltransferase
+Dolichyl-diphosphooligosaccharide-protein glycotransferase
+N^5^-Ethyl-L-glutamine synthetase
+o-Dihydroxycoumarin O<sup>7</sup>-glucosyltransferase
+Inosine nucleosidase
+Dioxotetrahydropyrimidine-ribonucleotide pyro-phosphorylase
+Phenylglyoxylate dehydrogenase
+Phosphogluconate dehydrogenase
+NAD+ nucleosidase
+Cytochrome P450
+Anthranilate phosphoribosyltransferase
+Proteinase YSCF
+Aspartate acetyltransferase
+Dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase
+Pyridoxine 5'-O-beta-D-glucosyltransferase
+Exoribonuclease H
+Farnesyl-diphosphate synthase
+Leukotriene-C4 synthase
+Phaseollidin hydratase
+Sulphoacetaldehyde lyase
+rRNA (adenosine-O2')-methyltransferase
+tRNA (adenine-N1)-methyltransferase
+Cortisone alpha-reductase
+Steroid sulphotransferase
+Sucrose glucosyltransferase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+delta3-cis-delta2-trans-enoyl-CoA isomerase
+Anthranilate N-benzoyltransferase
+Synephrine dehydratase
+Acid beta-glucosidase
+Aspartyl-tRNA synthetase
+Dephosphophosphorylase kinase
+O-phthalyl amidase
+L-Rhamnose dehydrogenase
+Exo cellobiohydrolase
+Cyclamate sulphamatase
+Streptogrisin B
+Cyclooxygenase 1
+Cyclooxygenase 2
+Chondroitin 6-sulfotransferase
+rRNA (guanine-N<sup>2</sup>)-methyltransferase
+dTDP-4-dehydrorhamnose 3,5-epimerase
+Triglucosylalkylacylglycerol sulfotransferase
+Luteolin-7-O-diglucuronide 4'-O-glucuronosyl-transferase
+Renilla-luciferin sulphotransferase
+Aspartate-ammonia ligase
+Prostacyclin dehydrogenase
+Gamma-glutamyl transferase
+Dehydrogluconate dehydrogenase
+Acylglycerol kinase
+beta-Alanine-oxoglutarate aminotransferase
+Proline,2-oxoglutarate 3-dioxygenase
+Long-chain-alcohol dehydrogenase
+Cytochrome cd
+Cystine desulfhydrase
+Neryl-diphosphate synthase
+Mannuronate reductase
+Alkane 1-hydroxylase
+Arginine deiminase
+Licodione O<sup>2'</sup>-methyltransferase
+Dihydrofolate formyltransferase
+Fatty-acid methyltransferase
+Sepiapterin deaminase
+Heparosan-N-sulphate-glucuronate 5-epimerase
+Acylglycerone-phosphate reductase
+NDPhexose pyrophosphorylase
+Histidyl-tRNA synthetase
+tRNA (guanine-N^2^)-methyltransferase
+Biphenyl-2,3-diol 1,2-dioxygenase
+Xylitol phosphotransferase
+Dioxotetrahydropyrimidine phosphoribosyltransferase
+Granzyme A
+Granzyme B
+Vinylacetyl-CoA delta-isomerase
+Muscle phosphorylase
+Cyclohexane-1,2-diol dehydrogenase
+Poly(isoprenol)-phosphate galactosephosphotransferase
+Trimethylamine dehydrogenase
+D-cadinene synthase
+Glyoxylate transacetylase
+N-Acetylneuraminate O7-acetyltransferase
+Recombinant N-acetylgalactosamine-4-sulphatase
+Cytosine deaminase
+Thiosulfate reductase
+ATP phosphoribosyltransferase
+Annexin III
+Aconitate hydratase
+Carbon-dioxide-ammonia ligase
+(R)-6-Hydroxynicotine oxidase
+Thioether S-methyltransferase
+Adenylate-nucleoside phosphotransferase
+L-Ribulose-phosphate 4-epimerase
+Gibberellin-44 dioxygenase
+Thrombin preparation
+Liver enzyme
+Piperidine N-piperoyltransferase
+(R)-Aminopropanol dehydrogenase
+Nucleoside oxidase
+Isophenoxazine synthase
+Aspartate transaminase
+N-Acetylglucosamine-6-phosphate deacetylase
+Hydrogen-sulphide acetyltransferase
+Tetraacyldisaccharide 4'-kinase
+Carnitine dehydrogenase
+Orcinol 2-monooxygenase
+Peptidoglycan glycosyltransferase
+Prolyl-(D,L)-alanine-peptidyl hydrolase
+Carboxy-cis,cis-muconate cyclase
+Deoxyadenosine kinase
+Quercetin-3,3'-bissulphate 7-sulphotransferase
+Aromatic-L-amino-acid decarboxylase
+Indoleacetaldoxime dehydratase
+Succinyl-CoA acylase
+Bis(2-ethylhexyl)phthalate esterase
+[Beta-adrenergic-receptor] kinase
+Oxalate decarboxylase
+Tyrosine N-monooxygenase
+N-Acetylglucosamine-1-phosphodiester N-acetylglucosaminidase
+Thymidine-diphosphate-galactose dehydrogenase
+Arachidonate 12-lipoxygenase
+Arginine amidinase
+Aralkyl acylamidase
+Glucosamine-phosphate acetyltransferase
+Tetrahydroxynaphthalene reductase
+Acid-ammonia ligase
+Polymannuronate hydrolase
+Tryptophan desmolase
+Acetyl-CoA acyltransferase
+Amino-acid racemase
+cis-1,2-Dihydrobenzene-1,2-diol dehydrogenase
+D-Nopaline synthase
+Glucuronoxylan 4-O-methyltransferase
+Cathepsin C
+Active C4b2a
+Dihydrouracil dehydrogenase
+Terephthalate 1,2-dioxygenase
+Cathepsin G
+Alcohol oxidase
+Procollagen C-endopeptidase
+Monophosphatidylinositol phosphodiesterase
+Pyruvate decarboxylase
+Benzoic hydroxylase
+Trimerelysin I
+Acyl-lysine deacylase
+[Cytochrome-c]-arginine N-methyltransferase
+Diacylglycerol kinase
+Acetoacetate-CoA ligase
+Hydroxyanthraquinone glucosyltransferase
+HMG-CoA reductase
+Injectable plasmin
+Putrescine N-hydroxycinnamoyltransferase
+Phosphorylcholine transferase
+L-Amino-acid dehydrogenase
+Benzene 1,2-dioxygenase
+RNA-pentose methylase
+Adenosine-phosphate deaminase
+Cyanidin-3-rhamnosylglucoside O^5^-glucosyltransferase
+all-trans-Hexaprenyl-diphosphate synthase
+myo-Inositol 1-methyltransferase
+Phosphomannan mannosephosphotransferase
+Acetylserotonin methyltransferase
+Histidine decarboxylase
+Scytalone dehydratase
+Prostaglandin-D2 11-ketoreductase
+Sodium pump
+Indoleacetylglucose-inositol acyltransferase
+Xylitol kinase
+(-)-menthol monooxygenase
+Aminopeptidase N
+D-Ribitol-5-phosphate cytidylyltransferase
+N-Acetylneuraminate O^4^-acetyltransferase
+Ureidoglycolate lyase
+Neuron-specific enolase
+Feraxan endoxylanase
+RVV-V component
+Dolichyl-xylosyl-phosphate-protein xylosyltransferase
+myo-Inositol 2-dehydrogenase
+Methionine synthase
+trans-Acenaphthene-1,2-diol dehydrogenase
+Arylamine N-methyltransferase
+alpha-N-Acetylglucosaminyl phosphodiesterase
+Cysteine proteinase
+Glutathione S-aryltransferase
+Formylmethanofuran dehydrogenase
+DHNA synthetase
+Glycine-taurine N-acyltransferase
+Naringenin-chalcone synthase
+trans-L-3-Hydroxyproline dehydratase
+Pyridine N-methyltransferase
+Neutral endopeptidase
+Oligoxyloglucan beta-glycosidase
+Choriolysin L
+Choriolysin H
+Mannotetraose 2-alpha-N-acetylglucosaminyltransferase
+Berbamunine synthase
+Uridine nucleosidase
+Thymidylate 5'-phosphatase
+Arginine racemase
+SPase I
+Protein-methionine-S-oxide reductase
+Carnosine synthase
+Dermatan-sulfate 5-epimerase
+Retinol isomerase
+Protein-histidine N-methyltransferase
+Chymotrypsin preparation
+NDPsugar phosphorylase
+CMPsialate pyrophosphorylase
+Propanediol-phosphate dehydrogenase
+Leucine aminopeptidase
+Aminoacylase II
+Acyl-CoA reductase
+Phenol 2-monooxygenase
+Prostaglandin-H2 D-isomerase
+ADPsugar pyrophosphatase
+Nitrite reductase
+N-acetylhexosamine 1-dehydrogenase
+Pronase component
+ATP pyrophosphatase
+Arylhydroxamate N,O-acetyltransferase
+Betaine-aldehyde dehydrogenase
+Progesterone monooxygenase
+N6-Methyl-lysine oxidase
+Adenylylsulphate reductase
+Pyrimidine-5'-nucleotide nucleosidase
+Deoxyribonuclease S1
+Arginine kinase
+Shikimate kinase
+Plasmanylethanolamine desaturase
+Glutamic-pyruvic transaminase
+[Cytochrome-c]-methionine S-methyltransferase
+Methylmalonyl-CoA carboxyltransferase
+Alginate synthase
+Lipopolysaccharide galactosyltransferase
+(S)-scoulerine 9-O-methyltransferase
+Putrescine methyltransferase
+Diarylpropane peroxidase
+Cetraxate benzylesterase
+Riboflavin phosphotransferase
+Oestrone sulphotransferase
+Laki-Lorand factor
+N-(5'-Phospho-D-ribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazole-carboxamide isomerase
+Sterigmatocystin 7-O-methyltransferase
+Pteridine oxidase
+Xylose-1-phosphate uridylyltransferase
+Tripeptidyl-peptidase II
+Glutamate-cysteine ligase
+Pterin deaminase
+Nucleoside deoxyribosyltransferase
+Hydroxyacylglutathione hydrolase
+Methanol oxidase
+Rubredoxin-NAD+ reductase
+DNA nucleotidyltransferase
+Biotin-[propionyl-CoA-carboxylase(ATP-hydrolysing)] synthetase
+Adenosine diphosphatase
+Glyoxylate dehydrogenase
+Pegademase bovine
+Thiol sulphotransferase
+Threonine dehydratase
+Agaritine gamma-glutamyltransferase
+Serine deaminase
+Fructuronate reductase
+beta-Glucoside kinase
+Dimethylpropiothetin dethiomethylase
+Dihydrolipoamide dehydrogenase
+Endopeptidase So
+Diferric-transferrin reductase
+Glycerol-3-phosphate oxidase
+Cocaine esterase
+L-Threonine 3-dehydrogenase
+Glycine carboxypeptidase
+Alcohol acetyltransferase
+Carbamoyl-phosphate synthase
+Triose kinase
+Pyridoxin 4-oxidase
+Thiaminase II
+Bilirubin-glucuronoside glucuronosyltransferase
+Active C1r/C1s
+Methylglutamate dehydrogenase
+N-acetyl-D-mannosamine dehydrogenase
+Phosphopolyprenol glucosyltransferase
+Ceramide cholinephosphotransferase
+Glycerone kinase
+rRNA N-glycosidase
+Cytosol aminopeptidase
+Streptomycin 6-kinase
+Glutamyl transferase
+Bilirubin oxidase
+Lathosterol oxidase
+RNA uridylyltransferase
+Aspartate carbamoyltransferase
+Glutaryl-CoA dehydrogenase
+Phospholipase B
+Phospholipase C
+Phospholipase A
+Phospholipase D
+Formate acetyltransferase
+Phosphoglucosamine acetylase
+Photinus-luciferin 4-monooxygenase
+NAD^+^ ADP-ribosyltransferase
+Acylglycerol palmitoyltransferase
+Propioin synthase
+Venombin A
+L-2-amino-4-chloropent-4-enoate dehydrochlorinase
+Muconolactone delta-isomerase
+Chitin deacetylase
+Dolichyl-phosphate-mannose phosphodiesterase
+Prostaglandin-A<sub>1</sub> delta-isomerase
+Tear lysozyme
+Glucan 1,3-alpha-glucosidase
+Polyamine oxidase
+Cathepsin B>2<
+Pteroylpoly-gamma-glutamate carboxypeptidase
+Testosterone 17beta-dehydrogenase
+Endopeptidase La
+CC-preferring endodeoxyribonuclease
+NADPH peroxidase
+Dornase alfa
+Deoxyguanosine kinase
+Ribosomal-protein-alanine N-acetyltransferase
+Formylaspartate deformylase
+L-Threonate dehydrogenase
+Maleylacetoacetate isomerase
+Glucosamine acetyltransferase
+Tyrosylprotein sulphotransferase
+Thiosulfate thiotransferase
+Inositol-1,3-bisphosphate 3-phosphatase
+mRNA (O<sup>2</sup>'-methyladenosine-N<sup>6</sup>)-methyltransferase
+Betaine-homocysteine methyltransferase
+Muramoyltetrapeptide carboxypeptidase
+Tryptophan 5-monooxygenase
+Formyl-CoA hydrolase
+Chemotaxis-specific methylesterase
+Oxalate-CoA ligase
+Lecithinase C
+Guanylate cyclase
+Macrophage elastase
+Gluconate 2-dehydrogenase
+Formate-tetrahydrofolate ligase
+Nucleotide pyrophosphokinase
+Peptide synthase
+Deoxyribonuclease S>1<
+L-Ascorbate peroxidase
+Membrane-oligosaccharide glycerophosphotransferase
+Butanal dehydrogenase
+Thiosulphate thiotransferase
+NADPH:quinone reductase
+Butyrylcholine esterase
+Magnesium-protoporphyrin methyltransferase
+Serotonin acetylase
+N-Acetyllactosaminide alpha-1,3-galactosyltransferase
+Mannitol-1-phosphate dehydrogenase
+Prunasin beta-glucosidase
+Diamino oxhydrase
+Inulase II
+Fenchol dehydrogenase
+Tyrosylprotein kinase
+tRNA (guanine-N<sup>7</sup>)-methyltransferase
+Carbamoyl-phosphate synthetase
+Phosphoadenosine-phosphosulfate reductase
+Chitin-UDP acetylglucosaminyltransferase
+(R,R)-Butanediol dehydrogenase
+Deoxyguanylate kinase
+Arachidonate-CoA ligase
+Acid-aminoacid ligase
+Adenylosuccinate synthase
+Phosphatidylserine decarboxylase
+CDPglycerol pyrophosphatase
+Diphthamide synthetase
+Galactinol-sucrose galactosyltransferase
+N-Acetylgalactosamine-4-sulfate sulfatase
+NADPH-ferrihaemoprotein reductase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine synthetase
+Porphobilinogen synthase
+Urokinase agent
+Serine palmitoyltransferase
+Saccharogen amylase
+Prostaglandin-H<sub>2</sub> D-isomerase
+Glycerone-phosphate acyltransferase
+L-Xylulose reductase
+Proctase A
+Cholesterol oxidase
+Oxaloacetate decarboxylase
+UTP-glucose-1-phosphate uridylyltransferase
+Cysteine-sulfinate decarboxylase
+Cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase
+Tagaturonate reductase
+Phosphatidylinositol synthase
+Stizolobinate synthase
+Pyrimidine-nucleoside phosphorylase
+Oestradiol 6beta-hydroxylase
+Orotidine-5'-monophosphate decarboxylase
+Sucrosephosphate-UDP glucosyltransferase
+GDPhexose pyrophosphorylase
+Branched-chain-2-oxoacid decarboxylase
+Hepoxilin-epoxide hydrolase
+Estradiol 17alpha-dehydrogenase
+Serine sulphydrase
+N2-acetylornithine 5-aminotransferase
+Glucan 1,4-alpha-maltohexaosidase
+alpha-Chymotrypsin preparation
+(R)-20-Hydroxysteroid dehydrogenase
+Monoacylglycerol lipase
+Galactose-1-phosphate thymidylyltransferase
+alpha-Aminoacylpeptide hydrolase
+Leukotriene-A4 hydrolase
+Sphinganine kinase
+Alanopine dehydrogenase
+Quinolin-2(1H)-one 5,6-dioxygenase
+Glucuronate isomerase
+Hexosephosphate isomerase
+Vomifoliol 4'-dehydrogenase
+Carbon-monoxide oxidase
+Decylcitrate synthase
+Progesterone hydroxylase
+Maltose synthase
+N^6^-Methyl-lysine oxidase
+Trimethyllysine,2-oxoglutarate dioxygenase
+Chalcone synthase
+myo-Inosose-2 dehydratase
+(S,S)-Butanediol dehydrogenase
+Polyphosphate kinase
+L-Ascorbate-cytochrome-b5 reductase
+Epoxide hydrolase
+Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyl-transferase
+Aspartate ammonia-lyase
+Di-isopropyl phosphorofluoridase
+Dipeptidylpeptide hydrolase
+Peptidoglutaminase I
+Ketotetrose-phosphate aldolase
+Dipeptidyl-amino-peptidase III
+Decylhomocitrate synthase
+Post-proline endopeptidase
+Phosphoenolpyruvate-protein phosphotransferase
+Fucosylgalactose alpha-N-acetylgalactosaminyltransferase
+Prostaglandin-endoperoxide synthase
+Insulin protease
+Catechol 2,3-dioxygenase
+Agalsidase beta
+Furylfuramide isomerase
+Uroporphyrinogen synthase
+Transferrin reductase
+Discadenine synthase
+Farnesyl-diphosphate kinase
+D-Methionine-pyruvate aminotransferase
+Glucuronate-1-phosphate uridylyltransferase
+Arabinose-5-phosphate isomerase
+Thiamin oxidase
+Cytochrome p450
+Glycerol dehydrogenase
+Microsomal monooxygenase
+rRNA (guanine-N<sup>1</sup>)-methyltransferase
+Erwinia asparaginase
+Ubiquitin thiolesterase
+Alanine dehydrogenase
+Myo-inositol 4-O-methyltransferase
+[eIF-5A]-deoxyhypusine synthase
+Tripeptide aminopeptidase
+Alglucosidase alfa
+Coenzyme-A transferase
+Active C3bBb
+Acetylglutamate kinase
+D-Amino-acid dehydrogenase
+Lysine 2,3-aminomutase
+Hydroxybutyrate dehydrogenase
+Nucleoside-diphosphate kinase
+Dihydrolipoamide acetyltransferase
+Threonyl-tRNA synthetase
+Thyroid galactosyltransferase
+Phosphopantothenoylcysteine synthetase
+Dihydrocoumarin hydrolase
+Proline racemase
+Riboflavin kinase
+Pantoate-beta-alanine ligase
+myo-Inositol oxygenase
+Diamino-acid aminotransferase
+Haem synthetase
+dCTP pyrophosphatase
+Homoglutathione synthase
+Orcinol hydroxylase
+Methylhydroxy-pyridinecarboxylate oxidase
+Phytochelatin synthase
+Aminopeptidase III
+(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate hydro-lyase
+Hydroxylysine galactosyltransferase
+Carnitine palmitoyltransferase
+Homoserine dehydrogenase
+Cyclopropane-fatty-acyl-phospholipid synthase
+Sugar-1-phosphate nucleotidyltransferase
+N-Acetylneuraminate O9-acetyltransferase
+Retinal dehydrogenase
+CoA-glutathione reductase
+Xylonate dehydratase
+Glutamate mutase
+Phosphopantothenate-cysteine ligase
+Nicotinamide methyltransferase
+Methylmalonate-semialdehyde dehydrogenase
+beta-N-acetylhexosaminidase B
+beta-N-acetylhexosaminidase A
+beta-N-acetylhexosaminidase I
+Choline kinase
+Sucrose 6(F)-alpha-galactosyltransferase
+Tetrapeptide dipeptidase
+Proline iminopeptidase
+Taurine dehydrogenase
+tRNA adenylyltransferase
+Pyroglutamyl aminopeptidase
+Succinate-citramalate CoA-transferase
+Tyramine N-feruloyltransferase
+Placental sulfatase
+UDP-N-acetylmuramoylpentapeptide-lysine N^6^-alanyltransferase
+Thymidylate 5'-nucleotidase
+Geranylgeranylglycerol-phosphate geranylgeranyltransferase
+Sinapate 1-glucosyltransferase
+Pyridoxamine-pyruvate aminotransferase
+Hydroxyethylthiazole kinase
+Urethane hydrolase
+Trehalose O-mycolyltransferase
+mRNA (nucleoside-O<sup>2</sup>)'-methyltransferase
+Peptide-aspartate beta-dioxygenase
+Tartronate-semialdehyde synthase
+Diglyceride kinase
+Soluble carboxypeptidase
+Lipoamide reductase
+Ribonuclease T>2<
+Tryptophan 2'-dioxygenase
+Methylmalonyl-CoA racemase
+Aminobutyryl-CoA thiolesterase
+Aminolaevulinate synthase
+Phenylacetaldehyde dehydrogenase
+L-3-aminobutyryl-CoA deaminase
+Stearyl-ACP desaturase
+Nucleoside-triphosphate-hexose-1-phosphate nucleotidyltransferase
+Cardiac enzyme
+Aspartic oxidase
+Long-chain-enoyl-CoA hydratase
+(R,S)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase
+N<sup>6</sup>-Methyl-lysine oxidase
+Sesquiterpene cyclase
+Inositol 1-alpha-galactosyltransferase
+Rubber allyltransferase
+Beta-alanopine dehydrogenase
+Glucosyl-DNA beta-glucosyltransferase
+FAD pyrophosphatase
+Leukotriene-E4 20-monooxygenase
+Hexose oxidase
+Enzyme preparation
+tRNA (adenine-N<sup>6</sup>)-methyltransferase
+Malate-CoA ligase
+L-Arabinitol dehydrogenase
+L-Iditol dehydrogenase
+D-Octopine synthase
+(1-hydroxycyclohexan-1-yl)acetyl-CoA lyase
+UDPglucose-glycogen glucosyltransferase
+Asparaginyl-tRNA synthetase
+Cytokinin synthase
+Pyrimidine 5'-nucleotidase
+Poly(galacturonate) hydrolase
+Phosphatidylinositol deacylase
+Alanine-oxomalonate aminotransferase
+Fucosylglycoprotein 3-alpha-galactosyltransferase
+Dopachrome D-isomerase
+tRNA (adenine-N6)-methyltransferase
+Biotin-[methylcrotonoyl-CoA-carboxylase] ligase
+Poly(ribitol-phosphate) N-acetylglucosaminyltransferase
+Procollagen glucosyltransferase
+Polygalacturonate 4-alpha-galacturonosyltransferase
+Alanine-glyoxylate aminotransferase
+Arachidonate 5-lipoxygenase
+L-Glycol dehydrogenase
+Poly(alpha-L-guluronate) lyase
+D-Tagatose-1,6-bisphosphate aldolase
+Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Mannan 1,2-(1,3)-alpha-mannosidase
+Delta-glutamyl transferase
+Tocopherol O-methyltransferase
+Guanosine phosphorylase
+Cystathionine beta-synthetase
+Dimethylmalate dehydrogenase
+Angiotensin-forming enzyme
+Keto-L-gulonate decarboxylase
+Pterocarpin synthase
+Dihydropteroate pyrophosphorylase
+Exo-(1,4)-alpha-D-glucan lyase
+ADPglucose pyrophosphorylase
+Glycine-oxaloacetate aminotransferase
+Phenylalanine racemase
+Thyroglobulin protease
+Chondroitin sulphotransferase
+Iron-cytochrome-c reductase
+Ferredoxin-NADP+ reductase
+Uroporphyrinogen-III cosynthase
+Uracilylalanine synthase
+Biotin-[acetyl-CoA-carboxylase] ligase
+Salivary amylase
+Glutathione peroxidase
+Solanesyl-diphosphate synthase
+Succinyl-CoA synthetase
+Ribonuclease V
+Uronic isomerase
+Agalsidase alfa
+Galactose-6-sulfate sulfatase
+Lecithin-cholesterol acyltransferase
+Stilbene synthase
+CMP-N-acetylneuraminate hydroxylase
+Plasma kininogenin
+Uridine diphosphate-N-acetylglucosamine-lysosomal-enzyme-N-acetylglucosaminephosphotransferase
+N-acylmannosamine 1-dehydrogenase
+Alkenylglycerophosphocholine hydrolase
+tRNA (uracil-5)-methyltransferase
+cis-1,2-Dihydro-1,2-dihydroxynaphthalene dehydrogenase
+Geranyl-diphosphate synthase
+Linoleate isomerase
+Urocanate hydratase
+C1 esterase
+Carnitine acetyltransferase
+tRNA CCA-pyrophosphorylase
+Phosphatidylethanolamine methyltransferase
+Aminomuconate-semialdehyde dehydrogenase
+L-lysine 6-monooxygenase
+Sucrose 1^F^-fructosyltransferase
+Glutathione S-aralkyltransferase
+Phospho-2-dehydro-3-deoxyoctonate aldolase
+tRNA (guanine-N7)-methyltransferase
+Ubiquityl-calmodulin synthetase
+Dihydroxyacetone synthase
+Choline-phosphate cytidylyltransferase
+Theanine synthetase
+Cytochrome-c peroxidase
+Thiol methyltransferase
+Thromboxane synthase
+Inosine kinase
+Protein phosphatase
+N-acyl-D-aspartate deacylase
+NAD^+^ synthetase
+Velaglucerase alfa
+NAD^+^ synthase
+Xaa-Trp aminopeptidase
+Maleate hydratase
+GDPglucose-glucosephosphate glucosyltransferase
+Serum kallikrein
+Maleylacetate reductase
+Limit dextrinase
+Long-chain-alcohol oxidase
+Sepiapterin reductase
+Hyoscyamine 6-beta-hydroxylase
+Kynurenine aminotransferase
+Anthranilate 2,3-dioxygenase
+Apigenin O<sup>4'</sup>-methyltransferase
+Flavonone 4-reductase
+Tagatose-6-phosphate kinase
+D-2-Hydroxy-acid dehydrogenase
+Tetrahydrobiopterin dehydratase
+N-Acetylneuraminate O^9^-acetyltransferase
+Hydroxyprogesterone dehydroxylase
+alpha-1,6-Mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase
+Photoreactivating enzyme
+Arginine carboxypeptidase
+Kynurenate-7,8-dihydrodiol dehydrogenase
+PFL activase
+Glucan endo-1,6-beta-glucosidase
+Hydroxypyruvate decarboxylase
+Formate dehydrogenase
+Glutaminyl-peptide glutaminase
+N-Acetylmuramoyl-L-alanine amidase
+Acyl-[acyl-carrier-protein]-phospholipid acyltransferase
+Glutathione S-alkyltransferase
+Fibrinolysin, human
+Linalool 8-monooxygenase
+Protein N-acetylglucosaminyltransferase
+Phosphonoacetaldehyde hydrolase
+Glycyrrhizinate beta-glucuronidase
+Arylamine N-acetyltransferase
+Protocatechuate oxygenase
+Phosphate acetyltransferase
+Nicotinamide-nucleotide adenylyltransferase
+Acyl-protein synthetase
+Amine ligase
+Protein-disulfide reductase
+m7 G
+Protein-tyrosine kinase
+Heparan N-sulphatase
+Nicotinate-nucleotide pyrophosphorylase
+Ornithine acetyltransferase
+Dihydroflavonol 4-reductase
+Glycerate dehydrogenase
+Phosphoglycerol cyclase
+N-Acetyllactosamine 3-alpha-galactosyltransferase
+N-hydroxy-2-acetamidofluorene reductase
+Fatty-acid synthase
+Long-chain-fatty-acid-CoA ligase
+D-Alanine-poly(phosphoribitol) ligase
+Hydroxyphenylpyruvate reductase
+Protein xylosyltransferase
+Phthalyl amidase
+Cytochrome-c<sub>3</sub> hydrogenase
+Peroxisomal thiolase
+Juglone 3-monooxygenase
+IMP cyclohydrolase
+Nucleoside ribosyltransferase
+Adenylylsulphate kinase
+Valine-tRNA ligase
+Alcohol O-cinnamoyltransferase
+Horseradish peroxidase
+Prostaglandin-E<sub>2</sub> 9-ketoreductase
+Maleylpyruvate isomerase
+Neutrophil elastase
+Alpha-naphthyl esterase
+Phosphomethylpyrimidine kinase
+N-acetylgalactosamine-6-phosphate deacetylase
+Phospho-2-keto-3-deoxyheptonate aldolase
+Isoquinoline 1-oxidoreductase
+Mannitol dehydrogenase
+Maleate isomerase
+Methanethiol oxidase
+p-Hydroxybenzoate hydroxylase
+Trypsinogen kinase
+Phosphopantothenoylcysteine decarboxylase
+Ribose-5-phosphate isomerase
+Pyranose oxidase
+Dihydrouracil oxidase
+Lysyl-tRNA synthetase
+Prostaglandin-D>2< 11-ketoreductase
+Sucrose-glucan glucosyltransferase
+D-Proline reductase
+Retinol dehydrogenase
+Oxaloacetate transacetase
+Flavonone 7-O-beta-glucosyltransferase
+(-)-limonene 3-hydroxylase
+Glucose-6-phosphate 1-epimerase
+Iduronate 2-sulfatase
+Protease III
+Protein-disulphide reductase
+Thiamin dehydrogenase
+Quinoline 2-oxidoreductase
+Anthranilate 3-hydroxylase
+Glucan endo-1,3-beta-glucosidase
+L-Rhamnose isomerase
+Tetrahydroberberine oxidase
+Phenylalanine adenylyltransferase
+Tartrate dehydrogenase
+N-Acetyllactosamine synthase
+Precorrin-3 methyltransferase
+Phosphorylethanolamine transferase
+Carbamate kinase
+Citryl-CoA lyase
+Dihydrobunolol dehydrogenase
+Triacylglycerol lipase
+Lysolecithin migratase
+[Acyl-carrier-protein] phosphodiesterase
+NAPH cytochrome-c
+Fructose-bisphosphate aldolase
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+Chloracetate esterase
+D-Tryptophan acetyltransferase
+dTDP-6-deoxy-L-talose dehydrogenase
+Acetoacetyl-CoA reductase
+Amylase preparation
+Naphthalene 1,2-dioxygenase
+Deamido-NAD+ pyrophosphorylase
+Phosphoribosylglycinamide synthetase
+L-Arabinose dehydrogenase
+Periplasmic phosphoglycerotransferase
+Precorrin-6X reductase
+N5-(carboxyethyl)ornithine synthase
+Sabinene-hydrate synthase
+Steroid 11-beta-monooxygenase
+Carboxypeptidase G2
+Alanine-tRNA ligase
+Ethanolamine kinase
+Orsellinate-depside hydrolase
+Cortisol sulphotransferase
+Serine-sulfate ammonia-lyase
+L-Lysine oxidase
+N-acylhexosamine oxidase
+Urate oxidase
+Flavone O^7^-beta-glucosyltransferase
+Allantoin racemase
+Polynucleotide 3'-phosphatase
+rRNA endonuclease
+N-methylphosphoethanolamine cytidylyltransferase
+Quinaldate 4-oxidoreductase
+Glucosamine acetylase
+Acyl-CoA synthetase
+Cortisol acetyltransferase
+Thymidine,2-oxoglutarate dioxygenase
+o-Pyrocatechuate oxygenase
+Tryptophan-tRNA ligase
+Cyanohydrin beta-glucosyltransferase
+L-Prolylglycine dipeptidase
+Glycerol-1,2-cyclic-phosphate 2-phosphodiesterase
+Oxoglutarate decarboxylase
+Dihydrochelirubine 12-monooxygenase
+Formylmethionine deformylase
+Cathepsin B3
+Cathepsin B1
+L-Aspartate oxidase
+Cathepsin Ba
+Gluconate 5-dehydrogenase
+Cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase
+Cytidylate kinase
+Asparagusate reductase
+Melilotate dehydrogenase
+Indole-3-acetaldehyde reductase
+Hydrogen dehydrogenase
+Proteinase IA
+Thioltransacetylase B
+Thioltransacetylase A
+Pancreatin product
+Cortisone reductase
+Rubber cis-polyprenylcistransferase
+Polyribonucleotide nucleotidyltransferase
+Oxoglutarate dehydrogenase
+Protein S
+IAA-lysine synthetase
+Serine-pyruvate aminotransferase
+Isovaleryl-CoA dehydrogenase
+Fructose-6-phosphate phosphoketolase
+L-alanine:2-oxoglutarate aminotransferase
+Purine-nucleoside phosphorylase
+Phosphoramidate-hexose phosphotransferase
+Phosphatidylcholine desaturase
+Phenylalanine hydroxylase
+Aminoglycoside N
+Ethanolamine oxidase
+Maltodextrin alpha-D-glucosyltransferase
+Sulfite oxidase
+CMP-N-acetylneuraminate-monosialoganglioside sialyltransferase
+Beta-endorphin acetyltransferase
+Pyridoxamine-phosphate oxidase
+Thymidine 2'-hydroxylase
+beta-Cyclopiazonate dehydrogenase
+Aspartate aminopeptidase
+Galactose oxidase
+Glycerone synthase
+Phosphoenol transphosphorylase
+Soluble metallo-endopeptidase
+Condensing enzyme
+Zeta-carotene desaturase
+Triglyceride lipase
+Glucose phosphomutase
+Ether hydrolase
+Galactoside 2-L-fucosyltransferase
+Methylmalonyl-CoA mutase
+Dipeptidyl-amino-peptidase II
+Fatty-acyl-CoA synthase
+Endonuclease S
+Biotin-[methylmalonyl-CoA-carboxyltransferase] ligase
+N-Methylglutamate synthase
+Trimethylsulfonium-tetrahydrofolate methyltransferase
+Pseudouridylate synthase
+Ferredoxin-NAD^+^ reductase
+Acetylspermidine deacetylase
+Glycerophosphoinositol glycerophosphodiesterase
+AMP aminase
+Diphenol oxidase
+Sulfite dehydrogenase
+Calmodulin-lysine methyltransferase
+Acetylputrescine deacetylase
+Arylalkyl acylamidase
+Gentisate oxygenase
+N-hydroxyarylamine O-acetyltransferase
+Polyphenol oxidase
+Cyanamide hydratase
+Acylcholine acylhydrolase
+Ancrod product
+Aminoacylproline aminopeptidase
+Peptidyl-dipeptidase Dcp
+Hyaluronidase product
+Biotin-[methylmalonyl-CoA-carboxyltransferase] synthetase
+Glycine aminotransferase
+Capreomycin phosphotransferase
+Bromoxynil nitrilase
+Isoprenoid-alcohol kinase
+Porphyran sulfatase
+Dipeptidase M
+Thiosulfate-thiol sulfurtransferase
+Pyruvate,orthophosphate dikinase
+Tripeptidyl-peptidase I
+Glucuronate reductase
+UDP-N-acetylgalactosamine-4-sulphate sulphotransferase
+Bactoprenyl-diphosphate synthase
+Cyclamate sulphamidase
+Thiaminase I
+Sucrose alpha-glucohydrolase
+Malate oxidase
+Menadione reductase
+Alanine-oxo-acid aminotransferase
+Diphthamide synthase
+Glutamine-pyruvate aminotransferase
+Alkylglycerophosphate 2-O-acetyltransferase
+Isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase
+Glucan 1,4-alpha-maltotetraohydrolase
+Valine-3-methyl-2-oxovalerate aminotransferase
+Formaldehyde transketolase
+Aminobenzoate decarboxylase
+Pyrogallol 1,2-oxygenase
+Asparagine-oxo-acid aminotransferase
+Flavonol 7-O-methyltransferase
+DNA topoisomerase
+Argininosuccinate synthetase
+Transaminase C
+Quercetin O<sup>3</sup>methyltransferase
+Quinoline-4-carboxylate 2-oxidoreductase
+Cytidylate cyclase
+N-Acetylneuraminate O
+AP lyase
+CDPribitol ribitolphosphotransferase
+Streptokinase agent
+Glycerophosphoinositol inositolphosphodiesterase
+NAD<sup>+</sup> pyrophosphatase
+Glucocorticosteroid sulfotransferase
+D-tryptophan N-malonyltransferase
+GDPmannose dehydrogenase
+C27-Steroid 26-hydroxylase
+D-Xylose dehydrogenase
+Glutathione transferase
+PVA oxidase
+Hydroxymethylglutaryl-CoA reductase
+Nitroquinoline-N-oxide reductase
+Carbonic anhydrase
+Pyruvic decarboxylase
+Adenine phosphoribosyltransferase
+Carbon-halide lyase
+Protein-tyrosine sulfotransferase
+Dihydrochelirubine 12-hydroxylase
+Dimethylaniline monooxygenase
+Glutathione:spermidine ligase
+Carnitine acyltransferase
+Xanthommatin reductase
+Cytochrome-b<sub>5</sub> reductase
+THB oxidase
+Carbonate dehydratase
+Dextrin glycosyltransferase
+D-Hydroxyaminoacid dehydratase
+delta1-Piperideine-2-carboxylate reductase
+L-asparaginase preparation
+Thiamin pyrophosphokinase
+S-carboxymethylcysteine synthase
+Arogenate dehydrogenase
+D-threo-Aldose dehydrogenase
+rRNA (guanine-N^2^)-methyltransferase
+Cellulose polysulphatase
+Tyrosyl-tRNA synthetase
+Glycerol kinase
+L-Gulonolactone oxidase
+beta-Lysine 5,6-aminomutase
+Glycolaldehyde dehydrogenase
+Polynucleotide 5'-hydroxyl-kinase
+Alpha-ketoglutarate decarboxylase
+Renilla-type luciferase
+Tubulinyl-Tyr carboxypeptidase
+N5-Ethyl-L-glutamine synthetase
+Choloylglycine hydrolase
+Cyclopropane synthetase
+Mevaldate reductase
+Choline phosphatase
+Diaminopimelate decarboxylase
+Phosphoribosylanthranilate isomerase
+Presqualene-diphosphate synthase
+Leucine dehydrogenase
+N(alpha)-benzyloxycarbonyl-leucine hydrolase
+Ribonuclease T1
+Ribonuclease T2
+tRNA sulphurtransferase
+Kininase II
+Hygromycin-B kinase
+Cyclo(Gly-Gly) hydrolase
+Factor X
+Carbon-carbon lyase
+Sulphate adenylyltransferase
+Factor B
+Factor D
+Tryptophan dimethylallyltransferase
+Plasmepsin I
+Pantothenoylcysteine decarboxylase
+Cytochrome-c>3< hydrogenase
+Diacylglycerol acyltransferase
+Acyl-[acyl-carrier-protein] desaturase
+Cyanide hydratase
+Pyrimidine phosphorylase
+Retinal isomerase
+Dimethylaniline oxidase
+Urate-ribonucleotide phosphorylase
+Strictosidine synthase
+Isoflavone O<sup>4'</sup>-methyltransferase
+[Ribulose-bisphosphate-carboxylase]-lysine N-methyltransferase
+Biotin synthase
+Hypoxanthine-guanine phosphoribosyltransferase
+Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+Deoxyribose-phosphate aldolase
+Choline sulphotransferase
+Rubber transferase
+Cyanocobalamin reductase
+Glucose-6-phosphate isomerase
+Glutamate-methylamine ligase
+D-Alanine-alanyl-poly(glycerolphosphate) ligase
+Haem oxygenase
+H+/K+-transporting ATPase
+GDP-6-deoxy-D-talose dehydrogenase
+Glycerol 2-dehydrogenase
+Arginine dihydrolase
+Methionine gamma-lyase
+Calcium pump
+[Acetyl-CoA carboxylase]-phosphatase
+Cyanidin-3-rhamnosylglucoside O<sup>5</sup>-glucosyltransferase
+Sorbose dehydrogenase
+Steroid-ketone monooxygenase
+Oligopeptidase B
+Oligopeptidase A
+Licodione O2'-methyltransferase
+Chymotrypsin C
+Geranylgeranyl-diphosphate geranylgeranyltransferase
+Columbamine oxidase
+Precorrin-3B C17-methyltransferase
+N-Acylsphingosine galactosyltransferase
+Putrescine aminopropyltransferase
+Phosphomannose isomerase
+Lipid-A-disaccharide synthase
+Latia-luciferin monooxygenase
+Pectate transeliminase
+Ribonuclease F
+Ribonuclease I
+Ribonuclease P
+Ribonuclease T
+Ribonuclease U
+Dolichol kinase
+tRNA nucleotidyltransferase
+Amylase isoenzyme
+Dihydropteridine reductase
+Serine acetyltransferase
+Tetrahydrodipicolinate acetylase
+Steroid 21-monooxygenase
+Phenylalanine acetyltransferase
+Carbon-oxygen lyase
+Thioether hydrolase
+Indanol dehydrogenase
+Cyanate hydrolase
+Proline dipeptidase
+Succinate-CoA ligase
+D-Lyxose ketol-isomerase
+Flavone O7-beta-glucosyltransferase
+D-Arabinose dehydrogenase
+Salutaridine synthase
+Methionine-tRNA ligase
+Mannan endo-1,4-beta-mannosidase
+alpha-Ketoacid carboxylase
+Flavonol 3-sulfotransferase
+Adenosylmethionine decarboxylase
+Lethal toxin
+Lipase preparation
+Uracil-5-carboxylate decarboxylase
+L-3-Aminoisobutyrate aminotransferase
+Galactosylceramide sulphotransferase
+D-alanine gamma-glutamyltransferase
+Adenylate kinase
+Quinolin-2-ol 5,6-dioxygenase
+Aryl sulfotransferase
+D-Alanine aminotransferase
+Tyramine oxidase
+Cystine reductase
+Cyclohexanol dehydrogenase
+Oestradiol 6beta-monooxygenase
+Glutathione-insulin transhydrogenase
+Aminopeptidase A
+Methylmethionine-sulphonium-salt hydrolase
+Ganglioside galactosyltransferase
+Aminopeptidase M
+Aminopeptidase P
+Progesterone 5alpha-reductase
+Mannose-1-phosphate guanylyltransferase
+Bisphosphoglycerate synthase
+Tagatose-bisphosphate aldolase
+Protease preparation
+D-Glutamate oxidase
+Cyclic-CMP phosphodiesterase
+alpha-Glutamyl-glutamate dipeptidase
+Pyruvic dehydrogenase
+Holocarboxylase synthase
+Prostaglandin-E>2< 9-ketoreductase
+GDPmannose phosphorylase
+Immunoreactive trypsin
+Phospho-5-dehydro-2-deoxygluconate aldolase
+Glycine decarboxylase
+Oxaloacetate tautomerase
+N-Acetyl-galactosamine-6-sulphate sulphatase
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Hydroxyacid racemase
+D-Glycerate dehydrogenase
+Ribosomal cathepsin
+Bis-gamma-glutamylcystine reductase
+Sulfate adenylyltransferase
+RNA ligase
+(S)-stylopine synthase
+Alginate lyase
+mRNA guanylyltransferase
+Cysteine-tRNA ligase
+Glutamic-oxaloacetic transaminase
+Homospermidine synthase
+Galactose-P UT
+RNA polymerase
+Alpha-pinene-oxide decyclase
+N-acyl-D-glutamate amidohydrolase
+Deacetyl-[citrate-(pro-3S)-lyase] acetyltransferase
+Acetate kinase
+PAF acetyltransferase
+Cyclodextrin glucanotransferase
+Pantothenate synthetase
+Dichloromuconate cycloisomerase
+Sulfite reductase
+Mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyl-transferase
+Sucrose 1-fructosyltransferase
+Amine oxidase
+Deoxyuridine phosphorylase
+Dipeptide hydrolase
+Diaminopimelate epimerase
+Reductase phosphatase
+Aminodeoxygluconate dehydratase
+Dihydroxyacetone kinase
+Methionyl aminopeptidase
+Homocitrate synthase
+Luteolin 7-O-glucuronosyltransferase
+Pseudouridine kinase
+Butyryl-CoA dehydrogenase
+Galactosylceramide sulfotransferase
+D-Glutamic oxidase
+UDP-4-amino-2-acetamido-2,4,6-trideoxy-glucose aminotransferase
+Glutaconyl-CoA decarboxylase
+Rubredoxin reductase
+Aminocarboxymuconate-semialdehyde decarboxylase
+Ovine hyaluronidase
+Ethanolamine-phosphate cytidylyltransferase
+Dopa decarboxylase
+UDP-N-acetylmuramate dehydrogenase
+Cellobiose oxidase
+NAD<sup>+</sup> nucleosidase
+(S)-3-Amino-2-methylpropionate aminotransferase
+Methenyltetrahydrofolate cyclohydrolase
+Glutamic-alanine transaminase
+Galactosyl-N-acetylglucosaminylgalactosyl-glucosylceramide beta-1,6-N-acetylglucosaminyltransferase
+Alpha-mannoside beta-1,6-N-acetylglucosaminyltransferase
+D-Serine dehydratase
+Acylagmatine amidase
+w-Hydroxydecanoate dehydrogenase
+(-)-limonene 6-monooxygenase
+Isoleucine-tRNA ligase
+Leukocyte esterase
+Geraniol dehydrogenase
+Glucosamine kinase
+IgA protease
+UDPgalactose-N-acetyl-glucosamine beta-D-galactosyltransferase
+N-Acetylneuraminate lyase
+Aminolaevulinate aminotransferase
+N-Acetyl alpha-glucosamine-6-sulphatase
+Thyroxine deiodinase
+Galactolipid:galactolipid galactosyltransferase
+L-Idonate dehydrogenase
+UDPglucuronate 4-epimerase
+Kynurenine formamidase
+Galactosyl-N-acetylglucosaminylgalactosylglucosylceramide alpha-galactosyltransferase
+N-Methyl-L-amino-acid oxidase
+Hydroxyalkyl-protein kinase
+Peptidoglycan endopeptidase
+UDPgalacturonate decarboxylase
+Lysolecithin acylmutase
+Proteinase K
+Proteinase H
+Cephalosporin-C transaminase
+Enkephalin convertase
+Dephospho-CoA pyrophosphorylase
+Acid lipase
+Polyphosphate depolymerase
+Plastoquinol-plastocyanin reductase
+Xenobiotic monooxygenase
+Methylisocitrate lyase
+Protein disulphide-isomerase
+Pepsinogen 1
+Pepsinogen I
+Pepsinogen A
+Testosterone 5-alpha-reductase
+Neutrophil collagenase
+Aminobutyraldehyde dehydrogenase
+Proline,2-oxoglutarate 4-dioxygenase
+Active (C3b)nBb
+Ornithine(lysine) aminotransferase
+Pyrogallol hydroxyltransferase
+Tartrate dehydratase
+Proteinase 3
+NADPH-proto-chlorophyllide oxidoreductase
+Maltogenic alpha-amylase
+Erythritol kinase
+Indole-3-pyruvate decarboxylase
+Plasmepsin II
+Formyltetrahydrofolate deformylase
+Pantoate dehydrogenase
+Adenyl cyclase
+beta-Nitroacrylate reductase
+Renilla-luciferin sulfotransferase
+Flavoprotein enzyme
+Coproporphyrinogen oxidase
+Octadecanal decarbonylase
+Diisopropylfluorophosphonate halogenase
+Dihydroxyacetone reductase
+UTP-xylose-1-phosphate uridylyltransferase
+N-Acetylneuraminate O<sup>9</sup>-acetyltransferase
+Heteroglycan alpha-mannosyltransferase
+Lombricine kinase
+Aminolaevulinate dehydratase
+D-Pinitol dehydrogenase
+Alliin lyase
+Alkaline phosphomonoesterase
+Gibberellin beta-glucosyltransferase
+Sepia proteinase
+Naloxone reductase
+Phosphopyruvate hydratase
+Isoflavone 2'-hydroxylase
+Diaminohydroxyphosphoribosylaminopyrimidine deaminase
+Tetrahydropteroylglutamate methyltransferase
+Immunoglobulin A
+Galactarate O-hydroxycinnamoyltransferase
+Histone-lysine methyltransferase
+Pentachlorophenol dehalogenase
+Formyltetrahydrofolate synthetase
+Succinyl-CoA hydrolase
+Dihydrofolate synthetase
+Lysine transcarbamylase
+Erythrocyte cholinesterase
+Long-chain-fatty-acyl-glutamate deacylase
+N-Acetylneuraminate monooxygenase
+Tissue kallikrein
+UDPgalactose-glycoprotein galactosyltransferase
+Homoserine deaminase
+Glucan 1,4-alpha-maltohydrolase
+Enterobacter ribonuclease
+Taurine aminotransferase
+Rhamnulose-1-phosphate aldolase
+Uridine diphosphate-N-acetylglucosamine-dolichyl-phosphate-N-acetylglucosaminephosphotransferase
+Gamma-glutamylhistamine synthase
+Ornithine racemase
+Dihydroxyisovalerate dehydrogenase
+Xyloglucan endotransglycosylase
+Plasminogen activator
+Asparaginase preparation
+Phloretin hydrolase
+Chlordecone reductase
+Adenylylsulphate-ammonia adenylyltransferase
+GTP-mannose-1-phosphate guanylyltransferase
+Wegener's autoantigen
+beta-Lysine mutase
+Pentachlorophenol monooxygenase
+Glutathione thiolesterase
+Ketosteroid monooxygenase
+Dextrin dextranase
+Glucan 1,4-alpha-maltotriohydrolase
+Peptide N-glycosidase
+Glyoxylate carbo-ligase
+CMP-3-deoxy-D-manno-octulosonate pyrophosphorylase
+UDPgalactose-ceramide galactosyltransferase
+Oleate delta12-hydroxylase
+Indole-3-glycerol-phosphate synthase
+(-)-endo-fenchol synthase
+Corticosterone 18-monooxygenase
+CDPacylglycerol arachidonyltransferase
+Psychosine sulphotransferase
+UDP-N-acetylglucosamine acyltransferase
+Pancreatic ribonuclease
+'Malic' enzyme
+Thiosulphate reductase
+CMP-N-acetylneuraminate monooxygenase
+UDPglucose-luteolin beta-D-glucosyltransferase
+Dihydrosphingosine kinase
+Ribonuclease P4
+Flavonol O3-glucosyltransferase
+Styrene-oxide isomerase
+Indolelactate dehydrogenase
+Arylmalonate decarboxylase
+Lactate racemase
+Citrulline phosphorylase
+Hydroxyphenylacetonitrile 2-monooxygenase
+Phosphohexose isomerase
+Keratan sulfotransferase
+tRNA (adenine-N^6^)-methyltransferase
+Thiamin-phosphate kinase
+Na+/K+-transporting ATPase
+Isoflavone 3'-hydroxylase
+Isoflavone 7-O-glucosyltransferase
+KDPH synthetase
+Phosphoribosyl-AMP cyclohydrolase
+UDPglucose-fructose glucosyltransferase
+Agmatine deiminase
+L-Mandelate 4-hydroxylase
+Galactose dehydrogenase
+Sorbitol dehydrogenase
+Mannosylphosphodolichol phosphodiesterase
+Glucose dehydrogenase
+Particle-bound aminopeptidase
+Disproportionating enzyme
+Spleen phosphodiesterase
+Capsular-polysaccharide endo-1,3-alpha-galactosidase
+S-adenosylhomocysteine deaminase
+delta<sup>1</sup>-Piperideine-2-carboxylate reductase
+Aspergillopepsin II
+Salutaridine reductase
+Prephenate dehydrogenase
+Dopamine beta-hydroxylase
+Methionine racemase
+Anthranilate N-malonyltransferase
+Omega peptidase
+Hypotaurocyamine kinase
+N<sup>5</sup>-Ethyl-L-glutamine synthetase
+Cytochrome-c3 hydrogenase
+(S)-2-Hydroxy-acid oxidase
+Histone-arginine N-methyltransferase
+Pyrophosphate-protein phosphotransferase
+Phenylpyruvate decarboxylase
+Glucan endo-1,3-alpha-glucosidase
+Ketol-acid reductoisomerase
+ADPglucose-starch glucosyltransferase
+FMN adenylyltransferase
+Globoside N-acetylgalactosaminyltransferase
+Glucose-1-phosphate uridylyltransferase
+Eosinophil myeloperoxidase
+Vertebrate collagenase
+Homoserine kinase
+CDPdiglycerine-serine O-phosphatidyltransferase
+Nicotine dehydrogenase
+Thiopurine methyltransferase
+trans-Epoxysuccinate hydratase
+Ribulose-phosphate 3-epimerase
+Amylase III
+Phage-procoat-leader peptidase
+Phenol hydroxylase
+Flavonol-3-O-beta-glucoside O-malonyltransferase
+Phosphofructokinase 2
+Indole-3-acetate beta-glucosyltransferase
+Sucrose-UDP glucosyltransferase
+Valine-isoleucine aminotransferase
+Chenodeoxycholoyltaurine hydrolase
+Tripeptidyl aminopeptidase
+Phosphoglucosamine transacetylase
+Glycerol-3-phosphate cytidylyltransferase
+Farnesol dehydrogenase
+Aconitate decarboxylase
+Allophanate hydrolase
+Collagenase preparation
+Polynucleotide 5'-phosphatase
+Phosphoribosylaminoimidazole carboxylase
+meso-Tartrate dehydrogenase
+Ribonuclease M5
+Yeast ribonuclease
+Prostaglandin 9-ketoreductase
+Triglucosylalkylacylglycerol sulphotransferase
+O-Acetylserine (thiol)-lyase
+Butyryl-CoA synthetase
+Aldehyde dehydrogenase
+trans-Cinnamate 4-monooxygenase
+Acetoacetate decarboxylase
+Lactate-malate transhydrogenase
+Phenylalanine ammonia-lyase
+Maltose alpha-D-glucosyltransferase
+Polydeoxyribonucleotide synthase
+Trypanothione synthase
+Alpha-1,3(6)-mannosylglycoprotein beta-1,6-N-acetyl-glucosaminyltransferase
+Edema factor
+Pyruvic oxidase
+[Myosin light-chain]-phosphatase
+Arylamine sulfotransferase
+Isocitrate dehydrogenase
+Aryl sulphotransferase
+Long-chain-alcohol fatty-acyltransferase
+D-Octopine dehydrogenase
+IMP pyrophosphorylase
+Trichodiene synthase
+Tyrosine carboxypeptidase
+Acylamino-acid-releasing enzyme
+Carboxyphosphonoenolpyruvate phosphonomutase
+Methylaspartate mutase
+Ribitol dehydrogenase
+Aculeacin-A deacylase
+Desulphoheparin sulphotransferase
+Lysine hydroxylase
+Glutamate 5-kinase
+Precorrin isomerase
+Leucocyte elastase
+Phosphoglycerate phosphatase
+Active C4b2a3b
+Stipitatonate decarboxylase
+Ca^2+^-transporting ATPase
+Tyrosine aminotransferase
+Hydroxyquinol 1,2-dioxygenase
+UDP-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase
+Octanol dehydrogenase
+Protein-D-aspartate methyltransferase
+Carbon-sulfur lyase
+Chloride peroxidase
+Glucan 1,3-beta-glucosidase
+Laminarin phoshorylase
+Pyruvate formate-lyase
+Aspartic proteinase
+Reagan isoenzyme
+Methionine-S-oxide reductase
+Peptide N-tetradecanoyltransferase
+Ribulose-bisphosphate-carboxylase/oxygenase N-methyltransferase
+Glycyl-glycine endopeptidase
+Iodophenol methyltransferase
+(R,S)-norcoclaurine 6-O-methyltransferase
+Thiosulfate sulfurtransferase
+Oligosaccharide-diphosphodolichol pyrophosphatase
+Berberine synthase
+Malonate-semialdehyde dehydrogenase
+Mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase
+Endopeptidase I
+Ribulose-bisphosphate carboxylase
+UDPglucosamine 4-epimerase
+Serine aldolase
+N-Acetyl alpha-glucosamine-6-sulfatase
+Zeatin O-beta-D-glucosyltransferase
+Apigenin O
+Active C3bBbC3b
+Azobenzene reductase
+Bisulphite reductase
+Carnosine synthetase
+Choline acetyltransferase
+Dolichyl-phosphate alpha-N-acetylglucosaminyltransferase
+D-arabinitol 2-dehydrogenase
+D-Nopaline dehydrogenase
+Phosphoacetylglucosamine mutase
+Thrombin-antithrombin complex
+Desulfoheparin sulfotransferase
+beta-Ketoglutaric-isocitric carboxylase
+Inosinate nucleosidase
+Acyl-CoA oxidase
+CMP-N-acetylneuraminate-galactosyldiacyl-glycerol alpha-2,3-sialyltransferase
+UDPglucose-vanillate 1-glucosyltransferase
+rRNA (guanine-N1)-methyltransferase
+Kanamycin kinase
+Arogenate dehydratase
+Glutathione-cystine transhydrogenase
+Heparitin sulphotransferase
+Protein-arginine deiminase
+Streptomycin 3''-adenylyltransferase
+Cholesterol acyltransferase
+Ribonuclease III
+Norleucine aminotransferase
+Citramalate CoA-transferase
+dTDP4-amino-4,6-dideoxygalactose aminotransferase
+Hypoderma collagenase
+Recombinant l-iduronidase
+Bisphosphoglycerate mutase
+UDPgalactose 4-epimerase
+D-xylo-aldonate dehydratase
+Oxalomalate lyase
+Phosphorylase kinase
+Carveol dehydrogenase
+Digestive enzyme
+Diiodothyronine 5'-deiodinase
+UDP-N-acetylglucosamine 4-epimerase
+High-mannose-oligosaccharide beta-1,4-N-acetyl-glucosaminyltransferase
+Indolylacetylinositol arabinosyltransferase
+Inositol-1,4-bisphosphate 1-phosphatase
+Luciferin sulphotransferase
+Nitrate reductase
+Pectin depolymerase
+Succinate-hydroxymethylglutarate CoA-transferase
+Psychosine-UDP galactosyltransferase
+Serine-ethanolaminephosphate phosphodiesterase
+Dehydropantoate hydroxymethyltransferase
+Histone acetyltransferase
+Glycoprotein 4-beta-galactosyltransferase
+D-Amino-acid acetyltransferase
+Venom phosphodiesterase
+Phosphotyrosine phosphatase
+Trans-caffeoyl-CoA 3-O-methyltransferase
+Gingipain R
+Methylsterol monooxygenase
+Cytidine deaminase
+D-Methionine aminotransferase
+Glucosaminylgalactosylglucosylceramide beta-galactosyltransferase
+Hydroxylysine kinase
+Histidine a-deaminase
+Iodotyrosine deiodase
+Indole-3-acetaldehyde oxidase
+Arylsulfate sulfotransferase
+Peptidylglycine monooxygenase
+Gingipain 1
+Glucocorticosteroid sulphotransferase
+Thiamin-monophosphate kinase
+Peroxisomal oxidase
+Trypanothione reductase
+Pyrazolylalanine synthase
+Hexose-1-phosphate guanylyltransferase
+Xanthine dehydrogenase
+Thiostrepton-resistance methylase
+Unsaturated-phospholipid methyltransferase
+Orotate phosphoribosyltransferase
+Pinosylvin synthase
+Cyclohexane-1,3-dione hydrolase
+Prostaglandin-D<sub>2</sub> 11-ketoreductase
+Coniferyl-alcohol dehydrogenase
+Creatinine deiminase
+Chlorate reductase
+Precorrin-2 C20-methyltransferase
+DNA beta-glucosyltransferase
+Quercetin-3-sulphate 3'-sulphotransferase
+Beta-Ala-His dipeptidase
+Arylamine glucosyltransferase
+D-Ornithine 4,5-aminomutase
+Diglyceride lipase
+Arene-oxide hydratase
+Watasemia-luciferin 2-monooxogenase
+Thiomorpholine-carboxylate dehydrogenase
+Acylglycerol lipase
+Tyrosyl-arginine synthase
+Ketogluconate dehydrogenase
+Allyl-alcohol dehydrogenase
+Alkenylglycerophosphoethanolamine hydrolase
+Albendazole sulfoxidase
+Cycloartenol synthase
+Firefly luciferase
+Pre-uroporphyrinogen synthase
+Glycerophosphocholine cholinephosphodiesterase
+Phenylpyruvate tautomerase
+Heparitin-sulfate lyase
+Aldehyde reductase
+Lysolecithin acyltransferase
+Anthranilate hydroxylase
+Galactosylacylglycerol O-acyltransferase
+Leucine 2,3-aminomutase
+Chalcone isomerase
+NAD(P)+ transhydrogenase
+Estradiol 6beta-hydroxylase
+Acylsphingosine deacylase
+Gibberellin 3-beta-dioxygenase
+NADH kinase
+Opsin kinase
+Peptidoglutaminase II
+Mannonate dehydratase
+Aspartate carboxypeptidase
+N-acyl-D-glutamate deacylase
+N-acyl-D-aspartate amidohydrolase
+Glutathionylspermidine amidohydrolase
+myo-Inositol-1-phosphate synthase
+tRNA (guanine-N<sup>2</sup>)-methyltransferase
+Exodeoxyribonuclease V
+N1,N8-bis(glutathionyl)spermidine reductase
+Exodeoxyribonuclease I
+Oxamate carbamoyltransferase
+Glycerol dehydratase
+Serine sulfhydrase
+Adrenodoxin reductase
+Glucose oxidase
+Mannosyl-glycoprotein endo-beta-N-acetyl-glucosaminidase
+Nicotinate-nucleotide-dimethylbenz-imidazole phosphoribosyltransferase
+Sucrose 1<sup>F</sup>-fructosyltransferase
+Mannosidase 1A
+Mannosidase 1B
+Glycerol-3-phosphate 1-dehydrogenase
+Water-soluble-glucan synthase
+Arabinose isomerase
+Nitric-oxide synthase
+Homoserine o-transsuccinylase
+Camphor 1,2-monooxygenase
+Viomycin kinase
+Dimethylhistidine methyltransferase
+Butyrate-CoA ligase
+Propionyl-CoA synthetase
+Tryptophan pyrrolase
+Aspartate kinase
+Phospholipase A1
+Phospholipase A2
+Glutamyl transpeptidase
+Tropine dehydrogenase
+all-trans-Heptaprenyl-diphosphate synthase
+dATP(dGTP)-DNA purinetransferase
+(3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase
+Thiosulphate sulphurtransferase
+o-Aminophenol oxidase
+NS2B-3 proteinase
+Alkyldihydroxyacetonephosphate synthase
+Hexose-1-phosphate uridylyltransferase
+Kynurenate 7,8-hydroxylase
+Enzyme-thiol transhydrogenase
+G protein
+Vitexin beta-glucosyltransferase
+Mannan exo-1,2-1,6-alpha-mannosidase
+PVA dehydrogenase
+Ascorbate 2,3-dioxygenase
+ADP-glyceromanno-heptose 6-epimerase
+UDPglucuronate 5'-epimerase
+Butyrate kinase
+N-formylglutamate deformylase
+Quercetin-3-sulfate 4'-sulfotransferase
+Glutaryl-CoA synthetase
+Formyltetrahydrofolate dehydrogenase
+Heparitin-sulphate lyase
+Prostacyclin synthase
+Deoxycytidine kinase
+Proteinglutamine gamma-glutamyltransferase
+Gallate decarboxylase
+Peptidyl-Lys metalloendopeptidase
+Bile-salt sulphotransferase
+Benzaldehyde dehydrogenase
+Xylosylprotein 4-beta-galactosyltransferase
+Precorrin-3 methylase
+Ornithine N-benzoyltransferase
+Phosphorus-oxygen lyase
+Galactolipid O-acyltransferase
+Protein-tyrosine sulphotransferase
+Holo-[acyl-carrier-protein] synthase
+Alpha-amino-epsilon-caprolactam racemase
+Glutamate racemase
+Corticosterone 18-hydroxylase
+UDParabinose 4-epimerase
+Polyvinyl-alcohol oxidase
+myo-Inositol 1-kinase
+Tetrahydrofolate aminomethyltransferase
+Tyrosine iodinase
+Peptidyl-dipeptidase A
+Peptidyl-dipeptidase B
+Aspartate racemase
+Guanylate kinase
+Putrescine acetyltransferase
+Methionine aminopeptidase
+D-Lactaldehyde dehydrogenase
+Plant enzyme
+ADP-L-glycero-D-manno-heptose 6-epimerase
+N-Acetylglucosamine deacetylase
+Questin oxygenase
+Phospholipase A>2<
+Folylpolyglutamate synthase
+Indolepyruvate decarboxylase
+Morphine 6-dehydrogenase
+Trimethylamine-oxide aldolase
+Phosphate butyryltransferase
+Glutamyl-tRNA synthetase
+Protocollagen hydroxylase
+delta^3^-cis-delta^2^-trans-enoyl-CoA isomerase
+Glycolate oxidase
+Mimosine amidohydrolase
+Hydroxylamine reductase
+Phosphoribosylformylglycinamidine synthase
+Oxalase beta-decarboxylase
+DNA joinase
+Alanylphosphatidylglycerol synthase
+Glutamate synthase
+NAD+ kinase
+Acetyldiaminopimelate deacetylase
+Hydroxyphytanate oxidase
+Bisphosphoglycerate phosphatase
+Ribose-5-phosphate-ammonia ligase
+Deoxyhypusine monooxygenase
+Trypsin agent
+Thiosulphate dehydrogenase
+Maltose-6'-phosphate glucosidase
+Thioredoxin reductase
+Propionate-CoA ligase
+Calcidiol 1-monooxygenase
+tRNA (guanine-N^1^)-methyltransferase
+Glutamate-ammonia-ligase adenylyltransferase
+Sphingosine cholinephosphotransferase
+Methylglyoxal synthase
+Beta-pyrazolylalanine synthase
+Triphosphoinositide phosphodiesterase
+S-Formylglutathione hydrolase
+Casbene synthase
+Tyrosine N-hydroxylase
+Pyridoxin dehydrogenase
+Myo-inositol 6-O-methyltransferase
+(-)-limonene 3-monooxygenase
+Etiocholanolone 3alpha-dehydrogenase
+Cytochrome-b5 reductase
+Deoxyribonuclease S
+Deoxyribonuclease V
+Deoxyribonuclease X
+Isopiperitenol dehydrogenase
+Demethylsterigmatocystin 6-O-methyltransferase
+Glycopeptide N-glycosidase
+Indolepyruvate methyltransferase
+Deoxyribonuclease I
+Pyruvate synthase
+Lysine dehydrogenase
+CMP-Neu5Ac hydroxylase
+Pyrithiamin deaminase
+Phenylalanine-tRNA ligase
+Nitroethane oxidase
+Ferric-chelate reductase
+Protocatechuate decarboxylase
+Glycopeptide alpha-N-acetylgalactosaminidase
+Isoprenylcysteine carboxylmethyltransferase
+Tryptophan synthase
+Salutaridinol 7-O-acetyltransferase
+Coenzyme-M-7-mercaptoheptanoylthreonine-phosphate-heterodisulfide hydrogenase
+THCA-CoA ligase
+Lactate synthase
+Glutamate-5-semialdehyde dehydrogenase
+N-Acetylgalactosamine-4-sulphate sulphatase
+Diacetyl reductase
+o-Dihydroxycoumarin O
+Diphosphomevalonate decarboxylase
+Guanylyl cyclase
+Tagatose kinase
+Polyribonucleotide synthase
+L-Fuculose-phosphate aldolase
+Aspergillopepsin I
+Ferredoxin-NAD+ reductase
+Tryptophan 2-C-methyltransferase
+Cystine desulphydrase
+Glutamine-oxo-acid transaminase
+m^7^G(5')pppN pyrophosphatase
+Glycoprotein 6-alpha-L-fucosyltransferase
+Uroporphyrinogen-III synthase
+ADPribose pyrophosphatase
+Gibberellin 3-beta-hydroxylase
+Camphor 5-monooxygenase
+Bunolol reductase
+NAD(P)<sup>+</sup> nucleosidase
+Nitric-oxide reductase
+N-carbamoylputrescine amidase
+Leghemoglobin reductase
+Tryptophan 5-hydroxylase
+(S)-6-Hydroxynicotine oxidase
+Steroid 9-alpha-monooxygenase
+Diacylphorbate 12-hydrolase
+L-Arabinose isomerase
+CDPdiacylglycerol-serine O-phosphatidyl-transferase
+CDPribitol pyrophosphorylase
+IMP dehydrogenase
+Nicotinate phosphoribosyltransferase
+Heparin-sulphate eliminase
+Choline sulfotransferase
+Cystathionine beta-synthase
+Hydroxyhyoscyamine dioxygenase
+Hexadecanal dehydrogenase
+Pyrroline-2-carboxylate reductase
+mRNA (guanine-N<sup>7</sup>)-methyltransferase
+Steroid sulfotransferase
+Monophenol monooxygenase
+Fumarylacetoacetate hydrolase
+CTD kinase
+Adenosylhomocysteine nucleosidase
+(S)-canadine synthase
+o-Pyrocatechuate decarboxylase
+Ecdysone 20-monooxygenase
+Zeatin reductase
+Erythrulose-1-phosphate synthetase
+N-Sulfoglucosamine sulfohydrolase
+Gliocladium proteinase
+NADPH dehydrogenase
+Phosphogluconate dehydratase
+Dimethylglycine dehydrogenase
+N-Acylglucosamine 2-epimerase
+D-Lysine 5,6-aminomutase
+Venombin AB
+Loganate methyltransferase
+GMP synthetase
+CDPdiacylglycerol-inositol 3-phosphatidyltransferase
+Fruit bromelain
+Phosphorylase phosphatase
+Cytochrome p-450
+sym-Norspermidine synthase
+Serine carboxypeptidase
+Chorismate synthase
+Progesterone 11alpha-hydroxylase
+Citramalate lyase
+D-Alanine hydroxymethyltransferase
+Oleate delta<sup>12</sup>-hydroxylase
+Nicotinate methyltransferase
+Acetylene-allene isomerase
+Nucleoside-phosphate kinase
+Octopamine dehydratase
+Dihydroxy-acid dehydratase
+mRNA (O2'-methyladenosine-N6)-methyltransferase
+Undecaprenyl-diphosphate synthase
+Tryptar preparation
+Gallate 1-beta-glucosyltransferase
+UTP-hexose-1-phosphate uridylyltransferase
+Diarylpropane oxygenase
+Geranylgeranyl-diphosphate synthase
+D-Glutamate cyclase
+Galactitol dehydrogenase
+Phosphoenolpyruvate carboxykinase
+DNA (cytosine-5)-methyltransferase
+Dihydroxyphenylalanine ammonia-lyase
+Phosphoglycolate phosphatase
+Fatty-acid peroxidase
+N-Acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+Rubredoxin-NAD(P)^+^ reductase
+Serine proteinase
+Thiosulphate-thiol sulphurtransferase
+Inorganic pyrophosphatase
+Alanine transaminase
+Linoleate synthase
+Glyoxylate oxidase
+Aminoacyl-methylhistidine dipeptidase
+Acyl-ACP dehydrogenase
+Histidine ammonia-lyase
+Mucor renin
+Coupling factors
+Methane monooxygenase
+Carotene 7,8-desaturase
+Site-specific DNA-methyltransferase
+Gentamicin 3'-acetyltransferase
+tRNA (adenine-N<sup>1</sup>)-methyltransferase
+Dopa aminotransferase
+Fructose 5-dehydrogenase
+Cucurbitacin delta<sup>23</sup>-reductase
+Isoleucyl-tRNA synthetase
+N^6^-Acetyl-beta-lysine aminotransferase
+Urea carboxylase
+Micrococcal nuclease
+D-Aldopantoate dehydrogenase
+Thymine,2-oxoglutarate dioxygenase
+Alanine aminopeptidase
+UDPglucose-hexose-1-phosphate uridylyltransferase
+Muconate cycloisomerase
+Phosphoribulose epimerase
+Alkylglycerone kinase
+Methionyl dipeptidase
+Guanine deaminase
+Diiodotyrosine aminotransferase
+Lecithin-retinol acyltransferase
+Site-specific methyltransferase
+Porphobilinogen deaminase
+rRNA (adenine-N6)-methyltransferase
+Phosphatidylcholine 12-monooxygenase
+Pyruvate dehydrogenase
+Enzyme agent
+tRNA (adenine-N^1^)-methyltransferase
+Anhydrotetracycline monooxygenase
+UDPglucuronate decarboxylase
+Uridine phosphorylase
+Lysine acetyltransferase
+Benzophenone synthase
+Sulfane reductase
+des ARG
+Oxaloglycolate reductase
+Untwisting enzyme
+Dehydro-L-gulonate decarboxylase
+Alanine racemase
+Active C14b2a
+Hexokinase 1
+Hexokinase 3
+Hexokinase 2
+L-mimosine synthase
+Chymotrypsin product
+U-plasminogen activator
+Guanine phosphoribosyltransferase
+Acetate CoA-transferase
+Hydroxymethylbilane synthase
+Acetylpyruvate hydrolase
+Isoflavone O^4'^-methyltransferase
+Debranching enzyme
+Keratan-sulfate endo-1,4-beta-galactosidase
+Polyvinyl-alcohol dehydrogenase
+Willardiine synthase
+Oxalosuccinate decarboxylase
+Enoyl-CoA hydratase
+Prephenate dehydratase
+Benzoyl-CoA 3-monooxygenase
+scyllo-Inosamine kinase
+Cysteine lyase
+Choline dehydrogenase
+Xylan 1,44-beta-xylosidase
+CDPglycerol glycerophosphotransferase
+Pyrrolidone-carboxylate peptidase
+trans-Epoxysuccinate hydrolase
+Phosphoenolpyruvate phosphomutase
+Dihydrodipicolinate reductase
+Leghaemoglobin reductase
+Yeast carboxypeptidase
+Mandelonitrile lyase
+Thermophilic aminopeptidase
+Pectin methoxylase
+Fibrinolytic proteinase
+Pyruvate carboxylase
+Isocitrate O-dihydroxycinnamoyltransferase
+Phosphoribosylamine-glycine ligase
+Laminaribiose phosphorylase
+Streptidine kinase
+Hydrogen:menaquinone oxidoreductase
+Pancreatic elastase
+Palmitoyl-protein hydrolase
+tRNA-uridine aminocarboxypropyltransferase
+NAD+ ADP-ribosyltransferase
+Beta-mannosylphosphodecaprenol-mannooligosaccharide 6-mannosyltransferase
+N-acyl-D-mannosamine dehydrogenase
+Glyoxylate reductase
+L-Glutamate oxidase
+Phosphatidylinositol N-acetylglucosaminyltransferase
+Carotene oxidase
+Keratan sulphotransferase
+Maltose glucosylmutase
+H^+^-transporting ATPase
+Proline-tRNA ligase
+Nicking-closing enzyme
+Prostaglandin-A1 delta-isomerase
+Stuart-Prower factor
+Hydrolase inhibitor
+Aquacobalamin reductase
+Lactaldehyde reductase
+Glyceollin synthase
+Aldose-6-phosphate reductase
+Malonate CoA-transferase
+Adenylate deaminase
+N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+Adenosine deaminase
+UDPgalactose-glucose galactosyltransferase
+Glycerate phosphomutase
+Malate dehydrogenase
+Psychosine sulfotransferase
+Flavone apiosyltransferase
+Acetyl-CoA acetyltransferase
+Reductase kinase
+sn-Glycerol-3-phosphate 2-alpha-galactosyltransferase
+Oxalyldiaminopropionate synthase
+Biotin synthetase
+Modification methylase
+Diglyceride acyltransferase
+Cholestenone 5alpha-reductase
+Hydroxyaryl-protein kinase
+Mandelate racemase
+Rubredoxin-NAD(P)+ reductase
+Pyruvic-malic carboxylase
+Acetoacetyl-CoA thiolase
+Aminoglycoside N^3'^-acetyltransferase
+Kievitone hydratase
+Methyltetrahydroprotoberberine 14-monooxygenase
+Nucleoside phosphotransferase
+C3 proactivator
+Glucuronosyl-disulfoglucosamine glucuronidase
+Imidazolylacetolphosphate aminotransferase
+Bacillus metalloendopeptidase
+Xaa-Pro dipeptidyl-peptidase
+Oligosaccharide lacto-N-biosylhydrolase
+DNA 5'-dinucleotidohydrolase
+Arabinogalactan endo-1,4-beta-galactosidase
+Phosphoglycerate mutase
+Dihydrosanguinarine 10-hydroxylase
+Cis-2-enoyl-CoA reductase
+Benzoate 4-monooxygenase
+N-Acylneuraminate-9-phosphate synthase
+P-30 antigen
+gamma-Glutamylcysteine synthetase
+Arginine N-succinyltransferase
+Membrane dipeptidase
+Nucleosidediphosphate-sugar diphosphatase
+Phosphatidylinositol 3-kinase
+Dihydrobenzophenanthridine oxidase
+N-Acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase
+Pyridoxal kinase
+Carboxycyclohexadienyl dehydratase
+Gluconate dehydratase
+N-Acetylneuraminate O<sup>4</sup>-acetyltransferase
+Glycogenin glucosyltransferase
+Deoxylimonate A-ring-lactonase
+Hydroxymethylglutaryl-CoA lyase
+Biotin carboxylase
+Aminolevulinate dehydratase
+Indoleamine-pyrrole 2,3-dioxygenase
+Thiohydroximate beta-D-glucosyltransferase
+Adenosine phosphoribosyltransferase
+Amygdalin beta-glucosidase
+Nuatigenin 3-beta-glucosyltransferase
+Galactose epimerase
+Hydroxyglutamate decarboxylase
+Thiosulfate dehydrogenase
+Lambda exonuclease
+Gentisate decarboxylase
+o-Dihydroxycoumarin O7-glucosyltransferase
+Alkylacylglycerophosphoethanolamine desaturase
+Phosphoserine phosphatase
+Lewis-negative alpha-3-fucosyltransferase
+Oedema factor
+Phosphoribosylaminoimidazole synthetase
+Monoterpenol beta-glucosyltransferase
+UDP-sugar diphosphatase
+Isovitexin beta-glucosyltransferase
+Glucose-6-phosphate dehydrogenase
+Ecdysone O-acyltransferase
+Ubiquinol-cytochrome-c reductase
+Methylenediurea deiminase
+NAD+ pyrophosphatase
+Tetrahydroprotoberberine cis-N-methyltransferase
+D-Aspartate oxidase
+Succinate-semialdehyde dehydrogenase
+Trehalosephosphate-UDP glucosyltransferase
+Glucose 2-oxidase
+mRNA (O^2^'-methyladenosine-N^6^)-methyltransferase
+Alpha-galactosidase A
+Phosphoprotein phosphatase
+Cholesterol esterase
+Guanidinoacetate kinase
+Sulphur dioxygenase
+alpha-Amino-acid esterase
+Arachidonoyl-CoA synthetase
+Methyl-ONN-azoxymethanol glucosyltransferase
+Phosphoenolpyruvate synthase
+Serum carnosinase
+Succinyldiaminopimelate aminotransferase
+DNase II
+Recombinant N-acetylgalactosamine-4-sulfatase
+Aldose reductase
+Formiminotetrahydrofolate cyclodeaminase
+Methylcrotonoyl-CoA carboxylase
+Picornain 3C
+Phthalate 4,5-dioxygenase
+N-acetylneuraminylgalactosylglucosylceramide beta-1,4-N-acetylgalactosaminyltransferase
+Protochlorophyllide reductase
+Dehydropeptidase II
+Phenylalanine dehydrogenase
+Thiamin-phosphate pyrophosphorylase
+Glucuronosyl-disulphoglucosamine glucuronidase
+Procollagen N-proteinase
+Pyrimidine-deoxynucleoside 1'-dioxygenase
+Acetylmethylcarbinol racemase
+Lipid-A 4'-kinase
+Serine-phosphoethanolamine synthase
+Aminoacyl-histidine dipeptidase
+gamma-Glutamyl hydrolase
+Arachidonate 8-lipoxygenase
+beta-Alanyl-CoA ammonia-lyase
+Dihydroneopterin aldolase
+Thymidine phosphorylase
+Tetrahydrofolate dehydrogenase
+Dipeptidyl transferase
+Heme oxygenase
+Phthalate dioxygenase
+Dephospho-CoA kinase
+Glucuronoarabinoxylan endo-1,4-beta-xylanase
+Benzoin aldolase
+Long-chain-fatty-acyl-CoA reductase
+CMP-N-acetylneuraminate-lactosylceramide alpha-2,3-sialyltransferase
+Procaine esterase
+Erythronolide synthase
+Exo-alpha-1,4-glucan lyase
+Xanthosine-5'-phosphate-ammonia ligase
+Triosephosphate mutase
+Lactosylceramide alpha-2,6-N-sialyltransferase
+DAPA aminotransferase
+Licodione O
+Cancer procoagulant
+Cysteine desulphydrase
+Cellobiose epimerase
+Flavonol-3-O-glucoside L-rhamnosyltransferase
+delta<sup>24</sup>-Sterol methyltransferase
+Hydroxymethylglutaryl-CoA synthase
+Blood-group-substance endo-1,4-beta-galactosidase
+Anthranilate N-methyltransferase
+Shikimate dehydrogenase
+Endonuclease S>1
+Imidazole acetyltransferase
+Arylsulfatase C
+Arylsulfatase B
+Arylsulfatase A
+Aryl acylamidase
+Imidazole acetylase
+(R)-3-Amino-2-methylpropionate-pyruvate aminotransferase
+Ribonuclease alpha
+CDPglucose 4,6-dehydratase
+Tryptophanyl-tRNA synthetase
+rRNA (adenosine-O<sup>2'</sup>)-methyltransferase
+L-Serine dehydratase
+S-Succinylglutathione hydrolase
+Amino-acid acetyltransferase
+Cytokinin 7-beta-glucosyltransferase
+Salicylate 1-monooxygenase
+Stromelysin 2
+Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+N-(indole-3-acetyl)-L-lysine synthetase
+Ethanolamine-phosphate phospho-lyase
+Phenol beta-glucosyltransferase
+Polynucleotide adenylyltransferase
+Trimethylsulphonium-tetrahydrofolate methyltransferase
+Dopachrome delta-isomerase
+Streptodornase preparation
+Mitochondrial ATPase
+Steroid 17-alpha-hydroxylase
+Asparagine synthetase
+Acyl-CoA elongase
+Alpha-tubulin acetylase
+Ribonucleoside-diphosphate reductase
+Methylsterol hydroxylase
+Glucuronolactone reductase
+beta-Aspartyl peptidase
+CTP synthase
+Benzoate hydroxylase
+Pancreatic RNase
+Tyramine N-methyltransferase
+Dihydroxyfumarate decarboxylase
+Arginine aminopeptidase
+Thyroxine 5-deiodinase
+Carboxymethylbutenolide lactonase
+Pyruvic carboxylase
+Protein-N-pi-phosphohistidine-sugar phosphotransferase
+Methenyltetrahydromethanopterin cyclohydrolase
+(R)-2-Hydroxy-fatty-acid dehydrogenase
+rRNA (guanine-N^1^)-methyltransferase
+Histidine-tRNA ligase
+Indoleamine 2,3-dioxygenase
+Dolichyl-phosphate xylosyltransferase
+Homocysteine desulphydrase
+Aspartate transcarbamylase
+Botulinum neurotoxin
+Carboxyvinyl-carboxyphosphonate phosphorylmutase
+Serine hydroxymethylase
+Beta-hydroxyacyl-CoA dehydrogenase
+Acetoacetyl-CoA synthetase
+CDPdiacylglycerol pyrophosphatase
+Galactose-1-phosphate uridylyltransferase
+Choloyl-CoA synthetase
+Acetylornithine aminotransferase
+Phenylalanine 4-hydroxylase
+Carbamoylaspartic dehydrase
+Glutaconate CoA-transferase
+Dipeptidyl-amino-peptidase I
+Flavone O<sup>7</sup>-beta-glucosyltransferase
+Ornithine carbamoyltransferase
+Indole 2,3-dioxygenase
+Oligoglucanbranching glycosyltransferase
+Phorbol-diester hydrolase
+(R)-2-Methylmalate dehydratase
+Arginine decarboxylase
+Hydroxymethylpyrimidine kinase
+Androstene-3,17-dione hydroxylase
+O-Acetylhomoserine (thiol)-lyase
+Acetolactate synthase
+Alpha-glucose-1-phosphate phosphodiesterase
+Glutamate-tRNA ligase
+Tropomyosin kinase
+D-Malate dehydrogenase
+Phosphoglycerate kinase
+Phenylserine aldolase
+Formate kinase
+Ribonucleoside-triphosphate reductase
+Triphosphoinositide phosphatase
+Cysteinyl-tRNA synthetase
+IMP-aspartate ligase
+dTDP4-amino-4,6-dideoxy-D-glucose aminotransferase
+Peptide-tryptophan 2,3-dioxygenase
+NSP2 proteinase
+Butyryl dehydrogenase
+Lysine-tRNA ligase
+Opheline kinase
+Undecaprenyl-phosphate galactose-phosphotransferase
+Sarsapogenin 3-beta-glucosyltransferase
+Asparaginase II
+Dextrin 6-glucosyltransferase
+Ferredoxin-NAD<sup>+</sup> reductase
+CDPabequose epimerase
+Phosphatidate cytidylyltransferase
+Collagenase I
+DHB dehydrogenase
+Collagenase A
+Bacterial luciferase
+Acyl-activating enzyme
+Thioethanolamine acetyltransferase
+Polynucleotide ligase
+Gibberellin 2-beta-hydroxylase
+Glutarate-semialdehyde dehydrogenase
+Aminolevulinate synthase
+Strombine dehydrogenase
+Sulfoacetaldehyde lyase
+Scytalidopepsin B
+Scytalidopepsin A
+Pancreatic enzyme
+Aspartate-semialdehyde dehydrogenase
+Polysialic-acid O-acetyltransferase
+Geranoyl-CoA carboxylase
+Cortisone beta-reductase
+N-carbamoylsarcosine amidase
+D-3-Aminoisobutyrate-pyruvate aminotransferase
+Sea-urchin-hatching proteinase
+L-Fuconate dehydratase
+Phosphoadenylate 3'-nucleotidase
+Cholestanetetraol 26-dehydrogenase
+Glutamic-aspartic transaminase
+Hydrogensulfite reductase
+Tryptophan aminotransferase
+Plant Leu-proteinase
+N-Acetyl-beta-alanine deacetylase
+Citramalyl-CoA lyase
+Methyltetrahydroprotoberberine 14-hydroxylase
+Tetrahydroxypteridine cycloisomerase
+Hydroxymalonate dehydrogenase
+Aromatic-amino-acid aminotransferase
+Allantoate deiminase
+Sarcosine oxidase
+Epinephrine oxidase
+Glutamate carboxypeptidase
+Ornithine cyclodeaminase
+Beta-hexosaminidase A
+Beta-hexosaminidase B
+Aspartate 4-decarboxylase
+Metallocarboxypeptidase D
+Glutamine phenylacetyltransferase
+Glucose-phosphate kinase
+Leucocyte esterase
+Kynurenine-glyoxylate aminotransferase
+Acetoacetyl-CoA hydrolase
+NAD^+^ nucleosidase
+Pyridoxine 5-dehydrogenase
+Phospho-2-keto-3-deoxygluconate aldolase
+CMP-N-acetylneuraminate-beta-galactoside alpha-2,6-sialyltransferase
+Oxalyl-CoA synthetase
+Imidazoleglycerol-phosphate dehydratase
+Acyl-CoA hydrolase
+(1R,2S)-dihydroxy-3,5-cyclohexadiene-1,4-dicarboxylate dehydrogenase
+Glutamate formyltransferase
+D-alanyl-D-alanine hydrolase
+Cathepsin B>3<
+tRNA isopentenyltransferase
+Vitamin-K-epoxide reductase
+Biotin-[propionyl-CoA-carboxylase,(ATP-hydrolysing)] ligase
+Hyoscyamine (6S)-dioxygenase
+Malyl-CoA lyase
+Serine dehydrogenase
+Deoxycytidine deaminase
+Acetyl-CoA deacylase
+Cyclohexanone monooxygenase
+Phospho-2-dehydro-3-deoxyheptonate aldolase
+Ribosylpyrimidine nucleosidase
+Venom exonuclease
+Albendazole sulphoxidase
+Proline dehydrogenase
+Quinolin-4(1H)-one 3-monooxygenase
+myo-Inositol 3-methyltransferase
+Histamine methyltransferase
+N-Acetyl-galactosamine-6-sulfate sulfatase
+Columbamine O-methyltransferase
+Acetylenemonocarboxylate hydratase
+alpha-1,3-Mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase
+Methylmalonyl-CoA decarboxylase
+Chloromuconate cycloisomerase
+Deoxycytidylate methyltransferase
+Hydroxysteroid sulphotransferase
+beta-1,4-Mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase
+Alizarin 2-beta-glucosyltransferase
+Lysophospholipase D
+Methanol dehydrogenase
+PAPS sulphotransferase
+Tenebrio alpha-proteinase
+Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase
+Maleylacetate enol-lactonase
+Malto-oligosyltrehalose trehalohydrolase
+Beta-lytic metalloendopeptidase
+CDPparatose epimerase
+Cysteine desulfhydrase
+UDP-N-acetylglucosamine pyrophosphorylase
+Xanthan lyase
+(-)-limonene 7-hydroxylase
+Lysosomal alpha-glucosidase
+mRNA (nucleoside-O^2^)'-methyltransferase
+Carboxypeptidase Taq
+L-Galactonolactone oxidase
+Linamarin synthase
+Flavonoid para-O-methyltransferase
+Aryl-aldehyde dehydrogenase
+Ethanolamine ammonia-lyase
+Phosphomevalonate kinase
+Multicatalytic proteinase
+Rubredoxin-NAD^+^ reductase
+Hydroxynitrile lyase
+Coenzyme-M-7-mercaptoheptanoylthreonine-phosphate-heterodisulphide hydrogenase
+AMP nucleosidase
+Retinol fatty-acyltransferase
+N-Acetylglucosamine kinase
+Acyl-CoA dehydrogenase
+Protein-serine racemase
+Dihydrofolate reductase
+Sterol glucosyltransferase
+Acrocylindrium proteinase
+Carnosine N-methyltransferase
+Indole-3-alkane alpha-hydroxylase
+Acid-CoA ligase
+Trimerelysin II
+Melilotate hydroxylase
+Phosphoglycerol transferase
+Prostaglandin-A>1< delta-isomerase
+Uracil oxidase
+BPA synthase
+Protamine kinase
+Histidine aminotransferase
+Choline oxidase
+OSB-CoA synthetase
+D-carnitine dehydrogenase
+Diamine aminotransferase
+Cyclomaltodextrin glucanotransferase
+UTP-ammonia ligase
+Diamine oxidase
+beta-galactoside alpha-2,6-sialyltransferase
+L-Gulonate dehydrogenase
+L-carnitine dehydratase
+Formamidopyrimidine-DNA glycosylase
+Gamma-glutamyl transpeptidase
+Rubredoxin-NAD(P)<sup>+</sup> reductase
+Iodide peroxidase
+GDPfucose-glycoprotein fucosyltransferase
+CDP4-keto-6-deoxyglucose reductase
+UDPglucose dehydrogenase
+Renilla-luciferin 2-monooxygenase
+DHHB methyltransferase
+Phosphoglycerate phosphomutase
+Thiogalactoside acetyltransferase
+Hydroxylamine oxidase
+Precorrin-4 C11-methyltransferase
+Arginine 2-monooxygenase
+beta-(9-Cytokinin)-alanine synthase
+Gamma-L-glutamyl-L-cysteinyl-glycine:spermidine amidase
+Acyl-[acyl-carrier-protein] hydrolase
+dCTP deaminase
+Homoserine acetyltransferase
+CoA-disulphide reductase
+Benzene-1,4-dicarboxylate 1,2-dioxygenase
+Dipeptidyl carboxypeptidase
+Tyrosine 3-hydroxylase
+Glucosaminate ammonia-lyase
+NAD(P)^+^ nucleosidase
+(S)-Usnate reductase
+Anthranilate 3-monooxygenase
+Trithionate hydrolase
+Strictosidine beta-glucosidase
+(R)-3-Amino-2-methylpropionate aminotransferase
+Homoaconitate hydratase
+Nitroalkane oxidase
+Ornithine transcarbamoylase
+Inositol-1,4,5-trisphosphate 5-phosphatase
+Astacus proteinase
+Phospho-2-dehydro-3-deoxygluconate aldolase
+Phenylalanyl-tRNA synthetase
+Superoxide dismutase
+Cholesterol 7alpha-monooxygenase
+L-3-Cyanoalanine synthase
+Hydroperoxide dehydratase
+Uracil dehydrogenase
+Steroid 11-beta-hydroxylase
+Cathepsin H
+Cathepsin K
+Cathepsin L
+Cathepsin A
+Cathepsin B
+Salicyl-alcohol glucosyltransferase
+Cathepsin D
+Cathepsin E
+Phosphoglycerate dehydrogenase
+Cathepsin X
+Cathepsin R
+Cathepsin S
+Cathepsin T
+Histidinol-phosphate aminotransferase
+UDP-sugar pyrophosphatase
+Homogentisate 1,2-dioxygenase
+Glucose-1-phospho-D-mannosylglycoprotein phosphodiesterase
+Procollagen-proline,2-oxoglutarate 4-dioxygenase
+Allose kinase
+Glycyl endopeptidase
+Steroid delta-isomerase
+dTMP kinase
+Hypoxanthine oxidase
+Tetrathionate synthase
+NAD+ pyrophosphorylase
+Tryptophan aminopeptidase
+Adenine aminase
+rRNA N-glycosylase
+GMP synthase
+Isoflavone O4'-methyltransferase
+Glucosaminyl 3-O-sulphotransferase
+Atriopeptin convertase
+Ribose dehydrogenase
+Regan isoenzyme
+Pyrimidine-deoxynucleoside,2-oxoglutarate 1'-dioxygenase
+Monodehydroascorbate reductase
+Guanine tRNA-ribosyltransferase
+Maltose acetyltransferase
+Progesterone 11alpha-monooxygenase
+Adenylylsulfate reductase
+Lecithinase D
+RNA cyclase
+Lecithinase A
+Lecithinase B
+Glucosaminyl 3-O-sulfotransferase
+Dimethylmaleate hydratase
+NAD<sup>+</sup> ADP-ribosyltransferase
+Lactate 2-monooxygenase
+Branched-chain-amino-acid aminotransferase
+Ricinine nitrilase
+Microsomal carboxypeptidase
+NADH peroxidase
+Allene-oxide cyclase
+Dolichyl-phosphate beta-glucosyltransferase
+Endoribonuclease H
+Glucose-6-phosphate translocase
+Monoamine oxidase
+Brancher enzyme
+Raucaffricine beta-glucosidase
+Phylloquinone monooxygenase
+Licodione O^2'^-methyltransferase
+(-)-limonene 7-monooxygenase
+N-Oligosaccharide glycopeptidase
+Neomycin-kanamycin phosphotransferase
+Hatching enzyme
+Urokinase product
+Glycine amidinotransferase
+UDPgalactopyranose mutase
+Quinate dehydrogenase
+Farnesyl-diphosphate farnesyltransferase
+Autoprothrombin III
+Microsomal aminopeptidase
+Autoprothrombin IIA
+UDPglucose pyrophosphorylase
+Protopine 6-monooxygenase
+Precorrin-6Y C5,15-methyltransferase
+dUTP pyrophosphatase
+Aspartate aminotransferase
+Prostaglandin-D 15-dehydrogenase
+Fumaric hydrogenase
+Homoserine dehydratase
+Enoylpyruvate transferase
+LTA-4 hydrolase
+Mandelate 4-monooxygenase
+Chondroitin sulfotransferase
+DNA alpha-glucosyltransferase
+Carboxypeptidase IIW
+Xylan 1,3-beta-xylosidase
+Pyruvate kinase
+Phospho-2-keto-3-deoxyoctonate aldolase
+Biochanin-A reductase
+Long-chain-aldehyde dehydrogenase
+Ribose isomerase
+Picornain 2A
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase
+Uroporphyrinogen-1 synthase
+Hyponitrite reductase
+Prolyl dipeptidase
+Membrane metallo-endopeptidase
+Glycerophosphate phosphatidyltransferase
+Ribonuclease T>1<
+Gentamicin 2''-nucleotidyltransferase
+Hydroxysteroid sulfotransferase
+Epoxide hydratase
+GDP-mannose 3,5-epimerase
+Oxalate CoA-transferase
+Cytochrome-b>5< reductase
+D(-)-tartrate dehydratase
+Naphthoate synthase
+Polynucleotide phosphorylase
+rt-PA preparation
+NAD<sup>+</sup> kinase
+Methylated-DNA-protein-cysteine methyltransferase
+Cinnamate glucosyltransferase
+Aminoacyl-tRNA hydrolase
+Retinene isomerase
+Oligopeptidase YSCD
+Benzyl-2-methyl-hydroxybutyrate dehydrogenase
+Pancreaopeptidase E
+Beta-citryl-L-glutamate hydrolase
+NADPH-mannose-6-P reductase
+Serotonin acetyltransferase
+Glutamine synthetase
+Fumarate reductase
+N5,N10-methenyltetrahydromethanopterin hydrogenase
+Isobutyryl-CoA mutase
+L-Xylose dehydrogenase
+Sarcosine dehydrogenase
+X-Trp aminopeptidase
+Cholestanetriol 26-monooxygenase
+Protease II
+Transaminase A
+Transaminase B
+Dehydropeptidase I
+Proteolytic enzyme
+Tissue kininogenin
+Protein disulfide-isomerase
+Glucose oxyhydrase
+Glutathione synthetase
+N-Acetylneuraminate synthase
+Isopiperitenone delta-isomerase
+Macro CK
+Tetrahydropteroyltriglutamate methyltransferase
+FAD pyrophosphorylase
+dTDPdihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase
+Protein-serine epimerase
+Glucoside 3-dehydrogenase
+Actinomycin lactonase
+Ribose-phosphate pyrophosphokinase
+Acid maltase
+o-Demethylpuromycin methyltransferase
+H^+^/K^+^-transporting ATPase
+Methylglyoxal dehydrogenase
+L-erythro-3,5-Diaminohexanoate dehydrogenase
+Glutamate-ammonia ligase
+Methylitaconate delta-isomerase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase
+N6-hydroxylysine O-acetyltransferase
+Norleucine transaminase
+Alpha-1,4-Glucan-protein synthase
+Steroid 9-alpha-hydroxylase
+Nicotianamine synthase
+Endodeoxyribonuclease IV
+(S)-Norlaudanosoline synthase
+Ca2+-transporting ATPase
+Creatine kinase
+Ubiquitin-conjugating enzyme
+Glutathione reductase
+Renal dipeptidase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-lysine ligase
+Enoyl hydrase
+Terminal uridylyltransferase
+Pancreatic DNase
+Glycerol-3-phosphate acyltransferase
+Glycolate dehydrogenase
+S-(hydroxyalkyl)glutathione lyase
+Cholera toxin
+Riboflavin synthase
+Selenophosphate synthetase
+Guanosine-triphosphate guanylyltransferase
+Menthol transacetylase
+N-Methyl-2-oxoglutaramate hydrolase
+Itaconyl-CoA hydratase
+Mannosyl-oligosaccharide 1,2-alpha-mannosidase
+Anthranilate adenylyltransferase
+Pertussis toxin
+Adenosylmethionine hydrolase
+Thyroid-hormone aminotransferase
+Taurocyamine kinase
+N-methylhydantoin amidohydrolase
+D-benzoylarginine-4-nitroanilide amidase
+Asparagine synthase
+Peptidylglycine 2-hydroxylase
+Hepatic phosphorylase
+Heparin-sulfate eliminase
+Altronate dehydratase
+CMP-N-acetylneuraminate-(alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide alpha-2,6-sialyltransferase
+Progesterone reductase
+Icosanoyl-CoA synthase
+Flavonol O^3^-glucosyltransferase
+Glandular kallikrein
+Oxalate oxidase
+Leukotriene-E4 omega-hydroxylase
+dTDPgalactose dehydrogenase
+Estradiol 6beta-monooxygenase
+Cob(II)alamin reductase
+Cyclopentanol dehydrogenase
+Na^+^/K^+^-transporting ATPase
+Polyphosphate-glucose phosphotransferase
+Glycine N-choloyltransferase
+Chorismate mutase
+Alpha-santonin 1,2-reductase
+Retinene oxidase
+Glycyl-tRNA synthetase
+L-Ascorbate oxidase
+Polyglucuronate 5-epimerase
+(-)-Menthol dehydrogenase
+Luteolin-7-O-glucuronide 7-O-glucuronosyltransferase
+Cyanoalanine nitrilase
+Phosphoenolpyruvate phosphatase
+tRNA (guanosine-O2')-methyltransferase
+Protease Ti
+Dolichyl-phosphate mannosyltransferase
+Cystine lyase
+NADPH diaphorase
+Aminopeptidase X-trp
+Endopeptidase Ti
+Pantetheine kinase
+N-acetylgalactosaminyltransferase I
+Glycine acyltransferase
+(+)-Neomenthol dehydrogenase
+Acetoin racemase
+Pepsin B
+Pepsin A
+Ketimine reductase
+Albendazole monooxygenase
+Haloacetate dehalogenase
+Quinone reductase
+L-Fucose dehydrogenase
+Methylenetetrahydromethanopterin dehydrogenase
+Leucine-tRNA ligase
+Diphosphoinositide kinase
+Ferredoxin-NADP<sup>+</sup> reductase
+ADPribose phosphorylase
+Glutaminyl-tRNA cyclotransferase
+Aldose 1-epimerase
+(S)-carnitine 3-dehydrogenase
+Alanine aminotransferase
+D-Iditol dehydrogenase
+Phosphoenolpyruvate carboxylase
+Acetylalkylglycerol acetylhydrolase
+(4-aminobutyl)lysine synthase
+D-stereospecific aminopeptidase
+Lipopolysaccharide N-acetylglucosaminyltransferase
+Glucose-1-phosphate adenylyltransferase
+Chlorogenate hydrolase
+Pyridoxine 4-dehydrogenase
+Glutamine-scyllo-inosose aminotransferase
+AMP pyrophorylase
+Clostridiopeptidase A
+Clostridiopeptidase B
+delta^1^-Piperideine-2-carboxylate reductase
+N-(5'-phosphoribosyl)anthranilate isomerase
+Acetylcholine esterase
+Acetate-CoA ligase
+Dopachrome isomerase
+Methylmethionine-sulfonium-salt hydrolase
+Lactoyl-CoA dehydratase
+Aminoglycoside N<sup>6'</sup>-acetyltransferase
+Guanosine monophosphate
+gamma-Glutamylmethylamide synthetase
+Poly(alpha-2,8-sialosyl) endo-N-acetylneuraminidase
+Acetyl-CoA carboxylase
+Mesaconate hydratase
+Oestradiol 17beta-dehydrogenase
+Valine-pyruvate aminotransferase
+Galactinol-raffinose galactosyltransferase
+Hydroxyacid-oxoacid transhydrogenase
+Adenylate cyclase
+Cathepsin B2
+Hydroxymethylglutaryl-CoA hydrolase
+Methylcysteine synthase
+Phosphatidyl-N-methylethanolamine methyltransferase
+N-Acetylneuraminate O^7^-acetyltransferase
+Pectin methylesterase
+Dihydropyrimidine dehydrogenase
+Carbonyl reductase
+Arylamine acetylase
+ATC oxygenase
+PII uridylyl-transferase
+Fusarinine-C ornithinesterase
+Sphingomyelin phosphodiesterase
+Glutathione synthase
+Streptokinase streptodornase
+rRNA (adenine-N<sup>6</sup>)-methyltransferase
+N-benzoyl-4-hydroxyanthranilate 4-O-methyltransferase
+Chloramphenicol acetyltransferase
+Ribitol-5-phosphate dehydrogenase
+LTB4 omega-hydroxylase
+Glutamate acetyltransferase
+RNA nucleotidyltransferase
+Leucine aminotransferase
+Glutaminyl-tRNA synthetase
+N-acylethanolamine amidohydrolase
+Cycasin synthase
+Opine dehydrogenase
+Anthranilate 2,3-hydroxylase
+Erythrulose reductase
+Pectin lyase
+Lysosomal alpha-N-acetylglucosaminidase
+Phosphoketotetrose aldolase
+GDPfucose pyrophosphorylase
+GDPglucose pyrophosphorylase
+Pyridoxamine-phosphate aminotransferase
+Saccharopine dehydrogenase
+UDPglucose-glucosephosphate glucosyltransferase
+Cypridina-luciferin 2-monooxygenase
+Aspartyl/asparaginyl beta-hydroxylase
+Slow-moving proteinase
+alpha,alpha-Trehalose-phosphate synthase
+Methylglutaconyl-CoA hydratase
+Arylamine sulphotransferase
+Gamma-Glu-X carboxypeptidase
+Diaminopimelate dehydrogenase
+Polysaccharide methyltransferase
+Difructose-anhydride synthase
+Retinyl-palmitate esterase
+Bar proteinase
+Gentisate 1,2-dioxygenase
+Carbon-nitrogen lyase
+Lecanorate hydrolase
+Resveratrol synthase
+Elastase III
+Alcohol sulphotransferase
+Protein kinase
+Amide synthase
+tRNA (cytosine-5)-methyltransferase
+delta24-Sterol methyltransferase
+Adenylate isopentenyltransferase
+Sulfinoalanine decarboxylase
+Isopropanol dehydrogenase
+Protoaphin-aglucone dehydratase
+Dihydrosanguinarine 10-monooxygenase
+Citrate dehydratase
+Borneol dehydrogenase
+Lactosylceramide beta-1,3-galactosyltransferase
+Steroid 17-alpha-monooxygenase
+Cellobiose dehydrogenase
+Glutathionylspermidine amidase
+Aristolochene synthase
+Mannose-6-phosphate 6-reductase
+Scopoletin glucosyltransferase
+Formiminoaspartate deiminase
+Fructose-1,6-bisphosphate triosephosphate-lyase
+Apigenin O^4'^-methyltransferase
+Histidinol dehydrogenase
+Phenol sulphotransferase
+Homoserine succinyltransferase
+Aromatic-amino-acid-glyoxylate aminotransferase
+Phenol methyltransferase
+Beta-diketone hydrolase
+Pectin demethoxylase
+o-Dihydroxycoumarin O^7^-glucosyltransferase
+GDP-4-keto-6-deoxy-D-mannose reductase
+(S)-2-Hydroxy-fatty-acid dehydrogenase
+Vicianin beta-glucosidase
+Protein-glutamate methylesterase
+Prolipoprotein-signal peptidase
+ATP adenylyltransferase
+Myosin ATPase
+ADP deaminase
+Isochorismate synthase
+Gibberellin 2-beta-dioxygenase
+Hippurate hydrolase
+NMN nucleosidase
+Guanyl cyclase
+N-Benzoylarginine-beta-naphthylamide hydrolase
+Glycerophosphodiester phosphodiesterase
+Myelin-proteolipid O-palmitoyltransferase
+Myosin phosphatase
+Acyl-CoA desaturase
+alpha,alpha-Trehalose phosphorylase
+Heparan-alpha-glucosaminide acetyltransferase
+Injectable fibrinolysin
+Triacylglycerol-sterol acyltransferase
+Sucrose 6-glucosyltransferase
+Ceramide kinase
+L-aspartate:2-oxoglutarate aminotransferase
+Neolactotetraosylceramide alpha-2,3-sialyltransferase
+Biliverdin reductase
+Lysosomal enzyme
+UDPglucose-beta-D-glucan glucosyltransferase
+Sulphoglucosamine sulphamidase
+Caldesmon kinase
+UDP-N-acetylmuramoyl-L-alanine synthetase
+Protein C
+Glucuronyl-N-acetylgalactosaminylproteoglycan beta-1,4-N-acetylgalactosaminyltransferase
+Inositol-1,3,4,5-tetrakisphosphate 3-phosphatase
+D-alpha-Lysine mutase
+Glucarate O-hydroxycinnamoyltransferase
+L-Lysine 6-aminotransferase
+Tryptophan oxygenase
+Monophenol oxidase
+Pentalenene synthase
+Fructan beta-fructosidase
+Flavone O
+(-)-limonene 6-hydroxylase
+Thyroid peptidase
+Glycine hydroxymethyltransferase
+Single-stranded-nucleate endonuclease
+Oleate delta^12^-hydroxylase
+Threonine racemase
+L-Amino-acid oxidase
+RNase M5
+Cellulose polysulfatase
+Arabinonate dehydratase
+Aldose dehydrogenase
+Galactosyltransferase II
+Isopentenyl-diphosphate delta-isomerase
+Glutamate decarboxylase
+Protein-UDP acetylgalactosaminyltransferase
+Desulfoglucosinolate sulfotransferase
+dTDP-L-rhamnose synthetase
+Serine-tRNA ligase
+Nitrophenol oxygenase
+Proline carboxypeptidase
+Sucrose 6-fructosyltransferase
+Questin monooxygenase
+Endodeoxyribonuclease V
+Deoxynucleotide 3'-phosphatase
+Peptidase P
+Cysteine-S-conjugate N-acetyltransferase
+Glucose-1-phosphate cytidylyltransferase
+N,N-dimethylformamidase
+Fibrolase
+Isoamylase
+Hyaluronoglucosaminidase
+DDT-dehydrochlorinase
+Isomalto-dextranase
+Tentoxilysin
+Exo-1,4-beta-xylosidase
+Acetylcholinesterase
+Transcarboxylase
+Triokinase
+alpha-Carboxylase
+Aminotransferase
+UDP-N-acetylglucosamine-lysosomal-enzyme-N-acetylglucosaminephosphotransferase
+Exo-1,2-1,3-alpha-mannosidase
+Hydantoinase
+Bothrolysin
+N^4^(beta-N-Acetylglucosaminyl)-L-asparaginase
+Crotalase
+Inulosucrase
+Thermomycolase
+Sialidase
+Thyroliberinase
+Riboflavinase
+APH
+Endo-1,4-beta-galactanase
+Lactonase
+Tryptophanase
+Carboxymethylhydantoinase
+Aryltriphosphatase
+CYP2R1
+Asclepain
+beta-Tyrosinase
+Sinigrase
+Pyrophosphotransferase
+Elastase
+Iminodipeptidase
+Matrilysin
+Mutase
+alpha-L-Fucosidase
+Retropepsin
+Arginyltransferase
+Alpha-1,4-glucosidase
+Aldoketomutase
+Xylitol-5-phosphatase
+Streptodornase
+Endodeoxyribonuclease
+Pepsin
+Neuraminidase
+Dehydrogenase
+Ribokinase
+Delta(6)-desaturase
+Gluconolactonase
+Chymase
+Endonuclease
+Histidase
+trans-Octaprenyltranstransferase
+Aconitase
+Beta-galactocerebrosidase
+Phosphohexokinase
+Metalloproteinase
+Phospho-5-keto-2-deoxygluconatealdolase
+L-Asparaginase
+Endopeptidase-2
+Penicillopepsin
+Galactosylgalactosylglucosylceramidase
+Amyloglucosidase
+Fructose-1-6-bisphosphatase
+Echarin
+GOT
+PI3-kinase
+Ancrod
+Ruberlysin
+D-lactate-2-sulfatase
+Nucleotidyltransferase
+Chondro-4-sulfatase
+Cresolase
+Arginase
+N-Acetyl-alpha-glucosaminidase
+Lysostaphin
+Dihydropyrimidinase
+Sulphatase
+Exo-1,3-beta-glucosidase
+Proteasome
+Histidinase
+Dihydropyriminidase
+Aryldialkylphosphatase
+Fragilysin
+ALR3
+ALR2
+N-Acetylgalactosamine-6-sulfatase
+Coproporphyrinogenase
+Lactocepin
+Mannanase
+Aminopropyltransferase
+Hyaluronidase
+Fructokinase
+Inulase
+Aspartase
+Halogenase
+Thrombin
+HF2-proteinase
+Catechol-o-methyltransferase
+CFI
+Fucoidanase
+Carboxylase
+Glycosylceramidase
+Aspartyltransferase
+Prolidase
+Mucoropepsin
+Limonin-D-ring-lactonase
+Cyanase
+Laccase
+Cyclophilin
+Fucosidase
+Thymidine-triphosphatase
+beta-Aspartyl-N-acetylglucosaminidase
+Chondroitinase
+Oxaloacetase
+Amylase
+o-Diphenolase
+Glycogenase
+SGPT
+Monobutyrase
+Polyphosphatase
+Carboxylesterase
+beta-Aspartyldipeptidase
+NAD
+Glycosulphatase
+Tenecteplase
+Farnesyltransferase
+Glycopeptidase
+Exo-1,4-beta-mannobiohydrolase
+N-Acetyl-beta-glucosaminidase
+Na
+Mannase
+Allantoicase
+Diguanidinobutanase
+Methylglyoxalase
+Caeruloplasmin
+N4
+Myeloblastin
+Sulfatase
+Lichenase
+Sedoheptulose-bisphosphatase
+Sedoheptulokinase
+Exo-beta-N-acetylmuramidase
+Alkylamidase
+Glucodextranase
+Pullulanase
+Biotin-[methylcrotonyl-CoA-carboxylase]synthetase
+Phosphatase
+Transhydroxylase
+L-Lysine-lactamase
+Deoxyuridine-triphosphatase
+Sucrose-phosphatase
+Saccharolysin
+D-Alanyl-alanyl-poly(glycerolphosphate)synthetase
+N-Acetylglucosaminylphosphotransferase
+Agmatinase
+Chondro-4-sulphatase
+Adenylylsulphatase
+Pyridoxol-5-dehydrogenase
+Transferase
+Dipeptidyl-dipeptidase
+UDP-N-acetylglucosamine-dolichyl-phosphate-N-acetylglucosaminephosphotransferase
+Adenosinase
+Aldolase
+gamma-Cystathionase
+Laminarinase
+trans-Hexaprenyltranstransferase
+G-6PD
+Chondro-6-sulfatase
+Dihydroxyacetonetransferase
+DHHB-MT
+Allokinase
+beta-Glucosidase
+Arylsulfatase
+Rifamycin-B-oxidase
+Dopamine-beta-monooxygenase
+Ornithine-sigma-aminotransferase
+Peptide-N4-
+Glycosidase
+Galactosyltransferase
+Urease
+Acetylornithinase
+Chlorophyllase
+Aspartylglucosylaminase
+Carboxymethylenebutenolidase
+Thiaminase
+ATPase
+Lipase
+Decapase
+Autolysin
+Phosphopentomutase
+beta-Galactosidase
+Glucuronosyltransferase
+Nuclease
+N-Sulphoglucosamine-6-sulphatase
+Amylo-1,6-glucosidase
+N-Acetylglucosamine-6-sulfatase
+Dynein
+GDPglucosidase
+Lysin
+Benzoylcholinesterase
+N<sup>4</sup>(beta-N-Acetylglucosaminyl)-L-asparaginase
+Galactolipase
+Melibiase
+Pseudocholinesterase
+di-trans,poly-cis-Decaprenylcistransferase
+Isomaltase
+Aldonolactonase
+Oxidase
+Epimerase
+Deaminase
+Heptulokinase
+Allantoinase
+Scutelarin
+N-Acetylglucosaminyltransferase
+Transketolase
+DD-peptidase
+Galactosylceramidase
+Vibriolysin
+Guanase
+Aureolysin
+N-Sulfoglucosamine-3-sulfatase
+Levanase
+Isocitrase
+Cystathionase
+Monooxygenase
+Triacetate-lactonase
+Pyrimidine-5'-nucleotidase
+B-esterase
+Carnitinamidase
+Glycerophosphatase
+CYP19A1
+Acrocylindropepsin
+Histolysin
+Peptidase
+Fumarylacetoacetase
+beta<sup>6</sup>-N-acetylglucosaminyltransferase
+Formylkynureninase
+Transacetylase
+Prenyltransferase
+Chitodextrinase
+Carnosinase
+Beta-glucocerebrosidase
+Alliinase
+L-Xylulokinase
+Phospholipase
+Glucuronokinase
+Exopolygalacturonase
+Carboxypolypeptidase
+Argingipain
+Nitrilase
+Tilactase
+Alpha-sarcin
+Glutamin-(asparagin-)ase
+Coccolysin
+N-formylmethionyl-peptidase
+Neurolysin
+Sugar-terminal-phosphatase
+Histaminase
+Chlorogenase
+APSAC
+Colaspase
+Pantothenase
+Xylono-1,4-lactonase
+Subtilisin
+Phosphatidylinositol-3-phosphatase
+Benzmidase
+Uricase
+beta-Lactamase
+Hydroxynitrilase
+N-methylhydantoinase
+Monomethyl-sulfatase
+Fucokinase
+DPNase
+Amsinckine
+Ferrochelatase
+Sulphurylase
+Enolase
+Enoyl-
+Chitinase
+Amylophosphorylase
+Endo-1,6-beta-mannanase
+Nucleoside-triphosphatase
+CYP2D6
+Galactosidase
+N-Acetylglucosamine-6-sulphatase
+Chondro-6-sulphatase
+Thermomycolin
+Steryl-sulfatase
+Macroamylase
+Candidapepsin
+Endopeptidase
+Pentanamidase
+Xylobiase
+Phosphomonoesterase
+Phosphodeoxyriboaldolase
+Homocarnosinase
+Calpain
+Phosphoribokinase
+beta-Ketothiolase
+Chitosanase
+Streptokinase
+Nitrogenase
+N-Acetyl-alpha-galactosaminidase
+DFPase
+Prostaglandin-H
+Prostaglandin-E
+Prostaglandin-A
+Phosphoacylase
+Dolichyldiphosphatase
+Tributyrase
+Acrosin
+Andirine
+Quercitrinase
+Omptin
+Sulfotransferase
+Endogalactosaminidase
+CSHase
+Lacticoracemase
+Metallocarboxypeptidase
+Glucuronate-2-sulphatase
+NADase
+Endoglycoceramidase
+Atroxase
+Phosphosaccharomutase
+Dimethylallyltransferase
+CYP2B1
+CYP2B6
+Pseudomonapepsin
+Desulphinase
+Proteoglycanase
+Adenosyltransferase
+Galactosaminidase
+[Glycogen-synthase-D]-phosphatase
+Flaviastase
+CYP3A5
+beta-Mannosidase
+Kallikrein
+tRNA-guaninetransglycosylase
+Glycoprotease
+Sugar-phosphatase
+PC1
+Hyaluronoglucuronidase
+dGTPase
+Phosphoglyceromutase
+Galactanase
+Farnesyltranstransferase
+Bothropasin
+Amygdalase
+Phosphotransacetylase
+Endo-1,4-beta-xylanase
+Chymosin
+Myrosinase
+Astacin
+Iodinase
+Beta-ketothiolase
+CYP1B1
+DMADh
+Dimethylallylcistransferase
+Alpha-glucosiduronase
+Peptidyl-glutaminase
+beta-Cystathionase
+Isoenzyme
+Steroid-lactonase
+Peptide-N
+Transcarbamoylase
+Transamidinase
+Phytepsin
+Phosphatidylinositol-bisphosphatase
+Apyrase
+Aminoacylase
+Sulfurylase
+Galacturonokinase
+Diphosphotransferase
+Sulphitide-sulphatase
+Cerebrosidase
+Glycocyaminase
+Cholinesulfatase
+Carboxyltransferase
+Phosphoadenylylsulphatase
+Aldehyde-lyase
+Formiminoglutamase
+Dichlorodiphenyltrichloroethane-dehydrochlorinase
+Polyphosphorylase
+Angiotensinogenase
+CYP2C
+alpha-Galactosidase
+ADP-sulphurylase
+Phenylalaninase
+Endo-beta-galactosidase
+Transphosphoribosidase
+Transoximinase
+Protease
+Polygalacturonase
+Dioxygenase
+Amidinoaspartase
+beta-Ureidopropionase
+Trypsin
+Pancreatin
+Caspase-1
+Exo-maltotetraohydrolase
+Kinase
+Phosphoglucokinase
+Phenolase
+Dolichyl-phosphatase
+Acetyltransferase
+Oxidoreductase
+Prothrombase
+Anhydrosialidase
+Monomethyl-sulphatase
+alpha
+Galactose-6-sulfurylase
+Valeramidase
+K-Carrageenase
+Sulphokinase
+Adenosinetriphosphatase
+Transhydrogenase
+dCTPase
+N
+Cyclomaltodextrinase
+Citrase
+Togavirin
+Esterase
+Synthetase
+Tabunase
+Jararhagin
+Homogentisicase
+Creatininase
+Desulfinase
+Phosphatidase
+Urokinase
+beta6-N-acetylglucosaminyltransferase
+beta-Xylosidase
+Phosphomannomutase
+Galactose-6-sulfatase
+Cathepsin
+CYP3A4
+CYP4A11
+Bromelain
+Imiglucerase
+Palmitoyltransferase
+Pexinogen
+Chondro-2-sulfatase
+Mycodextranase
+Xylanase
+Methylenetetrahydrofolate-tRNA-
+Carbamylaspartotranskinase
+Idursulfase
+Ascorbase
+Thermolysin
+Invertase
+CYP2J2
+Endo-1,3-beta-galactanase
+Ophiolysin
+Glucosamidinase
+Carboxypeptidase-tubulin
+Glycerone-transferase
+D-Arabinonolactonase
+ECE-1
+A-ase
+Formamidase
+Amino-oligopeptidase
+Uropepsin
+Alpha-glucuronidase
+Maltase-glucoamylase
+Aminopeptidase
+Sphingomyelinase
+Isopullulanase
+Galactose-6-sulphurylase
+Euphorbain
+Lyase
+L-Arabinonolactonase
+Urethanase
+Chymopapain
+Reductase
+Pectinesterase
+ALR1
+Clostripain
+Alpha-fucosidase
+Renin
+Alpha-L-iduronidase
+Glucosulfatase
+Chymotrypsin
+Ribonuclease
+Prenyl-pyrophosphatase
+Ligase
+Phosphopentokinase
+Mannokinase
+Imidodipeptidase
+Revertase
+w-Protein
+Endo-1,3-alpha-glucanase
+Oxynitrilase
+Transaminase
+Glycogenin
+Esteroprotease
+Dinucleosidetriphosphatase
+Hydroxylase
+Dactylysin
+Cerebroside-sulfatase
+Fibrinolysin
+Undecaprenyl-diphosphatase
+Gentiobiase
+HT-C
+HT-B
+ASN-ase
+L-Ascorbate-cytochrome-b
+Rubisco
+Phosphopentosisomerase
+Ficin
+Fructose-bisphosphatase
+Fructose-2,6-bisphosphatase
+Racemase
+Peptidyltransferase
+CYP8A1
+Saccharopepsin
+N-Aspartyl-beta-glucosaminidase
+Insulysin
+Asparaginase
+Tryptophanamidase
+Alkylhalidase
+Histozyme
+Agavain
+C-esterase
+Acylmuramoylalaninase
+Trehalose-phosphatase
+Pseudolysin
+Levansucrase
+Endo-alpha-sialidase
+Exo-isomaltotriohydrolase
+Xanthomonapepsin
+N-Acetylgalactosamine-4-sulfatase
+Adenosine-tetraphosphatase
+Leishmanolysin
+Pegaspargase
+Citrate(si)-synthase
+Histolysain
+Desulforubidin
+Phosphodeoxyribomutase
+Gabonase
+Chondroitinsulphatase
+Fibrinase
+Mannosidase
+Legumain
+Phosphoketolase
+UDPgalacturonosyltransferase
+m
+Adenylylcyclase
+Acylphosphatase
+N-Acylneuraminate-9-phosphatase
+Exo-poly-alpha-galacturonosidase
+beta-N-acetylhexosaminidase
+alpha-Amylase
+CYP2S1
+Hydratase
+Cystyl-aminopeptidase
+Amylosucrase
+Kininogen
+Glucuronate-2-sulfatase
+Ca
+RVV-X
+Rhamnulokinase
+Transaldolase
+Arabinosidase
+Plasmin
+Aminoacyltransferase
+Bromelains
+Tannase
+Amidase
+gamma-Glutamylcyclotransferase
+Horrilysin
+Myeloperoxidase
+dUTPase
+D-Arginase
+Thermopsin
+Sinigrinase
+Geranyltranstransferase
+Oxytocinase
+Hexosediphosphatase
+UDPglucosyltransferase
+CYP3A43
+Myosin
+Guanyloribonuclease
+Enkephalinase
+Sucrase-isomaltase
+ATP-diphosphatase
+Chondro-2-sulphatase
+Endo-1,4-beta-glucanase
+Alpha-galactosidase
+Myokinase
+DNA(hypoxanthine)glycohydrolase
+Nucleosidase
+Methyltransferase
+Galsulfase
+Deoxy-GTPase
+Transglycosylase
+Adenylosuccinase
+Lysyltransferase
+Citrullinase
+Caldesmon-phosphatase
+Methylbutyrase
+Arylformamidase
+Pyroglutamase
+Aryl-4-monooxygenase
+Mimosinase
+PfAPG
+PfAPD
+Beta-galactosidase
+Phosphotransferase
+Lysozyme
+Sialyltransferase
+L-Fuculokinase
+Glucokinase
+Inosinase
+beta-Amylase
+Cerebroside-sulphatase
+Cellulase
+Laronidase
+Neopullulanase
+Oligonucleotidase
+Tryptase
+Thiolase
+Creatinase
+beta-Phosphoglucomutase
+Dihydroorotase
+Amidinotransferase
+Endo-1,6-beta-glucanase
+ATP-sulphurylase
+Conjugase
+Paraoxonase
+Fibrinogenase
+Exo-1,3-alpha-glucanase
+Cephalosporinase
+Exo-isomaltohydrolase
+Ecto-5'-nucleotidase
+Cellobiase
+Mucrolysin
+alpha-Glucosidase
+alpha-N-Acetylglucosaminyltransferase
+Arylsulphatase
+Flavoenzyme
+D-Alanyl-poly(phosphoribitol)synthetase
+Nucleotidase
+Endo-1,3(4)-beta-glucanase
+Thymonuclease
+TAT
+Pentosyltransferase
+Ceruloplasmin
+Pyrophosphokinase
+Anhydroneuraminidase
+Phosphoribosyltransferase
+Citritase
+Ananain
+N-Acetylneuraminidase
+Phosphoglucomutase
+Semenogelase
+Lipancreatin
+Histidinol-phosphatase
+Monoterpenyl-pyrophosphatase
+NMNase
+w-Amidase
+Mannitol-1-phosphatase
+Glucosidosucrase
+Nucleoside-diphosphatase
+Alkylacetylglycerophosphatase
+beta-Glucuronidase
+Guanidinobutyrase
+Alglucerase
+Barrierpepsin
+Acetokinase
+Alteplase
+ADPase
+beta-Keto-reductase
+Xylulokinase
+Deuterolysin
+Adenylpyrophosphatase
+Prorennin
+C3PA
+Biotinidase
+Actinidin
+Flavirin
+Isocitritase
+Diisopropyl-fluorophosphatase
+Swivelase
+Phosphoriboisomerase
+Tropinesterase
+Tabernamontanain
+Lacto-N-biosidase
+Arabinogalactanase
+Triphosphatase
+Alternansucrase
+Furin
+Sulphurtransferase
+Megateriopeptidase
+Metalloelastase
+Abequosyltransferase
+Oxygenase
+Lysolecithinase
+Sorbitol-6-phosphatase
+Hurain
+Transglutaminase
+Mytilidase
+Dextranase
+Hexosyltransferase
+Phosphoglycerokinase
+Oligo-1,6-glucosidase
+rhDNase
+Isocitratase
+Hexosaminidase
+Hydrolase
+Oryzin
+Methylenediurease
+Enzyme
+Phospho-alpha-glucosidase
+Palatinase
+Acylamidase
+Pegloticase
+Glucosylceramidase
+Carbamoyltransferase
+Beta-aspartyl-peptidase
+N-Acetylgalactosamine-6-sulphatase
+SUMT
+beta-Thionase
+ADP-sulfurylase
+T-protein
+Sucrase
+Mutarotase
+Glycosulfatase
+N4(beta-N-Acetylglucosaminyl)-L-asparaginase
+Crisantaspase
+Formylase
+Peroxidase
+alpha-L-Rhamnosidase
+Dehydratase
+Aspartokinase
+Dinucleosidetetraphosphatase
+Gluconokinase
+A-esterase
+Phytase
+Protein-tyrosine-phosphatase
+Thiamine-triphosphatase
+Exo-maltotriohydrolase
+SOI
+Urocanase
+alpha,alpha-Phosphotrehalase
+Glycosyltransferase
+L-Methioninase
+Pectinase
+PRAI
+Anistreplase
+Ammonia-lyase
+AMDase
+beta-L-Arabinosidase
+Decarboxylase
+Solanain
+Citridesmolase
+Xaa-Pro-dipeptidylaminopeptidase
+D-Glutaminase
+alpha-L-Arabinofuranosidase
+Pyrrolooxygenase
+trans-Pentaprenyltranstransferase
+Glycerol-1-phosphatase
+Diguanosinetetraphosphatase
+TTL
+Steryl-beta-glucosidase
+L-Arabinokinase
+Heparinase
+Prostaglandin-D
+alpha-N-Acetylglucosaminidase
+Phosphofructokinase
+Exo-beta-D-fructosidase
+Aspartoacylase
+Chondroitinsulfatase
+Adenylylsulfatase
+Nardilysin
+Bis(5'-adenosyl)-triphosphatase
+Angiogenin
+beta-L-Rhamnosidase
+Endo-1,5-alpha-L-arabinanase
+Serratiopeptidase
+Isomerase
+CYP5A1
+L-rhamnono-1,4-lactonase
+Cholinesulphatase
+Oxoisomerase
+Glutaminase
+Dextransucrase
+Endoglycosylceramidase
+Ketohexokinase
+Transformylase
+Sutilains
+Argininosuccinase
+Uronolactonase
+Methylguanidinase
+Bis
+gamma-Amylase
+Guanidinodeoxy-scyllo-inositol-4-phosphatase
+ANAE
+Endopolyphosphatase
+Endothiapepsin
+Hydrogenase
+CYP2E1
+Rennogen
+Ribulokinase
+Nicotinamidase
+Adamalysin
+Transhydroxymethylase
+beta-Diketonase
+Transformiminase
+N-Sulphoglucosamine-3-sulphatase
+Pitrilysin
+SGOT
+D-lactate-2-sulphatase
+P-protein
+Endo-1,3-beta-xylanase
+CYP2A13
+Hippuricase
+Lipoxygenase
+D-aminoacylase
+Phosphatidylglycerophosphatase
+DNase
+Carboxyamidase
+Sealase
+Citrate(pro-3S)-lyase
+Sulfitide-sulfatase
+Ribosylhomocysteinase
+Enterokinase
+Chymosinogen
+Cucumisin
+Glucoamylase
+Aeromonolysin
+Endoribonuclease
+Kexin
+Deoxycytidine-triphosphatase
+ADP-ribosyltransferase
+Bacillolysin
+Rasburicase
+Phosphohexoisomerase
+Alpha-mannosidase
+Isochorismatase
+Dehydrogluconokinase
+Carboxy-lyase
+CYP2C9
+CYP2C8
+Thioglucosidase
+Transacylase
+Canavanase
+Proteinase
+GPT
+Phosphoglucoisomerase
+Arylesterase
+Amidophosphoribosyltransferase
+Serralysin
+Deoxyribonuclease
+Exo-1,4-alpha-glucosidase
+Diadenosinetetraphosphatase
+CYP4B1
+Citratase
+Diaphorase
+PDO
+Acylase
+Kynureninase
+Cytochrome-b
+Cytochrome-c
+Ketopantoaldolase
+Cholinesterase
+Saccharase
+Rhodotorulapepsin
+H
+Sulfurtransferase
+Alpha-neuraminidase
+Galactokinase
+Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Enteropeptidase
+N-Sulfoglucosamine-6-sulfatase
+Phosphoribulokinase
+Bontoxilysin
+beta^6^-N-acetylglucosaminyltransferase
+Russellysin
+SGPA
+CYP1A1
+CYP1A2
+Phosphohexomutase
+Glucoinvertase
+GLUSGP
+Phosphoamidase
+CYP2A6
+Phosphokinase
+Imidazolonepropionase
+Prolinase
+Lipoxidase
+Rhizopuspepsin
+N-Acetylgalactosamine-4-sulphatase
+Thermitase
+Guanosine-diphosphatase
+PUMP-1
+Translocase
+Transin
+Tyrosinase
+Metaphosphatase
+Mono(ADP-ribosyl)transferase
+gamma-Glutamyltransferase
+Tyraminase
+(S)-cis-N-methyltetrahydroprotoberberine-14-hydroxylase
+Mycolysin
+Arginosuccinase
+Ketogluconokinase
+D-Arabinokinase
+Poly-beta-glucosaminidase
+ATP-sulfurylase
+Galactose-6-sulphatase
+GDPase
+Dimethylallyltranstransferase
+CYP3A7
+Ethanolaminephosphotransferase
+Endo-glucosylceramidase
+Phosphoadenylylsulfatase
+D-Ribulokinase
+MGAT
+Exo-maltohexaohydrolase
+N-glycosyl-oligosaccharide-glycoprotein
+Arylacetonitrilase
+Phloretin-glucosidase
+Angiotonase
+Endo-1,4-beta-mannanase
+CYP3A
+CYP21A2
+Sulphotransferase
+CYP2C19
+Mexicanain
+Physaropepsin
+Exo-1,6-alpha-glucosidase
+pppGpp-5'-phosphohydrolase
+Deoxyriboaldolase
+Reteplase
+Glycoaldehydetransferase
+Thrombokinase
+Endoneuraminidase
+Barbiturase
+Glycocholase
+Agarase
+Papain
+PC2
+Peptidyl-glycinamidase
+alpha-Mannosidase
+Aminomethyltransferase
+Kininogenin
+CYP4A22
+Exopolyphosphatase
+Oxo-acid-lyase
+Maltase
+beta-Methylaspartase
+Exo-1,4-beta-glucosidase
+Adenosylhomocysteinase
+Pycnoporopepsin
+Phosphorylase
+Phosphatidolipase
+Endo-beta-N-glucosaminidase
+Exoribonuclease
+Prochymosin
+Bromelin
+delta
+Citrogenase
+Pinguinain
+Renninogen
+beta-N-Acetylgalactosaminidase
+Endo-1,2-beta-glucanase
+T-PA
+Ceramidase
+L-Iduronidase
+Trimetaphosphatase
+Inulinase
+Tetanospasmin
+Disaccharidase
+Oximinotransferase
+Anserinase
+Leucyltransferase
+Polyporopepsin
+Lysophospholipase
+Protaminase
+Magnolysin
+Endo-1,3-beta-glucanase
+Transmethylase
+PPIase
+Hydrolyase
+Glucose-6-phosphatase
+Pancrelipase
+Glucosulphatase
+Carboxycathepsin
+Acetylesterase
+Adenase
+Serrapeptase
+Gamma-renin
+Diaminopropionatase
+Rennin
+RNase
+Carboxypeptidase
+Ali-esterase
+Phosphotagatokinase
+Hexokinase
+PTPS
+Caricain
+Dipeptidase
+Promelase
+Sulfokinase
+Phaseolin
+Aminoimidazolase
+Seminin
+Glucose-1-phosphatase
+Sacrosidase
+beta-Fructofuranosidase
+D-Glutamyltransferase
+Catalase
+Ureidosuccinase
+alpha-Thymosin
+Penicillinase
+Streptomycin-6-phosphatase
+Exo-1,3-beta-xylosidase
+CDR
+Angiotensinase
+beta-D-Fucosidase
+Muramidase
+Fumarase
+Beta-mannosidase
+T
+w-Hydroxylase
+Lactase
+DNA-gyrase
+Flavokinase
+Exodeoxyribonuclease
+Hydrogenlyase
+Steryl-sulphatase
+Cholinephosphotransferase
+Ferroxidase
+LDH4
+LDH5
+LDH1
+LDH2
+LDH3
+

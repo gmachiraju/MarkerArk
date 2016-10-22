@@ -1,16 +1,10 @@
 import json
 import os
-import re, sys
+import re
 import lxml.etree as et
+from snorkel.utils import corenlp_cleaner
 
-sys.path.insert(0, 'snorkel/')
-from parser import *
-
-APP_HOME = os.environ[os.getcwd() + "/snorkel"]
-
-from snorkel.parser import corenlp_cleaner
-
-# APP_HOME = os.environ[os.getcwd()]
+APP_HOME = os.environ['SNORKELHOME']
 
 # Load IPython display functionality libs if possible i.e. if in IPython
 try:
@@ -70,7 +64,7 @@ def corenlp_to_xmltree(s, prune_root=True):
   Also adds special word_idx attribute corresponding to original sequence order in sentence
   """
   # Convert input object to dictionary
-  if type(s) != dict:
+  if isinstance(s, dict) == False:
     try:
       s = s.__dict__ if hasattr(s, '__dict__') else dict(s)
     except:
